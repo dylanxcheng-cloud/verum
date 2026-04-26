@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About — Verum</title>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:ital,wght@0,400;0,600;0,700;1,400&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+  :root{--yellow:#FFD000;--black:#0D0D0D;--dark:#1A1A1A;--gray:#888;--light-gray:#C8C8C8;--white:#F5F5F0;--red:#E5292A}
+  body{background:#141414;color:var(--white);font-family:'Barlow',sans-serif;font-size:16px;line-height:1.6;min-height:100vh}
+  a{color:inherit;text-decoration:none}
+  .topbar{background:var(--yellow);padding:6px 24px;display:flex;justify-content:space-between;align-items:center}
+  .topbar-date{font-family:'Barlow Condensed',sans-serif;font-size:12px;font-weight:700;color:var(--black);letter-spacing:1px;text-transform:uppercase}
+  .topbar-links{display:flex;gap:20px}
+  .topbar-links a{font-family:'Barlow Condensed',sans-serif;font-size:12px;font-weight:700;color:var(--black);letter-spacing:1px;text-transform:uppercase;transition:opacity .15s}
+  .topbar-links a:hover{opacity:.6}
+  .masthead{background:var(--black);border-bottom:4px solid var(--yellow);padding:20px 24px 16px;text-align:center}
+  .masthead-logo{font-family:'Bebas Neue',sans-serif;font-size:clamp(40px,8vw,72px);line-height:.9;letter-spacing:2px;color:var(--yellow)}
+  .masthead-logo .bull{color:var(--white)}
+  nav{background:var(--dark);border-bottom:1px solid #333;position:sticky;top:0;z-index:100}
+  .nav-inner{max-width:1100px;margin:0 auto;display:flex;overflow-x:auto;scrollbar-width:none}
+  .nav-inner::-webkit-scrollbar{display:none}
+  .nav-item{font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:var(--light-gray);padding:14px 20px;white-space:nowrap;border-bottom:3px solid transparent;transition:color .15s,border-color .15s;cursor:pointer}
+  .nav-item:hover,.nav-item.active{color:var(--yellow);border-bottom-color:var(--yellow)}
+  .page{max-width:760px;margin:0 auto;padding:48px 24px 80px}
+  .back-btn{display:inline-flex;align-items:center;gap:6px;font-family:'Barlow Condensed',sans-serif;font-size:13px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--yellow);margin-bottom:36px;transition:opacity .15s}
+  .back-btn:hover{opacity:.7}
+  .back-btn::before{content:'←';font-size:16px}
+  .page-title{font-family:'Bebas Neue',sans-serif;font-size:clamp(40px,8vw,72px);line-height:1;color:var(--yellow);letter-spacing:2px;margin-bottom:6px}
+  .page-rule{width:80px;height:3px;background:var(--yellow);margin:16px 0 32px}
+  .mission-block{background:var(--dark);border-left:4px solid var(--yellow);padding:24px 28px;margin-bottom:36px;border-radius:0 8px 8px 0}
+  .mission-quote{font-family:'Bebas Neue',sans-serif;font-size:clamp(22px,4vw,32px);color:var(--white);line-height:1.2;margin-bottom:12px;letter-spacing:0.5px}
+  .mission-sub{font-size:15px;color:#bbb;line-height:1.7}
+  .about-body{font-size:17px;line-height:1.8;color:#C8C8C0}
+  .about-body p{margin-bottom:22px}
+  .about-body p:last-child{margin-bottom:0}
+  .about-name{font-family:'Bebas Neue',sans-serif;font-size:22px;color:var(--yellow);letter-spacing:1px;margin-bottom:4px}
+  .about-role{font-family:'Barlow Condensed',sans-serif;font-size:14px;color:var(--gray);letter-spacing:1px;text-transform:uppercase}
+  .name-card{background:var(--dark);border:1px solid #2a2a2a;border-radius:10px;padding:20px 24px;margin-top:36px;display:flex;align-items:center;gap:20px}
+  .name-avatar{width:56px;height:56px;border-radius:50%;background:var(--yellow);display:flex;align-items:center;justify-content:center;font-family:'Bebas Neue',sans-serif;font-size:22px;color:var(--black);flex-shrink:0}
+  footer{background:var(--black);border-top:4px solid var(--yellow);margin-top:48px;padding:32px 24px 20px;text-align:center}
+  .footer-logo{font-family:'Bebas Neue',sans-serif;font-size:36px;letter-spacing:2px;color:var(--yellow);margin-bottom:8px}
+  .footer-logo .bull{color:var(--white)}
+  .footer-tagline{font-size:13px;color:var(--gray);font-style:italic;margin-bottom:20px}
+  .footer-links{display:flex;justify-content:center;gap:24px;margin-bottom:20px;flex-wrap:wrap}
+  .footer-links a{font-family:'Barlow Condensed',sans-serif;font-size:13px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--gray);transition:color .15s}
+  .footer-links a:hover{color:var(--yellow)}
+  .footer-copy{font-size:12px;color:#555}
+  @media(max-width:600px){.topbar-links{display:none}}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <span class="topbar-date" id="site-date"></span>
+  <div class="topbar-links">
+    <a href="about.html">About</a>
+    <a href="contact.html">Submit a Tip</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</div>
+
+<div class="masthead">
+  <a href="index.html">
+    <div class="masthead-logo">Verum</div>
+  </a>
+</div>
+
+<nav>
+  <div class="nav-inner">
+    <span class="nav-item" data-page="home"     onclick="location.href='index.html'">Home</span>
+    <span class="nav-item" data-page="news"     onclick="location.href='category.html?cat=News'">News</span>
+    <span class="nav-item" data-page="world"    onclick="location.href='category.html?cat=World'">World</span>
+    <span class="nav-item" data-page="politics" onclick="location.href='category.html?cat=Politics'">Politics</span>
+    <span class="nav-item" data-page="sports"   onclick="location.href='category.html?cat=Sports'">Sports</span>
+    <span class="nav-item" data-page="health"   onclick="location.href='category.html?cat=Health'">Health</span>
+    <span class="nav-item" data-page="science"  onclick="location.href='category.html?cat=Science'">Science</span>
+  </div>
+</nav>
+
+<div class="page">
+  <a class="back-btn" href="index.html">Back to home</a>
+
+  <div class="page-title">About</div>
+  <div class="page-rule"></div>
+
+  <div class="mission-block">
+    <div class="mission-quote">"The truth for all."</div>
+    <div class="mission-sub">No spin. No sensationalism. No agenda. Just accurate, straightforward reporting on the stories that matter.</div>
+  </div>
+
+  <div class="about-body">
+    <p>Verum was started with one simple idea: people deserve news that respects their intelligence. Too many outlets chase clicks with inflammatory headlines, bury the facts in opinion, or tell you what to think instead of what happened.</p>
+
+    <p>We cover local news, national stories, world events, politics, sports, health, and science — with a focus on getting the facts right and letting you draw your own conclusions. No outrage bait. No filler. No bull.</p>
+
+    <p>If you have a tip, a correction, or just want to get in touch, use the contact page. We read everything.</p>
+  </div>
+
+  <!-- ✏️ UPDATE THIS with your real name and title -->
+  <div class="name-card">
+    <div class="name-avatar" id="avatar-initials">NB</div>
+    <div>
+      <div class="about-name" id="founder-name">Your Name Here</div>
+      <div class="about-role">Founder & Editor, Verum</div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-logo">Verum</div>
+  <div class="footer-tagline">"The truth for all."</div>
+  <div class="footer-links">
+    <a href="index.html">Home</a>
+    <a href="category.html?cat=News">News</a>
+    <a href="category.html?cat=World">World</a>
+    <a href="category.html?cat=Politics">Politics</a>
+    <a href="category.html?cat=Sports">Sports</a>
+    <a href="category.html?cat=Health">Health</a>
+    <a href="category.html?cat=Science">Science</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </div>
+  <div class="footer-copy" id="footer-copy"></div>
+</footer>
+
+<script src="shared.js"></script>
+<script>initPage('about');</script>
+</body>
+</html>

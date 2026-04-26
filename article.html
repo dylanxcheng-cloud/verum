@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Verum</title>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:ital,wght@0,400;0,600;0,700;1,400&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}:root{--yellow:#FFD000;--black:#0D0D0D;--dark:#1A1A1A;--gray:#888;--light-gray:#C8C8C8;--white:#F5F5F0;--red:#E5292A}body{background:#141414;color:var(--white);font-family:'Barlow',sans-serif;font-size:16px;line-height:1.6;min-height:100vh}a{color:inherit;text-decoration:none}.topbar{background:var(--yellow);padding:6px 24px;display:flex;justify-content:space-between;align-items:center}.topbar-date{font-family:'Barlow Condensed',sans-serif;font-size:12px;font-weight:700;color:var(--black);letter-spacing:1px;text-transform:uppercase}.topbar-links{display:flex;gap:20px}.topbar-links a{font-family:'Barlow Condensed',sans-serif;font-size:12px;font-weight:700;color:var(--black);letter-spacing:1px;text-transform:uppercase}.masthead{background:var(--black);border-bottom:4px solid var(--yellow);padding:20px 24px 16px;text-align:center}.masthead-logo{font-family:'Bebas Neue',sans-serif;font-size:clamp(36px,7vw,64px);line-height:.9;letter-spacing:2px;color:var(--yellow)}.masthead-logo .bull{color:var(--white)}nav{background:var(--dark);border-bottom:1px solid #333}.nav-inner{max-width:1100px;margin:0 auto;display:flex;overflow-x:auto;scrollbar-width:none}.nav-inner::-webkit-scrollbar{display:none}.nav-item{font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:var(--light-gray);padding:14px 20px;white-space:nowrap;border-bottom:3px solid transparent;cursor:pointer}.nav-item:hover{color:var(--yellow);border-bottom-color:var(--yellow)}.article-wrap{max-width:760px;margin:0 auto;padding:40px 24px 80px}.back-btn{display:inline-flex;align-items:center;gap:6px;font-family:'Barlow Condensed',sans-serif;font-size:13px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--yellow);margin-bottom:28px;transition:opacity .15s}.back-btn:hover{opacity:.7}.back-btn::before{content:'←';font-size:16px}.article-cat{display:inline-block;font-family:'Barlow Condensed',sans-serif;font-size:12px;font-weight:700;letter-spacing:2px;text-transform:uppercase;background:var(--yellow);color:var(--black);padding:3px 10px;margin-bottom:16px}.article-title{font-family:'Bebas Neue',sans-serif;font-size:clamp(32px,6vw,56px);line-height:1.05;color:var(--white);margin-bottom:16px}.article-meta{display:flex;align-items:center;gap:16px;padding-bottom:20px;border-bottom:1px solid #2a2a2a;margin-bottom:28px;flex-wrap:wrap}.article-author{font-family:'Barlow Condensed',sans-serif;font-size:15px;font-weight:700;color:var(--yellow)}.article-time,.article-read{font-family:'Barlow Condensed',sans-serif;font-size:14px;color:var(--gray)}.meta-dot{color:#333}.article-hero-img{width:100%;max-height:460px;object-fit:cover;display:block;margin-bottom:32px;background:#2a2a2a}.article-body{font-size:18px;line-height:1.8;color:#D8D8D0}.article-body p{margin-bottom:24px}.article-body p:last-child{margin-bottom:0}.loading{text-align:center;padding:80px;color:var(--gray);font-family:'Barlow Condensed',sans-serif;font-size:18px;letter-spacing:2px}.not-found{text-align:center;padding:80px 24px}.not-found h2{font-family:'Bebas Neue',sans-serif;font-size:36px;color:var(--yellow);margin-bottom:12px}.not-found p{color:var(--gray);margin-bottom:24px}.not-found a{color:var(--yellow);font-weight:700}footer{background:var(--black);border-top:4px solid var(--yellow);padding:28px 24px 16px;text-align:center}.footer-logo{font-family:'Bebas Neue',sans-serif;font-size:30px;letter-spacing:2px;color:var(--yellow);margin-bottom:6px}.footer-logo .bull{color:var(--white)}.footer-copy{font-size:12px;color:#555}
+</style>
+</head>
+<body>
+<div class="topbar"><span class="topbar-date" id="site-date"></span><div class="topbar-links"><a href="about.html">About</a><a href="contact.html">Submit a Tip</a><a href="contact.html">Contact</a></div></div></div>
+<div class="masthead"><a href="index.html"><div class="masthead-logo">Verum</div></a></div>
+<nav><div class="nav-inner"><span class="nav-item" data-page="home" onclick="location.href='index.html'">Home</span><span class="nav-item" data-page="news" onclick="location.href='category.html?cat=News'">News</span><span class="nav-item" data-page="world" onclick="location.href='category.html?cat=World'">World</span><span class="nav-item" data-page="politics" onclick="location.href='category.html?cat=Politics'">Politics</span><span class="nav-item" data-page="sports" onclick="location.href='category.html?cat=Sports'">Sports</span><span class="nav-item" data-page="health" onclick="location.href='category.html?cat=Health'">Health</span><span class="nav-item" data-page="science" onclick="location.href='category.html?cat=Science'">Science</span></div></nav>
+<div class="article-wrap" id="article-content"><div class="loading">Loading article...</div></div>
+<footer><div class="footer-logo">Verum</div><div class="footer-copy" id="footer-copy"></div></footer>
+<script>
+function timeAgo(ts){const diff=Math.floor((Date.now()-new Date(ts))/1000);if(diff<60)return"Just now";if(diff<3600){const m=Math.floor(diff/60);return m+"minute"+(m>1?"s":"")+" ago";}if(diff<86400){const h=Math.floor(diff/3600);return h+"hour"+(h>1?"s":"")+" ago";}if(diff<604800){const d=Math.floor(diff/86400);return d+"day"+(d>1?"s":"")+" ago";}return new Date(ts).toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"});}
+document.getElementById('site-date').textContent=new Date().toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'});
+document.getElementById('footer-copy').textContent=`© ${new Date().getFullYear()} Verum. All rights reserved.`;
+const params=new URLSearchParams(window.location.search);
+const storyId=params.get('id');
+if(!storyId){showNotFound();}else{
+fetch('stories.json').then(r=>r.json()).then(data=>{
+const bankStories=Object.values(data.categories||{}).flat();const all=[data.hero,...data.stack,...data.latest,...data.world,...bankStories];
+const story=all.find(s=>s.id===storyId);
+if(story){renderArticle(story);document.title=`${story.title} — Verum`;}
+else showNotFound();
+}).catch(()=>showNotFound());}
+function renderArticle(s){
+const paras=s.content.split('\n').filter(p=>p.trim()).map(p=>`<p>${p.trim()}</p>`).join('');
+document.getElementById('article-content').innerHTML=`
+<a class="back-btn" href="index.html">Back to home</a>
+<span class="article-cat">${s.category||s.region||''}</span>
+<h1 class="article-title">${s.title}</h1>
+<div class="article-meta">
+<span class="article-author">By ${s.author||s.source||'Staff'}</span>
+<span class="meta-dot">·</span>
+<span class="article-time">${timeAgo(s.time)}</span>
+${s.read?`<span class="meta-dot">·</span><span class="article-read">${s.read}</span>`:''}
+</div>
+${s.image?`<img class="article-hero-img" src="${s.image}" alt="${s.title}" onerror="this.style.display='none'">`:''}
+<div class="article-body">${paras}</div>`;}
+function showNotFound(){document.getElementById('article-content').innerHTML=`<div class="not-found"><h2>Story not found</h2><p>This article may have been removed.</p><a href="index.html">← Back to home</a></div>`;}
+</script>
+<script src="shared.js"></script>
+</body>
+</html>
