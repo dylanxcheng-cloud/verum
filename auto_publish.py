@@ -19,7 +19,7 @@ from groq import Groq
 GROQ_API_KEY      = os.environ.get('GROQ_API_KEY')
 NETLIFY_AUTH_TOKEN = os.environ.get('NETLIFY_AUTH_TOKEN')
 NETLIFY_SITE_ID   = os.environ.get('NETLIFY_SITE_ID', 'b6e1ba3f-9f5e-46c1-984a-10c3b5fa89de')
-STORIES_FILE      = 'verum/stories.json'
+STORIES_FILE      = 'stories.json'
 
 # How many new stories to fetch per run
 MAX_NEW_STORIES = 6
