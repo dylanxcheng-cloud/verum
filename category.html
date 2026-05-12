@@ -1,177 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Verum</title>
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:ital,wght@0,400;0,600;0,700;1,400&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
-<style>
-  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-  :root{--yellow:#FFD000;--black:#0D0D0D;--dark:#1A1A1A;--gray:#888;--light-gray:#C8C8C8;--white:#F5F5F0;--red:#E5292A}
-  html{scroll-behavior:smooth}
-  body{background:#141414;color:var(--white);font-family:'Barlow',sans-serif;font-size:16px;line-height:1.6;min-height:100vh}
-  a{color:inherit;text-decoration:none}
-  .topbar{background:var(--yellow);padding:6px 24px;display:flex;justify-content:space-between;align-items:center}
-  .topbar-date{font-family:'Barlow Condensed',sans-serif;font-size:12px;font-weight:700;color:var(--black);letter-spacing:1px;text-transform:uppercase}
-  .topbar-links{display:flex;gap:20px}
-  .topbar-links a{font-family:'Barlow Condensed',sans-serif;font-size:12px;font-weight:700;color:var(--black);letter-spacing:1px;text-transform:uppercase;transition:opacity .15s}
-  .topbar-links a:hover{opacity:.6}
-  .masthead{background:var(--black);border-bottom:4px solid var(--yellow);padding:20px 24px 16px;text-align:center}
-  .masthead a{display:inline-block}
-  .masthead-logo{font-family:'Bebas Neue',sans-serif;font-size:clamp(40px,8vw,72px);line-height:.9;letter-spacing:2px;color:var(--yellow)}
-  .masthead-logo .bull{color:var(--white)}
-  nav{background:var(--dark);border-bottom:1px solid #333;position:sticky;top:0;z-index:100}
-  .nav-inner{max-width:1100px;margin:0 auto;display:flex;overflow-x:auto;scrollbar-width:none}
-  .nav-inner::-webkit-scrollbar{display:none}
-  .nav-item{font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:var(--light-gray);padding:14px 20px;white-space:nowrap;border-bottom:3px solid transparent;transition:color .15s,border-color .15s;cursor:pointer}
-  .nav-item:hover,.nav-item.active{color:var(--yellow);border-bottom-color:var(--yellow)}
-  .page{max-width:1100px;margin:0 auto;padding:32px 24px 60px}
-  .cat-header{margin-bottom:28px;padding-bottom:16px;border-bottom:3px solid var(--yellow)}
-  .cat-label{font-family:'Barlow Condensed',sans-serif;font-size:12px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--gray);margin-bottom:6px}
-  .cat-title{font-family:'Bebas Neue',sans-serif;font-size:clamp(36px,7vw,64px);line-height:1;color:var(--yellow);letter-spacing:2px}
-  .cat-count{font-family:'Barlow Condensed',sans-serif;font-size:14px;color:var(--gray);margin-top:6px}
-  .story-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:2px;background:#222}
-  .story-card{background:var(--dark);cursor:pointer;transition:background .15s;display:flex;flex-direction:column}
-  .story-card:hover{background:#222}
-  .story-thumb{height:180px;overflow:hidden;background:#2a2a2a;flex-shrink:0}
-  .story-thumb img{width:100%;height:100%;object-fit:cover;transition:transform .3s}
-  .story-card:hover .story-thumb img{transform:scale(1.05)}
-  .story-body{padding:16px;flex:1;display:flex;flex-direction:column}
-  .story-cat{font-family:'Barlow Condensed',sans-serif;font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--yellow);margin-bottom:6px}
-  .story-title{font-family:'Barlow Condensed',sans-serif;font-size:18px;font-weight:700;color:var(--white);line-height:1.3;flex:1;margin-bottom:10px}
-  .story-card:hover .story-title{color:var(--yellow)}
-  .story-meta{font-size:12px;color:var(--gray)}
-  .empty{text-align:center;padding:80px 24px}
-  .empty h2{font-family:'Bebas Neue',sans-serif;font-size:32px;color:var(--gray);margin-bottom:10px}
-  .empty p{color:var(--gray);font-size:14px}
-  .empty a{color:var(--yellow)}
-  .loading{text-align:center;padding:60px;color:var(--gray);font-family:'Barlow Condensed',sans-serif;font-size:18px;letter-spacing:2px}
-  footer{background:var(--black);border-top:4px solid var(--yellow);margin-top:48px;padding:32px 24px 20px;text-align:center}
-  .footer-logo{font-family:'Bebas Neue',sans-serif;font-size:36px;letter-spacing:2px;color:var(--yellow);margin-bottom:8px}
-  .footer-logo .bull{color:var(--white)}
-  .footer-tagline{font-size:13px;color:var(--gray);font-style:italic;margin-bottom:20px}
-  .footer-links{display:flex;justify-content:center;gap:24px;margin-bottom:20px;flex-wrap:wrap}
-  .footer-links a{font-family:'Barlow Condensed',sans-serif;font-size:13px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--gray);transition:color .15s}
-  .footer-links a:hover{color:var(--yellow)}
-  .footer-copy{font-size:12px;color:#555}
-  @media(max-width:768px){.story-grid{grid-template-columns:1fr 1fr}.topbar-links{display:none}}
-  @media(max-width:480px){.story-grid{grid-template-columns:1fr}}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Verum</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:ital,wght@0,400;0,600;0,700;1,400&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="verum.css">
 </head>
 <body>
 
-<div class="topbar">
-  <span class="topbar-date" id="site-date"></span>
-  <div class="topbar-links">
-    <a href="about.html">About</a>
-    <a href="contact.html">Submit a Tip</a>
-    <a href="contact.html">Contact</a>
+  <!-- TOPBAR -->
+  <div class="topbar">
+    <span class="topbar-date" id="site-date"></span>
+    <div class="topbar-links">
+      <a href="about.html">About</a>
+      <a href="contact.html">Submit a Tip</a>
+      <a href="contact.html">Contact</a>
+    </div>
   </div>
-</div>
 
-<div class="masthead">
-  <a href="index.html">
-    <div class="masthead-logo">Verum</div>
-  </a>
-</div>
+  <!-- MASTHEAD -->
+  <header>
+    <a href="index.html">
+      <div class="masthead">
+        <div class="masthead-logo">Ver<span class="bull">u</span>m</div>
+      </div>
+    </a>
+  </header>
 
-<nav>
-  <div class="nav-inner">
-    <span class="nav-item" data-page="home"     onclick="location.href='index.html'">Home</span>
-    <span class="nav-item" data-page="news"     onclick="location.href='category.html?cat=News'">News</span>
-    <span class="nav-item" data-page="world"    onclick="location.href='category.html?cat=World'">World</span>
-    <span class="nav-item" data-page="politics" onclick="location.href='category.html?cat=Politics'">Politics</span>
-    <span class="nav-item" data-page="sports"   onclick="location.href='category.html?cat=Sports'">Sports</span>
-    <span class="nav-item" data-page="health"   onclick="location.href='category.html?cat=Health'">Health</span>
-    <span class="nav-item" data-page="science"  onclick="location.href='category.html?cat=Science'">Science</span>
+  <!-- NAV -->
+  <nav aria-label="Main navigation">
+    <div class="nav-inner">
+      <span class="nav-item" data-page="home"     onclick="location.href='index.html'">Home</span>
+      <span class="nav-item" data-page="news"     onclick="location.href='category.html?cat=News'">News</span>
+      <span class="nav-item" data-page="world"    onclick="location.href='category.html?cat=World'">World</span>
+      <span class="nav-item" data-page="politics" onclick="location.href='category.html?cat=Politics'">Politics</span>
+      <span class="nav-item" data-page="sports"   onclick="location.href='category.html?cat=Sports'">Sports</span>
+      <span class="nav-item" data-page="health"   onclick="location.href='category.html?cat=Health'">Health</span>
+      <span class="nav-item" data-page="science"  onclick="location.href='category.html?cat=Science'">Science</span>
+    </div>
+  </nav>
+
+  <!-- CATEGORY CONTENT — built by category.js -->
+  <div class="page">
+    <div id="cat-header" class="cat-header"></div>
+    <div id="cat-content">
+      <div class="loading" role="status" aria-live="polite">Loading...</div>
+    </div>
   </div>
-</nav>
 
-<div class="page">
-  <div id="cat-header" class="cat-header"></div>
-  <div id="cat-content"><div class="loading">Loading...</div></div>
-</div>
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-logo">Ver<span class="bull">u</span>m</div>
+    <div class="footer-tagline">"The truth for all."</div>
+    <nav class="footer-links" aria-label="Footer navigation">
+      <a href="index.html">Home</a>
+      <a href="category.html?cat=News">News</a>
+      <a href="category.html?cat=World">World</a>
+      <a href="category.html?cat=Politics">Politics</a>
+      <a href="category.html?cat=Sports">Sports</a>
+      <a href="category.html?cat=Health">Health</a>
+      <a href="category.html?cat=Science">Science</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <div class="footer-copy" id="footer-copy"></div>
+  </footer>
 
-<footer>
-  <div class="footer-logo">Verum</div>
-  <div class="footer-tagline">"The truth for all."</div>
-  <div class="footer-links">
-    <a href="index.html">Home</a>
-    <a href="category.html?cat=News">News</a>
-    <a href="category.html?cat=World">World</a>
-    <a href="category.html?cat=Politics">Politics</a>
-    <a href="category.html?cat=Sports">Sports</a>
-    <a href="category.html?cat=Health">Health</a>
-    <a href="category.html?cat=Science">Science</a>
-    <a href="about.html">About</a>
-    <a href="contact.html">Contact</a>
-  </div>
-  <div class="footer-copy" id="footer-copy"></div>
-</footer>
-
-<script src="shared.js"></script>
-<script>
-  const cat = new URLSearchParams(window.location.search).get('cat') || 'News';
-  const pageKey = cat.toLowerCase();
-
-  document.title = `${cat} — Verum`;
-  initPage(pageKey);
-
-  fetch('stories.json')
-    .then(r => r.json())
-    .then(data => {
-      // Stories from homepage slots
-      const homepage = [data.hero, ...data.stack, ...data.latest, ...data.world];
-      const fromHomepage = homepage.filter(s => {
-        const c = (s.category || s.region || '').toLowerCase();
-        return c === cat.toLowerCase();
-      });
-
-      // Stories from dedicated category bank
-      const fromBank = (data.categories && data.categories[cat]) || [];
-
-      // Merge, deduplicate by id, cap at 10
-      const seen = new Set();
-      const filtered = [...fromHomepage, ...fromBank].filter(s => {
-        if (seen.has(s.id)) return false;
-        seen.add(s.id);
-        return true;
-      }).slice(0, 10);
-
-      // Header
-      document.getElementById('cat-header').innerHTML = `
-        <div class="cat-label">Category</div>
-        <div class="cat-title">${cat}</div>
-        <div class="cat-count">${filtered.length} ${filtered.length === 1 ? 'story' : 'stories'}</div>
-      `;
-
-      if (filtered.length === 0) {
-        document.getElementById('cat-content').innerHTML = `
-          <div class="empty">
-            <h2>No stories yet</h2>
-            <p>Nothing filed under ${cat} yet. <a href="index.html">← Back to home</a></p>
-          </div>`;
-        return;
-      }
-
-      document.getElementById('cat-content').innerHTML = `
-        <div class="story-grid">
-          ${filtered.map(s => `
-            <div class="story-card" onclick="location.href='article.html?id=${s.id}'">
-              <div class="story-thumb">
-                <img src="${s.image}" alt="${s.title}" onerror="this.style.opacity=0">
-              </div>
-              <div class="story-body">
-                <div class="story-cat">${s.category || s.region}</div>
-                <div class="story-title">${s.title}</div>
-                <div class="story-meta">${timeAgo(s.time)} · ${s.author || s.source || 'Staff'}</div>
-              </div>
-            </div>`).join('')}
-        </div>`;
-    })
-    .catch(() => {
-      document.getElementById('cat-content').innerHTML = '<div class="loading">Could not load stories.</div>';
-    });
-</script>
+  <!-- React 18 + Babel (no build step needed) -->
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="shared.js"></script>
+  <script src="category.js"></script>
 </body>
 </html>
