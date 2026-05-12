@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Verum</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:ital,wght@0,400;0,600;0,700;1,400&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="verum.css">
+</head>
+<body>
+
+  <!-- TOPBAR -->
+  <div class="topbar">
+    <span class="topbar-date" id="site-date"></span>
+    <div class="topbar-links">
+      <a href="about.html">About</a>
+      <a href="contact.html">Submit a Tip</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </div>
+
+  <!-- MASTHEAD -->
+  <header>
+    <a href="index.html">
+      <div class="masthead">
+        <div class="masthead-logo">Ver<span class="bull">u</span>m</div>
+      </div>
+    </a>
+  </header>
+
+  <!-- NAV -->
+  <nav aria-label="Main navigation">
+    <div class="nav-inner">
+      <span class="nav-item" data-page="home"     onclick="location.href='index.html'">Home</span>
+      <span class="nav-item" data-page="news"     onclick="location.href='category.html?cat=News'">News</span>
+      <span class="nav-item" data-page="world"    onclick="location.href='category.html?cat=World'">World</span>
+      <span class="nav-item" data-page="politics" onclick="location.href='category.html?cat=Politics'">Politics</span>
+      <span class="nav-item" data-page="sports"   onclick="location.href='category.html?cat=Sports'">Sports</span>
+      <span class="nav-item" data-page="health"   onclick="location.href='category.html?cat=Health'">Health</span>
+      <span class="nav-item" data-page="science"  onclick="location.href='category.html?cat=Science'">Science</span>
+    </div>
+  </nav>
+
+  <!-- CATEGORY CONTENT — built by category.js -->
+  <div class="page">
+    <div id="cat-header" class="cat-header"></div>
+    <div id="cat-content">
+      <div class="loading" role="status" aria-live="polite">Loading...</div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-logo">Ver<span class="bull">u</span>m</div>
+    <div class="footer-tagline">"The truth for all."</div>
+    <nav class="footer-links" aria-label="Footer navigation">
+      <a href="index.html">Home</a>
+      <a href="category.html?cat=News">News</a>
+      <a href="category.html?cat=World">World</a>
+      <a href="category.html?cat=Politics">Politics</a>
+      <a href="category.html?cat=Sports">Sports</a>
+      <a href="category.html?cat=Health">Health</a>
+      <a href="category.html?cat=Science">Science</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <div class="footer-copy" id="footer-copy"></div>
+  </footer>
+
+  <!-- React 18 + Babel (no build step needed) -->
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="shared.js"></script>
+  <script src="category.js"></script>
+</body>
+</html>
