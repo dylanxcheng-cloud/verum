@@ -206,7 +206,7 @@ Return ONLY the article body. No headline, no byline, no labels."""
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             response = client.chat.completions.create(
-                model='llama3-8b-8192',
+                model='llama3.3-70b-versatile',
                 messages=[{'role': 'user', 'content': prompt}],
                 max_tokens=600,
                 temperature=0.4,
