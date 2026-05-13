@@ -360,3 +360,72 @@ footer { background: var(--black); border-top: 4px solid var(--yellow); margin-t
   font-size: 24px;
   opacity: 0.2;
 }
+
+/* ── LOADING SPINNER ── */
+.loading-spinner {
+  width: 28px; height: 28px;
+  border: 3px solid #333;
+  border-top-color: var(--yellow);
+  border-radius: 50%;
+  animation: spin .7s linear infinite;
+  margin: 0 auto 12px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ── RETRY BUTTON ── */
+.retry-btn {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 14px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase;
+  background: var(--yellow); color: var(--black);
+  border: none; border-radius: 6px;
+  padding: 8px 20px; cursor: pointer; margin-top: 8px;
+  transition: opacity .15s;
+}
+.retry-btn:hover { opacity: .85; }
+
+/* ── SEE ALL LINK ── */
+.see-all-link {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 12px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase;
+  color: var(--yellow); margin-left: 10px;
+  transition: opacity .15s; white-space: nowrap;
+}
+.see-all-link:hover { opacity: .7; }
+
+/* ── CATEGORY BADGE LINK ── */
+.category-link {
+  display: inline-block;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;
+  background: var(--yellow); color: var(--black);
+  padding: 3px 10px; margin-bottom: 12px; width: fit-content;
+  transition: opacity .15s;
+}
+.category-link:hover { opacity: .85; }
+
+/* ── LAST UPDATED BAR ── */
+.last-updated {
+  display: flex; align-items: center; justify-content: flex-end; gap: 8px;
+  padding: 10px 0 0;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 12px; letter-spacing: .5px; color: var(--gray);
+}
+.refresh-btn {
+  background: none; border: 1px solid #333; border-radius: 50%;
+  color: var(--gray); cursor: pointer;
+  width: 24px; height: 24px; font-size: 14px;
+  display: flex; align-items: center; justify-content: center;
+  transition: color .15s, border-color .15s;
+  padding: 0;
+}
+.refresh-btn:hover { color: var(--yellow); border-color: var(--yellow); }
+
+/* ── IMG PLACEHOLDER ICON ── */
+.img-placeholder-icon {
+  font-size: 24px; opacity: .2;
+}
+
+/* ── SECTION HEADER WITH SEE ALL ── */
+.section-header {
+  display: flex; align-items: center; gap: 10px; margin: 32px 0 16px;
+}

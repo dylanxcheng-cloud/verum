@@ -1,135 +1,170 @@
-/**
- * article.js — Verum article page React component
- * Requires: React 18, ReactDOM 18, Babel standalone (loaded in article.html)
- * Requires: shared.js loaded first
- */
-
 /* global React, ReactDOM, timeAgo, loadStories, getParam, initPage */
+// @ts-check
 
 'use strict';
+
+const { useState, useEffect, memo } = React;
 
 initPage(null);
 
 // ── READING PROGRESS BAR ──────────────────────────────────────────────────────
 
 function ReadingProgressBar() {
-  const [progress, setProgress] = React.useState(0);
+  const [progress, setProgress] = useState(0);
 
-  React.useEffect(() => {
-    function onScroll() {
-      const el    = document.getElementById('article-body-wrap');
+  useEffect(() => {
+    const onScroll = () => {
+      const el = document.getElementById('article-body-wrap');
       if (!el) return;
       const total    = el.offsetHeight - window.innerHeight;
       const scrolled = Math.max(0, -el.getBoundingClientRect().top);
-      const pct      = total > 0 ? Math.min(100, (scrolled / total) * 100) : 0;
-      setProgress(Math.round(pct));
-    }
+      setProgress(total > 0 ? Math.min(100, Math.round((scrolled / total) * 100)) : 0);
+    };
     window.addEventListener('scroll', onScroll, { passive: true });
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
 
-  return React.createElement('div', {
-    className: 'progress-bar',
-    role: 'progressbar',
-    'aria-label': 'Reading progress',
-    'aria-valuenow': progress,
-    'aria-valuemin': 0,
-    'aria-valuemax': 100,
-    style: { width: `${progress}%` },
-  });
+  return (
+    <div
+      className="progress-bar"
+      role="progressbar"
+      aria-label="Reading progress"
+      aria-valuenow={progress}
+      aria-valuemin={0}
+      aria-valuemax={100}
+      style={{ width: `${progress}%` }}
+    />
+  );
 }
 
-// ── ARTICLE COMPONENT ─────────────────────────────────────────────────────────
+// ── ARTICLE BODY ──────────────────────────────────────────────────────────────
+
+const ArticleBody = memo(function ArticleBody({ content }) {
+  const paragraphs = content
+    .split('\n')
+    .filter(p => p.trim().length > 0);
+
+  return (
+    <div className="article-body" role="main">
+      {paragraphs.map((p, i) => <p key={i}>{p.trim()}</p>)}
+    </div>
+  );
+});
+
+// ── ARTICLE HERO IMAGE ────────────────────────────────────────────────────────
+
+function ArticleHeroImage({ src, alt }) {
+  const [failed, setFailed] = useState(false);
+  if (!src || failed) return null;
+  return (
+    <img
+      className="article-hero-img"
+      src={src}
+      alt={alt}
+      loading="lazy"
+      decoding="async"
+      onError={() => setFailed(true)}
+    />
+  );
+}
+
+// ── ARTICLE META ──────────────────────────────────────────────────────────────
+
+function ArticleMeta({ story }) {
+  return (
+    <div className="article-meta">
+      <span className="article-author">
+        By {story.author || story.source || 'Staff'}
+      </span>
+      <span className="meta-dot" aria-hidden="true">·</span>
+      <time className="article-time" dateTime={story.time}>
+        {timeAgo(story.time)}
+      </time>
+      {story.read && (
+        <>
+          <span className="meta-dot" aria-hidden="true">·</span>
+          <span className="article-read">{story.read}</span>
+        </>
+      )}
+    </div>
+  );
+}
+
+// ── ARTICLE PAGE ──────────────────────────────────────────────────────────────
 
 function ArticlePage({ storyId }) {
-  const [story, setStory] = React.useState(null);
-  const [error, setError] = React.useState(null);
+  const [story,   setStory]   = useState(null);
+  const [error,   setError]   = useState(null);
+  const [loading, setLoading] = useState(true);
 
-  React.useEffect(() => {
+  useEffect(() => {
     if (!storyId) {
       setError('No story ID provided.');
+      setLoading(false);
       return;
     }
+
     loadStories()
       .then(data => {
         const found = data.stories[storyId];
-        if (!found) throw new Error(`Story '${storyId}' not found`);
+        if (!found) throw new Error(`Story not found`);
         setStory(found);
         document.title = `${found.title} — Verum`;
       })
       .catch(err => {
-        console.error('Article load error:', err);
+        console.error('[Verum] article load error:', err);
         setError('This article could not be found or loaded.');
-      });
+      })
+      .finally(() => setLoading(false));
   }, [storyId]);
 
+  if (loading) {
+    return (
+      <div className="loading" role="status" aria-live="polite">
+        <div className="loading-spinner" aria-hidden="true" />
+        Loading article...
+      </div>
+    );
+  }
+
   if (error) {
-    return React.createElement(
-      'div', { className: 'error-state' },
-      React.createElement('div', { className: 'error-icon' }, '⚠'),
-      React.createElement('div', { className: 'error-title' }, 'Article not found'),
-      React.createElement('div', { className: 'error-msg' }, error),
-      React.createElement('a', { href: 'index.html', className: 'error-link' }, '← Back to home')
+    return (
+      <div className="error-state" role="alert">
+        <div className="error-icon">⚠</div>
+        <div className="error-title">Article not found</div>
+        <div className="error-msg">{error}</div>
+        <a href="index.html" className="error-link">← Back to home</a>
+      </div>
     );
   }
 
-  if (!story) {
-    return React.createElement(
-      'div', { className: 'loading', role: 'status', 'aria-live': 'polite' },
-      'Loading article...'
-    );
-  }
+  const cat = story.category || story.region || '';
 
-  const cat        = story.category || story.region || '';
-  const paragraphs = story.content
-    .split('\n')
-    .filter(p => p.trim().length > 0)
-    .map((p, i) => React.createElement('p', { key: i }, p.trim()));
+  return (
+    <div id="article-body-wrap">
+      <a className="back-btn" href="index.html">Back to home</a>
 
-  return React.createElement(
-    'div', { id: 'article-body-wrap' },
+      <span className="article-cat">{cat}</span>
 
-    React.createElement('a', { className: 'back-btn', href: 'index.html' }, 'Back to home'),
+      <h1 className="article-title">{story.title}</h1>
 
-    React.createElement('span', { className: 'article-cat' }, cat),
+      <ArticleMeta story={story} />
 
-    React.createElement('h1', { className: 'article-title' }, story.title),
+      <ArticleHeroImage src={story.image} alt={story.title} />
 
-    React.createElement(
-      'div', { className: 'article-meta' },
-      React.createElement('span', { className: 'article-author' }, `By ${story.author || story.source || 'Staff'}`),
-      React.createElement('span', { className: 'meta-dot', 'aria-hidden': 'true' }, '·'),
-      React.createElement('time', { className: 'article-time', dateTime: story.time }, timeAgo(story.time)),
-      story.read && React.createElement(React.Fragment, null,
-        React.createElement('span', { className: 'meta-dot', 'aria-hidden': 'true' }, '·'),
-        React.createElement('span', { className: 'article-read' }, story.read)
-      )
-    ),
-
-    story.image && React.createElement('img', {
-      className: 'article-hero-img',
-      src: story.image,
-      alt: story.title,
-      loading: 'lazy',
-      onError: e => { e.target.style.display = 'none'; },
-    }),
-
-    React.createElement(
-      'div', { className: 'article-body', role: 'main' },
-      paragraphs
-    )
+      <ArticleBody content={story.content} />
+    </div>
   );
 }
 
 // ── MOUNT ─────────────────────────────────────────────────────────────────────
 
+// Progress bar — mounted at top of body, outside main content
+const progressRoot = document.createElement('div');
+document.body.prepend(progressRoot);
+ReactDOM.createRoot(progressRoot).render(<ReadingProgressBar />);
+
+// Article content
 const storyId = getParam('id');
-
-// Inject progress bar directly into body (outside React root)
-const progressContainer = document.createElement('div');
-document.body.prepend(progressContainer);
-ReactDOM.createRoot(progressContainer).render(React.createElement(ReadingProgressBar));
-
-// Mount article
 ReactDOM.createRoot(document.getElementById('article-content'))
-  .render(React.createElement(ArticlePage, { storyId }));
+  .render(<ArticlePage storyId={storyId} />);

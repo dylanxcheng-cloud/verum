@@ -1,12 +1,9 @@
-/**
- * category.js — Verum category page React component
- * Requires: React 18, ReactDOM 18, Babel standalone (loaded in category.html)
- * Requires: shared.js loaded first
- */
-
 /* global React, ReactDOM, timeAgo, loadStories, getParam, initPage */
+// @ts-check
 
 'use strict';
+
+const { useState, useEffect, useMemo, memo } = React;
 
 const cat     = getParam('cat') || 'News';
 const pageKey = cat.toLowerCase();
@@ -14,58 +11,23 @@ const pageKey = cat.toLowerCase();
 document.title = `${cat} — Verum`;
 initPage(pageKey);
 
-// ── STORY CARD ────────────────────────────────────────────────────────────────
+// ── CUSTOM HOOK ───────────────────────────────────────────────────────────────
 
-function CategoryCard({ story }) {
-  const url = `article.html?id=${encodeURIComponent(story.id)}`;
-  const [imgFailed, setImgFailed] = React.useState(false);
+function useCategoryStories(categoryName) {
+  const [stories, setStories] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error,   setError]   = useState(null);
 
-  return React.createElement(
-    'article', { className: 'story-card', role: 'listitem' },
-    React.createElement(
-      'div', { className: 'story-thumb' },
-      imgFailed
-        ? React.createElement('div', { className: 'img-placeholder', 'aria-hidden': 'true' })
-        : React.createElement('img', {
-            src: story.image,
-            alt: story.title,
-            loading: 'lazy',
-            onError: () => setImgFailed(true),
-          })
-    ),
-    React.createElement(
-      'div', { className: 'story-body' },
-      React.createElement('div', { className: 'story-cat' }, story.category || story.region),
-      React.createElement('div', { className: 'story-title' }, story.title),
-      React.createElement('div', { className: 'story-meta' },
-        `${timeAgo(story.time)} · ${story.author || story.source || 'Staff'}`
-      )
-    ),
-    React.createElement('a', {
-      href: url,
-      className: 'card-link',
-      'aria-label': story.title,
-    })
-  );
-}
-
-// ── CATEGORY PAGE COMPONENT ───────────────────────────────────────────────────
-
-function CategoryPage() {
-  const [stories,  setStories]  = React.useState([]);
-  const [loading,  setLoading]  = React.useState(true);
-  const [error,    setError]    = React.useState(null);
-
-  React.useEffect(() => {
+  useEffect(() => {
     loadStories()
       .then(data => {
         const { stories: allStories, featured, categoryIndex } = data;
 
-        // Gather matching stories — homepage slots first, then category bank
+        // Deduplicated ordered list of IDs for this category
         const seen = new Set();
         const ids  = [];
 
-        // From homepage slots
+        // Homepage slots first — maintains editorial prominence
         const homepageIds = [
           featured.hero,
           ...(featured.stack  || []),
@@ -77,14 +39,14 @@ function CategoryPage() {
           const s = allStories[id];
           if (!s) continue;
           const sCat = (s.category || s.region || '').toLowerCase();
-          if (sCat === cat.toLowerCase() && !seen.has(id)) {
+          if (sCat === categoryName.toLowerCase() && !seen.has(id)) {
             seen.add(id);
             ids.push(id);
           }
         }
 
-        // From category bank
-        for (const id of (categoryIndex[cat] || [])) {
+        // Category bank
+        for (const id of (categoryIndex[categoryName] || [])) {
           if (!seen.has(id) && allStories[id]) {
             seen.add(id);
             ids.push(id);
@@ -92,59 +54,128 @@ function CategoryPage() {
         }
 
         setStories(ids.slice(0, 10).map(id => allStories[id]));
-        setLoading(false);
       })
       .catch(err => {
-        console.error('Category load error:', err);
+        console.error('[Verum] category load error:', err);
         setError('Could not load stories for this category.');
-        setLoading(false);
-      });
-  }, []);
+      })
+      .finally(() => setLoading(false));
+  }, [categoryName]);
 
-  // Update header count reactively
-  React.useEffect(() => {
-    const header = document.getElementById('cat-header');
-    if (!header || loading) return;
-    header.innerHTML = `
-      <div class="cat-label">Category</div>
-      <h1 class="cat-title">${cat}</h1>
-      <div class="cat-count">${stories.length} ${stories.length === 1 ? 'story' : 'stories'}</div>`;
-  }, [stories, loading]);
+  return { stories, loading, error };
+}
+
+// ── CATEGORY CARD ─────────────────────────────────────────────────────────────
+
+const CategoryCard = memo(function CategoryCard({ story }) {
+  const [imgFailed, setImgFailed] = useState(false);
+  const url = `article.html?id=${encodeURIComponent(story.id)}`;
+
+  return (
+    <article className="story-card" role="listitem">
+      <div className="story-thumb">
+        {imgFailed
+          ? <div className="img-placeholder" aria-hidden="true">
+              <span className="img-placeholder-icon">📷</span>
+            </div>
+          : <img
+              src={story.image}
+              alt={story.title}
+              loading="lazy"
+              decoding="async"
+              onError={() => setImgFailed(true)}
+            />
+        }
+      </div>
+      <div className="story-body">
+        <div className="story-cat">{story.category || story.region}</div>
+        <h2 className="story-title">{story.title}</h2>
+        <div className="story-meta">
+          <time dateTime={story.time}>{timeAgo(story.time)}</time>
+          {' · '}{story.author || story.source || 'Staff'}
+        </div>
+      </div>
+      <a
+        href={url}
+        className="card-link"
+        aria-label={`Read: ${story.title}`}
+      />
+    </article>
+  );
+});
+
+// ── CATEGORY HEADER ───────────────────────────────────────────────────────────
+
+function CategoryHeader({ cat, count, loading }) {
+  return (
+    <div className="cat-header">
+      <div className="cat-label">Category</div>
+      <h1 className="cat-title">{cat}</h1>
+      {!loading && (
+        <div className="cat-count">
+          {count} {count === 1 ? 'story' : 'stories'}
+        </div>
+      )}
+    </div>
+  );
+}
+
+// ── CATEGORY PAGE ─────────────────────────────────────────────────────────────
+
+function CategoryPage() {
+  const { stories, loading, error } = useCategoryStories(cat);
 
   if (loading) {
-    return React.createElement(
-      'div', { className: 'loading', role: 'status', 'aria-live': 'polite' },
-      'Loading...'
+    return (
+      <>
+        <CategoryHeader cat={cat} count={0} loading={true} />
+        <div className="loading" role="status" aria-live="polite">
+          <div className="loading-spinner" aria-hidden="true" />
+          Loading {cat} stories...
+        </div>
+      </>
     );
   }
 
   if (error) {
-    return React.createElement(
-      'div', { className: 'error-state' },
-      React.createElement('div', { className: 'error-icon' }, '⚠'),
-      React.createElement('div', { className: 'error-title' }, 'Something went wrong'),
-      React.createElement('div', { className: 'error-msg' }, error),
-      React.createElement('a', { href: 'index.html', className: 'error-link' }, '← Back to home')
+    return (
+      <>
+        <CategoryHeader cat={cat} count={0} loading={false} />
+        <div className="error-state" role="alert">
+          <div className="error-icon">⚠</div>
+          <div className="error-title">Something went wrong</div>
+          <div className="error-msg">{error}</div>
+          <a href="index.html" className="error-link">← Back to home</a>
+        </div>
+      </>
     );
   }
 
   if (stories.length === 0) {
-    return React.createElement(
-      'div', { className: 'error-state' },
-      React.createElement('div', { className: 'error-icon' }, '📭'),
-      React.createElement('div', { className: 'error-title' }, 'No stories yet'),
-      React.createElement('div', { className: 'error-msg' }, `Nothing filed under ${cat} yet.`),
-      React.createElement('a', { href: 'index.html', className: 'error-link' }, '← Back to home')
+    return (
+      <>
+        <CategoryHeader cat={cat} count={0} loading={false} />
+        <div className="error-state">
+          <div className="error-icon">📭</div>
+          <div className="error-title">No stories yet</div>
+          <div className="error-msg">Nothing filed under {cat} yet.</div>
+          <a href="index.html" className="error-link">← Back to home</a>
+        </div>
+      </>
     );
   }
 
-  return React.createElement(
-    'div', { className: 'story-grid', role: 'list' },
-    stories.map(s => React.createElement(CategoryCard, { key: s.id, story: s }))
+  return (
+    <>
+      <CategoryHeader cat={cat} count={stories.length} loading={false} />
+      <div className="story-grid" role="list">
+        {stories.map(s => <CategoryCard key={s.id} story={s} />)}
+      </div>
+    </>
   );
 }
 
 // ── MOUNT ─────────────────────────────────────────────────────────────────────
 
 ReactDOM.createRoot(document.getElementById('cat-content'))
-  .render(React.createElement(CategoryPage));
+  .render(<CategoryPage />);

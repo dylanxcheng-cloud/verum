@@ -1,294 +1,335 @@
-/**
- * home.js — Verum homepage React components
- * Requires: React 18, ReactDOM 18, Babel standalone (loaded in index.html)
- * Requires: shared.js loaded first
- */
-
-/* global React, ReactDOM, timeAgo, loadStories, showError, initPage */
+/* global React, ReactDOM, timeAgo, loadStories, initPage */
+// @ts-check
 
 'use strict';
 
+const { useState, useEffect, useCallback, useRef, memo } = React;
+
 initPage('home');
 
-// ── REFRESH INTERVAL ─────────────────────────────────────────────────────────
-const REFRESH_MS = 5 * 60 * 1000; // re-check stories.json every 5 minutes
+const REFRESH_MS    = 5 * 60 * 1000;
+const STORY_URL     = id => `article.html?id=${encodeURIComponent(id)}`;
+const CAT_URL       = cat => `category.html?cat=${encodeURIComponent(cat)}`;
 
-// ── COMPONENTS ───────────────────────────────────────────────────────────────
+// ── CUSTOM HOOKS ──────────────────────────────────────────────────────────────
 
-function ImgWithFallback({ src, alt, className }) {
-  const [failed, setFailed] = React.useState(false);
-  return failed
-    ? React.createElement('div', { className: 'img-placeholder', 'aria-hidden': 'true' })
-    : React.createElement('img', {
-        src, alt,
-        className,
-        loading: 'lazy',
-        onError: () => setFailed(true),
-      });
-}
+/** Fetches and refreshes stories.json on an interval */
+function useStories(refreshMs = REFRESH_MS) {
+  const [state, setState] = useState({ data: null, error: null, loading: true, updatedAt: null });
 
-function StoryCard({ story }) {
-  const url = `article.html?id=${encodeURIComponent(story.id)}`;
-  return React.createElement(
-    'article', { className: 'story-card', role: 'listitem' },
-    React.createElement(
-      'div', { className: 'story-thumb' },
-      React.createElement(ImgWithFallback, { src: story.image, alt: story.title })
-    ),
-    React.createElement(
-      'div', { className: 'story-body' },
-      React.createElement('div', { className: 'story-cat' }, story.category),
-      React.createElement('div', { className: 'story-title' }, story.title),
-      React.createElement('div', { className: 'story-meta' },
-        `${timeAgo(story.time)} · ${story.author}`
-      )
-    ),
-    React.createElement('a', {
-      href: url,
-      className: 'card-link',
-      'aria-label': story.title,
-    })
-  );
-}
-
-function HeroSection({ story }) {
-  const url = `article.html?id=${encodeURIComponent(story.id)}`;
-  return React.createElement(
-    'div', { className: 'hero-main' },
-    React.createElement(ImgWithFallback, { src: story.image, alt: story.title }),
-    React.createElement(
-      'div', { className: 'hero-overlay' },
-      React.createElement('span', { className: 'hero-cat' }, story.category),
-      React.createElement('div', { className: 'hero-title' }, story.title),
-      React.createElement('div', { className: 'hero-meta' },
-        React.createElement('strong', null, `By ${story.author}`),
-        ` · ${timeAgo(story.time)} · ${story.read || '3 min read'}`
-      )
-    ),
-    React.createElement('a', {
-      href: url,
-      className: 'card-link',
-      'aria-label': story.title,
-    })
-  );
-}
-
-function StackItem({ story }) {
-  const url = `article.html?id=${encodeURIComponent(story.id)}`;
-  return React.createElement(
-    'div', { className: 'hero-stack-item', role: 'listitem' },
-    React.createElement(
-      'div', { className: 'stack-thumb' },
-      React.createElement(ImgWithFallback, { src: story.image, alt: story.title })
-    ),
-    React.createElement(
-      'div', { className: 'stack-body' },
-      React.createElement('div', { className: 'stack-cat' }, story.category),
-      React.createElement('div', { className: 'stack-title' }, story.title),
-      React.createElement('div', { className: 'stack-meta' },
-        `${timeAgo(story.time)} · ${story.author}`
-      )
-    ),
-    React.createElement('a', {
-      href: url,
-      className: 'card-link',
-      'aria-label': story.title,
-    })
-  );
-}
-
-function WorldItem({ story }) {
-  const url = `article.html?id=${encodeURIComponent(story.id)}`;
-  return React.createElement(
-    'div', { className: 'world-item', role: 'listitem' },
-    React.createElement('span', { className: 'world-flag', 'aria-hidden': 'true' },
-      story.flag || '🌍'
-    ),
-    React.createElement(
-      'div', null,
-      React.createElement('div', { className: 'world-region' }, story.region || story.category),
-      React.createElement('div', { className: 'world-title' }, story.title),
-      React.createElement('div', { className: 'world-meta' },
-        `${timeAgo(story.time)} · ${story.author || story.source}`
-      )
-    ),
-    React.createElement('a', {
-      href: url,
-      className: 'card-link',
-      'aria-label': story.title,
-    })
-  );
-}
-
-function MostReadItem({ title, index }) {
-  return React.createElement(
-    'div', { className: 'most-read-item' },
-    React.createElement('span', { className: 'most-read-num', 'aria-hidden': 'true' }, index + 1),
-    React.createElement('span', { className: 'most-read-title' }, title)
-  );
-}
-
-function EventItem({ event }) {
-  return React.createElement(
-    'div', { className: 'event-item' },
-    React.createElement('div', { className: 'event-date' }, event.date),
-    React.createElement('div', { className: 'event-title' }, event.title),
-    React.createElement('div', { className: 'event-loc' }, event.location)
-  );
-}
-
-function SectionHeader({ label }) {
-  return React.createElement(
-    'div', { className: 'section-header' },
-    React.createElement('span', { className: 'section-header-label' }, label),
-    React.createElement('div', { className: 'section-header-line' })
-  );
-}
-
-function Sidebar({ mostRead, events }) {
-  return React.createElement(
-    'aside', { className: 'sidebar', 'aria-label': 'Sidebar' },
-    // Hottest
-    React.createElement(
-      'div', { className: 'sidebar-widget' },
-      React.createElement('div', { className: 'widget-header' },
-        React.createElement('span', { className: 'widget-title' }, 'Hottest')
-      ),
-      React.createElement('div', { className: 'widget-body' },
-        mostRead.map((title, i) =>
-          React.createElement(MostReadItem, { key: i, title, index: i })
-        )
-      )
-    ),
-    // Events
-    React.createElement(
-      'div', { className: 'sidebar-widget' },
-      React.createElement('div', { className: 'widget-header' },
-        React.createElement('span', { className: 'widget-title' }, 'Upcoming Events')
-      ),
-      React.createElement('div', { className: 'widget-body' },
-        events.map((event, i) =>
-          React.createElement(EventItem, { key: i, event })
-        )
-      )
-    )
-  );
-}
-
-// ── LAST UPDATED INDICATOR ────────────────────────────────────────────────────
-
-function LastUpdated({ time }) {
-  return React.createElement(
-    'div', {
-      style: {
-        textAlign: 'right',
-        fontSize: '11px',
-        color: 'var(--gray)',
-        fontFamily: "'Barlow Condensed', sans-serif",
-        letterSpacing: '0.5px',
-        padding: '8px 0 0',
-      }
-    },
-    `Last updated: ${time}`
-  );
-}
-
-// ── MAIN APP COMPONENT ────────────────────────────────────────────────────────
-
-function HomePage() {
-  const [data,      setData]      = React.useState(null);
-  const [error,     setError]     = React.useState(null);
-  const [updatedAt, setUpdatedAt] = React.useState(null);
-
-  function fetchData() {
-    // Bust cache so we always get fresh stories.json
-    return loadStories()
-      .then(d => {
-        setData(d);
-        setError(null);
-        setUpdatedAt(new Date().toLocaleTimeString());
-        document.getElementById('breaking-text').textContent = d.breaking;
-      })
+  const fetch_ = useCallback(() => {
+    loadStories()
+      .then(data => setState({
+        data,
+        error: null,
+        loading: false,
+        updatedAt: new Date().toLocaleTimeString(),
+      }))
       .catch(err => {
-        console.error('Homepage load error:', err);
-        setError('Could not load stories. Please try refreshing the page.');
+        console.error('[Verum] stories load error:', err);
+        setState(prev => ({ ...prev, error: err.message, loading: false }));
       });
-  }
-
-  // Initial load + polling every 5 minutes
-  React.useEffect(() => {
-    fetchData();
-    const interval = setInterval(fetchData, REFRESH_MS);
-    return () => clearInterval(interval);
   }, []);
 
-  if (error) {
-    return React.createElement(
-      'div', { className: 'error-state' },
-      React.createElement('div', { className: 'error-icon' }, '⚠'),
-      React.createElement('div', { className: 'error-title' }, 'Something went wrong'),
-      React.createElement('div', { className: 'error-msg' }, error),
-      React.createElement('a', { href: 'index.html', className: 'error-link' }, '← Refresh')
+  useEffect(() => {
+    fetch_();
+    const id = setInterval(fetch_, refreshMs);
+    return () => clearInterval(id);
+  }, [fetch_, refreshMs]);
+
+  return { ...state, refresh: fetch_ };
+}
+
+/** Tracks scroll-based reading progress for an element */
+function useReadingProgress(elementId) {
+  const [progress, setProgress] = useState(0);
+  useEffect(() => {
+    const onScroll = () => {
+      const el = document.getElementById(elementId);
+      if (!el) return;
+      const total    = el.offsetHeight - window.innerHeight;
+      const scrolled = Math.max(0, -el.getBoundingClientRect().top);
+      setProgress(total > 0 ? Math.min(100, Math.round((scrolled / total) * 100)) : 0);
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    return () => window.removeEventListener('scroll', onScroll);
+  }, [elementId]);
+  return progress;
+}
+
+// ── SHARED UI COMPONENTS ──────────────────────────────────────────────────────
+
+/** Image with graceful fallback placeholder */
+const StoryImage = memo(function StoryImage({ src, alt, className }) {
+  const [failed, setFailed] = useState(false);
+  if (failed) {
+    return (
+      <div className="img-placeholder" aria-hidden="true">
+        <span className="img-placeholder-icon">📷</span>
+      </div>
     );
   }
+  return (
+    <img
+      src={src}
+      alt={alt}
+      className={className}
+      loading="lazy"
+      decoding="async"
+      onError={() => setFailed(true)}
+    />
+  );
+});
 
-  if (!data) {
-    return React.createElement(
-      'div', { className: 'loading', role: 'status', 'aria-live': 'polite' },
-      'Loading stories...'
-    );
+/** Category badge pill */
+const CategoryBadge = memo(function CategoryBadge({ cat, linked = false }) {
+  if (linked) {
+    return <a href={CAT_URL(cat)} className="hero-cat category-link">{cat}</a>;
   }
+  return <span className="hero-cat">{cat}</span>;
+});
 
-  const { stories, featured, mostRead, events } = data;
-  const heroStory   = stories[featured.hero];
-  const stackStories = (featured.stack  || []).map(id => stories[id]).filter(Boolean);
-  const latestStories = (featured.latest || []).map(id => stories[id]).filter(Boolean);
-  const worldStories  = (featured.world  || []).map(id => stories[id]).filter(Boolean);
-
-  if (!heroStory) {
-    return React.createElement('div', { className: 'loading' }, 'No stories available yet.');
-  }
-
-  return React.createElement(
-    React.Fragment, null,
-
-    // Hero + stack
-    React.createElement(
-      'div', { className: 'hero', role: 'main' },
-      React.createElement(HeroSection, { story: heroStory }),
-      React.createElement(
-        'div', { className: 'hero-stack', role: 'list' },
-        stackStories.map(s => React.createElement(StackItem, { key: s.id, story: s }))
-      )
-    ),
-
-    // Latest news
-    React.createElement(SectionHeader, { label: 'Latest News' }),
-    React.createElement(
-      'div', { className: 'story-grid', role: 'list' },
-      latestStories.map(s => React.createElement(StoryCard, { key: s.id, story: s }))
-    ),
-
-    // World + sidebar
-    React.createElement(
-      'div', { className: 'content-row' },
-      React.createElement(
-        'section', { 'aria-label': 'World news' },
-        React.createElement(SectionHeader, { label: 'World' }),
-        React.createElement(
-          'div', { className: 'world-list', role: 'list' },
-          worldStories.map(s => React.createElement(WorldItem, { key: s.id, story: s }))
-        )
-      ),
-      React.createElement(Sidebar, { mostRead, events })
-    ),
-
-    // Last updated timestamp
-    updatedAt && React.createElement(LastUpdated, { time: updatedAt })
+/** Standard section header with yellow label and divider line */
+function SectionHeader({ label, seeAllCat }) {
+  return (
+    <div className="section-header">
+      <span className="section-header-label">{label}</span>
+      {seeAllCat && (
+        <a href={CAT_URL(seeAllCat)} className="see-all-link">See all →</a>
+      )}
+      <div className="section-header-line" />
+    </div>
   );
 }
 
-// ── MOUNT ─────────────────────────────────────────────────────────────────────
+/** Loading spinner / skeleton */
+function LoadingState({ message = 'Loading...' }) {
+  return (
+    <div className="loading" role="status" aria-live="polite">
+      <div className="loading-spinner" aria-hidden="true" />
+      {message}
+    </div>
+  );
+}
 
-const root = ReactDOM.createRoot(document.getElementById('main-content'));
-root.render(React.createElement(HomePage));
+/** Standardized error state */
+function ErrorState({ message, onRetry }) {
+  return (
+    <div className="error-state" role="alert">
+      <div className="error-icon">⚠</div>
+      <div className="error-title">Something went wrong</div>
+      <div className="error-msg">{message}</div>
+      {onRetry && (
+        <button className="retry-btn" onClick={onRetry}>Try again</button>
+      )}
+      <a href="index.html" className="error-link">← Back to home</a>
+    </div>
+  );
+}
+
+// ── HOMEPAGE COMPONENTS ───────────────────────────────────────────────────────
+
+/** Hero — main featured story */
+const HeroSection = memo(function HeroSection({ story }) {
+  return (
+    <div className="hero-main">
+      <StoryImage src={story.image} alt={story.title} />
+      <div className="hero-overlay">
+        <CategoryBadge cat={story.category} linked />
+        <h2 className="hero-title">{story.title}</h2>
+        <div className="hero-meta">
+          <strong>By {story.author}</strong>
+          &nbsp;·&nbsp;
+          <time dateTime={story.time}>{timeAgo(story.time)}</time>
+          &nbsp;·&nbsp;{story.read || '3 min read'}
+        </div>
+      </div>
+      <a
+        href={STORY_URL(story.id)}
+        className="card-link"
+        aria-label={`Read: ${story.title}`}
+      />
+    </div>
+  );
+});
+
+/** Stack item — sidebar story next to hero */
+const StackItem = memo(function StackItem({ story }) {
+  return (
+    <div className="hero-stack-item" role="listitem">
+      <div className="stack-thumb">
+        <StoryImage src={story.image} alt={story.title} />
+      </div>
+      <div className="stack-body">
+        <div className="stack-cat">{story.category}</div>
+        <div className="stack-title">{story.title}</div>
+        <div className="stack-meta">
+          <time dateTime={story.time}>{timeAgo(story.time)}</time>
+          {' · '}{story.author}
+        </div>
+      </div>
+      <a
+        href={STORY_URL(story.id)}
+        className="card-link"
+        aria-label={`Read: ${story.title}`}
+      />
+    </div>
+  );
+});
+
+/** Standard story card for the latest news grid */
+const StoryCard = memo(function StoryCard({ story }) {
+  return (
+    <article className="story-card" role="listitem">
+      <div className="story-thumb">
+        <StoryImage src={story.image} alt={story.title} />
+      </div>
+      <div className="story-body">
+        <div className="story-cat">{story.category}</div>
+        <h3 className="story-title">{story.title}</h3>
+        <div className="story-meta">
+          <time dateTime={story.time}>{timeAgo(story.time)}</time>
+          {' · '}{story.author}
+        </div>
+      </div>
+      <a
+        href={STORY_URL(story.id)}
+        className="card-link"
+        aria-label={`Read: ${story.title}`}
+      />
+    </article>
+  );
+});
+
+/** World news item with flag */
+const WorldItem = memo(function WorldItem({ story }) {
+  return (
+    <div className="world-item" role="listitem">
+      <span className="world-flag" aria-hidden="true">{story.flag || '🌍'}</span>
+      <div>
+        <div className="world-region">{story.region || story.category}</div>
+        <div className="world-title">{story.title}</div>
+        <div className="world-meta">
+          <time dateTime={story.time}>{timeAgo(story.time)}</time>
+          {' · '}{story.author || story.source}
+        </div>
+      </div>
+      <a
+        href={STORY_URL(story.id)}
+        className="card-link"
+        aria-label={`Read: ${story.title}`}
+      />
+    </div>
+  );
+});
+
+/** Sidebar — hottest + events */
+function Sidebar({ mostRead, events }) {
+  return (
+    <aside className="sidebar" aria-label="Sidebar">
+      <div className="sidebar-widget">
+        <div className="widget-header">
+          <span className="widget-title">Hottest</span>
+        </div>
+        <div className="widget-body">
+          {mostRead.map((title, i) => (
+            <div key={i} className="most-read-item">
+              <span className="most-read-num" aria-hidden="true">{i + 1}</span>
+              <span className="most-read-title">{title}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <div className="sidebar-widget">
+        <div className="widget-header">
+          <span className="widget-title">Upcoming Events</span>
+        </div>
+        <div className="widget-body">
+          {events.map((e, i) => (
+            <div key={i} className="event-item">
+              <div className="event-date">{e.date}</div>
+              <div className="event-title">{e.title}</div>
+              <div className="event-loc">{e.location}</div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </aside>
+  );
+}
+
+/** Last updated timestamp */
+function LastUpdated({ time, onRefresh }) {
+  return (
+    <div className="last-updated">
+      <span>Last updated: {time}</span>
+      <button
+        className="refresh-btn"
+        onClick={onRefresh}
+        aria-label="Refresh stories"
+        title="Refresh now"
+      >↺</button>
+    </div>
+  );
+}
+
+// ── HOMEPAGE ROOT ─────────────────────────────────────────────────────────────
+
+function HomePage() {
+  const { data, error, loading, updatedAt, refresh } = useStories();
+
+  // Push breaking news to ticker
+  useEffect(() => {
+    if (data?.breaking) {
+      const el = document.getElementById('breaking-text');
+      if (el) el.textContent = data.breaking;
+    }
+  }, [data?.breaking]);
+
+  if (loading) return <LoadingState message="Loading stories..." />;
+  if (error)   return <ErrorState message={error} onRetry={refresh} />;
+
+  const { stories, featured, mostRead, events } = data;
+
+  const heroStory    = stories[featured.hero];
+  const stackStories = (featured.stack  || []).map(id => stories[id]).filter(Boolean);
+  const latestStories= (featured.latest || []).map(id => stories[id]).filter(Boolean);
+  const worldStories = (featured.world  || []).map(id => stories[id]).filter(Boolean);
+
+  if (!heroStory) return <ErrorState message="No stories available yet." onRetry={refresh} />;
+
+  return (
+    <>
+      {/* Hero + stack */}
+      <div className="hero" role="main">
+        <HeroSection story={heroStory} />
+        <div className="hero-stack" role="list">
+          {stackStories.map(s => <StackItem key={s.id} story={s} />)}
+        </div>
+      </div>
+
+      {/* Latest news */}
+      <SectionHeader label="Latest News" seeAllCat="News" />
+      <div className="story-grid" role="list">
+        {latestStories.map(s => <StoryCard key={s.id} story={s} />)}
+      </div>
+
+      {/* World + sidebar */}
+      <div className="content-row">
+        <section aria-label="World news">
+          <SectionHeader label="World" seeAllCat="World" />
+          <div className="world-list" role="list">
+            {worldStories.map(s => <WorldItem key={s.id} story={s} />)}
+          </div>
+        </section>
+        <Sidebar mostRead={mostRead} events={events} />
+      </div>
+
+      {updatedAt && <LastUpdated time={updatedAt} onRefresh={refresh} />}
+    </>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('main-content'))
+  .render(<HomePage />);
