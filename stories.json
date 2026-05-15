@@ -1,17 +1,16 @@
 {
-  "breaking": "City council votes on downtown development plan tonight \u2014 live updates \u00b7 School board approves new budget after three-hour meeting \u00b7 Local shelter at capacity \u2014 volunteers urgently needed this weekend",
-  "hero": {
-    "id": "hero",
-    "title": "New community center approved for Riverside after years of delay",
-    "category": "News",
-    "author": "Sarah Chen",
-    "time": "2026-04-12T12:00:00",
-    "read": "4 min read",
-    "image": "images/hero.jpg",
-    "content": "After nearly a decade of planning, delays, and community advocacy, the Riverside neighborhood will finally get its long-awaited community center. The city council voted 7-2 in favor of the project Tuesday evening, approving a $4.2 million budget to begin construction next spring.\n\nThe center, which will be located on the corner of Maple and 5th, will include a gymnasium, after-school tutoring rooms, a community kitchen, and outdoor recreation space. Local residents have been pushing for the facility since 2016, when the previous community building was demolished to make way for a parking structure.\n\n'This is a huge win for our neighborhood,' said longtime resident and community organizer Diane Torres. 'Our kids have needed a safe space like this for years.'\n\nConstruction is expected to begin in March and wrap up by late 2027. The project will be funded through a combination of city bonds and a federal community development grant."
-  },
-  "stack": [
-    {
+  "stories": {
+    "hero": {
+      "id": "hero",
+      "title": "New community center approved for Riverside after years of delay",
+      "category": "News",
+      "author": "Sarah Chen",
+      "time": "2026-04-12T12:00:00",
+      "read": "4 min read",
+      "image": "images/hero.jpg",
+      "content": "After nearly a decade of planning, delays, and community advocacy, the Riverside neighborhood will finally get its long-awaited community center. The city council voted 7-2 in favor of the project Tuesday evening, approving a $4.2 million budget to begin construction next spring.\n\nThe center, which will be located on the corner of Maple and 5th, will include a gymnasium, after-school tutoring rooms, a community kitchen, and outdoor recreation space. Local residents have been pushing for the facility since 2016, when the previous community building was demolished to make way for a parking structure.\n\n'This is a huge win for our neighborhood,' said longtime resident and community organizer Diane Torres. 'Our kids have needed a safe space like this for years.'\n\nConstruction is expected to begin in March and wrap up by late 2027. The project will be funded through a combination of city bonds and a federal community development grant."
+    },
+    "stack1": {
       "id": "stack1",
       "title": "Mayor responds to housing affordability report with new task force",
       "category": "Politics",
@@ -20,7 +19,7 @@
       "image": "images/stack1.jpg",
       "content": "Mayor Diane Collins announced the formation of a new Housing Affordability Task Force on Wednesday, responding to a damning report released last week that ranked the city among the least affordable in the region.\n\nThe task force will be composed of 12 members including city planners, housing advocates, developers, and tenant representatives. Their mandate is to produce a concrete action plan within 90 days.\n\n'We cannot ignore these numbers,' Collins said at a press conference. 'Families are being priced out of the city they grew up in and that has to change.'\n\nThe report, published by the Regional Housing Coalition, found that median rent has increased 34% over the past five years while median income has grown just 9%."
     },
-    {
+    "stack2": {
       "id": "stack2",
       "title": "UN security council convenes emergency session over ceasefire collapse",
       "category": "World",
@@ -29,7 +28,7 @@
       "image": "images/stack2.jpg",
       "content": "The United Nations Security Council convened an emergency session Wednesday after a fragile ceasefire agreement collapsed following a series of overnight strikes.\n\nThe session was called after reports emerged of renewed conflict in the contested border region, with both sides blaming the other for breaking the terms of the two-week-old truce.\n\nUN Secretary-General Antonio Guterres urged all parties to return to negotiations immediately, warning that a return to full-scale conflict would have devastating humanitarian consequences."
     },
-    {
+    "stack3": {
       "id": "stack3",
       "title": "Researchers confirm new findings on deep-sea oxygen depletion trends",
       "category": "Science",
@@ -37,10 +36,8 @@
       "time": "2026-04-12T10:00:00",
       "image": "images/stack3.jpg",
       "content": "A new study published in the journal Nature Oceanography has confirmed accelerating oxygen depletion in deep-sea zones, a trend scientists say poses a significant threat to marine ecosystems worldwide.\n\nResearchers from six universities analyzed data collected over 40 years and found that oxygen-minimum zones have expanded by an estimated 8% since the 1980s.\n\n'This is not a distant threat \u2014 it is happening now,' said lead researcher Dr. Aiko Tanaka of the Scripps Institution of Oceanography."
-    }
-  ],
-  "latest": [
-    {
+    },
+    "latest1": {
       "id": "latest1",
       "title": "District announces expanded after-school programs for fall semester",
       "category": "News",
@@ -49,7 +46,7 @@
       "image": "images/latest1.jpg",
       "content": "The school district announced Wednesday that it will expand its after-school programming to eight additional schools starting this fall, bringing the total number of participating schools to 22.\n\nThe expansion is funded through a $1.1 million state grant and will offer tutoring, arts programs, and sports activities to an estimated 3,400 additional students."
     },
-    {
+    "latest2": {
       "id": "latest2",
       "title": "Local high school soccer team advances to state championship finals",
       "category": "Sports",
@@ -58,7 +55,7 @@
       "image": "images/latest2.jpg",
       "content": "Jefferson High School's varsity soccer team punched their ticket to the state championship finals Tuesday night, defeating rival Westbrook Academy 3-1 in a tense semifinal match.\n\nSenior forward Marcus Reid scored twice, including a stunning 25-yard strike in the 67th minute that sealed the game.\n\nJefferson will face Northside Prep in the championship game on Saturday at 2 p.m. at Memorial Stadium."
     },
-    {
+    "latest3": {
       "id": "latest3",
       "title": "Study links microplastic exposure to measurable changes in lung tissue",
       "category": "Science",
@@ -67,7 +64,7 @@
       "image": "images/latest3.jpg",
       "content": "A peer-reviewed study released Wednesday found measurable cellular changes in lung tissue samples from individuals with high levels of microplastic exposure.\n\nThe study analyzed tissue samples from 180 patients and found that those living near industrial zones had significantly higher concentrations of microplastic particles in their lung tissue.\n\nThe findings have been submitted to the EPA for review."
     },
-    {
+    "latest4": {
       "id": "latest4",
       "title": "Free clinic expands evening hours to serve more uninsured residents",
       "category": "Health",
@@ -76,7 +73,7 @@
       "image": "images/latest4.jpg",
       "content": "The Eastside Free Clinic announced this week that it will extend its operating hours to include Tuesday and Thursday evenings from 5 to 9 p.m.\n\nThe extended hours are expected to accommodate an additional 600 patients per year, funded through a private donation from a local family foundation.\n\nNo appointment is needed. Patients can walk in during clinic hours at 400 Eastside Boulevard."
     },
-    {
+    "latest5": {
       "id": "latest5",
       "title": "Flooding across southern Europe displaces thousands ahead of winter",
       "category": "World",
@@ -85,7 +82,7 @@
       "image": "images/latest5.jpg",
       "content": "Severe flooding across southern Europe has displaced an estimated 14,000 people this week as heavy rains overwhelmed river systems in Greece, Bulgaria, and northern Italy.\n\nAt least 11 fatalities have been confirmed across the three countries, with rescue operations still ongoing in several villages cut off by rising waters.\n\nThe European Union has activated its Civil Protection Mechanism to coordinate disaster relief."
     },
-    {
+    "latest6": {
       "id": "latest6",
       "title": "Senate hearing on data privacy stalls over procedural disagreement",
       "category": "Politics",
@@ -93,10 +90,8 @@
       "time": "2026-04-12T07:00:00",
       "image": "images/latest6.jpg",
       "content": "A Senate Commerce Committee hearing on federal data privacy legislation stalled Wednesday after members could not agree on the scope of testimony to be heard.\n\nThe disagreement centered on whether representatives from social media companies should be required to testify under oath.\n\nThe hearing has been rescheduled for next Tuesday."
-    }
-  ],
-  "world": [
-    {
+    },
+    "world1": {
       "id": "world1",
       "title": "Ceasefire negotiations resume in Geneva as both sides agree to preliminary talks",
       "region": "Europe",
@@ -104,9 +99,10 @@
       "time": "2026-04-12T12:00:00",
       "flag": "\ud83c\uddfa\ud83c\udde6",
       "image": "images/world1.jpg",
-      "content": "Diplomatic representatives from both sides of the conflict arrived in Geneva Wednesday for preliminary ceasefire talks, marking the first direct negotiations in over three months.\n\nBoth delegations described the talks as 'constructive but difficult,' and agreed to return Thursday for a second round.\n\nThe talks come after intense diplomatic pressure from the United States and European Union."
+      "content": "Diplomatic representatives from both sides of the conflict arrived in Geneva Wednesday for preliminary ceasefire talks, marking the first direct negotiations in over three months.\n\nBoth delegations described the talks as 'constructive but difficult,' and agreed to return Thursday for a second round.\n\nThe talks come after intense diplomatic pressure from the United States and European Union.",
+      "author": "Reuters"
     },
-    {
+    "world2": {
       "id": "world2",
       "title": "China's central bank cuts interest rates for the second time this quarter",
       "region": "Asia",
@@ -114,9 +110,10 @@
       "time": "2026-04-12T11:00:00",
       "flag": "\ud83c\udde8\ud83c\uddf3",
       "image": "images/world2.jpg",
-      "content": "The People's Bank of China announced Wednesday it would cut its benchmark lending rate by 0.25 percentage points, the second such reduction in three months.\n\nThe move signals that Chinese authorities are willing to use monetary policy aggressively to prop up growth, which came in below official targets in the most recent quarter."
+      "content": "The People's Bank of China announced Wednesday it would cut its benchmark lending rate by 0.25 percentage points, the second such reduction in three months.\n\nThe move signals that Chinese authorities are willing to use monetary policy aggressively to prop up growth, which came in below official targets in the most recent quarter.",
+      "author": "AP"
     },
-    {
+    "world3": {
       "id": "world3",
       "title": "Brazil reports record Amazon deforestation drop following new enforcement push",
       "region": "Americas",
@@ -124,9 +121,10 @@
       "time": "2026-04-12T09:00:00",
       "flag": "\ud83c\udde7\ud83c\uddf7",
       "image": "images/world3.jpg",
-      "content": "Brazil's National Institute for Space Research reported Wednesday that Amazon deforestation fell to its lowest level in 15 years during the most recent monitoring period.\n\nThe data showed a 49% reduction in deforestation compared to the same period last year.\n\nBrazil is set to host the COP30 climate summit next year, and officials say the deforestation data strengthens their credibility as a host nation."
+      "content": "Brazil's National Institute for Space Research reported Wednesday that Amazon deforestation fell to its lowest level in 15 years during the most recent monitoring period.\n\nThe data showed a 49% reduction in deforestation compared to the same period last year.\n\nBrazil is set to host the COP30 climate summit next year, and officials say the deforestation data strengthens their credibility as a host nation.",
+      "author": "AFP"
     },
-    {
+    "world4": {
       "id": "world4",
       "title": "Nigeria holds runoff elections amid reports of irregularities in three states",
       "region": "Africa",
@@ -134,15 +132,375 @@
       "time": "2026-04-12T08:00:00",
       "flag": "\ud83c\uddf3\ud83c\uddec",
       "image": "images/world4.jpg",
-      "content": "Nigerian voters returned to the polls Wednesday for gubernatorial runoff elections in four states, with international observers reporting irregularities including ballot shortages and polling station closures.\n\nOpposition parties filed formal complaints in two states, alleging deliberate suppression of voter turnout.\n\nPreliminary results are expected by Thursday evening."
+      "content": "Nigerian voters returned to the polls Wednesday for gubernatorial runoff elections in four states, with international observers reporting irregularities including ballot shortages and polling station closures.\n\nOpposition parties filed formal complaints in two states, alleging deliberate suppression of voter turnout.\n\nPreliminary results are expected by Thursday evening.",
+      "author": "Al Jazeera"
+    },
+    "news1": {
+      "id": "news1",
+      "title": "City approves $12 million infrastructure plan for aging water pipes",
+      "category": "News",
+      "author": "City Desk",
+      "time": "2026-04-12T11:00:00",
+      "image": "images/news1.jpg",
+      "content": "The city council unanimously approved a $12 million plan Tuesday to replace aging water infrastructure across four neighborhoods.\n\nEngineers flagged the pipes \u2014 some dating back to the 1940s \u2014 as a public health risk following two main breaks last winter.\n\nWork is expected to begin in May and run through the end of the year, with temporary road closures affecting several major intersections."
+    },
+    "news2": {
+      "id": "news2",
+      "title": "Public library launches free digital literacy classes for seniors",
+      "category": "News",
+      "author": "Maria Lopez",
+      "time": "2026-04-12T09:00:00",
+      "image": "images/news2.jpg",
+      "content": "The city's main public library branch will begin offering free weekly digital literacy workshops for adults over 60 starting next month.\n\nThe classes, funded through a state grant, will cover smartphone basics, online safety, video calling, and accessing government services online.\n\nRegistration opens Monday at the library's front desk or by calling the branch directly."
+    },
+    "news3": {
+      "id": "news3",
+      "title": "Homeless shelter expansion gets final zoning approval after two-year fight",
+      "category": "News",
+      "author": "Dana Mills",
+      "time": "2026-04-12T06:00:00",
+      "image": "images/news3.jpg",
+      "content": "After more than two years of community debate and legal challenges, the city's largest homeless shelter has received final zoning approval to expand its capacity by 80 beds.\n\nThe expansion will bring the shelter's total capacity to 220, making it the largest facility of its kind in the region.\n\nConstruction is expected to take six months and will be funded through a combination of federal housing grants and private donations."
+    },
+    "news4": {
+      "id": "news4",
+      "title": "New bus rapid transit line approved connecting downtown to airport",
+      "category": "News",
+      "author": "Ben Okafor",
+      "time": "2026-04-12T02:00:00",
+      "image": "images/news4.jpg",
+      "content": "The regional transit authority has approved a new bus rapid transit corridor that will connect downtown to the international airport in under 25 minutes.\n\nThe $38 million project will feature dedicated bus lanes, real-time tracking, and expanded park-and-ride facilities at three new stations.\n\nService is projected to launch in late 2027, with an estimated 8,000 daily riders in the first year of operation."
+    },
+    "wcat1": {
+      "id": "wcat1",
+      "title": "G7 nations agree on new framework for AI regulation at summit",
+      "region": "Europe",
+      "source": "Reuters",
+      "time": "2026-04-12T10:00:00",
+      "flag": "\ud83c\uddee\ud83c\uddf9",
+      "image": "images/wcat1.jpg",
+      "content": "Leaders of the G7 nations reached a preliminary agreement Friday on a shared framework for regulating artificial intelligence, marking the first time major economies have coordinated on AI policy at the heads-of-government level.\n\nThe framework sets out common principles around transparency, accountability, and the protection of democratic institutions, though critics noted it lacks binding enforcement mechanisms.\n\nThe agreement will be submitted to each country's legislature for ratification over the coming months."
+    },
+    "wcat2": {
+      "id": "wcat2",
+      "title": "South Korea and Japan announce historic joint defense agreement",
+      "region": "Asia",
+      "source": "AFP",
+      "time": "2026-04-12T05:00:00",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "image": "images/wcat2.jpg",
+      "content": "South Korea and Japan signed a landmark joint defense cooperation agreement Saturday, the most significant bilateral security deal between the two countries in decades.\n\nThe pact establishes a framework for intelligence sharing, joint military exercises, and coordinated responses to regional threats.\n\nThe agreement comes amid heightened tensions on the Korean peninsula and growing concern over China's military activity in the South China Sea."
+    },
+    "wcat3": {
+      "id": "wcat3",
+      "title": "WHO declares end to three-year mpox public health emergency",
+      "region": "Africa",
+      "source": "AP",
+      "time": "2026-04-12T00:00:00",
+      "flag": "\ud83c\udf0d",
+      "image": "images/wcat3.jpg",
+      "content": "The World Health Organization officially declared an end to the global public health emergency for mpox on Thursday, citing a sustained decline in cases across all affected regions.\n\nAt its peak, the outbreak affected over 110 countries. The WHO credited widespread vaccination campaigns and improved surveillance systems for bringing the situation under control.\n\nOfficials cautioned that ongoing monitoring would continue, and that vaccination programs in high-risk areas would be maintained."
+    },
+    "wcat4": {
+      "id": "wcat4",
+      "title": "Arctic ice coverage hits second-lowest recorded level this winter",
+      "region": "Americas",
+      "source": "AP",
+      "time": "2026-04-11T20:00:00",
+      "flag": "\ud83c\udf0a",
+      "image": "images/wcat4.jpg",
+      "content": "Arctic sea ice coverage reached its second-lowest extent on record this past winter, according to data released by the National Snow and Ice Data Center.\n\nScientists said the findings are consistent with long-term warming trends and represent a significant concern for ecosystems and communities that depend on stable ice conditions.\n\nThe record low was set in 2012. Researchers say current trajectories suggest summer ice-free conditions in the Arctic could occur within two decades."
+    },
+    "pol1": {
+      "id": "pol1",
+      "title": "Governor signs landmark clean energy bill into law",
+      "category": "Politics",
+      "author": "Raj Patel",
+      "time": "2026-04-12T12:00:00",
+      "image": "images/pol1.jpg",
+      "content": "The governor signed a sweeping clean energy bill into law Wednesday that commits the state to generating 100% of its electricity from renewable sources by 2040.\n\nThe bill passed the legislature on a largely party-line vote after months of negotiation over provisions affecting the fossil fuel industry and rural energy ratepayers.\n\nEnvironmental groups called it a historic victory, while business associations warned of potential rate increases for consumers and manufacturers."
+    },
+    "pol2": {
+      "id": "pol2",
+      "title": "Congressional redistricting battle heads to federal court",
+      "category": "Politics",
+      "author": "James Park",
+      "time": "2026-04-12T08:00:00",
+      "image": "images/pol2.jpg",
+      "content": "A federal lawsuit challenging the state's newly drawn congressional district maps will proceed to trial after a judge denied a motion to dismiss on Thursday.\n\nPlaintiffs argue the maps constitute an unconstitutional partisan gerrymander that effectively dilutes the voting power of minority communities in three districts.\n\nThe case is expected to go to trial in June, with a potential appeal to the Supreme Court regardless of the outcome."
+    },
+    "pol3": {
+      "id": "pol3",
+      "title": "City ethics board opens investigation into planning department contracts",
+      "category": "Politics",
+      "author": "City Desk",
+      "time": "2026-04-12T04:00:00",
+      "image": "images/pol3.jpg",
+      "content": "The city's independent ethics board announced Thursday it has opened a formal investigation into contracting practices within the planning department following complaints from two former employees.\n\nThe investigation focuses on whether proper bidding procedures were followed on four contracts awarded over the past three years totaling approximately $2.1 million.\n\nThe planning department said it would cooperate fully with the investigation and has placed two senior staff members on administrative leave pending the outcome."
+    },
+    "pol4": {
+      "id": "pol4",
+      "title": "School board election draws record number of candidates amid curriculum debate",
+      "category": "Politics",
+      "author": "Maria Lopez",
+      "time": "2026-04-11T23:00:00",
+      "image": "images/pol4.jpg",
+      "content": "This year's school board election has attracted 23 candidates for five open seats \u2014 the highest number in the district's recorded history \u2014 as debates over curriculum, book policies, and school funding have intensified.\n\nCandidates span a wide range of platforms, from those calling for expanded arts and vocational programs to others focused on restricting certain classroom materials.\n\nVoter registration for the May election closes April 28."
+    },
+    "sp1": {
+      "id": "sp1",
+      "title": "City FC signs former Premier League striker ahead of new season",
+      "category": "Sports",
+      "author": "Sports Desk",
+      "time": "2026-04-12T13:00:00",
+      "image": "images/sp1.jpg",
+      "content": "City FC announced the signing of former Premier League striker Dayo Adeyemi on a two-year deal Wednesday, the club's most high-profile acquisition in years.\n\nAdeyemi, 28, scored 14 goals in 31 appearances for Burnley last season before his contract expired. He is expected to start in Saturday's opening match of the regional league season.\n\n'I'm here to win,' Adeyemi said at his introductory press conference. 'This club has real ambition and I want to be part of it.'"
+    },
+    "sp2": {
+      "id": "sp2",
+      "title": "High school basketball star commits to Division I program",
+      "category": "Sports",
+      "author": "Sports Desk",
+      "time": "2026-04-12T10:00:00",
+      "image": "images/sp2.jpg",
+      "content": "Jefferson High senior point guard Keisha Daniels announced her commitment to the University of Connecticut women's basketball program on Wednesday, choosing UConn over offers from seven other Division I schools.\n\nDaniels averaged 24.3 points and 8.1 assists per game this season, leading Jefferson to its first state championship in 11 years.\n\nShe is considered one of the top-10 high school prospects in the country by multiple recruiting services."
+    },
+    "sp3": {
+      "id": "sp3",
+      "title": "Local marathon draws record 12,000 runners from 40 countries",
+      "category": "Sports",
+      "author": "Dana Mills",
+      "time": "2026-04-12T07:00:00",
+      "image": "images/sp3.jpg",
+      "content": "This year's annual city marathon drew a record 12,000 registered runners from 40 countries, organizers confirmed Wednesday, up from 9,400 participants last year.\n\nKenyan runner Abebe Girma won the men's race in 2:07:44, just 18 seconds off the course record. Ethiopian Tigist Assefa won the women's race in 2:19:08, setting a new course record.\n\nThe event generated an estimated $4.2 million in economic activity for the city, according to the chamber of commerce."
+    },
+    "sp4": {
+      "id": "sp4",
+      "title": "Minor league baseball team announces new downtown stadium plans",
+      "category": "Sports",
+      "author": "Ben Okafor",
+      "time": "2026-04-12T03:00:00",
+      "image": "images/sp4.jpg",
+      "content": "The River Cats minor league baseball team unveiled plans Wednesday for a new 7,500-seat downtown stadium, pending approval from the city council.\n\nThe $42 million facility would replace the team's current 40-year-old stadium and include upgraded amenities, a public plaza, and year-round event space.\n\nThe team has requested a 30-year lease on city-owned land near the waterfront. A council vote is expected in June."
+    },
+    "h1": {
+      "id": "h1",
+      "title": "New study finds Mediterranean diet reduces dementia risk by 23%",
+      "category": "Health",
+      "author": "Dr. Kim Nguyen",
+      "time": "2026-04-12T12:00:00",
+      "image": "images/h1.jpg",
+      "content": "A large-scale study published in the New England Journal of Medicine has found that consistent adherence to a Mediterranean diet is associated with a 23% reduction in dementia risk over a 10-year follow-up period.\n\nThe study tracked 60,000 adults across 12 countries and controlled for factors including age, physical activity, smoking, and cardiovascular health.\n\nResearchers cautioned that the findings show association rather than causation, and that diet is one of many factors influencing cognitive health."
+    },
+    "h2": {
+      "id": "h2",
+      "title": "County health department expands free mental health hotline hours",
+      "category": "Health",
+      "author": "Dana Mills",
+      "time": "2026-04-12T08:00:00",
+      "image": "images/h2.jpg",
+      "content": "The county health department announced Wednesday it will extend its free mental health support hotline to 24-hour availability starting May 1, up from the current 8 a.m. to 10 p.m. schedule.\n\nThe expansion is funded through a federal behavioral health grant and will add 14 full-time and part-time counselor positions.\n\nResidents can reach the hotline at the existing number. Spanish-language support will also be available around the clock under the new schedule."
+    },
+    "h3": {
+      "id": "h3",
+      "title": "FDA approves first at-home test for early-stage colon cancer detection",
+      "category": "Health",
+      "author": "AP Wire",
+      "time": "2026-04-12T04:00:00",
+      "image": "images/h3.jpg",
+      "content": "The Food and Drug Administration on Thursday approved the first over-the-counter test capable of detecting early-stage colorectal cancer biomarkers at home, a development health experts say could significantly increase screening rates.\n\nThe test, developed by a Massachusetts biotech firm, uses a stool sample and returns results within 30 minutes. It will be available at major pharmacies for an estimated retail price of $49.\n\nColorectal cancer is the second-leading cause of cancer death in the United States, and early detection dramatically improves survival outcomes."
+    },
+    "h4": {
+      "id": "h4",
+      "title": "Hospital system launches mobile clinic to reach underserved rural areas",
+      "category": "Health",
+      "author": "Maria Lopez",
+      "time": "2026-04-12T00:00:00",
+      "image": "images/h4.jpg",
+      "content": "Regional Medical Center announced Thursday it will deploy two fully equipped mobile medical clinics to serve rural communities within a 60-mile radius of the city, beginning this summer.\n\nThe clinics will offer primary care visits, preventive screenings, vaccinations, and chronic disease management on a rotating weekly schedule across eight communities.\n\nThe initiative is funded through a five-year, $3.8 million federal rural health grant and is expected to serve approximately 4,500 patients annually."
+    },
+    "sc1": {
+      "id": "sc1",
+      "title": "NASA confirms water ice deposits discovered in permanently shadowed lunar craters",
+      "category": "Science",
+      "author": "AP",
+      "time": "2026-04-12T11:00:00",
+      "image": "images/sc1.jpg",
+      "content": "NASA scientists confirmed Thursday the presence of substantial water ice deposits in permanently shadowed craters near the Moon's south pole, based on new data from the LCROSS and LRO missions.\n\nThe discovery significantly strengthens the case for establishing a sustainable lunar base, as water ice can be converted into drinking water, oxygen, and rocket fuel.\n\nThe findings, published in the journal Nature Geoscience, show ice concentrations higher than previously estimated in at least six crater locations."
+    },
+    "sc2": {
+      "id": "sc2",
+      "title": "Breakthrough in solid-state battery technology could double EV range",
+      "category": "Science",
+      "author": "Reuters",
+      "time": "2026-04-12T07:00:00",
+      "image": "images/sc2.jpg",
+      "content": "Researchers at MIT have announced a breakthrough in solid-state battery technology that could more than double the range of electric vehicles while significantly reducing charging times.\n\nThe new battery design replaces the liquid electrolyte used in conventional lithium-ion batteries with a solid ceramic material, improving both energy density and safety.\n\nThe team estimates the technology could reach commercial production within five to seven years, pending further testing and manufacturing scale-up."
+    },
+    "sc3": {
+      "id": "sc3",
+      "title": "Scientists sequence genome of 52,000-year-old woolly mammoth for first time",
+      "category": "Science",
+      "author": "AFP",
+      "time": "2026-04-12T03:00:00",
+      "image": "images/sc3.jpg",
+      "content": "An international team of scientists has successfully sequenced the complete genome of a woolly mammoth preserved in Siberian permafrost for approximately 52,000 years, the oldest intact mammalian genome ever decoded.\n\nThe research, published in Cell, reveals new details about mammoth population decline and their genetic relationship to modern Asian elephants.\n\nThe findings also contribute to ongoing efforts to use gene-editing technology to restore mammoth traits in elephant cell lines, a project that remains years from any practical application."
+    },
+    "sc4": {
+      "id": "sc4",
+      "title": "Webb telescope captures clearest images yet of exoplanet atmosphere",
+      "category": "Science",
+      "author": "NASA",
+      "time": "2026-04-11T22:00:00",
+      "image": "images/sc4.jpg",
+      "content": "The James Webb Space Telescope has produced the most detailed observations ever recorded of an exoplanet atmosphere, detecting carbon dioxide, methane, and water vapor in the atmosphere of a planet 120 light-years from Earth.\n\nThe planet, K2-18b, orbits within its star's habitable zone and has a mass roughly 8.6 times that of Earth, placing it in the 'sub-Neptune' category.\n\nWhile scientists caution that the findings do not indicate the presence of life, the chemical signatures detected are consistent with conditions that could theoretically support biological activity."
+    },
+    "npr_105c3546": {
+      "id": "npr_105c3546",
+      "title": "Some plants have unusual genetics, which can help them weather cataclysmic events",
+      "category": "Science",
+      "author": "NPR",
+      "source": "npr",
+      "time": "2026-05-15T20:51:18",
+      "read": "3 min read",
+      "image": "images/npr_105c3546.jpg",
+      "content": "Many plants have more than two sets of chromosomes, a trait that is uncommon in humans. This genetic characteristic can be beneficial for plants in certain situations.\n\nHaving extra sets of chromosomes allows plants to adapt more easily to environmental changes. This can be particularly useful in the face of significant upheaval, such as climate change. The additional chromosomes provide plants with a greater range of genetic material, which can help them survive and thrive in changing conditions.\n\nThe ability of plants to withstand environmental stress is closely tied to their genetic makeup. Plants with multiple sets of chromosomes may be better equipped to handle extreme weather events and other disruptions. This is because their extra chromosomes provide a buffer against genetic damage and mutation.\n\nThis genetic trait is found in many plant species, and it may play a key role in their ability to survive and adapt to changing environments.",
+      "original_url": "https://www.npr.org/2026/05/14/nx-s1-5816431/some-plants-have-unusual-genetics-which-can-help-them-weather-cataclysmic-events",
+      "guid": "https://www.npr.org/2026/05/14/nx-s1-5816431/some-plants-have-unusual-genetics-which-can-help-them-weather-cataclysmic-events"
+    },
+    "bbc_99dcaae6": {
+      "id": "bbc_99dcaae6",
+      "title": "'We're right on track,' says Streeting as key target for hospital waiting times hit",
+      "category": "Health",
+      "author": "BBC News",
+      "source": "bbc",
+      "time": "2026-05-15T20:51:18",
+      "read": "3 min read",
+      "image": "images/bbc_99dcaae6.jpg",
+      "content": "The government has met its interim target for hospital waiting times in England. As of the latest available data, 65% of patients are being treated within 18 weeks.\n\nThis target is part of a broader effort to reduce waiting times for medical treatment. The government had set a goal to achieve this milestone, and according to the latest numbers, it has been reached.\n\nA government representative has confirmed that the target has been met, stating that progress is on track. The achievement of this target indicates that a significant proportion of patients in England are receiving timely medical attention.\n\nThe target applies to patients waiting for treatment in England's hospitals. The data shows that 65% of these patients are currently being treated within the 18-week timeframe.",
+      "original_url": "https://www.bbc.com/news/articles/cvgzv0j19vvo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.com/news/articles/cvgzv0j19vvo#0"
+    },
+    "bbc_a9b01e64": {
+      "id": "bbc_a9b01e64",
+      "title": "'Don't swim' at 12 of 14 river bathing sites, as more locations announced",
+      "category": "Science",
+      "author": "BBC News",
+      "source": "bbc",
+      "time": "2026-05-15T20:51:19",
+      "read": "3 min read",
+      "image": "images/bbc_a9b01e64.jpg",
+      "content": "Twelve out of 14 designated river bathing sites in England have been found to have high levels of bacteria linked to faeces. As a result, warnings against swimming have been issued for these locations.\n\nThe bacteria levels exceeded safe limits, prompting the warnings. The designated river bathing sites are monitored for water quality to ensure they are safe for public use.\n\nOnly two of the 14 sites had acceptable bacteria levels. The remaining 12 sites had levels that were too high, making them unsuitable for swimming.\n\nThe affected locations have been identified and warnings have been issued to inform the public of the potential health risks associated with swimming in these areas.",
+      "original_url": "https://www.bbc.com/news/articles/cvgzvqq9345o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.com/news/articles/cvgzvqq9345o#0"
+    },
+    "bbc_ef75e094": {
+      "id": "bbc_ef75e094",
+      "title": "White-tailed eagles to be released in Exmoor despite farmer warnings",
+      "category": "Science",
+      "author": "BBC News",
+      "source": "bbc",
+      "time": "2026-05-15T20:51:20",
+      "read": "3 min read",
+      "image": "images/bbc_ef75e094.jpg",
+      "content": "A reintroduction program for white-tailed eagles is set to take place in Exmoor. The white-tailed eagle is the UK's largest bird of prey.\n\nSome farmers in the area have expressed concerns about the program, citing potential threats to their livestock. They have warned that the eagles may attack and kill their animals.\n\nThe white-tailed eagle is a large bird, and its presence can have an impact on local wildlife and farming practices. The eagles are known to prey on small and medium-sized animals.\n\nThe reintroduction program is moving forward, with the eagles set to be released in Exmoor. Further details about the program and its potential effects on local farming and wildlife are not available at this time.",
+      "original_url": "https://www.bbc.com/news/articles/cd6p26y6d8vo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.com/news/articles/cd6p26y6d8vo#0"
+    },
+    "npr_a4164320": {
+      "id": "npr_a4164320",
+      "title": "Colorado's Democratic governor will let Trump ally Tina Peters out of prison early",
+      "category": "News",
+      "author": "NPR",
+      "source": "npr",
+      "time": "2026-05-15T20:51:20",
+      "read": "3 min read",
+      "image": "images/npr_a4164320.jpg",
+      "content": "Colorado Governor Jared Polis has commuted the sentence of Tina Peters, a former county official. Peters was convicted of tampering with election equipment.\n\nPeters' conviction stemmed from her actions as a county official. The commutation means she will be released from prison early. \n\nThe decision to commute Peters' sentence follows a campaign by the Trump administration to secure her release. The Trump administration had pushed for Peters to be freed.\n\nGovernor Polis' commutation of Peters' sentence is now in effect, allowing for her early release from prison.",
+      "original_url": "https://www.npr.org/2026/05/15/nx-s1-5690286/tina-peters-polis-commutation-trump",
+      "guid": "https://www.npr.org/2026/05/15/nx-s1-5690286/tina-peters-polis-commutation-trump"
+    },
+    "guardian_12681967": {
+      "id": "guardian_12681967",
+      "title": "Listen and learn: the hidden secret to spotting a liar",
+      "category": "Science",
+      "author": "The Guardian",
+      "source": "guardian",
+      "time": "2026-05-15T20:51:21",
+      "read": "3 min read",
+      "image": "images/guardian_12681967.jpg",
+      "content": "Research has identified a method to improve one's ability to detect deception. This technique involves closing one's eyes while interacting with the person suspected of lying.\n\nClosing one's eyes can reportedly double a person's chances of accurately identifying dishonesty. This approach has been found to be effective even when other methods, including artificial intelligence, have failed.\n\nThe technique's effectiveness has also been noted in the context of game shows, where contestants have attempted to deceive each other. Despite the use of various strategies, many participants have been unable to successfully detect lies.\n\nThis method of detecting deception is based on the idea that visual cues can sometimes be misleading or distracting. By eliminating visual information, individuals may be able to focus more accurately on other indicators of dishonesty, such as tone of voice or speech patterns.",
+      "original_url": "https://www.theguardian.com/science/2026/may/14/hidden-secret-to-spotting-a-liar-voice-inflections",
+      "guid": "https://www.theguardian.com/science/2026/may/14/hidden-secret-to-spotting-a-liar-voice-inflections"
     }
-  ],
-  "mostRead": [
-    "Community center approved for Riverside after years of delay",
-    "UN emergency session over ceasefire collapse",
-    "Mayor responds to housing affordability report",
-    "Microplastic study links exposure to lung tissue changes"
-  ],
+  },
+  "featured": {
+    "hero": "npr_105c3546",
+    "stack": [
+      "stack1",
+      "stack2",
+      "stack3"
+    ],
+    "latest": [
+      "bbc_ef75e094",
+      "bbc_a9b01e64",
+      "bbc_99dcaae6",
+      "hero",
+      "latest1",
+      "latest2"
+    ],
+    "world": [
+      "world1",
+      "world2",
+      "world3",
+      "world4"
+    ]
+  },
+  "categoryIndex": {
+    "News": [
+      "npr_a4164320",
+      "news1",
+      "news2",
+      "news3",
+      "news4"
+    ],
+    "World": [
+      "latest5",
+      "wcat1",
+      "wcat2",
+      "wcat3",
+      "wcat4"
+    ],
+    "Politics": [
+      "latest6",
+      "pol1",
+      "pol2",
+      "pol3",
+      "pol4"
+    ],
+    "Sports": [
+      "sp1",
+      "sp2",
+      "sp3",
+      "sp4"
+    ],
+    "Health": [
+      "latest4",
+      "h1",
+      "h2",
+      "h3",
+      "h4"
+    ],
+    "Science": [
+      "guardian_12681967",
+      "latest3",
+      "sc1",
+      "sc2",
+      "sc3",
+      "sc4"
+    ]
+  },
+  "breaking": "City council votes on downtown development plan tonight \u2014 live updates \u00b7 School board approves new budget after three-hour meeting \u00b7 Local shelter at capacity \u2014 volunteers urgently needed this weekend",
   "events": [
     {
       "date": "Mar 23 \u00b7 7:00 PM",
@@ -165,238 +523,10 @@
       "location": "Eastside Riverbank"
     }
   ],
-  "categories": {
-    "News": [
-      {
-        "id": "news1",
-        "title": "City approves $12 million infrastructure plan for aging water pipes",
-        "category": "News",
-        "author": "City Desk",
-        "time": "2026-04-12T11:00:00",
-        "image": "images/news1.jpg",
-        "content": "The city council unanimously approved a $12 million plan Tuesday to replace aging water infrastructure across four neighborhoods.\n\nEngineers flagged the pipes \u2014 some dating back to the 1940s \u2014 as a public health risk following two main breaks last winter.\n\nWork is expected to begin in May and run through the end of the year, with temporary road closures affecting several major intersections."
-      },
-      {
-        "id": "news2",
-        "title": "Public library launches free digital literacy classes for seniors",
-        "category": "News",
-        "author": "Maria Lopez",
-        "time": "2026-04-12T09:00:00",
-        "image": "images/news2.jpg",
-        "content": "The city's main public library branch will begin offering free weekly digital literacy workshops for adults over 60 starting next month.\n\nThe classes, funded through a state grant, will cover smartphone basics, online safety, video calling, and accessing government services online.\n\nRegistration opens Monday at the library's front desk or by calling the branch directly."
-      },
-      {
-        "id": "news3",
-        "title": "Homeless shelter expansion gets final zoning approval after two-year fight",
-        "category": "News",
-        "author": "Dana Mills",
-        "time": "2026-04-12T06:00:00",
-        "image": "images/news3.jpg",
-        "content": "After more than two years of community debate and legal challenges, the city's largest homeless shelter has received final zoning approval to expand its capacity by 80 beds.\n\nThe expansion will bring the shelter's total capacity to 220, making it the largest facility of its kind in the region.\n\nConstruction is expected to take six months and will be funded through a combination of federal housing grants and private donations."
-      },
-      {
-        "id": "news4",
-        "title": "New bus rapid transit line approved connecting downtown to airport",
-        "category": "News",
-        "author": "Ben Okafor",
-        "time": "2026-04-12T02:00:00",
-        "image": "images/news4.jpg",
-        "content": "The regional transit authority has approved a new bus rapid transit corridor that will connect downtown to the international airport in under 25 minutes.\n\nThe $38 million project will feature dedicated bus lanes, real-time tracking, and expanded park-and-ride facilities at three new stations.\n\nService is projected to launch in late 2027, with an estimated 8,000 daily riders in the first year of operation."
-      }
-    ],
-    "World": [
-      {
-        "id": "wcat1",
-        "title": "G7 nations agree on new framework for AI regulation at summit",
-        "region": "Europe",
-        "source": "Reuters",
-        "time": "2026-04-12T10:00:00",
-        "flag": "\ud83c\uddee\ud83c\uddf9",
-        "image": "images/wcat1.jpg",
-        "content": "Leaders of the G7 nations reached a preliminary agreement Friday on a shared framework for regulating artificial intelligence, marking the first time major economies have coordinated on AI policy at the heads-of-government level.\n\nThe framework sets out common principles around transparency, accountability, and the protection of democratic institutions, though critics noted it lacks binding enforcement mechanisms.\n\nThe agreement will be submitted to each country's legislature for ratification over the coming months."
-      },
-      {
-        "id": "wcat2",
-        "title": "South Korea and Japan announce historic joint defense agreement",
-        "region": "Asia",
-        "source": "AFP",
-        "time": "2026-04-12T05:00:00",
-        "flag": "\ud83c\uddf0\ud83c\uddf7",
-        "image": "images/wcat2.jpg",
-        "content": "South Korea and Japan signed a landmark joint defense cooperation agreement Saturday, the most significant bilateral security deal between the two countries in decades.\n\nThe pact establishes a framework for intelligence sharing, joint military exercises, and coordinated responses to regional threats.\n\nThe agreement comes amid heightened tensions on the Korean peninsula and growing concern over China's military activity in the South China Sea."
-      },
-      {
-        "id": "wcat3",
-        "title": "WHO declares end to three-year mpox public health emergency",
-        "region": "Africa",
-        "source": "AP",
-        "time": "2026-04-12T00:00:00",
-        "flag": "\ud83c\udf0d",
-        "image": "images/wcat3.jpg",
-        "content": "The World Health Organization officially declared an end to the global public health emergency for mpox on Thursday, citing a sustained decline in cases across all affected regions.\n\nAt its peak, the outbreak affected over 110 countries. The WHO credited widespread vaccination campaigns and improved surveillance systems for bringing the situation under control.\n\nOfficials cautioned that ongoing monitoring would continue, and that vaccination programs in high-risk areas would be maintained."
-      },
-      {
-        "id": "wcat4",
-        "title": "Arctic ice coverage hits second-lowest recorded level this winter",
-        "region": "Americas",
-        "source": "AP",
-        "time": "2026-04-11T20:00:00",
-        "flag": "\ud83c\udf0a",
-        "image": "images/wcat4.jpg",
-        "content": "Arctic sea ice coverage reached its second-lowest extent on record this past winter, according to data released by the National Snow and Ice Data Center.\n\nScientists said the findings are consistent with long-term warming trends and represent a significant concern for ecosystems and communities that depend on stable ice conditions.\n\nThe record low was set in 2012. Researchers say current trajectories suggest summer ice-free conditions in the Arctic could occur within two decades."
-      }
-    ],
-    "Politics": [
-      {
-        "id": "pol1",
-        "title": "Governor signs landmark clean energy bill into law",
-        "category": "Politics",
-        "author": "Raj Patel",
-        "time": "2026-04-12T12:00:00",
-        "image": "images/pol1.jpg",
-        "content": "The governor signed a sweeping clean energy bill into law Wednesday that commits the state to generating 100% of its electricity from renewable sources by 2040.\n\nThe bill passed the legislature on a largely party-line vote after months of negotiation over provisions affecting the fossil fuel industry and rural energy ratepayers.\n\nEnvironmental groups called it a historic victory, while business associations warned of potential rate increases for consumers and manufacturers."
-      },
-      {
-        "id": "pol2",
-        "title": "Congressional redistricting battle heads to federal court",
-        "category": "Politics",
-        "author": "James Park",
-        "time": "2026-04-12T08:00:00",
-        "image": "images/pol2.jpg",
-        "content": "A federal lawsuit challenging the state's newly drawn congressional district maps will proceed to trial after a judge denied a motion to dismiss on Thursday.\n\nPlaintiffs argue the maps constitute an unconstitutional partisan gerrymander that effectively dilutes the voting power of minority communities in three districts.\n\nThe case is expected to go to trial in June, with a potential appeal to the Supreme Court regardless of the outcome."
-      },
-      {
-        "id": "pol3",
-        "title": "City ethics board opens investigation into planning department contracts",
-        "category": "Politics",
-        "author": "City Desk",
-        "time": "2026-04-12T04:00:00",
-        "image": "images/pol3.jpg",
-        "content": "The city's independent ethics board announced Thursday it has opened a formal investigation into contracting practices within the planning department following complaints from two former employees.\n\nThe investigation focuses on whether proper bidding procedures were followed on four contracts awarded over the past three years totaling approximately $2.1 million.\n\nThe planning department said it would cooperate fully with the investigation and has placed two senior staff members on administrative leave pending the outcome."
-      },
-      {
-        "id": "pol4",
-        "title": "School board election draws record number of candidates amid curriculum debate",
-        "category": "Politics",
-        "author": "Maria Lopez",
-        "time": "2026-04-11T23:00:00",
-        "image": "images/pol4.jpg",
-        "content": "This year's school board election has attracted 23 candidates for five open seats \u2014 the highest number in the district's recorded history \u2014 as debates over curriculum, book policies, and school funding have intensified.\n\nCandidates span a wide range of platforms, from those calling for expanded arts and vocational programs to others focused on restricting certain classroom materials.\n\nVoter registration for the May election closes April 28."
-      }
-    ],
-    "Sports": [
-      {
-        "id": "sp1",
-        "title": "City FC signs former Premier League striker ahead of new season",
-        "category": "Sports",
-        "author": "Sports Desk",
-        "time": "2026-04-12T13:00:00",
-        "image": "images/sp1.jpg",
-        "content": "City FC announced the signing of former Premier League striker Dayo Adeyemi on a two-year deal Wednesday, the club's most high-profile acquisition in years.\n\nAdeyemi, 28, scored 14 goals in 31 appearances for Burnley last season before his contract expired. He is expected to start in Saturday's opening match of the regional league season.\n\n'I'm here to win,' Adeyemi said at his introductory press conference. 'This club has real ambition and I want to be part of it.'"
-      },
-      {
-        "id": "sp2",
-        "title": "High school basketball star commits to Division I program",
-        "category": "Sports",
-        "author": "Sports Desk",
-        "time": "2026-04-12T10:00:00",
-        "image": "images/sp2.jpg",
-        "content": "Jefferson High senior point guard Keisha Daniels announced her commitment to the University of Connecticut women's basketball program on Wednesday, choosing UConn over offers from seven other Division I schools.\n\nDaniels averaged 24.3 points and 8.1 assists per game this season, leading Jefferson to its first state championship in 11 years.\n\nShe is considered one of the top-10 high school prospects in the country by multiple recruiting services."
-      },
-      {
-        "id": "sp3",
-        "title": "Local marathon draws record 12,000 runners from 40 countries",
-        "category": "Sports",
-        "author": "Dana Mills",
-        "time": "2026-04-12T07:00:00",
-        "image": "images/sp3.jpg",
-        "content": "This year's annual city marathon drew a record 12,000 registered runners from 40 countries, organizers confirmed Wednesday, up from 9,400 participants last year.\n\nKenyan runner Abebe Girma won the men's race in 2:07:44, just 18 seconds off the course record. Ethiopian Tigist Assefa won the women's race in 2:19:08, setting a new course record.\n\nThe event generated an estimated $4.2 million in economic activity for the city, according to the chamber of commerce."
-      },
-      {
-        "id": "sp4",
-        "title": "Minor league baseball team announces new downtown stadium plans",
-        "category": "Sports",
-        "author": "Ben Okafor",
-        "time": "2026-04-12T03:00:00",
-        "image": "images/sp4.jpg",
-        "content": "The River Cats minor league baseball team unveiled plans Wednesday for a new 7,500-seat downtown stadium, pending approval from the city council.\n\nThe $42 million facility would replace the team's current 40-year-old stadium and include upgraded amenities, a public plaza, and year-round event space.\n\nThe team has requested a 30-year lease on city-owned land near the waterfront. A council vote is expected in June."
-      }
-    ],
-    "Health": [
-      {
-        "id": "h1",
-        "title": "New study finds Mediterranean diet reduces dementia risk by 23%",
-        "category": "Health",
-        "author": "Dr. Kim Nguyen",
-        "time": "2026-04-12T12:00:00",
-        "image": "images/h1.jpg",
-        "content": "A large-scale study published in the New England Journal of Medicine has found that consistent adherence to a Mediterranean diet is associated with a 23% reduction in dementia risk over a 10-year follow-up period.\n\nThe study tracked 60,000 adults across 12 countries and controlled for factors including age, physical activity, smoking, and cardiovascular health.\n\nResearchers cautioned that the findings show association rather than causation, and that diet is one of many factors influencing cognitive health."
-      },
-      {
-        "id": "h2",
-        "title": "County health department expands free mental health hotline hours",
-        "category": "Health",
-        "author": "Dana Mills",
-        "time": "2026-04-12T08:00:00",
-        "image": "images/h2.jpg",
-        "content": "The county health department announced Wednesday it will extend its free mental health support hotline to 24-hour availability starting May 1, up from the current 8 a.m. to 10 p.m. schedule.\n\nThe expansion is funded through a federal behavioral health grant and will add 14 full-time and part-time counselor positions.\n\nResidents can reach the hotline at the existing number. Spanish-language support will also be available around the clock under the new schedule."
-      },
-      {
-        "id": "h3",
-        "title": "FDA approves first at-home test for early-stage colon cancer detection",
-        "category": "Health",
-        "author": "AP Wire",
-        "time": "2026-04-12T04:00:00",
-        "image": "images/h3.jpg",
-        "content": "The Food and Drug Administration on Thursday approved the first over-the-counter test capable of detecting early-stage colorectal cancer biomarkers at home, a development health experts say could significantly increase screening rates.\n\nThe test, developed by a Massachusetts biotech firm, uses a stool sample and returns results within 30 minutes. It will be available at major pharmacies for an estimated retail price of $49.\n\nColorectal cancer is the second-leading cause of cancer death in the United States, and early detection dramatically improves survival outcomes."
-      },
-      {
-        "id": "h4",
-        "title": "Hospital system launches mobile clinic to reach underserved rural areas",
-        "category": "Health",
-        "author": "Maria Lopez",
-        "time": "2026-04-12T00:00:00",
-        "image": "images/h4.jpg",
-        "content": "Regional Medical Center announced Thursday it will deploy two fully equipped mobile medical clinics to serve rural communities within a 60-mile radius of the city, beginning this summer.\n\nThe clinics will offer primary care visits, preventive screenings, vaccinations, and chronic disease management on a rotating weekly schedule across eight communities.\n\nThe initiative is funded through a five-year, $3.8 million federal rural health grant and is expected to serve approximately 4,500 patients annually."
-      }
-    ],
-    "Science": [
-      {
-        "id": "sc1",
-        "title": "NASA confirms water ice deposits discovered in permanently shadowed lunar craters",
-        "category": "Science",
-        "author": "AP",
-        "time": "2026-04-12T11:00:00",
-        "image": "images/sc1.jpg",
-        "content": "NASA scientists confirmed Thursday the presence of substantial water ice deposits in permanently shadowed craters near the Moon's south pole, based on new data from the LCROSS and LRO missions.\n\nThe discovery significantly strengthens the case for establishing a sustainable lunar base, as water ice can be converted into drinking water, oxygen, and rocket fuel.\n\nThe findings, published in the journal Nature Geoscience, show ice concentrations higher than previously estimated in at least six crater locations."
-      },
-      {
-        "id": "sc2",
-        "title": "Breakthrough in solid-state battery technology could double EV range",
-        "category": "Science",
-        "author": "Reuters",
-        "time": "2026-04-12T07:00:00",
-        "image": "images/sc2.jpg",
-        "content": "Researchers at MIT have announced a breakthrough in solid-state battery technology that could more than double the range of electric vehicles while significantly reducing charging times.\n\nThe new battery design replaces the liquid electrolyte used in conventional lithium-ion batteries with a solid ceramic material, improving both energy density and safety.\n\nThe team estimates the technology could reach commercial production within five to seven years, pending further testing and manufacturing scale-up."
-      },
-      {
-        "id": "sc3",
-        "title": "Scientists sequence genome of 52,000-year-old woolly mammoth for first time",
-        "category": "Science",
-        "author": "AFP",
-        "time": "2026-04-12T03:00:00",
-        "image": "images/sc3.jpg",
-        "content": "An international team of scientists has successfully sequenced the complete genome of a woolly mammoth preserved in Siberian permafrost for approximately 52,000 years, the oldest intact mammalian genome ever decoded.\n\nThe research, published in Cell, reveals new details about mammoth population decline and their genetic relationship to modern Asian elephants.\n\nThe findings also contribute to ongoing efforts to use gene-editing technology to restore mammoth traits in elephant cell lines, a project that remains years from any practical application."
-      },
-      {
-        "id": "sc4",
-        "title": "Webb telescope captures clearest images yet of exoplanet atmosphere",
-        "category": "Science",
-        "author": "NASA",
-        "time": "2026-04-11T22:00:00",
-        "image": "images/sc4.jpg",
-        "content": "The James Webb Space Telescope has produced the most detailed observations ever recorded of an exoplanet atmosphere, detecting carbon dioxide, methane, and water vapor in the atmosphere of a planet 120 light-years from Earth.\n\nThe planet, K2-18b, orbits within its star's habitable zone and has a mass roughly 8.6 times that of Earth, placing it in the 'sub-Neptune' category.\n\nWhile scientists caution that the findings do not indicate the presence of life, the chemical signatures detected are consistent with conditions that could theoretically support biological activity."
-      }
-    ]
-  }
+  "mostRead": [
+    "Community center approved for Riverside after years of delay",
+    "UN emergency session over ceasefire collapse",
+    "Mayor responds to housing affordability report",
+    "Microplastic study links exposure to lung tissue changes"
+  ]
 }

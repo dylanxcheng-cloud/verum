@@ -206,7 +206,7 @@ Return ONLY the article body. No headline, no byline, no labels."""
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             response = client.chat.completions.create(
-                model='llama3.3-70b-versatile',
+                model='llama-3.3-70b-versatile',
                 messages=[{'role': 'user', 'content': prompt}],
                 max_tokens=600,
                 temperature=0.4,
@@ -365,7 +365,7 @@ def _add_to_category(cat_index, stories, sid):
 
 # ── VALIDATION ────────────────────────────────────────────────────────────────
 
-REQUIRED_STORY_FIELDS = ['id', 'title', 'author', 'time', 'image', 'content']
+REQUIRED_STORY_FIELDS = ['id', 'title', 'time', 'image', 'content']
 
 def validate_stories(data):
     """Validate stories.json structure. Returns (is_valid, report)."""
@@ -402,18 +402,18 @@ def validate_stories(data):
         if len(ids) > 10:
             warnings.append(f"Category '{cat}' has {len(ids)} stories (max 10)")
 
-    # Validate individual stories
+    required = ['id', 'title', 'time', 'image', 'content']
     invalid_count = 0
     for sid, story in stories.items():
-        for field in REQUIRED_STORY_FIELDS:
+         for field in required:
             if field not in story or not story[field]:
                 issues.append(f"Story '{sid}' missing required field: '{field}'")
                 invalid_count += 1
                 break
-        # World stories use 'region' instead of 'category' — either is valid
-        if not story.get('category') and not story.get('region'):
-            issues.append(f"Story '{sid}' missing both 'category' and 'region'")
-
+         if not story.get('category') and not story.get('region'):
+             issues.append(f"Story '{sid}' missing both 'category' and 'region'")
+         if not story.get('author') and not story.get('source'):
+             issues.append(f"Story '{sid}' missing both 'author' and 'source'")
     is_valid = len(issues) == 0
     report = {
         'total_stories': len(stories),
