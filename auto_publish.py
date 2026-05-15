@@ -411,8 +411,8 @@ def validate_stories(data):
                  invalid_count += 1
                  break
         # World stories use 'region' instead of 'category' — either is valid
-        if not story.get('category') and not story.get('region'):
-            issues.append(f"Story '{sid}' missing both 'category' and 'region'")
+         if not story.get('category') and not story.get('region'):
+             issues.append(f"Story '{sid}' missing both 'category' and 'region'")
     is_valid = len(issues) == 0
     report = {
         'total_stories': len(stories),
