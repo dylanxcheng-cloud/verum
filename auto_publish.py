@@ -404,12 +404,12 @@ def validate_stories(data):
 
     # Validate individual stories
     invalid_count = 0
-   for sid, story in stories.items():
-        for field in REQUIRED_STORY_FIELDS:
-            if field not in story or not story[field]:
-                issues.append(f"Story '{sid}' missing required field: '{field}'")
-                invalid_count += 1
-                break
+    for sid, story in stories.items():
+         for field in REQUIRED_STORY_FIELDS:
+             if field not in story or not story[field]:
+                 issues.append(f"Story '{sid}' missing required field: '{field}'")
+                 invalid_count += 1
+                 break
         # World stories use 'region' instead of 'category' — either is valid
         if not story.get('category') and not story.get('region'):
             issues.append(f"Story '{sid}' missing both 'category' and 'region'")
