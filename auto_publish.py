@@ -402,7 +402,7 @@ def validate_stories(data):
         if len(ids) > 10:
             warnings.append(f"Category '{cat}' has {len(ids)} stories (max 10)")
 
-    # Validate individual stories
+    required = ['id', 'title', 'time', 'image', 'content']
     invalid_count = 0
     for sid, story in stories.items():
          for field in required:
