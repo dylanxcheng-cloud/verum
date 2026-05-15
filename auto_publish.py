@@ -365,7 +365,7 @@ def _add_to_category(cat_index, stories, sid):
 
 # ── VALIDATION ────────────────────────────────────────────────────────────────
 
-REQUIRED_STORY_FIELDS = ['id', 'title', 'category', 'author', 'time', 'image', 'content']
+REQUIRED_STORY_FIELDS = ['id', 'title', 'author', 'time', 'image', 'content']
 
 def validate_stories(data):
     """Validate stories.json structure. Returns (is_valid, report)."""
@@ -404,13 +404,15 @@ def validate_stories(data):
 
     # Validate individual stories
     invalid_count = 0
-    for sid, story in stories.items():
+   for sid, story in stories.items():
         for field in REQUIRED_STORY_FIELDS:
             if field not in story or not story[field]:
                 issues.append(f"Story '{sid}' missing required field: '{field}'")
                 invalid_count += 1
                 break
-
+        # World stories use 'region' instead of 'category' — either is valid
+        if not story.get('category') and not story.get('region'):
+            issues.append(f"Story '{sid}' missing both 'category' and 'region'")
     is_valid = len(issues) == 0
     report = {
         'total_stories': len(stories),
