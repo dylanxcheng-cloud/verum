@@ -410,10 +410,10 @@ def validate_stories(data):
                 issues.append(f"Story '{sid}' missing required field: '{field}'")
                 invalid_count += 1
                 break
-        if not story.get('category') and not story.get('region'):
-            issues.append(f"Story '{sid}' missing both 'category' and 'region'")
-        if not story.get('author') and not story.get('source'):
-            issues.append(f"Story '{sid}' missing both 'author' and 'source'")
+         if not story.get('category') and not story.get('region'):
+             issues.append(f"Story '{sid}' missing both 'category' and 'region'")
+         if not story.get('author') and not story.get('source'):
+             issues.append(f"Story '{sid}' missing both 'author' and 'source'")
     is_valid = len(issues) == 0
     report = {
         'total_stories': len(stories),
