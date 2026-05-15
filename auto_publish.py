@@ -42,9 +42,14 @@ log = logging.getLogger('verum')
 
 GROQ_API_KEY       = os.environ.get('GROQ_API_KEY')
 NETLIFY_AUTH_TOKEN = os.environ.get('NETLIFY_AUTH_TOKEN')
-NETLIFY_SITE_ID    = os.environ.get('NETLIFY_SITE_ID', 'b6e1ba3f-9f5e-46c1-984a-10c3b5fa89de')
+NETLIFY_SITE_ID    = os.environ.get('NETLIFY_SITE_ID')
 STORIES_FILE       = 'stories.json'
 MAX_NEW_STORIES    = ARGS.limit
+
+# Validate required env vars
+if not NETLIFY_SITE_ID:
+    log.error("NETLIFY_SITE_ID not set")
+    sys.exit(1)
 
 # Retry settings
 MAX_RETRIES    = 3
