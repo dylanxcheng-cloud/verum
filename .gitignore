@@ -56,10 +56,12 @@ Thumbs.db
 *.log
 logs/
 
-# Node (if using frontend tools)
+# Node & Vite
 node_modules/
 npm-debug.log
 yarn-error.log
+dist/
+.vite/
 
 # IDE debugging
 .vscode/launch.json

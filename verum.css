@@ -148,7 +148,6 @@ nav {
 .story-thumb img {
   width: 100%; height: 100%; object-fit: cover;
   transition: transform .3s;
-  loading: lazy;
 }
 .story-card:hover .story-thumb img { transform: scale(1.05); }
 
