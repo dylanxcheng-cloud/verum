@@ -77,7 +77,11 @@ const StoryImage = memo(function StoryImage({ src, alt, className }) {
 
 const CategoryBadge = memo(function CategoryBadge({ cat, linked = false }) {
   if (linked) {
-    return <a href={CAT_URL(cat)} className="hero-cat category-link">{cat}</a>;
+    return (
+      <a href={CAT_URL(cat)} className="hero-cat category-link">
+        {cat}
+      </a>
+    );
   }
   return <span className="hero-cat">{cat}</span>;
 });
@@ -87,7 +91,9 @@ function SectionHeader({ label, seeAllCat }) {
     <div className="section-header">
       <span className="section-header-label">{label}</span>
       {seeAllCat && (
-        <a href={CAT_URL(seeAllCat)} className="see-all-link">See all →</a>
+        <a href={CAT_URL(seeAllCat)} className="see-all-link">
+          See all →
+        </a>
       )}
       <div className="section-header-line" />
     </div>
@@ -110,9 +116,13 @@ function ErrorState({ message, onRetry }) {
       <div className="error-title">Something went wrong</div>
       <div className="error-msg">{message}</div>
       {onRetry && (
-        <button className="retry-btn" onClick={onRetry}>Try again</button>
+        <button className="retry-btn" onClick={onRetry}>
+          Try again
+        </button>
       )}
-      <a href="/" className="error-link">← Back to home</a>
+      <a href="/" className="error-link">
+        ← Back to home
+      </a>
     </div>
   );
 }
@@ -131,11 +141,7 @@ const HeroSection = memo(function HeroSection({ story }) {
           &nbsp;·&nbsp;{story.read || '3 min read'}
         </div>
       </div>
-      <a
-        href={STORY_URL(story.id)}
-        className="card-link"
-        aria-label={`Read: ${story.title}`}
-      />
+      <a href={STORY_URL(story.id)} className="card-link" aria-label={`Read: ${story.title}`} />
     </div>
   );
 });
@@ -153,11 +159,7 @@ const StackItem = memo(function StackItem({ story }) {
           {timeAgo(story.time)} · {story.author}
         </div>
       </div>
-      <a
-        href={STORY_URL(story.id)}
-        className="card-link"
-        aria-label={`Read: ${story.title}`}
-      />
+      <a href={STORY_URL(story.id)} className="card-link" aria-label={`Read: ${story.title}`} />
     </div>
   );
 });
@@ -175,11 +177,7 @@ const StoryCard = memo(function StoryCard({ story }) {
           {timeAgo(story.time)} · {story.author}
         </div>
       </div>
-      <a
-        href={STORY_URL(story.id)}
-        className="card-link"
-        aria-label={story.title}
-      />
+      <a href={STORY_URL(story.id)} className="card-link" aria-label={story.title} />
     </article>
   );
 });
@@ -197,11 +195,7 @@ const WorldItem = memo(function WorldItem({ story }) {
           {timeAgo(story.time)} · {story.author || story.source}
         </div>
       </div>
-      <a
-        href={STORY_URL(story.id)}
-        className="card-link"
-        aria-label={`Read: ${story.title}`}
-      />
+      <a href={STORY_URL(story.id)} className="card-link" aria-label={`Read: ${story.title}`} />
     </div>
   );
 });
@@ -209,7 +203,9 @@ const WorldItem = memo(function WorldItem({ story }) {
 const MostReadItem = memo(function MostReadItem({ title, index }) {
   return (
     <div className="most-read-item">
-      <span className="most-read-num" aria-hidden="true">{index + 1}</span>
+      <span className="most-read-num" aria-hidden="true">
+        {index + 1}
+      </span>
       <span className="most-read-title">{title}</span>
     </div>
   );
@@ -285,15 +281,9 @@ export default function HomePage() {
 
   const { stories, featured, mostRead, events } = data;
   const heroStory = stories[featured.hero];
-  const stackStories = (featured.stack || [])
-    .map((id) => stories[id])
-    .filter(Boolean);
-  const latestStories = (featured.latest || [])
-    .map((id) => stories[id])
-    .filter(Boolean);
-  const worldStories = (featured.world || [])
-    .map((id) => stories[id])
-    .filter(Boolean);
+  const stackStories = (featured.stack || []).map((id) => stories[id]).filter(Boolean);
+  const latestStories = (featured.latest || []).map((id) => stories[id]).filter(Boolean);
+  const worldStories = (featured.world || []).map((id) => stories[id]).filter(Boolean);
 
   if (!heroStory) {
     return <LoadingState message="No stories available yet." />;

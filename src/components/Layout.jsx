@@ -13,7 +13,7 @@ export default function Layout({ children, currentPage }) {
         weekday: 'long',
         year: 'numeric',
         month: 'long',
-        day: 'numeric'
+        day: 'numeric',
       });
     }
 
@@ -23,7 +23,7 @@ export default function Layout({ children, currentPage }) {
     }
 
     // Highlight nav item
-    document.querySelectorAll('.nav-item').forEach(el => {
+    document.querySelectorAll('.nav-item').forEach((el) => {
       el.classList.toggle('active', el.dataset.page === currentPage);
     });
   }, [currentPage]);
@@ -44,7 +44,9 @@ export default function Layout({ children, currentPage }) {
       <header>
         <a href="/">
           <div className="masthead">
-            <div className="masthead-logo">Ver<span className="bull">u</span>m</div>
+            <div className="masthead-logo">
+              Ver<span className="bull">u</span>m
+            </div>
             <div className="masthead-rule"></div>
             <div className="masthead-tagline">"The truth for all."</div>
           </div>
@@ -54,30 +56,70 @@ export default function Layout({ children, currentPage }) {
       {/* NAV */}
       <nav aria-label="Main navigation">
         <div className="nav-inner">
-          <span className="nav-item" data-page="home" onClick={() => location.href='/'}>Home</span>
-          <span className="nav-item" data-page="news" onClick={() => location.href='/category.html?cat=News'}>News</span>
-          <span className="nav-item" data-page="world" onClick={() => location.href='/category.html?cat=World'}>World</span>
-          <span className="nav-item" data-page="politics" onClick={() => location.href='/category.html?cat=Politics'}>Politics</span>
-          <span className="nav-item" data-page="sports" onClick={() => location.href='/category.html?cat=Sports'}>Sports</span>
-          <span className="nav-item" data-page="health" onClick={() => location.href='/category.html?cat=Health'}>Health</span>
-          <span className="nav-item" data-page="science" onClick={() => location.href='/category.html?cat=Science'}>Science</span>
+          <span className="nav-item" data-page="home" onClick={() => (location.href = '/')}>
+            Home
+          </span>
+          <span
+            className="nav-item"
+            data-page="news"
+            onClick={() => (location.href = '/category.html?cat=News')}
+          >
+            News
+          </span>
+          <span
+            className="nav-item"
+            data-page="world"
+            onClick={() => (location.href = '/category.html?cat=World')}
+          >
+            World
+          </span>
+          <span
+            className="nav-item"
+            data-page="politics"
+            onClick={() => (location.href = '/category.html?cat=Politics')}
+          >
+            Politics
+          </span>
+          <span
+            className="nav-item"
+            data-page="sports"
+            onClick={() => (location.href = '/category.html?cat=Sports')}
+          >
+            Sports
+          </span>
+          <span
+            className="nav-item"
+            data-page="health"
+            onClick={() => (location.href = '/category.html?cat=Health')}
+          >
+            Health
+          </span>
+          <span
+            className="nav-item"
+            data-page="science"
+            onClick={() => (location.href = '/category.html?cat=Science')}
+          >
+            Science
+          </span>
         </div>
       </nav>
 
       {/* BREAKING NEWS */}
       <div className="breaking" role="marquee" aria-live="polite" aria-label="Breaking news">
         <span className="breaking-label">Breaking</span>
-        <div className="breaking-ticker"><span id="breaking-text">Loading...</span></div>
+        <div className="breaking-ticker">
+          <span id="breaking-text">Loading...</span>
+        </div>
       </div>
 
       {/* PAGE CONTENT */}
-      <main className="page">
-        {children}
-      </main>
+      <main className="page">{children}</main>
 
       {/* FOOTER */}
       <footer>
-        <div className="footer-logo">Ver<span className="bull">u</span>m</div>
+        <div className="footer-logo">
+          Ver<span className="bull">u</span>m
+        </div>
         <div className="footer-tagline">"The truth for all."</div>
         <nav className="footer-links" aria-label="Footer navigation">
           <a href="/">Home</a>
