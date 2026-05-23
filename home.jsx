@@ -1,9 +1,75 @@
-/* global React, ReactDOM, timeAgo, loadStories, initPage */
 // @ts-check
-
 'use strict';
 
 const { useState, useEffect, useCallback, useRef, memo } = React;
+
+// Initialize page (date, footer, nav highlighting)
+function setDate() {
+  const el = document.getElementById('site-date');
+  if (el) el.textContent = new Date().toLocaleDateString('en-US', {
+    weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
+  });
+}
+
+function setFooterCopy() {
+  const el = document.getElementById('footer-copy');
+  if (el) el.textContent = `© ${new Date().getFullYear()} Verum. All rights reserved.`;
+}
+
+function highlightNav(page) {
+  document.querySelectorAll('.nav-item').forEach(el => {
+    el.classList.toggle('active', el.dataset.page === page);
+  });
+}
+
+function initPage(activePage) {
+  setDate();
+  setFooterCopy();
+  highlightNav(activePage);
+}
+
+// Utility functions
+function timeAgo(ts) {
+  const diff = Math.floor((Date.now() - new Date(ts)) / 1000);
+  if (diff < 60) return 'Just now';
+  if (diff < 3600) { const m = Math.floor(diff / 60); return `${m} minute${m > 1 ? 's' : ''} ago`; }
+  if (diff < 86400) { const h = Math.floor(diff / 3600); return `${h} hour${h > 1 ? 's' : ''} ago`; }
+  if (diff < 604800) { const d = Math.floor(diff / 86400); return `${d} day${d > 1 ? 's' : ''} ago`; }
+  return new Date(ts).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+}
+
+async function loadStories() {
+  const res = await fetch('stories.json');
+  if (!res.ok) throw new Error(`Failed to load stories.json: HTTP ${res.status}`);
+  const data = await res.json();
+  
+  // If stories and featured exist, return as-is
+  if (data.stories && data.featured) return data;
+  
+  // Legacy structure — normalize on the fly
+  const stories = {};
+  const featured = { hero: null, stack: [], latest: [], world: [] };
+
+  function addStory(s, slot) {
+    if (!s || !s.id) return;
+    if (!s.author && s.source) s.author = s.source;
+    stories[s.id] = s;
+    if (slot === 'hero') featured.hero = s;
+    else if (slot) featured[slot].push(s);
+  }
+
+  if (data.hero) addStory(data.hero, 'hero');
+  (data.stack || []).forEach(s => addStory(s, 'stack'));
+  (data.latest || []).forEach(s => addStory(s, 'latest'));
+  (data.world || []).forEach(s => addStory(s, 'world'));
+
+  return { stories, featured };
+}
+
+// Make functions globally accessible for JSX components
+window.timeAgo = timeAgo;
+window.loadStories = loadStories;
+window.initPage = initPage;
 
 initPage('home');
 
