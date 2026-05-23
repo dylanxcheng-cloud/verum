@@ -4,9 +4,73 @@
  */
 
 import type { Story, StoriesData } from '../types/index.js';
+import { generatePlaceholderImageUrl, getOptimizedImageUrl } from '../utils/images.js';
+
+/**
+ * Process stories to ensure valid image URLs
+ * Generates placeholders for missing or invalid images
+ */
+function processStoriesImages(data: StoriesData): StoriesData {
+  const processedStories: Record<string, Story> = {};
+
+  // Process individual stories
+  Object.entries(data.stories).forEach(([id, story]) => {
+    const fallbackImage = generatePlaceholderImageUrl(id, story.title, story.category);
+    processedStories[id] = {
+      ...story,
+      image: getOptimizedImageUrl(story.image, fallbackImage),
+    };
+  });
+
+  // Process featured section stories
+  const processedData: StoriesData = {
+    ...data,
+    stories: processedStories,
+    featured: {
+      ...data.featured,
+      hero: data.featured.hero
+        ? {
+            ...data.featured.hero,
+            image: getOptimizedImageUrl(
+              data.featured.hero.image,
+              generatePlaceholderImageUrl(
+                data.featured.hero.id,
+                data.featured.hero.title,
+                data.featured.hero.category
+              )
+            ),
+          }
+        : null,
+      stack: data.featured.stack.map((story) => ({
+        ...story,
+        image: getOptimizedImageUrl(
+          story.image,
+          generatePlaceholderImageUrl(story.id, story.title, story.category)
+        ),
+      })),
+      latest: data.featured.latest.map((story) => ({
+        ...story,
+        image: getOptimizedImageUrl(
+          story.image,
+          generatePlaceholderImageUrl(story.id, story.title, story.category)
+        ),
+      })),
+      world: data.featured.world.map((story) => ({
+        ...story,
+        image: getOptimizedImageUrl(
+          story.image,
+          generatePlaceholderImageUrl(story.id, story.title, story.category)
+        ),
+      })),
+    },
+  };
+
+  return processedData;
+}
 
 /**
  * Load all stories from stories.json
+ * Automatically processes images for proper display
  * @throws Error if fetch fails or JSON is invalid
  */
 export async function loadStories(): Promise<StoriesData> {
@@ -19,7 +83,11 @@ export async function loadStories(): Promise<StoriesData> {
     }
 
     const data: StoriesData = await res.json();
-    return data;
+
+    // Process images to ensure valid URLs
+    const processedData = processStoriesImages(data);
+
+    return processedData;
   } catch (error) {
     console.error('[Verum API] loadStories error:', error);
     throw error;

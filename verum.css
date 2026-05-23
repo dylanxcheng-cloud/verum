@@ -141,6 +141,20 @@ nav {
 }
 .story-card a.card-link:focus { outline: none; }
 
+/* Full-card link styling for hero, stack, and world sections */
+.hero-main a.card-link,
+.hero-stack-item a.card-link,
+.world-item a.card-link {
+  position: absolute; inset: 0;
+  z-index: 2;
+}
+
+.hero-main a.card-link:focus,
+.hero-stack-item a.card-link:focus,
+.world-item a.card-link:focus {
+  outline: none;
+}
+
 .story-thumb {
   height: 150px; overflow: hidden;
   background: var(--placeholder-bg); flex-shrink: 0;

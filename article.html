@@ -65,11 +65,12 @@
     <div class="footer-copy" id="footer-copy"></div>
   </footer>
 
-  <!-- React 18 + Babel (no build step needed) -->
+  <!-- React 18 -->
   <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
   <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-  <script src="shared.js"></script>
-  <script type="text/babel" src="article.js"></script>
+  
+  <!-- Modules -->
+  <script type="module" src="shared.js"></script>
+  <script type="module" src="article.jsx"></script>
 </body>
 </html>
