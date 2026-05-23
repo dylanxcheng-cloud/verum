@@ -28,6 +28,97 @@ function initPage(activePage) {
   highlightNav(activePage);
 }
 
+// ── IMAGE PROCESSING ─────────────────────────────────────────────────────────
+
+/**
+ * Generate a placeholder image URL using DiceBear API
+ * Creates unique, deterministic placeholders based on story ID and title
+ */
+function generatePlaceholderImageUrl(storyId, title, _category) {
+  const seed = encodeURIComponent(`verum-${storyId}-${title}`.substring(0, 50));
+  return `https://api.dicebear.com/7.x/shapes/svg?seed=${seed}&backgroundColor=1a1a1a&scale=80`;
+}
+
+/**
+ * Get category color for visual identification
+ */
+function getCategoryColor(category) {
+  const colors = {
+    technology: '#3B82F6',
+    science: '#10B981',
+    politics: '#EF4444',
+    world: '#F59E0B',
+    news: '#8B5CF6',
+    business: '#06B6D4',
+    sports: '#EC4899',
+    health: '#14B8A6',
+  };
+  return colors[(category || '').toLowerCase()] || '#6B7280';
+}
+
+/**
+ * Validate image URL or return fallback placeholder
+ */
+function getOptimizedImageUrl(url, fallback) {
+  // If URL is empty, missing, or looks invalid, return fallback
+  if (!url || typeof url !== 'string' || url.trim().length === 0) {
+    return fallback;
+  }
+  return url;
+}
+
+/**
+ * Process all stories to ensure valid image URLs
+ * Generates placeholders for missing or invalid images
+ */
+function processStoriesImages(data) {
+  if (!data.stories) return data;
+
+  const processedStories = {};
+  Object.entries(data.stories).forEach(([id, story]) => {
+    const fallbackImage = generatePlaceholderImageUrl(id, story.title, story.category);
+    processedStories[id] = {
+      ...story,
+      image: getOptimizedImageUrl(story.image, fallbackImage),
+    };
+  });
+
+  // Process featured section if it exists
+  if (data.featured) {
+    const featured = { ...data.featured };
+    
+    if (featured.hero) {
+      const fallback = generatePlaceholderImageUrl(
+        featured.hero.id,
+        featured.hero.title,
+        featured.hero.category
+      );
+      featured.hero = {
+        ...featured.hero,
+        image: getOptimizedImageUrl(featured.hero.image, fallback),
+      };
+    }
+
+    ['stack', 'latest', 'world'].forEach(section => {
+      if (featured[section]?.length > 0) {
+        featured[section] = featured[section].map((story) => ({
+          ...story,
+          image: getOptimizedImageUrl(
+            story.image,
+            generatePlaceholderImageUrl(story.id, story.title, story.category)
+          ),
+        }));
+      }
+    });
+
+    return { ...data, stories: processedStories, featured };
+  }
+
+  return { ...data, stories: processedStories };
+}
+
+// ── UTILITY FUNCTIONS ─────────────────────────────────────────────────────────
+
 // Utility functions - expose to global scope
 function timeAgo(ts) {
   const diff = Math.floor((Date.now() - new Date(ts)) / 1000);
@@ -47,8 +138,9 @@ async function loadStories() {
   if (!res.ok) throw new Error(`Failed to load stories.json: HTTP ${res.status}`);
   const data = await res.json();
   
-  // If stories and featured exist, return as-is
-  if (data.stories && data.featured) return data;
+  // Process images to ensure valid URLs with fallback placeholders
+  const processedData = processStoriesImages(data);
+  if (processedData.stories && processedData.featured) return processedData;
   
   // Legacy structure — normalize on the fly
   const stories = {};
@@ -67,7 +159,8 @@ async function loadStories() {
   (data.latest || []).forEach(s => addStory(s, 'latest'));
   (data.world || []).forEach(s => addStory(s, 'world'));
 
-  return { stories, featured };
+  const normalized = { stories, featured };
+  return processStoriesImages(normalized);
 }
 
 // Make functions globally accessible for JSX components
