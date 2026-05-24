@@ -43,6 +43,7 @@ log = logging.getLogger('verum')
 GROQ_API_KEY       = os.environ.get('GROQ_API_KEY')
 NETLIFY_AUTH_TOKEN = os.environ.get('NETLIFY_AUTH_TOKEN')
 NETLIFY_SITE_ID    = os.environ.get('NETLIFY_SITE_ID')
+UNSPLASH_API_KEY   = os.environ.get('UNSPLASH_API_KEY')  # Optional
 STORIES_FILE       = 'stories.json'
 MAX_NEW_STORIES    = ARGS.limit
 
@@ -94,6 +95,65 @@ def make_stable_id(entry, source_slug):
     else:
         raw = f"{source_slug}:{entry.get('title', '')}"
     return f"{source_slug}_{hashlib.sha256(raw.encode()).hexdigest()[:8]}"
+
+# ── IMAGE FETCHING ───────────────────────────────────────────────────────────
+
+def extract_keywords(text, max_keywords=3):
+    """Extract 1-3 keywords from text (remove common words)."""
+    if not text:
+        return []
+    stop_words = {
+        'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for',
+        'of', 'with', 'by', 'from', 'is', 'are', 'was', 'were', 'be', 'been',
+        'have', 'has', 'had', 'do', 'does', 'did', 'will', 'would', 'could',
+        'should', 'may', 'might', 'can', 'must', 'says', 'said', 'say',
+    }
+    words = [w.lower() for w in text.split() if len(w) > 3 and w.lower() not in stop_words]
+    # Return first N non-stop words, prioritizing first few
+    return words[:max_keywords]
+
+def fetch_image_from_unsplash(keywords):
+    """Fetch a random image from Unsplash based on keywords."""
+    if not UNSPLASH_API_KEY or not keywords:
+        return None
+    
+    try:
+        query = ' '.join(keywords[:2])  # Use first 1-2 keywords
+        url = 'https://api.unsplash.com/photos/random'
+        params = {
+            'query': query,
+            'client_id': UNSPLASH_API_KEY,
+            'w': 800,
+            'h': 450,
+            'fit': 'crop',
+        }
+        res = requests.get(url, params=params, timeout=10)
+        if res.status_code == 200:
+            data = res.json()
+            return data.get('urls', {}).get('raw')
+    except Exception as e:
+        log.debug(f"Unsplash fetch failed: {e}")
+    return None
+
+def generate_dicebear_url(story_id, title):
+    """Generate a DiceBear procedural placeholder image URL."""
+    seed = f"verum-{story_id}-{title}".replace(' ', '-')[:50]
+    return f"https://api.dicebear.com/7.x/shapes/svg?seed={seed}&backgroundColor=1a1a1a&scale=80"
+
+def get_image_for_story(story_id, title, summary):
+    """Get image URL with fallback chain: Unsplash → DiceBear → Placeholder."""
+    # Try Unsplash
+    keywords = extract_keywords(f"{title} {summary}")
+    if keywords:
+        img_url = fetch_image_from_unsplash(keywords)
+        if img_url:
+            log.info(f"  → Image: Unsplash ({keywords[0]})")
+            return img_url
+    
+    # Fall back to DiceBear
+    img_url = generate_dicebear_url(story_id, title)
+    log.info(f"  → Image: DiceBear placeholder")
+    return img_url
 
 # ── SANITIZATION ──────────────────────────────────────────────────────────────
 
@@ -251,7 +311,10 @@ Return ONLY the article body. No headline, no byline, no labels."""
 # }
 
 def build_story_object(item, content):
-    """Build a normalized story object."""
+    """Build a normalized story object with auto-fetched image."""
+    # Get image with fallback chain
+    image_url = get_image_for_story(item['id'], item['title'], item['summary'])
+    
     return {
         'id':          item['id'],
         'title':       item['title'],
@@ -260,7 +323,7 @@ def build_story_object(item, content):
         'source':      item['source'],
         'time':        datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%S'),
         'read':        '3 min read',
-        'image':       f"images/{item['id']}.jpg",
+        'image':       image_url,
         'content':     content,
         'original_url':item.get('original_url', ''),
         'guid':        item.get('guid', ''),
