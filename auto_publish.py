@@ -47,10 +47,14 @@ UNSPLASH_API_KEY   = os.environ.get('UNSPLASH_API_KEY')  # Optional
 STORIES_FILE       = 'stories.json'
 MAX_NEW_STORIES    = ARGS.limit
 
-# Validate required env vars
-if not NETLIFY_SITE_ID:
-    log.error("NETLIFY_SITE_ID not set")
-    sys.exit(1)
+# Validate required env vars (skip Netlify/Groq checks in --dry-run)
+if not ARGS.dry_run:
+    if not NETLIFY_SITE_ID:
+        log.error("NETLIFY_SITE_ID not set")
+        sys.exit(1)
+    if not GROQ_API_KEY:
+        log.error("GROQ_API_KEY not set")
+        sys.exit(1)
 
 # Retry settings
 MAX_RETRIES    = 3
