@@ -385,7 +385,7 @@ def migrate_legacy_structure(data):
     }
 
 def inject_new_stories(data, new_stories):
-    """Inject new stories into the flat structure."""
+    """Inject new stories into the flat structure and update all sections."""
     stories    = data['stories']
     featured   = data['featured']
     cat_index  = data['categoryIndex']
@@ -419,6 +419,20 @@ def inject_new_stories(data, new_stories):
             _add_to_category(cat_index, stories, sid)
             log.info(f"→ {cat} bank: {story['title'][:60]}")
 
+    # Update featured sections with new categories
+    featured = update_featured_stack(cat_index, data, new_stories)
+    
+    # Update breaking news
+    data['breaking'] = select_breaking_news(stories, new_stories)
+    
+    # Update events
+    existing_events = data.get('events', [])
+    new_events = generate_events(stories, new_stories)
+    data['events'] = new_events + existing_events[:2]  # Keep 2 oldest
+    
+    # Update most-read
+    data['mostRead'] = update_most_read(data, new_stories)
+
     data['stories']       = stories
     data['featured']      = featured
     data['categoryIndex'] = cat_index
@@ -434,6 +448,79 @@ def _add_to_category(cat_index, stories, sid):
         cat_index[cat].insert(0, sid)
     if len(cat_index[cat]) > 10:
         cat_index[cat].pop()
+
+# ── BREAKING NEWS & EVENTS ────────────────────────────────────────────────────
+
+def select_breaking_news(stories_dict, new_stories):
+    """Select most critical story for breaking news."""
+    if not new_stories:
+        return None
+    
+    # Prefer Politics or high-priority categories
+    priority_cats = {'Politics', 'Breaking', 'Emergency', 'World'}
+    
+    for story in new_stories:
+        if story['category'] in priority_cats:
+            log.info(f"⚠️  Breaking: {story['title'][:60]}")
+            return story['title'][:100]
+    
+    # Fall back to first story
+    return new_stories[0]['title'][:100]
+
+def generate_events(stories_dict, new_stories):
+    """Generate events from notable stories."""
+    events = []
+    
+    # Extract stories that mention dates, upcoming events, conferences
+    event_keywords = {'conference', 'summit', 'event', 'meeting', 'announces', 'opens', 'launches', 'starts'}
+    
+    for story in new_stories[:3]:  # Check first 3 new stories
+        title_lower = story['title'].lower()
+        if any(kw in title_lower for kw in event_keywords):
+            events.append({
+                'title': story['title'][:80],
+                'date': datetime.now(timezone.utc).strftime('%Y-%m-%d'),
+                'source': story.get('author', 'Verum News'),
+            })
+    
+    log.info(f"📅 Generated {len(events)} events")
+    return events
+
+def update_most_read(stories_dict, new_stories):
+    """Track most-read articles (updated by viewing)."""
+    # Combine new stories with existing most-read, dedupe, take top 4
+    most_read_titles = set()
+    for story in new_stories[:2]:  # New stories get priority
+        most_read_titles.add(story['title'][:80])
+    
+    # Keep some existing popular stories
+    existing_most_read = stories_dict.get('mostRead', [])
+    for title in existing_most_read[:2]:
+        most_read_titles.add(title)
+    
+    result = list(most_read_titles)[:4]
+    log.info(f"🔥 Updated most-read: {len(result)} stories tracked")
+    return result
+
+def update_featured_stack(cat_index, stories_dict, new_stories):
+    """Intelligently update featured stack sections."""
+    featured = stories_dict.get('featured', {})
+    
+    # Categorize new stories
+    new_by_cat = {}
+    for story in new_stories:
+        cat = story['category']
+        if cat not in new_by_cat:
+            new_by_cat[cat] = []
+        new_by_cat[cat].append(story['id'])
+    
+    # Populate world section if it has world stories
+    if 'World' in new_by_cat and new_by_cat['World']:
+        featured['world'] = new_by_cat['World'][:4] + featured.get('world', [])
+        featured['world'] = featured['world'][:4]
+        log.info(f"🌍 Updated world section: {len(featured['world'])} stories")
+    
+    return featured
 
 # ── VALIDATION ────────────────────────────────────────────────────────────────
 
