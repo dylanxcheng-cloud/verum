@@ -99,10 +99,19 @@ export async function isImageAccessible(url: string, timeout: number = 5000): Pr
 
 /**
  * Get optimized image URL with lazy loading attributes
- * Includes fallback for missing images
+ * Only accepts valid URLs (http://, https://) - file paths are rejected
  */
 export function getOptimizedImageUrl(url: string | undefined, fallback: string): string {
-  return url && url.trim() ? url : fallback;
+  if (!url || typeof url !== 'string' || url.trim().length === 0) {
+    return fallback;
+  }
+  // Only accept valid HTTP/HTTPS URLs or data URIs
+  const validUrl = url.toLowerCase().trim();
+  if (validUrl.startsWith('http://') || validUrl.startsWith('https://') || validUrl.startsWith('data:')) {
+    return url;
+  }
+  // Reject file paths like "images/hero.jpg" - use fallback placeholder
+  return fallback;
 }
 
 /**

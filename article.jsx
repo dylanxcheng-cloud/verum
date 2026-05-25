@@ -58,13 +58,20 @@ function getCategoryColor(category) {
 
 /**
  * Validate image URL or return fallback placeholder
+ * Only accepts valid URLs (http://, https://) - file paths are rejected
  */
 function getOptimizedImageUrl(url, fallback) {
-  // If URL is empty, missing, or looks invalid, return fallback
+  // If URL is empty, missing, or not a string, return fallback
   if (!url || typeof url !== 'string' || url.trim().length === 0) {
     return fallback;
   }
-  return url;
+  // Only accept valid HTTP/HTTPS URLs or data URIs
+  const validUrl = url.toLowerCase().trim();
+  if (validUrl.startsWith('http://') || validUrl.startsWith('https://') || validUrl.startsWith('data:')) {
+    return url;
+  }
+  // Reject file paths like "images/hero.jpg" - use fallback placeholder
+  return fallback;
 }
 
 /**
