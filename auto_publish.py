@@ -62,27 +62,63 @@ RETRY_DELAY    = 2   # seconds, doubles each retry
 GROQ_TIMEOUT   = 30  # seconds
 
 # ── RSS FEEDS ─────────────────────────────────────────────────────────────────
+#
+# EXPANDED FEED LIST: High-quality, credible sources prioritizing depth & truth
+# - Tier 1: Major news bureaus (Reuters, BBC, AP, Guardian, NPR)
+# - Tier 2: Financial & specialized (Investopedia, ProPublica, Ars Technica)
+# - Tier 3: Academic & verification (The Conversation, Nature, College journalism)
+# - Tier 4: Sports & lifestyle (ESPN, Yahoo Sports, Axios)
+#
 
 FEEDS = [
-    { 'url': 'https://feeds.bbci.co.uk/news/world/rss.xml',                   'source': 'bbc',       'source_label': 'BBC News',     'category': 'World'    },
-    { 'url': 'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml', 'source': 'bbc',       'source_label': 'BBC News',     'category': 'Science'  },
-    { 'url': 'https://feeds.bbci.co.uk/news/health/rss.xml',                  'source': 'bbc',       'source_label': 'BBC News',     'category': 'Health'   },
-    { 'url': 'https://feeds.bbci.co.uk/news/politics/rss.xml',                'source': 'bbc',       'source_label': 'BBC News',     'category': 'Politics' },
-    { 'url': 'https://feeds.reuters.com/reuters/worldNews',                   'source': 'reuters',   'source_label': 'Reuters',      'category': 'World'    },
-    { 'url': 'https://feeds.reuters.com/reuters/politicsNews',                'source': 'reuters',   'source_label': 'Reuters',      'category': 'Politics' },
-    { 'url': 'https://feeds.apnews.com/rss/apf-topnews',                      'source': 'ap',        'source_label': 'AP News',      'category': 'News'     },
-    { 'url': 'https://feeds.apnews.com/rss/apf-sports',                       'source': 'ap',        'source_label': 'AP News',      'category': 'Sports'   },
-    { 'url': 'https://feeds.apnews.com/rss/apf-Health',                       'source': 'ap',        'source_label': 'AP News',      'category': 'Health'   },
-    { 'url': 'https://feeds.apnews.com/rss/apf-science',                      'source': 'ap',        'source_label': 'AP News',      'category': 'Science'  },
-    { 'url': 'https://www.espn.com/espn/rss/news',                            'source': 'espn',      'source_label': 'ESPN',         'category': 'Sports'   },
-    { 'url': 'https://feeds.npr.org/1001/rss.xml',                            'source': 'npr',       'source_label': 'NPR',          'category': 'News'     },
-    { 'url': 'https://feeds.npr.org/1128/rss.xml',                            'source': 'npr',       'source_label': 'NPR',          'category': 'Health'   },
-    { 'url': 'https://feeds.npr.org/1007/rss.xml',                            'source': 'npr',       'source_label': 'NPR',          'category': 'Science'  },
-    { 'url': 'https://www.theguardian.com/world/rss',                         'source': 'guardian',  'source_label': 'The Guardian', 'category': 'World'    },
-    { 'url': 'https://www.theguardian.com/politics/rss',                      'source': 'guardian',  'source_label': 'The Guardian', 'category': 'Politics' },
-    { 'url': 'https://www.theguardian.com/science/rss',                       'source': 'guardian',  'source_label': 'The Guardian', 'category': 'Science'  },
-    { 'url': 'https://www.theguardian.com/society/rss',                       'source': 'guardian',  'source_label': 'The Guardian', 'category': 'Health'   },
-    { 'url': 'https://www.nasa.gov/rss/dyn/breaking_news.rss',                'source': 'nasa',      'source_label': 'NASA',         'category': 'Science'  },
+    # ── TIER 1: ESTABLISHED NEWS BUREAUS ──────────────────────────────────────
+    { 'url': 'https://feeds.bbci.co.uk/news/world/rss.xml',                   'source': 'bbc',           'source_label': 'BBC News',             'category': 'World'     },
+    { 'url': 'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml', 'source': 'bbc',           'source_label': 'BBC News',             'category': 'Science'   },
+    { 'url': 'https://feeds.bbci.co.uk/news/health/rss.xml',                  'source': 'bbc',           'source_label': 'BBC News',             'category': 'Health'    },
+    { 'url': 'https://feeds.bbci.co.uk/news/politics/rss.xml',                'source': 'bbc',           'source_label': 'BBC News',             'category': 'Politics'  },
+    { 'url': 'https://feeds.reuters.com/reuters/worldNews',                   'source': 'reuters',       'source_label': 'Reuters',              'category': 'World'     },
+    { 'url': 'https://feeds.reuters.com/reuters/politicsNews',                'source': 'reuters',       'source_label': 'Reuters',              'category': 'Politics'  },
+    { 'url': 'https://feeds.apnews.com/rss/apf-topnews',                      'source': 'ap',            'source_label': 'AP News',              'category': 'News'      },
+    { 'url': 'https://feeds.apnews.com/rss/apf-sports',                       'source': 'ap',            'source_label': 'AP News',              'category': 'Sports'    },
+    { 'url': 'https://feeds.apnews.com/rss/apf-Health',                       'source': 'ap',            'source_label': 'AP News',              'category': 'Health'    },
+    { 'url': 'https://feeds.apnews.com/rss/apf-science',                      'source': 'ap',            'source_label': 'AP News',              'category': 'Science'   },
+    { 'url': 'https://www.theguardian.com/world/rss',                         'source': 'guardian',      'source_label': 'The Guardian',         'category': 'World'     },
+    { 'url': 'https://www.theguardian.com/politics/rss',                      'source': 'guardian',      'source_label': 'The Guardian',         'category': 'Politics'  },
+    { 'url': 'https://www.theguardian.com/science/rss',                       'source': 'guardian',      'source_label': 'The Guardian',         'category': 'Science'   },
+    { 'url': 'https://www.theguardian.com/society/rss',                       'source': 'guardian',      'source_label': 'The Guardian',         'category': 'Health'    },
+    { 'url': 'https://feeds.npr.org/1001/rss.xml',                            'source': 'npr',           'source_label': 'NPR',                  'category': 'News'      },
+    { 'url': 'https://feeds.npr.org/1128/rss.xml',                            'source': 'npr',           'source_label': 'NPR',                  'category': 'Health'    },
+    { 'url': 'https://feeds.npr.org/1007/rss.xml',                            'source': 'npr',           'source_label': 'NPR',                  'category': 'Science'   },
+    
+    # ── TIER 2: FINANCIAL, TECH, INVESTIGATIVE (DEPTH & CITATIONS) ───────────
+    { 'url': 'https://www.investopedia.com/feed.xml',                         'source': 'investopedia',  'source_label': 'Investopedia',         'category': 'Business'  },
+    { 'url': 'https://feeds.propublica.org/nfl',                              'source': 'propublica',    'source_label': 'ProPublica',           'category': 'News'      },
+    { 'url': 'https://arstechnica.com/feed/',                                 'source': 'arstechnica',   'source_label': 'Ars Technica',         'category': 'Science'   },
+    { 'url': 'https://www.axios.com/feed/news',                               'source': 'axios',         'source_label': 'Axios',                'category': 'News'      },
+    { 'url': 'https://feeds.vox.com/rss/index.xml',                           'source': 'vox',           'source_label': 'Vox',                  'category': 'News'      },
+    { 'url': 'https://www.politico.com/rss/politics.xml',                     'source': 'politico',      'source_label': 'Politico',             'category': 'Politics'  },
+    { 'url': 'https://www.theatlantic.com/feed/rss/all/',                     'source': 'atlantic',      'source_label': 'The Atlantic',         'category': 'News'      },
+    { 'url': 'https://www.wired.com/feed/rss',                                'source': 'wired',         'source_label': 'WIRED',                'category': 'Science'   },
+    
+    # ── TIER 3: ACADEMIC, VERIFICATION, FACT-CHECKING (TRUTH-FOCUSED) ───────
+    { 'url': 'https://theconversation.com/us/articles.atom',                  'source': 'conversation',  'source_label': 'The Conversation',     'category': 'Science'   },
+    { 'url': 'https://www.nature.com/nature/current_issue/rss',               'source': 'nature',        'source_label': 'Nature',               'category': 'Science'   },
+    { 'url': 'https://feeds.sciencemag.org/science-news',                     'source': 'science',       'source_label': 'Science Magazine',     'category': 'Science'   },
+    { 'url': 'https://feeds.aip.org/feeds/latest-physics-news.xml',           'source': 'aip',           'source_label': 'AIP Physics News',     'category': 'Science'   },
+    { 'url': 'https://www.snopes.com/feed/',                                  'source': 'snopes',        'source_label': 'Snopes',               'category': 'News'      },
+    { 'url': 'https://fullfact.org/feed/',                                    'source': 'fullfact',      'source_label': 'Full Fact',            'category': 'News'      },
+    
+    # ── TIER 4: SPORTS, COLLEGE JOURNALISM, SPECIALIZED ──────────────────────
+    { 'url': 'https://www.espn.com/espn/rss/news',                            'source': 'espn',          'source_label': 'ESPN',                 'category': 'Sports'    },
+    { 'url': 'https://sports.yahoo.com/rss/headlines.rss',                    'source': 'yahsports',     'source_label': 'Yahoo Sports',         'category': 'Sports'    },
+    { 'url': 'https://www.cjr.org/feed',                                      'source': 'cjr',           'source_label': 'Columbia Journalism Review', 'category': 'News' },
+    { 'url': 'https://news.columbia.edu/feed/',                               'source': 'columbiauniv',  'source_label': 'Columbia University News', 'category': 'News' },
+    { 'url': 'https://news.yale.edu/feed.xml',                                'source': 'yaleuniv',      'source_label': 'Yale University News',  'category': 'News'      },
+    { 'url': 'https://news.mit.edu/feed.xml',                                 'source': 'mituniv',       'source_label': 'MIT News',             'category': 'Science'   },
+    { 'url': 'https://news.stanford.edu/feed/',                               'source': 'stanforduniv',  'source_label': 'Stanford News',        'category': 'Science'   },
+    { 'url': 'https://news.berkeley.edu/feed/',                               'source': 'berkeleyuniv',  'source_label': 'UC Berkeley News',     'category': 'Science'   },
+    { 'url': 'https://www.nasa.gov/rss/dyn/breaking_news.rss',                'source': 'nasa',          'source_label': 'NASA',                 'category': 'Science'   },
+    { 'url': 'https://www.bls.gov/feed/news.xml',                             'source': 'bls',           'source_label': 'U.S. Bureau of Labor Statistics', 'category': 'Business' },
 ]
 
 # ── STABLE ID GENERATION ──────────────────────────────────────────────────────
@@ -255,21 +291,46 @@ def rewrite_with_groq(item):
         return None
 
     client = Groq(api_key=GROQ_API_KEY)
-    prompt = f"""You are a journalist for Verum, a no-nonsense news site with the tagline "The truth for all."
-Verum reports facts clearly and concisely — no sensationalism, no opinion, no fluff.
+    prompt = f"""You are a senior journalist for Verum, a prestigious news publication dedicated to factual accuracy and depth.
+Verum's mission: "The truth for all" - comprehensive, well-sourced reporting that leaves no doubt about what occurred.
 
-Rewrite the following news item as a short Verum article with 3–4 paragraphs.
-- Write in plain, clear language
-- Stick strictly to the facts given
-- Do not add opinions, speculation, or editorializing
-- Do not mention the original source by name in the article body
-- Keep it under 250 words
-- Separate paragraphs with a single blank line
+REWRITE THE FOLLOWING NEWS ITEM AS A VERUM ARTICLE with these priorities:
+
+✓ ACCURACY & DEPTH
+  - Include specific facts, numbers, dates, names
+  - Provide context and background (why this matters)
+  - Explain the full scope of what occurred
+  - No generalizations without supporting details
+
+✓ CITATIONS & SOURCES
+  - Attribute claims to their original sources
+  - Identify who said what, when, and under what circumstances
+  - Include direct quotes when available
+  - Reference studies, reports, or official statements by name
+
+✓ COMPLETE CLARITY
+  - Write so readers have NO DOUBT what occurred
+  - Explain cause and effect relationships
+  - Address the "so what?" for each claim
+  - Avoid ambiguity or incomplete information
+
+✓ LENGTH & SUBSTANCE
+  - Write 4-6 substantial paragraphs (400-600 words target)
+  - Each paragraph develops a key idea with supporting details
+  - Use specific examples over generic statements
+  - Maintain journalistic tone (factual, never sensational)
+
+✓ STRUCTURE
+  - Opening paragraph: What happened (the facts, with key details)
+  - Middle paragraphs: Context, background, broader implications
+  - Closing paragraph: Why this matters and what comes next
+  - Separate paragraphs with blank lines
+
+OUTPUT ONLY THE ARTICLE BODY (no headline, no byline, no metadata).
+The article source is {item['source_label']}. Attribution is implied in the database.
 
 Source headline: {item['title']}
-Source summary: {item['summary']}
-
-Return ONLY the article body. No headline, no byline, no labels."""
+Source summary: {item['summary']}"""
 
     delay = RETRY_DELAY
     for attempt in range(1, MAX_RETRIES + 1):
@@ -277,12 +338,12 @@ Return ONLY the article body. No headline, no byline, no labels."""
             response = client.chat.completions.create(
                 model='llama-3.3-70b-versatile',
                 messages=[{'role': 'user', 'content': prompt}],
-                max_tokens=600,
-                temperature=0.4,
+                max_tokens=1000,  # Increased from 600 for longer articles
+                temperature=0.3,   # Slightly lower for more factual consistency
                 timeout=GROQ_TIMEOUT,
             )
             content = sanitize_text(response.choices[0].message.content)
-            if len(content) < 100:
+            if len(content) < 200:  # Increased minimum from 100
                 raise ValueError(f"Response too short ({len(content)} chars)")
             return content
         except Exception as e:
