@@ -24,9 +24,10 @@ from groq import Groq
 # ── ARGS ──────────────────────────────────────────────────────────────────────
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--dry-run',  action='store_true', help='Fetch + rewrite but do not save or deploy')
-parser.add_argument('--validate', action='store_true', help='Validate stories.json only')
-parser.add_argument('--limit',    type=int, default=6,  help='Max new stories per run (default 6)')
+parser.add_argument('--dry-run',   action='store_true', help='Fetch + rewrite but do not save or deploy')
+parser.add_argument('--validate',  action='store_true', help='Validate stories.json only')
+parser.add_argument('--synthesize', action='store_true', help='Combine similar articles from multiple credible sources (EXPERIMENTAL)')
+parser.add_argument('--limit',     type=int, default=6,  help='Max new stories per run (default 6)')
 ARGS = parser.parse_args()
 
 # ── LOGGING ───────────────────────────────────────────────────────────────────
@@ -447,6 +448,145 @@ Source summary: {item['summary']}"""
             delay *= 2
     return None
 
+# ── ARTICLE SYNTHESIS FROM MULTIPLE SOURCES ──────────────────────────────────
+
+def similarity_score(title1, title2):
+    """
+    Simple similarity check: count matching words.
+    Returns 0-1 score (higher = more similar).
+    """
+    words1 = set(w.lower() for w in title1.split() if len(w) > 3)
+    words2 = set(w.lower() for w in title2.split() if len(w) > 3)
+    if not words1 or not words2:
+        return 0
+    intersection = len(words1 & words2)
+    union = len(words1 | words2)
+    return intersection / union if union > 0 else 0
+
+def find_similar_articles(items, threshold=0.4):
+    """
+    Group articles by topic similarity.
+    Returns list of groups, where each group contains 1-3 related articles.
+    Groups are sorted by source credibility (Tier 1 > Tier 2 > Tier 3 > Tier 4).
+    """
+    source_tiers = {
+        'bbc': 1, 'reuters': 1, 'ap': 1, 'guardian': 1, 'npr': 1,
+        'investopedia': 2, 'propublica': 2, 'arstechnica': 2, 'axios': 2, 'vox': 2, 'politico': 2, 'atlantic': 2, 'wired': 2,
+        'conversation': 3, 'nature': 3, 'science': 3, 'aip': 3, 'snopes': 3, 'fullfact': 3,
+        'espn': 4, 'yahsports': 4, 'cjr': 4, 'columbiauniv': 4, 'yaleuniv': 4, 'mituniv': 4, 'stanforduniv': 4, 'berkeleyuniv': 4, 'nasa': 4, 'bls': 4,
+    }
+    
+    grouped = []
+    used = set()
+    
+    for i, item1 in enumerate(items):
+        if i in used:
+            continue
+        
+        group = [item1]
+        used.add(i)
+        
+        # Find similar items from higher credibility sources
+        for j, item2 in enumerate(items[i+1:], start=i+1):
+            if j in used:
+                continue
+            
+            score = similarity_score(item1['title'], item2['title'])
+            if score >= threshold:
+                tier1 = source_tiers.get(item1['source'], 5)
+                tier2 = source_tiers.get(item2['source'], 5)
+                
+                # Only add if equal or better credibility
+                if tier2 <= tier1:
+                    group.append(item2)
+                    used.add(j)
+                    if len(group) >= 3:  # Max 3 sources per synthesis
+                        break
+        
+        grouped.append(group)
+    
+    return grouped
+
+def rewrite_synthesized_articles(items):
+    """
+    Synthesize 2-3 articles from different credible sources into one comprehensive article.
+    Includes direct source attribution and is longer (800-1200 words).
+    """
+    if not GROQ_API_KEY or not items or len(items) < 2:
+        return None
+    
+    client = Groq(api_key=GROQ_API_KEY)
+    
+    # Build source information
+    sources_text = '\n'.join([
+        f"  Source {i+1}: {item['source_label']}\n    Title: {item['title']}\n    Summary: {item['summary'][:300]}"
+        for i, item in enumerate(items[:3])
+    ])
+    
+    prompt = f"""You are a senior investigative journalist synthesizing reporting from multiple credible sources.
+Create ONE comprehensive article that integrates all perspectives and information.
+
+SYNTHESIS GUIDELINES:
+
+✓ COMBINE SOURCES INTELLIGENTLY
+  - Weave information from all sources into one cohesive narrative
+  - Cite sources directly: "[According to {Source}...]" or "[{Source} reports...]"
+  - Prioritize information from Tier 1/2 sources
+  - Eliminate redundancy while preserving all unique facts
+
+✓ DEEP INVESTIGATION
+  - Write 8-10 substantial paragraphs (800-1200 words target)
+  - Go beyond headlines—include context, background, implications
+  - Add details that individual sources might have only partially covered
+  - Show how different sources complement each other
+
+✓ RIGOROUS ATTRIBUTION
+  - Every fact attribution to a source (use source labels provided)
+  - Use direct attribution: "Reuters reports", "BBC found", "NASA announced"
+  - Include direct quotes with source attribution when available
+  - Make source credibility transparent to readers
+
+✓ COMPLETE CLARITY
+  - Readers understand full scope of story and all perspectives
+  - Explain why each source's angle matters
+  - Show how pieces fit together
+  - Address implications and what happens next
+
+✓ JOURNALISTIC STANDARDS
+  - Factual, never sensational or speculative
+  - Balance all perspectives presented by sources
+  - Maintain neutral tone
+  - No conjecture—only what sources explicitly report
+
+SOURCES TO SYNTHESIZE:
+{sources_text}
+
+OUTPUT: Only the article body (no headline, no byline).
+Write this as a published investigative article that synthesizes all sources."""
+
+    delay = RETRY_DELAY
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = client.chat.completions.create(
+                model='llama-3.3-70b-versatile',
+                messages=[{'role': 'user', 'content': prompt}],
+                max_tokens=1500,  # Larger for synthesis
+                temperature=0.3,
+                timeout=GROQ_TIMEOUT,
+            )
+            content = sanitize_text(response.choices[0].message.content)
+            if len(content) < 400:  # Higher minimum for synthesis
+                raise ValueError(f"Synthesized response too short ({len(content)} chars)")
+            return content
+        except Exception as e:
+            if attempt == MAX_RETRIES:
+                log.warning(f"Synthesis failed after {MAX_RETRIES} attempts: {e}")
+                return None
+            log.debug(f"Synthesis retry {attempt}/{MAX_RETRIES}: {e}")
+            time.sleep(delay)
+            delay *= 2
+    return None
+
 # ── NEW STORIES.JSON STRUCTURE ────────────────────────────────────────────────
 #
 # {
@@ -832,10 +972,41 @@ def main():
         log.info("No new stories found — site is up to date")
         return
 
-    # Rewrite with Groq
+    # Rewrite with Groq (single articles or synthesized multi-source)
     log.info("Rewriting with Groq AI...")
     new_stories = []
-    for item in new_items:
+    
+    items_to_process = new_items
+    
+    # Optionally group and synthesize articles from multiple sources
+    if ARGS.synthesize:
+        log.info("Grouping similar articles for synthesis...")
+        grouped = find_similar_articles(new_items, threshold=0.4)
+        log.info(f"Found {len(grouped)} article groups ({len([g for g in grouped if len(g) > 1])} with multiple sources)")
+        
+        items_to_process = []
+        for group in grouped:
+            if len(group) >= 2:
+                # Synthesize multiple sources
+                log.info(f"Synthesizing {len(group)} sources: {group[0]['title'][:50]}...")
+                content = rewrite_synthesized_articles(group)
+                if content:
+                    # Use first item as base, mark as synthesized
+                    base_item = group[0]
+                    base_item['title'] = group[0]['title']  # Keep original title
+                    base_item['is_synthesized'] = True
+                    base_item['source_count'] = len(group)
+                    new_stories.append(build_story_object(base_item, content))
+                    log.info(f"✓ Synthesized from {len(group)} sources")
+                else:
+                    log.warning(f"✗ Synthesis failed, using single source")
+                    items_to_process.append(group[0])
+            else:
+                # Single article - add to processing queue
+                items_to_process.append(group[0])
+    
+    # Process remaining single articles
+    for item in items_to_process:
         log.info(f"Processing: {item['title'][:60]}...")
         content = rewrite_with_groq(item)
         if content:
