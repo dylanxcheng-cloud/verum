@@ -854,8 +854,40 @@ def update_featured_stack(cat_index, stories_dict, new_stories):
         featured['world'] = featured['world'][:4]
         log.info(f"🌍 Updated world section: {len(featured['world'])} stories")
     
-    return featured
+def update_featured_stack(cat_index, stories_dict, new_stories):
+    """Intelligently update featured stack sections."""
+    featured = stories_dict.get('featured', {})
 
+    # Categorize new stories
+    new_by_cat = {}
+    for story in new_stories:
+        cat = story['category']
+        if cat not in new_by_cat:
+            new_by_cat[cat] = []
+        new_by_cat[cat].append(story['id'])
+
+    # Populate world section if it has world stories
+    if 'World' in new_by_cat and new_by_cat['World']:
+        featured['world'] = new_by_cat['World'][:4] + featured.get('world', [])
+        featured['world'] = featured['world'][:4]
+        log.info(f"🌍 Updated world section: {len(featured['world'])} stories")
+
+    # Freshen the hero stack: surface the newest stories (plus the just-demoted
+    # hero and other recent items) beside the hero, so the three slots next to
+    # the big article actually rotate every run instead of going stale.
+    hero_id = featured.get('hero')
+    fresh = [s['id'] for s in new_stories if s['id'] != hero_id]
+    pool = fresh + list(featured.get('latest', [])) + list(featured.get('stack', []))
+    merged, seen = [], set()
+    for sid in pool:
+        if sid and sid != hero_id and sid not in seen:
+            merged.append(sid)
+            seen.add(sid)
+    if merged:
+        featured['stack'] = merged[:3]
+        log.info(f"🗞️  Updated hero stack: {len(featured['stack'])} stories")
+
+    return featured
 # ── VALIDATION ────────────────────────────────────────────────────────────────
 
 REQUIRED_STORY_FIELDS = ['id', 'title', 'time', 'image', 'content']
