@@ -35,8 +35,8 @@ function initPage(activePage) {
  * Creates unique, deterministic placeholders based on story ID and title
  */
 function generatePlaceholderImageUrl(storyId, title, _category) {
-  const seed = encodeURIComponent(`verum-${storyId}-${title}`.substring(0, 50));
-  return `https://api.dicebear.com/7.x/shapes/svg?seed=${seed}&backgroundColor=1a1a1a&scale=80`;
+  const seed = encodeURIComponent(`verum-${storyId}-${title}`).substring(0, 50);
+  return `https://api.dicebear.com/9.x/shapes/svg?seed=${seed}&backgroundColor=1a1a1a&scale=80`;
 }
 
 /**

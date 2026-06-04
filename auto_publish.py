@@ -21,6 +21,15 @@ import requests
 from datetime import datetime, timezone
 from groq import Groq
 
+try:
+    from dotenv import load_dotenv
+    # Load local env first (dev), then fall back to default .env.
+    load_dotenv('.env.local')
+    load_dotenv()
+except ImportError:
+    # python-dotenv is optional; in CI the vars come from the environment directly.
+    pass
+
 # ── ARGS ──────────────────────────────────────────────────────────────────────
 
 parser = argparse.ArgumentParser()
@@ -241,30 +250,46 @@ def fetch_image_from_unsplash(search_query):
     """Fetch a random image from Unsplash based on search query."""
     if not UNSPLASH_API_KEY or not search_query:
         return None
-    
+
     try:
         url = 'https://api.unsplash.com/photos/random'
+        headers = {
+            'Authorization': f'Client-ID {UNSPLASH_API_KEY}',
+            'Accept-Version': 'v1',
+        }
         params = {
             'query': search_query,
-            'client_id': UNSPLASH_API_KEY,
-            'w': 800,
-            'h': 450,
-            'fit': 'crop',
+            'orientation': 'landscape',
         }
-        res = requests.get(url, params=params, timeout=10)
+        res = requests.get(url, headers=headers, params=params, timeout=10)
         if res.status_code == 200:
             data = res.json()
+            # /photos/random does not honor w/h/fit params, so apply Imgix
+            # sizing to the raw URL ourselves to get an 800x450 cropped image.
             img_url = data.get('urls', {}).get('raw')
             if img_url:
-                return img_url
+                sep = '&' if '?' in img_url else '?'
+                return f"{img_url}{sep}w=800&h=450&fit=crop&crop=entropy"
+        else:
+            log.debug(f"Unsplash returned {res.status_code} for '{search_query}'")
     except Exception as e:
         log.debug(f"Unsplash fetch failed for '{search_query}': {e}")
     return None
 
 def generate_dicebear_url(story_id, title):
     """Generate a DiceBear procedural placeholder image URL."""
-    seed = f"verum-{story_id}-{title}".replace(' ', '-')[:50]
-    return f"https://api.dicebear.com/7.x/shapes/svg?seed={seed}&backgroundColor=1a1a1a&scale=80"
+    seed = encodeURIComponent_seed(story_id, title)
+    return f"https://api.dicebear.com/9.x/shapes/svg?seed={seed}&backgroundColor=1a1a1a&scale=80"
+
+def encodeURIComponent_seed(story_id, title):
+    """
+    Build the placeholder seed identically to the front-end (home.jsx /
+    article.jsx) so the server-side and client-side fallbacks resolve to the
+    SAME image. The JS does: encodeURIComponent(`verum-${id}-${title}`).substring(0,50)
+    """
+    from urllib.parse import quote
+    raw = f"verum-{story_id}-{title}"
+    return quote(raw, safe='')[:50]
 
 def get_image_for_story(story_id, title, summary, category='news'):
     """
