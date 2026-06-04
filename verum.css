@@ -307,6 +307,39 @@ nav {
 .article-body p { margin-bottom: 24px; }
 .article-body p:last-child { margin-bottom: 0; }
 
+/* Footnote citation markers */
+.footnote-ref { font-size: 0.7em; line-height: 0; vertical-align: super; }
+.footnote-ref a {
+  color: #8B9DFF;
+  text-decoration: none;
+  padding: 0 1px;
+}
+.footnote-ref a:hover { text-decoration: underline; }
+
+/* References / sources list */
+.article-references {
+  margin-top: 48px;
+  padding-top: 24px;
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+}
+.references-title {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #9A9A92;
+  margin-bottom: 16px;
+}
+.references-list {
+  padding-left: 20px;
+  font-size: 15px;
+  line-height: 1.7;
+  color: #C8C8C0;
+}
+.references-list li { margin-bottom: 8px; }
+.references-list a { color: #8B9DFF; text-decoration: none; }
+.references-list a:hover { text-decoration: underline; }
+.reference-backlink { font-size: 13px; opacity: 0.7; }
+
 /* Reading progress bar */
 .progress-bar {
   position: fixed; top: 0; left: 0; height: 3px;

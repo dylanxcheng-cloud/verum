@@ -209,17 +209,62 @@ function ReadingProgressBar() {
 
 // ── ARTICLE BODY ──────────────────────────────────────────────────────────────
 
-const ArticleBody = memo(function ArticleBody({ content }) {
+// Splits a paragraph on [n] footnote markers and renders each marker as a
+// superscript anchor linking to the matching reference at the bottom.
+function renderWithFootnotes(text, validRefs) {
+  const parts = text.split(/(\[\d+\])/g);
+  return parts.map((part, i) => {
+    const m = part.match(/^\[(\d+)\]$/);
+    if (m && validRefs.has(Number(m[1]))) {
+      const n = m[1];
+      return (
+        <sup key={i} className="footnote-ref">
+          <a href={`#ref-${n}`} id={`cite-${n}`} aria-label={`Source ${n}`}>[{n}]</a>
+        </sup>
+      );
+    }
+    return part;
+  });
+}
+
+const ArticleBody = memo(function ArticleBody({ content, sources }) {
   const paragraphs = content
     .split('\n')
     .filter(p => p.trim().length > 0);
 
+  const refs = Array.isArray(sources) ? sources : [];
+  const validRefs = new Set(refs.map(r => Number(r.n)));
+
   return (
     <div className="article-body" role="main">
-      {paragraphs.map((p, i) => <p key={i}>{p.trim()}</p>)}
+      {paragraphs.map((p, i) => (
+        <p key={i}>{renderWithFootnotes(p.trim(), validRefs)}</p>
+      ))}
+      {refs.length > 0 && <References sources={refs} />}
     </div>
   );
 });
+
+function References({ sources }) {
+  return (
+    <section className="article-references" aria-label="Sources">
+      <h2 className="references-title">Sources</h2>
+      <ol className="references-list">
+        {sources.map(s => (
+          <li key={s.n} id={`ref-${s.n}`} className="reference-item">
+            {s.url ? (
+              <a href={s.url} target="_blank" rel="noopener noreferrer">{s.label}</a>
+            ) : (
+              <span>{s.label}</span>
+            )}
+            {' '}
+            <a href={`#cite-${s.n}`} className="reference-backlink" aria-label="Back to citation">↩</a>
+          </li>
+        ))}
+      </ol>
+    </section>
+  );
+}
 
 // ── ARTICLE HERO IMAGE ────────────────────────────────────────────────────────
 
@@ -243,10 +288,6 @@ function ArticleHeroImage({ src, alt }) {
 function ArticleMeta({ story }) {
   return (
     <div className="article-meta">
-      <span className="article-author">
-        By {story.author || story.source || 'Staff'}
-      </span>
-      <span className="meta-dot" aria-hidden="true">·</span>
       <time className="article-time" dateTime={story.time}>
         {timeAgo(story.time)}
       </time>
@@ -322,7 +363,7 @@ function ArticlePage({ storyId }) {
 
       <ArticleHeroImage src={story.image} alt={story.title} />
 
-      <ArticleBody content={story.content} />
+      <ArticleBody content={story.content} sources={story.sources} />
     </div>
   );
 }

@@ -35,7 +35,9 @@ except ImportError:
 parser = argparse.ArgumentParser()
 parser.add_argument('--dry-run',   action='store_true', help='Fetch + rewrite but do not save or deploy')
 parser.add_argument('--validate',  action='store_true', help='Validate stories.json only')
-parser.add_argument('--synthesize', action='store_true', help='Combine similar articles from multiple credible sources (EXPERIMENTAL)')
+parser.add_argument('--no-synthesize', dest='synthesize', action='store_false',
+                    help='Disable multi-source synthesis (one article per source)')
+parser.set_defaults(synthesize=True)
 parser.add_argument('--limit',     type=int, default=6,  help='Max new stories per run (default 6)')
 ARGS = parser.parse_args()
 
@@ -69,7 +71,12 @@ if not ARGS.dry_run:
 # Retry settings
 MAX_RETRIES    = 3
 RETRY_DELAY    = 2   # seconds, doubles each retry
-GROQ_TIMEOUT   = 30  # seconds
+GROQ_TIMEOUT   = 90  # seconds (raised for long-form generation)
+
+# Long-form article settings
+ARTICLE_MAX_TOKENS   = 4096   # ≈3000 words headroom for 14-18 paragraph pieces
+ARTICLE_MIN_CHARS    = 1500   # reject anything shorter than a real long-form body
+WORDS_PER_MINUTE     = 220    # for read-time estimation
 
 # ── RSS FEEDS ─────────────────────────────────────────────────────────────────
 #
@@ -403,49 +410,53 @@ def fetch_all_rss():
 # ── GROQ REWRITE WITH RETRY ───────────────────────────────────────────────────
 
 def rewrite_with_groq(item):
-    """Rewrite an RSS item as a Verum article with retry/backoff."""
+    """
+    Rewrite an RSS item as a long-form Verum article with retry/backoff.
+    Returns (content, sources) where sources is a list of {n, label, url} dicts
+    referenced by [n] footnote markers in the body.
+    """
     if not GROQ_API_KEY:
         log.error("GROQ_API_KEY not set")
-        return None
+        return None, []
 
     client = Groq(api_key=GROQ_API_KEY)
+
+    # This single-source article still uses footnotes so the body format is
+    # identical to synthesized pieces (one reference: the originating source).
+    sources = [{
+        'n': 1,
+        'label': item['source_label'],
+        'url': item.get('original_url', ''),
+    }]
+
     prompt = f"""You are a senior journalist for Verum, a prestigious news publication dedicated to factual accuracy and depth.
-Verum's mission: "The truth for all" - comprehensive, well-sourced reporting that leaves no doubt about what occurred.
+Verum's mission: "The truth for all" — comprehensive, well-sourced reporting that leaves no doubt about what occurred.
 
-REWRITE THE FOLLOWING NEWS ITEM AS A VERUM ARTICLE with these priorities:
+Write a LONG-FORM, in-depth article based on the news item below.
 
-✓ ACCURACY & DEPTH
-  - Include specific facts, numbers, dates, names
-  - Provide context and background (why this matters)
-  - Explain the full scope of what occurred
-  - No generalizations without supporting details
+LENGTH (critical):
+  - Target 14 to 18 substantial paragraphs, roughly 1,800–2,500 words.
+  - This must read as a major feature, NOT a brief. Do not stop early.
+  - Each paragraph develops one idea fully with specific detail.
 
-✓ CITATIONS & SOURCES
-  - Attribute claims to their original sources
-  - Identify who said what, when, and under what circumstances
-  - Include direct quotes when available
-  - Reference studies, reports, or official statements by name
+DEPTH & SUBSTANCE:
+  - Lead with the core facts: who, what, when, where, specific numbers and names.
+  - Then expand into: background and history, why it matters, the mechanisms at play,
+    competing interpretations, affected parties, broader context, and likely next steps.
+  - Prefer concrete examples and specifics over generalization.
 
-✓ COMPLETE CLARITY
-  - Write so readers have NO DOUBT what occurred
-  - Explain cause and effect relationships
-  - Address the "so what?" for each claim
-  - Avoid ambiguity or incomplete information
+EVIDENCE & FOOTNOTES (critical formatting):
+  - When you state a fact drawn from the reporting, append a footnote marker [1].
+  - This article has ONE source, so every marker is [1].
+  - Do NOT write out a byline or the source name in prose — use the [1] marker only.
+  - Do NOT include a "References" or "Sources" list yourself; that is added automatically.
 
-✓ LENGTH & SUBSTANCE
-  - Write 4-6 substantial paragraphs (400-600 words target)
-  - Each paragraph develops a key idea with supporting details
-  - Use specific examples over generic statements
-  - Maintain journalistic tone (factual, never sensational)
+TONE & STRUCTURE:
+  - Factual, measured, never sensational. No conjecture beyond what the source supports.
+  - Open with the news, build through context and analysis, close on implications and what's next.
+  - Separate paragraphs with blank lines. Do NOT write a headline.
 
-✓ STRUCTURE
-  - Opening paragraph: What happened (the facts, with key details)
-  - Middle paragraphs: Context, background, broader implications
-  - Closing paragraph: Why this matters and what comes next
-  - Separate paragraphs with blank lines
-
-OUTPUT ONLY THE ARTICLE BODY (no headline, no byline, no metadata).
-The article source is {item['source_label']}. Attribution is implied in the database.
+OUTPUT ONLY THE ARTICLE BODY (no headline, no byline, no reference list).
 
 Source headline: {item['title']}
 Source summary: {item['summary']}"""
@@ -456,22 +467,22 @@ Source summary: {item['summary']}"""
             response = client.chat.completions.create(
                 model='llama-3.3-70b-versatile',
                 messages=[{'role': 'user', 'content': prompt}],
-                max_tokens=1000,  # Increased from 600 for longer articles
-                temperature=0.3,   # Slightly lower for more factual consistency
+                max_tokens=ARTICLE_MAX_TOKENS,
+                temperature=0.4,
                 timeout=GROQ_TIMEOUT,
             )
             content = sanitize_text(response.choices[0].message.content)
-            if len(content) < 200:  # Increased minimum from 100
+            if len(content) < ARTICLE_MIN_CHARS:
                 raise ValueError(f"Response too short ({len(content)} chars)")
-            return content
+            return content, sources
         except Exception as e:
             if attempt == MAX_RETRIES:
                 log.warning(f"Groq failed for '{item['title'][:50]}' after {MAX_RETRIES} attempts: {e}")
-                return None
+                return None, []
             log.debug(f"Groq retry {attempt}/{MAX_RETRIES}: {e}")
             time.sleep(delay)
             delay *= 2
-    return None
+    return None, []
 
 # ── ARTICLE SYNTHESIS FROM MULTIPLE SOURCES ──────────────────────────────────
 
@@ -534,60 +545,55 @@ def find_similar_articles(items, threshold=0.4):
 
 def rewrite_synthesized_articles(items):
     """
-    Synthesize 2-3 articles from different credible sources into one comprehensive article.
-    Includes direct source attribution and is longer (800-1200 words).
+    Synthesize 2-3 articles from different credible sources into one long-form
+    article with footnote-style attribution.
+    Returns (content, sources) where sources is a list of {n, label, url} dicts.
     """
     if not GROQ_API_KEY or not items or len(items) < 2:
-        return None
-    
+        return None, []
+
     client = Groq(api_key=GROQ_API_KEY)
-    
-    # Build source information
+
+    group = items[:3]
+    sources = [{
+        'n': i + 1,
+        'label': it['source_label'],
+        'url': it.get('original_url', ''),
+    } for i, it in enumerate(group)]
+
+    # Each source is numbered so the model can cite it as [1], [2], [3].
     sources_text = '\n'.join([
-        f"  Source {i+1}: {item['source_label']}\n    Title: {item['title']}\n    Summary: {item['summary'][:300]}"
-        for i, item in enumerate(items[:3])
+        f"  [{i+1}] {it['source_label']}\n      Title: {it['title']}\n      Summary: {it['summary'][:400]}"
+        for i, it in enumerate(group)
     ])
-    
-    prompt = f"""You are a senior investigative journalist synthesizing reporting from multiple credible sources.
-Create ONE comprehensive article that integrates all perspectives and information.
 
-SYNTHESIS GUIDELINES:
+    prompt = f"""You are a senior investigative journalist synthesizing reporting from multiple credible sources into ONE comprehensive Verum article.
 
-✓ COMBINE SOURCES INTELLIGENTLY
-  - Weave information from all sources into one cohesive narrative
-  - Cite sources directly: "[According to {Source}...]" or "[{Source} reports...]"
-  - Prioritize information from Tier 1/2 sources
-  - Eliminate redundancy while preserving all unique facts
+LENGTH (critical):
+  - Target 14 to 18 substantial paragraphs, roughly 1,800–2,500 words.
+  - This is a major investigative feature. Do not stop early or summarize tersely.
+  - Develop each idea fully; use the breadth of all {len(group)} sources to go deep.
 
-✓ DEEP INVESTIGATION
-  - Write 8-10 substantial paragraphs (800-1200 words target)
-  - Go beyond headlines—include context, background, implications
-  - Add details that individual sources might have only partially covered
-  - Show how different sources complement each other
+SYNTHESIS:
+  - Weave all sources into one cohesive narrative; eliminate redundancy but preserve every unique fact.
+  - Where sources differ, present both accounts and note the discrepancy.
+  - Build out background, mechanisms, affected parties, context, and what comes next.
 
-✓ RIGOROUS ATTRIBUTION
-  - Every fact attribution to a source (use source labels provided)
-  - Use direct attribution: "Reuters reports", "BBC found", "NASA announced"
-  - Include direct quotes with source attribution when available
-  - Make source credibility transparent to readers
+EVIDENCE & FOOTNOTES (critical formatting):
+  - Attribute each sourced fact with a numbered footnote marker matching the source number below: [1], [2], [3].
+  - Place the marker immediately after the sentence or clause it supports.
+  - A sentence drawing on multiple sources may carry multiple markers, e.g. [1][2].
+  - Do NOT write source names in prose (no "Reuters reports") and do NOT write a byline.
+  - Do NOT append a "References" or "Sources" list yourself; it is added automatically.
 
-✓ COMPLETE CLARITY
-  - Readers understand full scope of story and all perspectives
-  - Explain why each source's angle matters
-  - Show how pieces fit together
-  - Address implications and what happens next
+TONE:
+  - Factual, neutral, measured. No conjecture beyond what the sources support.
+  - Separate paragraphs with blank lines. No headline.
 
-✓ JOURNALISTIC STANDARDS
-  - Factual, never sensational or speculative
-  - Balance all perspectives presented by sources
-  - Maintain neutral tone
-  - No conjecture—only what sources explicitly report
+OUTPUT ONLY THE ARTICLE BODY (no headline, no byline, no reference list).
 
-SOURCES TO SYNTHESIZE:
-{sources_text}
-
-OUTPUT: Only the article body (no headline, no byline).
-Write this as a published investigative article that synthesizes all sources."""
+SOURCES (cite by these numbers):
+{sources_text}"""
 
     delay = RETRY_DELAY
     for attempt in range(1, MAX_RETRIES + 1):
@@ -595,22 +601,22 @@ Write this as a published investigative article that synthesizes all sources."""
             response = client.chat.completions.create(
                 model='llama-3.3-70b-versatile',
                 messages=[{'role': 'user', 'content': prompt}],
-                max_tokens=1500,  # Larger for synthesis
-                temperature=0.3,
+                max_tokens=ARTICLE_MAX_TOKENS,
+                temperature=0.4,
                 timeout=GROQ_TIMEOUT,
             )
             content = sanitize_text(response.choices[0].message.content)
-            if len(content) < 400:  # Higher minimum for synthesis
+            if len(content) < ARTICLE_MIN_CHARS:
                 raise ValueError(f"Synthesized response too short ({len(content)} chars)")
-            return content
+            return content, sources
         except Exception as e:
             if attempt == MAX_RETRIES:
                 log.warning(f"Synthesis failed after {MAX_RETRIES} attempts: {e}")
-                return None
+                return None, []
             log.debug(f"Synthesis retry {attempt}/{MAX_RETRIES}: {e}")
             time.sleep(delay)
             delay *= 2
-    return None
+    return None, []
 
 # ── NEW STORIES.JSON STRUCTURE ────────────────────────────────────────────────
 #
@@ -632,21 +638,31 @@ Write this as a published investigative article that synthesizes all sources."""
 #   "mostRead": [...]
 # }
 
-def build_story_object(item, content):
-    """Build a normalized story object with auto-fetched image."""
+def estimate_read_time(content):
+    """Estimate read time in minutes from word count."""
+    words = len(content.split())
+    minutes = max(1, round(words / WORDS_PER_MINUTE))
+    return f"{minutes} min read"
+
+def build_story_object(item, content, sources=None):
+    """Build a normalized story object with auto-fetched image.
+
+    Note: no 'author' field — Verum articles are attributed via the `sources`
+    footnote list and inline [n] markers, not a byline.
+    """
     # Get image with intelligent search strategy based on article category
     image_url = get_image_for_story(item['id'], item['title'], item['summary'], item['category'])
-    
+
     return {
         'id':          item['id'],
         'title':       item['title'],
         'category':    item['category'],
-        'author':      item['source_label'],
         'source':      item['source'],
         'time':        datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%S'),
-        'read':        '3 min read',
+        'read':        estimate_read_time(content),
         'image':       image_url,
         'content':     content,
+        'sources':     sources or [],
         'original_url':item.get('original_url', ''),
         'guid':        item.get('guid', ''),
     }
@@ -889,8 +905,8 @@ def validate_stories(data):
                 break
          if not story.get('category') and not story.get('region'):
              issues.append(f"Story '{sid}' missing both 'category' and 'region'")
-         if not story.get('author') and not story.get('source'):
-             issues.append(f"Story '{sid}' missing both 'author' and 'source'")
+         if not story.get('source') and not story.get('author'):
+             issues.append(f"Story '{sid}' missing 'source'")
     is_valid = len(issues) == 0
     report = {
         'total_stories': len(stories),
@@ -1014,14 +1030,14 @@ def main():
             if len(group) >= 2:
                 # Synthesize multiple sources
                 log.info(f"Synthesizing {len(group)} sources: {group[0]['title'][:50]}...")
-                content = rewrite_synthesized_articles(group)
+                content, sources = rewrite_synthesized_articles(group)
                 if content:
                     # Use first item as base, mark as synthesized
                     base_item = group[0]
                     base_item['title'] = group[0]['title']  # Keep original title
                     base_item['is_synthesized'] = True
                     base_item['source_count'] = len(group)
-                    new_stories.append(build_story_object(base_item, content))
+                    new_stories.append(build_story_object(base_item, content, sources))
                     log.info(f"✓ Synthesized from {len(group)} sources")
                 else:
                     log.warning(f"✗ Synthesis failed, using single source")
@@ -1033,9 +1049,9 @@ def main():
     # Process remaining single articles
     for item in items_to_process:
         log.info(f"Processing: {item['title'][:60]}...")
-        content = rewrite_with_groq(item)
+        content, sources = rewrite_with_groq(item)
         if content:
-            new_stories.append(build_story_object(item, content))
+            new_stories.append(build_story_object(item, content, sources))
             log.info("✓ Written")
         else:
             log.warning(f"✗ Skipped: {item['title'][:50]}")

@@ -303,8 +303,6 @@ const HeroSection = memo(function HeroSection({ story }) {
         <CategoryBadge cat={story.category} linked />
         <h2 className="hero-title">{story.title}</h2>
         <div className="hero-meta">
-          <strong>By {story.author}</strong>
-          &nbsp;·&nbsp;
           <time dateTime={story.time}>{timeAgo(story.time)}</time>
           &nbsp;·&nbsp;{story.read || '3 min read'}
         </div>
@@ -330,7 +328,7 @@ const StackItem = memo(function StackItem({ story }) {
         <div className="stack-title">{story.title}</div>
         <div className="stack-meta">
           <time dateTime={story.time}>{timeAgo(story.time)}</time>
-          {' · '}{story.author}
+          {story.read ? ` · ${story.read}` : ''}
         </div>
       </div>
       <a
@@ -354,7 +352,7 @@ const StoryCard = memo(function StoryCard({ story }) {
         <h3 className="story-title">{story.title}</h3>
         <div className="story-meta">
           <time dateTime={story.time}>{timeAgo(story.time)}</time>
-          {' · '}{story.author}
+          {story.read ? ` · ${story.read}` : ''}
         </div>
       </div>
       <a
@@ -376,7 +374,7 @@ const WorldItem = memo(function WorldItem({ story }) {
         <div className="world-title">{story.title}</div>
         <div className="world-meta">
           <time dateTime={story.time}>{timeAgo(story.time)}</time>
-          {' · '}{story.author || story.source}
+          {story.read ? ` · ${story.read}` : ''}
         </div>
       </div>
       <a
