@@ -40,6 +40,9 @@ parser.add_argument('--no-synthesize', dest='synthesize', action='store_false',
 parser.set_defaults(synthesize=True)
 parser.add_argument('--limit',     type=int, default=6,  help='Max new stories per run (default 6)')
 ARGS = parser.parse_args()
+parser.add_argument('--no-deploy', dest='deploy', action='store_false',
+                    help='Save stories.json locally but do not deploy to Netlify (for local preview with `npm run dev`)')
+parser.set_defaults(deploy=True)
 
 # ── LOGGING ───────────────────────────────────────────────────────────────────
 
@@ -61,8 +64,8 @@ MAX_NEW_STORIES    = ARGS.limit
 
 # Validate required env vars (skip Netlify/Groq checks in --dry-run)
 if not ARGS.dry_run:
-    if not NETLIFY_SITE_ID:
-        log.error("NETLIFY_SITE_ID not set")
+    if ARGS.deploy and not NETLIFY_SITE_ID:
+        log.error("NETLIFY_SITE_ID not set (or use --no-deploy to save locally without deploying)")
         sys.exit(1)
     if not GROQ_API_KEY:
         log.error("GROQ_API_KEY not set")
@@ -1122,11 +1125,19 @@ def main():
     log.info(f"✓ {STORIES_FILE} saved")
 
     # Deploy
-    deploy_to_netlify(data)
-
+   
     log.info("=" * 60)
     log.info(f"DONE — {len(new_stories)} new stories published")
-    log.info("=" * 60)
+    log.info("=" * 60) 
+ # Deploy (unless --no-deploy)
+    if ARGS.deploy:
+        deploy_to_netlify(data)
+    else:
+        log.info("--no-deploy: skipping Netlify. Preview locally with `npm run dev`")
 
+    log.info("=" * 60)
+    log.info(f"DONE — {len(new_stories)} new stories "
+             f"{'published' if ARGS.deploy else 'saved locally'}")
+    log.info("=" * 60)
 if __name__ == '__main__':
     main()
