@@ -92,54 +92,47 @@ WORDS_PER_MINUTE     = 220    # for read-time estimation
 #
 
 FEEDS = [
-    # ── TIER 1: ESTABLISHED NEWS BUREAUS ──────────────────────────────────────
+    # ── TIER 1: ESTABLISHED NEWS BUREAUS (direct) ─────────────────────────────
     { 'url': 'https://feeds.bbci.co.uk/news/world/rss.xml',                   'source': 'bbc',           'source_label': 'BBC News',             'category': 'World'     },
     { 'url': 'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml', 'source': 'bbc',           'source_label': 'BBC News',             'category': 'Science'   },
     { 'url': 'https://feeds.bbci.co.uk/news/health/rss.xml',                  'source': 'bbc',           'source_label': 'BBC News',             'category': 'Health'    },
     { 'url': 'https://feeds.bbci.co.uk/news/politics/rss.xml',                'source': 'bbc',           'source_label': 'BBC News',             'category': 'Politics'  },
-    { 'url': 'https://feeds.reuters.com/reuters/worldNews',                   'source': 'reuters',       'source_label': 'Reuters',              'category': 'World'     },
-    { 'url': 'https://feeds.reuters.com/reuters/politicsNews',                'source': 'reuters',       'source_label': 'Reuters',              'category': 'Politics'  },
-    { 'url': 'https://feeds.apnews.com/rss/apf-topnews',                      'source': 'ap',            'source_label': 'AP News',              'category': 'News'      },
-    { 'url': 'https://feeds.apnews.com/rss/apf-sports',                       'source': 'ap',            'source_label': 'AP News',              'category': 'Sports'    },
-    { 'url': 'https://feeds.apnews.com/rss/apf-Health',                       'source': 'ap',            'source_label': 'AP News',              'category': 'Health'    },
-    { 'url': 'https://feeds.apnews.com/rss/apf-science',                      'source': 'ap',            'source_label': 'AP News',              'category': 'Science'   },
     { 'url': 'https://www.theguardian.com/world/rss',                         'source': 'guardian',      'source_label': 'The Guardian',         'category': 'World'     },
     { 'url': 'https://www.theguardian.com/politics/rss',                      'source': 'guardian',      'source_label': 'The Guardian',         'category': 'Politics'  },
     { 'url': 'https://www.theguardian.com/science/rss',                       'source': 'guardian',      'source_label': 'The Guardian',         'category': 'Science'   },
     { 'url': 'https://www.theguardian.com/society/rss',                       'source': 'guardian',      'source_label': 'The Guardian',         'category': 'Health'    },
     { 'url': 'https://feeds.npr.org/1001/rss.xml',                            'source': 'npr',           'source_label': 'NPR',                  'category': 'News'      },
-    { 'url': 'https://feeds.npr.org/1128/rss.xml',                            'source': 'npr',           'source_label': 'NPR',                  'category': 'Health'    },
     { 'url': 'https://feeds.npr.org/1007/rss.xml',                            'source': 'npr',           'source_label': 'NPR',                  'category': 'Science'   },
-    
-    # ── TIER 2: FINANCIAL, TECH, INVESTIGATIVE (DEPTH & CITATIONS) ───────────
-    { 'url': 'https://www.investopedia.com/feed.xml',                         'source': 'investopedia',  'source_label': 'Investopedia',         'category': 'Business'  },
-    { 'url': 'https://feeds.propublica.org/nfl',                              'source': 'propublica',    'source_label': 'ProPublica',           'category': 'News'      },
-    { 'url': 'https://arstechnica.com/feed/',                                 'source': 'arstechnica',   'source_label': 'Ars Technica',         'category': 'Science'   },
-    { 'url': 'https://www.axios.com/feed/news',                               'source': 'axios',         'source_label': 'Axios',                'category': 'News'      },
-    { 'url': 'https://feeds.vox.com/rss/index.xml',                           'source': 'vox',           'source_label': 'Vox',                  'category': 'News'      },
-    { 'url': 'https://www.politico.com/rss/politics.xml',                     'source': 'politico',      'source_label': 'Politico',             'category': 'Politics'  },
-    { 'url': 'https://www.theatlantic.com/feed/rss/all/',                     'source': 'atlantic',      'source_label': 'The Atlantic',         'category': 'News'      },
-    { 'url': 'https://www.wired.com/feed/rss',                                'source': 'wired',         'source_label': 'WIRED',                'category': 'Science'   },
-    
-    # ── TIER 3: ACADEMIC, VERIFICATION, FACT-CHECKING (TRUTH-FOCUSED) ───────
+    { 'url': 'https://news.google.com/rss/search?q=when:24h+source:reuters&hl=en-US&gl=US&ceid=US:en',   'source': 'reuters', 'source_label': 'Reuters', 'category': 'World'    },
+    { 'url': 'https://news.google.com/rss/search?q=when:24h+source:apnews&hl=en-US&gl=US&ceid=US:en',    'source': 'ap',      'source_label': 'AP News', 'category': 'News'     },
+
+    # ── TIER 1b: GLOBAL / INTERNATIONAL ───────────────────────────────────────
+    { 'url': 'https://www.aljazeera.com/xml/rss/all.xml',                     'source': 'aljazeera',     'source_label': 'Al Jazeera',           'category': 'World'     },
+    { 'url': 'https://www.france24.com/en/rss',                               'source': 'france24',      'source_label': 'France 24',            'category': 'World'     },
+    { 'url': 'https://www.japantimes.co.jp/feed/',                            'source': 'japantimes',    'source_label': 'The Japan Times',      'category': 'World'     },
+    { 'url': 'https://www.bangkokpost.com/rss/data/topstories.xml',          'source': 'bangkokpost',   'source_label': 'Bangkok Post',         'category': 'World'     },
+    { 'url': 'https://www.irishtimes.com/cmlink/news-1.1319192',             'source': 'irishtimes',    'source_label': 'The Irish Times',      'category': 'World'     },
+    { 'url': 'https://news.google.com/rss/search?q=when:24h+source:channelnewsasia&hl=en-SG&gl=SG&ceid=SG:en', 'source': 'cna',         'source_label': 'CNA (Singapore)',          'category': 'World'  },
+    { 'url': 'https://news.google.com/rss/search?q=when:24h+source:straitstimes&hl=en-SG&gl=SG&ceid=SG:en',    'source': 'straitstimes','source_label': 'The Straits Times',        'category': 'World'  },
+    { 'url': 'https://news.google.com/rss/search?q=when:24h+source:abc.net.au&hl=en-AU&gl=AU&ceid=AU:en',      'source': 'abcau',       'source_label': 'ABC News (Australia)',     'category': 'World'  },
+    { 'url': 'https://news.google.com/rss/search?q=when:24h+source:smh&hl=en-AU&gl=AU&ceid=AU:en',             'source': 'smh',         'source_label': 'Sydney Morning Herald',    'category': 'World'  },
+
+    # ── TIER 2: BROAD TOPIC AGGREGATION ───────────────────────────────────────
+    { 'url': 'https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en', 'source': 'googlenews', 'source_label': 'Google News', 'category': 'Business' },
+    { 'url': 'https://news.google.com/rss/headlines/section/topic/HEALTH?hl=en-US&gl=US&ceid=US:en',   'source': 'googlenews', 'source_label': 'Google News', 'category': 'Health'   },
+    { 'url': 'https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-US&gl=US&ceid=US:en',   'source': 'googlenews', 'source_label': 'Google News', 'category': 'Sports'   },
+
+    # ── TIER 3: ACADEMIC, VERIFICATION, FACT-CHECKING ─────────────────────────
     { 'url': 'https://theconversation.com/us/articles.atom',                  'source': 'conversation',  'source_label': 'The Conversation',     'category': 'Science'   },
     { 'url': 'https://www.nature.com/nature/current_issue/rss',               'source': 'nature',        'source_label': 'Nature',               'category': 'Science'   },
-    { 'url': 'https://feeds.sciencemag.org/science-news',                     'source': 'science',       'source_label': 'Science Magazine',     'category': 'Science'   },
-    { 'url': 'https://feeds.aip.org/feeds/latest-physics-news.xml',           'source': 'aip',           'source_label': 'AIP Physics News',     'category': 'Science'   },
     { 'url': 'https://www.snopes.com/feed/',                                  'source': 'snopes',        'source_label': 'Snopes',               'category': 'News'      },
     { 'url': 'https://fullfact.org/feed/',                                    'source': 'fullfact',      'source_label': 'Full Fact',            'category': 'News'      },
-    
-    # ── TIER 4: SPORTS, COLLEGE JOURNALISM, SPECIALIZED ──────────────────────
+
+    # ── TIER 4: SPORTS, JOURNALISM, INSTITUTIONAL ─────────────────────────────
     { 'url': 'https://www.espn.com/espn/rss/news',                            'source': 'espn',          'source_label': 'ESPN',                 'category': 'Sports'    },
-    { 'url': 'https://sports.yahoo.com/rss/headlines.rss',                    'source': 'yahsports',     'source_label': 'Yahoo Sports',         'category': 'Sports'    },
     { 'url': 'https://www.cjr.org/feed',                                      'source': 'cjr',           'source_label': 'Columbia Journalism Review', 'category': 'News' },
-    { 'url': 'https://news.columbia.edu/feed/',                               'source': 'columbiauniv',  'source_label': 'Columbia University News', 'category': 'News' },
-    { 'url': 'https://news.yale.edu/feed.xml',                                'source': 'yaleuniv',      'source_label': 'Yale University News',  'category': 'News'      },
-    { 'url': 'https://news.mit.edu/feed.xml',                                 'source': 'mituniv',       'source_label': 'MIT News',             'category': 'Science'   },
-    { 'url': 'https://news.stanford.edu/feed/',                               'source': 'stanforduniv',  'source_label': 'Stanford News',        'category': 'Science'   },
     { 'url': 'https://news.berkeley.edu/feed/',                               'source': 'berkeleyuniv',  'source_label': 'UC Berkeley News',     'category': 'Science'   },
     { 'url': 'https://www.nasa.gov/rss/dyn/breaking_news.rss',                'source': 'nasa',          'source_label': 'NASA',                 'category': 'Science'   },
-    { 'url': 'https://www.bls.gov/feed/news.xml',                             'source': 'bls',           'source_label': 'U.S. Bureau of Labor Statistics', 'category': 'Business' },
 ]
 
 # ── STABLE ID GENERATION ──────────────────────────────────────────────────────
@@ -330,16 +323,26 @@ def is_valid_item(item):
     return True
 
 # ── RSS FETCHING WITH RETRY ───────────────────────────────────────────────────
+FEED_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '
+                  'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36',
+    'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*',
+}
 
 def fetch_feed_with_retry(feed_config):
-    """Fetch a single RSS feed with exponential backoff retry."""
+    """Fetch a single RSS feed with a real browser User-Agent, then parse."""
     url = feed_config['url']
     delay = RETRY_DELAY
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            feed = feedparser.parse(url)
+            res = requests.get(url, headers=FEED_HEADERS, timeout=15)
+            if res.status_code != 200:
+                raise ValueError(f"HTTP {res.status_code}")
+            feed = feedparser.parse(res.content)
             if feed.bozo and not feed.entries:
                 raise ValueError(f"Malformed feed: {feed.bozo_exception}")
+            if not feed.entries:
+                raise ValueError("No entries")
             return feed
         except Exception as e:
             if attempt == MAX_RETRIES:
@@ -489,12 +492,13 @@ def find_similar_articles(items, threshold=0.4):
     Groups are sorted by source credibility (Tier 1 > Tier 2 > Tier 3 > Tier 4).
     """
     source_tiers = {
-        'bbc': 1, 'reuters': 1, 'ap': 1, 'guardian': 1, 'npr': 1,
-        'investopedia': 2, 'propublica': 2, 'arstechnica': 2, 'axios': 2, 'vox': 2, 'politico': 2, 'atlantic': 2, 'wired': 2,
+    	'bbc': 1, 'reuters': 1, 'ap': 1, 'guardian': 1, 'npr': 1,
+        'aljazeera': 1, 'france24': 1, 'japantimes': 1, 'bangkokpost': 1, 'irishtimes': 1,
+        'cna': 1, 'straitstimes': 1, 'abcau': 1, 'smh': 1,
+        'investopedia': 2, 'propublica': 2, 'arstechnica': 2, 'axios': 2, 'vox': 2, 'politico': 2, 'atlantic': 2, 'wired': 2, 'googlenews': 2,
         'conversation': 3, 'nature': 3, 'science': 3, 'aip': 3, 'snopes': 3, 'fullfact': 3,
         'espn': 4, 'yahsports': 4, 'cjr': 4, 'columbiauniv': 4, 'yaleuniv': 4, 'mituniv': 4, 'stanforduniv': 4, 'berkeleyuniv': 4, 'nasa': 4, 'bls': 4,
-    }
-    
+    }    
     grouped = []
     used = set()
     
