@@ -39,10 +39,11 @@ parser.add_argument('--no-synthesize', dest='synthesize', action='store_false',
                     help='Disable multi-source synthesis (one article per source)')
 parser.set_defaults(synthesize=True)
 parser.add_argument('--limit',     type=int, default=6,  help='Max new stories per run (default 6)')
-ARGS = parser.parse_args()
 parser.add_argument('--no-deploy', dest='deploy', action='store_false',
-                    help='Save stories.json locally but do not deploy to Netlify (for local preview with `npm run dev`)')
+                    help='Save stories.json locally but do not deploy to Netlify')
 parser.set_defaults(deploy=True)
+ARGS = parser.parse_args()
+
 
 # ── LOGGING ───────────────────────────────────────────────────────────────────
 
@@ -157,15 +158,11 @@ def make_stable_id(entry, source_slug):
     return f"{source_slug}_{hashlib.sha256(raw.encode()).hexdigest()[:8]}"
 
 # ── IMAGE FETCHING ───────────────────────────────────────────────────────────
-
-def extract_keywords(text, max_keywords=5):
-    """
-    Extract meaningful keywords from text, prioritizing proper nouns and key terms.
-    Returns keywords ranked by relevance for image search.
-    """
+def extract_keywords(text, max_keywords=6):
+    """Extract image-search keywords, prioritizing named entities."""
     if not text:
         return []
-    
+
     stop_words = {
         'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for',
         'of', 'with', 'by', 'from', 'is', 'are', 'was', 'were', 'be', 'been',
@@ -173,96 +170,83 @@ def extract_keywords(text, max_keywords=5):
         'should', 'may', 'might', 'can', 'must', 'says', 'said', 'say', 'new',
         'as', 'this', 'that', 'these', 'those', 'which', 'who', 'what', 'when',
         'where', 'why', 'how', 'all', 'each', 'every', 'both', 'any', 'some',
+        'after', 'before', 'over', 'into', 'amid', 'than', 'then', 'about',
+        'his', 'her', 'its', 'their', 'they', 'them', 'first', 'more', 'most',
+        'report', 'reports', 'reported', 'plan', 'plans', 'use', 'used',
     }
-    
-    words = text.split()
+
+    raw_words = re.findall(r"[A-Za-z][A-Za-z'-]+", text)
     keywords = []
-    
-    # Priority 1: Proper nouns (capitalized, > 3 chars)
-    proper_nouns = [
-        w for w in words 
-        if len(w) > 2 and w[0].isupper() and w.lower() not in stop_words
-    ]
-    keywords.extend(proper_nouns[:2])
-    
-    # Priority 2: Compound terms (consecutive significant words)
-    significant_words = [
-        w.lower() for w in words 
-        if len(w) > 3 and w.lower() not in stop_words
-    ]
-    for i in range(len(significant_words) - 1):
-        if i < 3:  # Look in first 3 pairs
-            pair = f"{significant_words[i]} {significant_words[i+1]}"
-            if pair not in keywords:
-                keywords.append(pair)
-    
-    # Priority 3: Individual significant words
-    for w in significant_words:
-        if w not in keywords and len(keywords) < max_keywords:
+
+    phrase = []
+    for w in raw_words:
+        if w[0].isupper() and w.lower() not in stop_words:
+            phrase.append(w)
+        else:
+            if len(phrase) >= 2:
+                keywords.append(' '.join(phrase))
+            phrase = []
+    if len(phrase) >= 2:
+        keywords.append(' '.join(phrase))
+
+    proper = [w for w in raw_words
+              if w[0].isupper() and len(w) > 2 and w.lower() not in stop_words]
+    for w in proper:
+        if w not in ' '.join(keywords) and w.lower() not in [k.lower() for k in keywords]:
             keywords.append(w)
-    
+
+    significant = [w.lower() for w in raw_words
+                   if len(w) > 4 and w.lower() not in stop_words and not w[0].isupper()]
+    for w in significant:
+        if w not in [k.lower() for k in keywords]:
+            keywords.append(w)
+
     return keywords[:max_keywords]
 
-def construct_search_queries(title, summary, category):
-    """
-    Construct multiple search queries in priority order.
-    Returns list of queries to try: compound terms first, then individual keywords.
-    """
-    queries = []
-    
-    # Extract keywords from title (most important)
-    title_keywords = extract_keywords(title, max_keywords=4)
-    
-    # Extract keywords from summary (supporting context)
-    summary_keywords = extract_keywords(summary, max_keywords=3)
-    
-    # Strategy 1: Compound terms from title (highest specificity)
-    compound_from_title = [k for k in title_keywords if ' ' in k]
-    queries.extend(compound_from_title[:2])
-    
-    # Strategy 2: Compound terms from summary
-    compound_from_summary = [k for k in summary_keywords if ' ' in k]
-    queries.extend(compound_from_summary[:1])
-    
-    # Strategy 3: Individual keywords from title
-    individual_from_title = [k for k in title_keywords if ' ' not in k]
-    queries.extend(individual_from_title[:2])
-    
-    # Strategy 4: Category-based fallback (general relevance)
-    category_queries = {
-        'science': 'science research laboratory',
-        'politics': 'politics government',
-        'business': 'business finance',
-        'sports': 'sports athlete competition',
-        'health': 'health medicine',
-        'world': 'world globe travel',
-        'technology': 'technology innovation',
-        'news': 'news reporting journalism',
-    }
-    category_query = category_queries.get(category.lower(), 'news')
-    queries.append(category_query)
-    
-    # Strategy 5: First individual keyword from summary
-    individual_from_summary = [k for k in summary_keywords if ' ' not in k]
-    queries.extend(individual_from_summary[:1])
-    
-    # Remove duplicates while preserving order
-    seen = set()
-    unique_queries = []
-    for q in queries:
-        if q and q not in seen:
-            seen.add(q)
-            unique_queries.append(q)
-    
-    return unique_queries or ['news']  # Fallback if empty
+CATEGORY_QUERIES = {
+    'science':    ['scientific research', 'laboratory'],
+    'politics':   ['government building', 'political rally'],
+    'business':   ['stock market', 'financial district'],
+    'finance':    ['stock market', 'financial district'],
+    'sports':     ['stadium crowd', 'athlete competition'],
+    'health':     ['hospital medical', 'healthcare'],
+    'world':      ['city skyline', 'international flags'],
+    'technology': ['technology computer', 'data center'],
+    'news':       ['newsroom journalism', 'city street'],
+}
 
-def fetch_image_from_unsplash(search_query):
-    """Fetch a random image from Unsplash based on search query."""
+def construct_search_queries(title, summary, category):
+    """Build ordered Unsplash queries: entity phrases → proper nouns → theme → category."""
+    title_kw = extract_keywords(title, max_keywords=5)
+    summary_kw = extract_keywords(summary, max_keywords=4)
+
+    queries = []
+    queries += [k for k in title_kw if ' ' in k]
+    queries += [k for k in summary_kw if ' ' in k][:1]
+    queries += [k for k in title_kw if ' ' not in k and k[:1].isupper()][:2]
+    queries += [k for k in summary_kw if ' ' not in k and k[:1].isupper()][:1]
+    queries += [k for k in title_kw if ' ' not in k and not k[:1].isupper()][:1]
+    queries += CATEGORY_QUERIES.get(category.lower(), CATEGORY_QUERIES['news'])
+
+    seen, unique = set(), []
+    for q in queries:
+        ql = q.lower().strip()
+        if ql and ql not in seen:
+            seen.add(ql)
+            unique.append(q.strip())
+    return unique or ['news']
+
+def fetch_image_from_unsplash(search_query, per_page=5):
+    """
+    Search Unsplash for an image matching the query.
+    Uses /search/photos (not /photos/random): returns ranked results and an
+    empty list instead of a 404 when nothing matches, so it degrades gracefully.
+    """
     if not UNSPLASH_API_KEY or not search_query:
         return None
 
     try:
-        url = 'https://api.unsplash.com/photos/random'
+        url = 'https://api.unsplash.com/search/photos'
         headers = {
             'Authorization': f'Client-ID {UNSPLASH_API_KEY}',
             'Accept-Version': 'v1',
@@ -270,22 +254,23 @@ def fetch_image_from_unsplash(search_query):
         params = {
             'query': search_query,
             'orientation': 'landscape',
+            'per_page': per_page,
+            'content_filter': 'high',
+            'order_by': 'relevant',
         }
         res = requests.get(url, headers=headers, params=params, timeout=10)
-        if res.status_code == 200:
-            data = res.json()
-            # /photos/random does not honor w/h/fit params, so apply Imgix
-            # sizing to the raw URL ourselves to get an 800x450 cropped image.
-            img_url = data.get('urls', {}).get('raw')
-            if img_url:
-                sep = '&' if '?' in img_url else '?'
-                return f"{img_url}{sep}w=800&h=450&fit=crop&crop=entropy"
-        else:
-            log.debug(f"Unsplash returned {res.status_code} for '{search_query}'")
+        if res.status_code != 200:
+            log.debug(f"Unsplash HTTP {res.status_code} for '{search_query}'")
+            return None
+        results = res.json().get('results', [])
+        if not results:
+            log.debug(f"Unsplash: no results for '{search_query}'")
+            return None
+        urls = results[0].get('urls', {})
+        return urls.get('regular') or urls.get('full') or urls.get('raw')
     except Exception as e:
         log.debug(f"Unsplash fetch failed for '{search_query}': {e}")
     return None
-
 def generate_dicebear_url(story_id, title):
     """Generate a DiceBear procedural placeholder image URL."""
     seed = encodeURIComponent_seed(story_id, title)
@@ -303,26 +288,21 @@ def encodeURIComponent_seed(story_id, title):
 
 def get_image_for_story(story_id, title, summary, category='news'):
     """
-    Get image URL with intelligent search strategy.
-    Tries multiple search queries in order of specificity: compound terms → 
-    individual keywords → category fallback → DiceBear placeholder.
+    Find the best image for a story. Tries ranked queries (entity phrases →
+    proper nouns → theme → category) and returns the first Unsplash hit.
+    Caps attempts for efficiency; DiceBear only if everything misses.
     """
-    # Build search queries in priority order
     search_queries = construct_search_queries(title, summary, category)
-    
-    # Try each search query strategy
-    for query in search_queries:
-        if query:
-            img_url = fetch_image_from_unsplash(query)
-            if img_url:
-                log.info(f"  → Image: Unsplash ('{query}')")
-                return img_url
-    
-    # Fall back to DiceBear procedural placeholder
-    img_url = generate_dicebear_url(story_id, title)
-    log.info(f"  → Image: DiceBear placeholder")
-    return img_url
 
+    for query in search_queries[:5]:
+        img_url = fetch_image_from_unsplash(query)
+        if img_url:
+            log.info(f"  → Image: Unsplash ('{query}')")
+            return img_url
+
+    img_url = generate_dicebear_url(story_id, title)
+    log.info(f"  → Image: DiceBear placeholder (no Unsplash match)")
+    return img_url
 # ── SANITIZATION ──────────────────────────────────────────────────────────────
 
 def sanitize_text(text):
