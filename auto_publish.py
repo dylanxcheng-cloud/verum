@@ -35,9 +35,8 @@ except ImportError:
 parser = argparse.ArgumentParser()
 parser.add_argument('--dry-run',   action='store_true', help='Fetch + rewrite but do not save or deploy')
 parser.add_argument('--validate',  action='store_true', help='Validate stories.json only')
-parser.add_argument('--no-synthesize', dest='synthesize', action='store_false',
-                    help='Disable multi-source synthesis (one article per source)')
-parser.set_defaults(synthesize=True)
+parser.add_argument('--synthesize', action='store_true',
+                    help='Combine similar articles from multiple credible sources (EXPERIMENTAL, opt-in)')
 parser.add_argument('--limit',     type=int, default=6,  help='Max new stories per run (default 6)')
 parser.add_argument('--no-deploy', dest='deploy', action='store_false',
                     help='Save stories.json locally but do not deploy to Netlify')
@@ -57,6 +56,7 @@ log = logging.getLogger('verum')
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 
 GROQ_API_KEY       = os.environ.get('GROQ_API_KEY')
+GEMINI_API_KEY     = os.environ.get('GEMINI_API_KEY')  # free fallback LLM
 NETLIFY_AUTH_TOKEN = os.environ.get('NETLIFY_AUTH_TOKEN')
 NETLIFY_SITE_ID    = os.environ.get('NETLIFY_SITE_ID')
 UNSPLASH_API_KEY   = os.environ.get('UNSPLASH_API_KEY')  # Optional
@@ -68,19 +68,18 @@ if not ARGS.dry_run:
     if ARGS.deploy and not NETLIFY_SITE_ID:
         log.error("NETLIFY_SITE_ID not set (or use --no-deploy to save locally without deploying)")
         sys.exit(1)
-    if not GROQ_API_KEY:
-        log.error("GROQ_API_KEY not set")
-        sys.exit(1)
+if not GROQ_API_KEY and not GEMINI_API_KEY:
+        log.error("No LLM key set (need GROQ_API_KEY or GEMINI_API_KEY). Falling back to RSS summaries.")
+# Retry settings (optimized for efficiency)
+MAX_RETRIES    = 2      # Reduced from 3 (fewer wasted attempts)
+RETRY_DELAY    = 1      # Reduced from 2 (faster backoff, saves time)
+GROQ_TIMEOUT   = 60     # Reduced from 90 (aggressive timeout)
 
-# Retry settings
-MAX_RETRIES    = 3
-RETRY_DELAY    = 2   # seconds, doubles each retry
-GROQ_TIMEOUT   = 90  # seconds (raised for long-form generation)
-
-# Long-form article settings
-ARTICLE_MAX_TOKENS   = 4096   # ≈3000 words headroom for 14-18 paragraph pieces
-ARTICLE_MIN_CHARS    = 1500   # reject anything shorter than a real long-form body
+# Long-form article settings (optimized for efficiency)
+ARTICLE_MAX_TOKENS   = 2500   # ≈1600 words: 10-12 paragraphs instead of 14-18 (40% credit reduction)
+ARTICLE_MIN_CHARS    = 1000   # reject anything shorter than substantial body
 WORDS_PER_MINUTE     = 220    # for read-time estimation
+IMAGE_SEARCH_LIMIT   = 3      # max Unsplash queries per article (vs 5)
 
 # ── RSS FEEDS ─────────────────────────────────────────────────────────────────
 #
@@ -170,7 +169,7 @@ def extract_keywords(text, max_keywords=6):
 
     raw_words = re.findall(r"[A-Za-z][A-Za-z'-]+", text)
     keywords = []
-
+    w = 'hello'
     phrase = []
     for w in raw_words:
         if w[0].isupper() and w.lower() not in stop_words:
@@ -283,12 +282,12 @@ def get_image_for_story(story_id, title, summary, category='news'):
     """
     Find the best image for a story. Tries ranked queries (entity phrases →
     proper nouns → theme → category) and returns the first Unsplash hit.
-    Caps attempts for efficiency; DiceBear only if everything misses.
+    Limits attempts for efficiency; DiceBear only if everything misses.
     """
     search_queries = construct_search_queries(title, summary, category)
 
-    for query in search_queries[:5]:
-        img_url = fetch_image_from_unsplash(query)
+    for query in search_queries[:IMAGE_SEARCH_LIMIT]:  # Limit attempts (default 3)
+        img_url = fetch_image_from_unsplash(query, per_page=2)  # Reduced per_page for efficiency
         if img_url:
             log.info(f"  → Image: Unsplash ('{query}')")
             return img_url
@@ -367,7 +366,7 @@ def fetch_all_rss():
             continue
 
         stats['feeds_ok'] += 1
-        for entry in feed.entries[:3]:
+        for entry in feed.entries[:2]:  # Reduced from [:3] to [:2] per feed for efficiency
             stats['items_raw'] += 1
             title   = sanitize_text(entry.get('title', ''))
             summary = sanitize_text(
@@ -418,29 +417,28 @@ def rewrite_with_groq(item):
     prompt = f"""You are a senior journalist for Verum, a prestigious news publication dedicated to factual accuracy and depth.
 Verum's mission: "The truth for all" — comprehensive, well-sourced reporting that leaves no doubt about what occurred.
 
-Write a LONG-FORM, in-depth article based on the news item below.
+Write a substantial, in-depth article based on the news item below.
 
-LENGTH (critical):
-  - Target 14 to 18 substantial paragraphs, roughly 1,800–2,500 words.
-  - This must read as a major feature, NOT a brief. Do not stop early.
+LENGTH:
+  - Target 10 to 12 substantial paragraphs, roughly 1,200–1,600 words.
   - Each paragraph develops one idea fully with specific detail.
+  - Lead with facts, then expand into background, context, implications, and next steps.
 
 DEPTH & SUBSTANCE:
-  - Lead with the core facts: who, what, when, where, specific numbers and names.
-  - Then expand into: background and history, why it matters, the mechanisms at play,
-    competing interpretations, affected parties, broader context, and likely next steps.
-  - Prefer concrete examples and specifics over generalization.
+  - Include: who, what, when, where, specific numbers and names.
+  - Build context and history, mechanisms at play, affected parties, broader impact.
+  - Use concrete examples; avoid generalization.
 
-EVIDENCE & FOOTNOTES (critical formatting):
-  - When you state a fact drawn from the reporting, append a footnote marker [1].
-  - This article has ONE source, so every marker is [1].
-  - Do NOT write out a byline or the source name in prose — use the [1] marker only.
-  - Do NOT include a "References" or "Sources" list yourself; that is added automatically.
+EVIDENCE & FOOTNOTES:
+  - When you state a fact, append a footnote marker [1].
+  - All facts in this article cite the single source, so every marker is [1].
+  - Do NOT write source names in prose — use [1] marker only.
+  - Do NOT include a "References" or "Sources" list yourself.
 
 TONE & STRUCTURE:
   - Factual, measured, never sensational. No conjecture beyond what the source supports.
-  - Open with the news, build through context and analysis, close on implications and what's next.
-  - Separate paragraphs with blank lines. Do NOT write a headline.
+  - Open with news, build through context, close on implications.
+  - Separate paragraphs with blank lines. No headline.
 
 OUTPUT ONLY THE ARTICLE BODY (no headline, no byline, no reference list).
 
@@ -454,7 +452,7 @@ Source summary: {item['summary']}"""
                 model='llama-3.3-70b-versatile',
                 messages=[{'role': 'user', 'content': prompt}],
                 max_tokens=ARTICLE_MAX_TOKENS,
-                temperature=0.4,
+                temperature=0.3,  # Reduced from 0.4 for faster, more consistent responses
                 timeout=GROQ_TIMEOUT,
             )
             content = sanitize_text(response.choices[0].message.content)
@@ -556,18 +554,18 @@ def rewrite_synthesized_articles(items):
 
     prompt = f"""You are a senior investigative journalist synthesizing reporting from multiple credible sources into ONE comprehensive Verum article.
 
-LENGTH (critical):
-  - Target 14 to 18 substantial paragraphs, roughly 1,800–2,500 words.
-  - This is a major investigative feature. Do not stop early or summarize tersely.
-  - Develop each idea fully; use the breadth of all {len(group)} sources to go deep.
+LENGTH:
+  - Target 10 to 12 substantial paragraphs, roughly 1,200–1,600 words.
+  - Develop each idea fully; use all {len(group)} sources to go deep.
+  - Do not stop early; this is substantive reporting, not a summary.
 
 SYNTHESIS:
-  - Weave all sources into one cohesive narrative; eliminate redundancy but preserve every unique fact.
+  - Weave all sources into one cohesive narrative; eliminate redundancy but preserve unique facts.
   - Where sources differ, present both accounts and note the discrepancy.
-  - Build out background, mechanisms, affected parties, context, and what comes next.
+  - Build out background, mechanisms, affected parties, context, and implications.
 
 EVIDENCE & FOOTNOTES (critical formatting):
-  - Attribute each sourced fact with a numbered footnote marker matching the source number below: [1], [2], [3].
+  - Attribute each sourced fact with a numbered footnote marker: [1], [2], [3].
   - Place the marker immediately after the sentence or clause it supports.
   - A sentence drawing on multiple sources may carry multiple markers, e.g. [1][2].
   - Do NOT write source names in prose (no "Reuters reports") and do NOT write a byline.
