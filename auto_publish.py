@@ -22,6 +22,12 @@ from datetime import datetime, timezone
 from groq import Groq
 
 try:
+    import google.generativeai as genai
+    GEMINI_AVAILABLE = True
+except ImportError:
+    GEMINI_AVAILABLE = False
+
+try:
     from dotenv import load_dotenv
     # Load local env first (dev), then fall back to default .env.
     load_dotenv('.env.local')
@@ -69,7 +75,7 @@ if not ARGS.dry_run:
         log.error("NETLIFY_SITE_ID not set (or use --no-deploy to save locally without deploying)")
         sys.exit(1)
 if not GROQ_API_KEY and not GEMINI_API_KEY:
-        log.error("No LLM key set (need GROQ_API_KEY or GEMINI_API_KEY). Falling back to RSS summaries.")
+    log.error("No LLM key set (need GROQ_API_KEY or GEMINI_API_KEY). Falling back to RSS summaries.")
 # Retry settings (optimized for efficiency)
 MAX_RETRIES    = 2      # Reduced from 3 (fewer wasted attempts)
 RETRY_DELAY    = 1      # Reduced from 2 (faster backoff, saves time)
@@ -392,7 +398,84 @@ def fetch_all_rss():
              f"{stats['items_valid']}/{stats['items_raw']} items valid")
     return items
 
-# ── GROQ REWRITE WITH RETRY ───────────────────────────────────────────────────
+# ── LLM REWRITE WITH FALLBACK ─────────────────────────────────────────────────
+
+def rewrite_with_gemini(item):
+    """
+    Rewrite an RSS item as a long-form Verum article using Google Gemini.
+    Fallback when Groq is unavailable or times out.
+    Returns (content, sources) where sources is a list of {n, label, url} dicts.
+    """
+    if not GEMINI_API_KEY or not GEMINI_AVAILABLE:
+        return None, []
+    
+    try:
+        genai.configure(api_key=GEMINI_API_KEY)
+        model = genai.GenerativeModel('gemini-2.0-flash')
+    except Exception as e:
+        log.debug(f"Gemini initialization failed: {e}")
+        return None, []
+
+    sources = [{
+        'n': 1,
+        'label': item['source_label'],
+        'url': item.get('original_url', ''),
+    }]
+
+    prompt = f"""You are a senior journalist for Verum, a prestigious news publication dedicated to factual accuracy and depth.
+Verum's mission: "The truth for all" — comprehensive, well-sourced reporting that leaves no doubt about what occurred.
+
+Write a substantial, in-depth article based on the news item below.
+
+LENGTH:
+  - Target 14 to 18 substantial paragraphs, roughly 1,800–2,400 words.
+  - Each paragraph develops one idea fully with specific detail.
+  - Lead with facts, then expand into background, context, implications, and next steps.
+
+DEPTH & SUBSTANCE:
+  - Include: who, what, when, where, specific numbers and names.
+  - Build context and history, mechanisms at play, affected parties, broader impact.
+  - Use concrete examples; avoid generalization.
+
+EVIDENCE & FOOTNOTES:
+  - When you state a fact, append a footnote marker [1].
+  - All facts in this article cite the single source, so every marker is [1].
+  - Do NOT write source names in prose — use [1] marker only.
+  - Do NOT include a "References" or "Sources" list yourself.
+
+TONE & STRUCTURE:
+  - Factual, measured, never sensational. No conjecture beyond what the source supports.
+  - Open with news, build through context, close on implications.
+  - Separate paragraphs with blank lines. No headline.
+
+OUTPUT ONLY THE ARTICLE BODY (no headline, no byline, no reference list).
+
+Source headline: {item['title']}
+Source summary: {item['summary']}"""
+
+    delay = RETRY_DELAY
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = model.generate_content(
+                prompt,
+                generation_config=genai.types.GenerationConfig(
+                    max_output_tokens=ARTICLE_MAX_TOKENS,
+                    temperature=0.3,
+                )
+            )
+            content = sanitize_text(response.text)
+            if len(content) < ARTICLE_MIN_CHARS:
+                raise ValueError(f"Response too short ({len(content)} chars)")
+            log.info(f"  → Rewritten with Gemini (fallback)")
+            return content, sources
+        except Exception as e:
+            if attempt == MAX_RETRIES:
+                log.debug(f"Gemini failed after {MAX_RETRIES} attempts: {e}")
+                return None, []
+            log.debug(f"Gemini retry {attempt}/{MAX_RETRIES}: {e}")
+            time.sleep(delay)
+            delay *= 2
+    return None, []
 
 def rewrite_with_groq(item):
     """
@@ -458,14 +541,36 @@ Source summary: {item['summary']}"""
             content = sanitize_text(response.choices[0].message.content)
             if len(content) < ARTICLE_MIN_CHARS:
                 raise ValueError(f"Response too short ({len(content)} chars)")
+            log.info(f"  → Rewritten with Groq")
             return content, sources
         except Exception as e:
             if attempt == MAX_RETRIES:
-                log.warning(f"Groq failed for '{item['title'][:50]}' after {MAX_RETRIES} attempts: {e}")
+                log.debug(f"Groq failed for '{item['title'][:50]}' after {MAX_RETRIES} attempts: {e}")
                 return None, []
             log.debug(f"Groq retry {attempt}/{MAX_RETRIES}: {e}")
             time.sleep(delay)
             delay *= 2
+    return None, []
+
+def rewrite_article(item):
+    """
+    Rewrite an article with intelligent LLM fallback chain:
+    1. Try Groq (primary, efficient)
+    2. Fall back to Gemini (free tier, reliable)
+    3. Return None if both fail
+    """
+    if GROQ_API_KEY:
+        content, sources = rewrite_with_groq(item)
+        if content:
+            return content, sources
+        log.debug(f"Groq unavailable, trying Gemini...")
+    
+    if GEMINI_API_KEY and GEMINI_AVAILABLE:
+        content, sources = rewrite_with_gemini(item)
+        if content:
+            return content, sources
+    
+    log.warning(f"No LLM available for '{item['title'][:50]}'; using RSS summary")
     return None, []
 
 # ── ARTICLE SYNTHESIS FROM MULTIPLE SOURCES ──────────────────────────────────
@@ -587,16 +692,17 @@ SOURCES (cite by these numbers):
                 model='llama-3.3-70b-versatile',
                 messages=[{'role': 'user', 'content': prompt}],
                 max_tokens=ARTICLE_MAX_TOKENS,
-                temperature=0.4,
+                temperature=0.3,
                 timeout=GROQ_TIMEOUT,
             )
             content = sanitize_text(response.choices[0].message.content)
             if len(content) < ARTICLE_MIN_CHARS:
                 raise ValueError(f"Synthesized response too short ({len(content)} chars)")
+            log.info(f"  → Synthesized {len(group)} sources with Groq")
             return content, sources
         except Exception as e:
             if attempt == MAX_RETRIES:
-                log.warning(f"Synthesis failed after {MAX_RETRIES} attempts: {e}")
+                log.debug(f"Synthesis failed after {MAX_RETRIES} attempts: {e}")
                 return None, []
             log.debug(f"Synthesis retry {attempt}/{MAX_RETRIES}: {e}")
             time.sleep(delay)
@@ -1066,7 +1172,7 @@ def main():
     # Process remaining single articles
     for item in items_to_process:
         log.info(f"Processing: {item['title'][:60]}...")
-        content, sources = rewrite_with_groq(item)
+        content, sources = rewrite_article(item)
         if content:
             new_stories.append(build_story_object(item, content, sources))
             log.info("✓ Written")
