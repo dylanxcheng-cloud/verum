@@ -75,9 +75,9 @@ MAX_RETRIES    = 2      # Reduced from 3 (fewer wasted attempts)
 RETRY_DELAY    = 1      # Reduced from 2 (faster backoff, saves time)
 GROQ_TIMEOUT   = 60     # Reduced from 90 (aggressive timeout)
 
-# Long-form article settings (optimized for efficiency)
-ARTICLE_MAX_TOKENS   = 2500   # ≈1600 words: 10-12 paragraphs instead of 14-18 (40% credit reduction)
-ARTICLE_MIN_CHARS    = 1000   # reject anything shorter than substantial body
+# Long-form article settings (original depth with other efficiencies)
+ARTICLE_MAX_TOKENS   = 4096   # ≈2400 words: 14-18 paragraphs, comprehensive depth
+ARTICLE_MIN_CHARS    = 2000   # reject anything shorter than substantial body
 WORDS_PER_MINUTE     = 220    # for read-time estimation
 IMAGE_SEARCH_LIMIT   = 3      # max Unsplash queries per article (vs 5)
 
@@ -420,7 +420,7 @@ Verum's mission: "The truth for all" — comprehensive, well-sourced reporting t
 Write a substantial, in-depth article based on the news item below.
 
 LENGTH:
-  - Target 10 to 12 substantial paragraphs, roughly 1,200–1,600 words.
+  - Target 14 to 18 substantial paragraphs, roughly 1,800–2,400 words.
   - Each paragraph develops one idea fully with specific detail.
   - Lead with facts, then expand into background, context, implications, and next steps.
 
@@ -555,7 +555,7 @@ def rewrite_synthesized_articles(items):
     prompt = f"""You are a senior investigative journalist synthesizing reporting from multiple credible sources into ONE comprehensive Verum article.
 
 LENGTH:
-  - Target 10 to 12 substantial paragraphs, roughly 1,200–1,600 words.
+  - Target 14 to 18 substantial paragraphs, roughly 1,800–2,400 words.
   - Develop each idea fully; use all {len(group)} sources to go deep.
   - Do not stop early; this is substantive reporting, not a summary.
 
