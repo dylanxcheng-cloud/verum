@@ -41,6 +41,7 @@ except ImportError:
 parser = argparse.ArgumentParser()
 parser.add_argument('--dry-run',   action='store_true', help='Fetch + rewrite but do not save or deploy')
 parser.add_argument('--validate',  action='store_true', help='Validate stories.json only')
+parser.add_argument('--check-feeds', action='store_true', help='Check feed health and exit (no processing)')
 parser.add_argument('--synthesize', action='store_true',
                     help='Combine similar articles from multiple credible sources (EXPERIMENTAL, opt-in)')
 parser.add_argument('--limit',     type=int, default=6,  help='Max new stories per run (default 6)')
@@ -69,8 +70,8 @@ UNSPLASH_API_KEY   = os.environ.get('UNSPLASH_API_KEY')  # Optional
 STORIES_FILE       = 'stories.json'
 MAX_NEW_STORIES    = ARGS.limit
 
-# Validate required env vars (skip Netlify/Groq checks in --dry-run)
-if not ARGS.dry_run:
+# Validate required env vars (skip Netlify/Groq checks in --dry-run or --check-feeds)
+if not ARGS.check_feeds and not ARGS.dry_run:
     if ARGS.deploy and not NETLIFY_SITE_ID:
         log.error("NETLIFY_SITE_ID not set (or use --no-deploy to save locally without deploying)")
         sys.exit(1)
@@ -83,9 +84,62 @@ GROQ_TIMEOUT   = 60     # Reduced from 90 (aggressive timeout)
 
 # Long-form article settings (original depth with other efficiencies)
 ARTICLE_MAX_TOKENS   = 4096   # ≈2400 words: 14-18 paragraphs, comprehensive depth
-ARTICLE_MIN_CHARS    = 2000   # reject anything shorter than substantial body
+ARTICLE_MIN_CHARS    = 1200   # Realistic minimum for substantial body (vs 2000)
 WORDS_PER_MINUTE     = 220    # for read-time estimation
 IMAGE_SEARCH_LIMIT   = 3      # max Unsplash queries per article (vs 5)
+
+# ── METRICS TRACKING ──────────────────────────────────────────────────────────
+class Metrics:
+    """Track performance and cost metrics across a run."""
+    def __init__(self):
+        self.start_time = time.time()
+        self.groq_calls = 0
+        self.gemini_calls = 0
+        self.groq_tokens_estimated = 0
+        self.articles_generated = 0
+        self.articles_skipped = 0
+        self.unsplash_calls = 0
+        self.article_lengths = []
+    
+    def record_article(self, llm, tokens, content_length):
+        """Record successful article generation."""
+        if llm == 'groq':
+            self.groq_calls += 1
+            self.groq_tokens_estimated += tokens
+        elif llm == 'gemini':
+            self.gemini_calls += 1
+        self.articles_generated += 1
+        self.article_lengths.append(len(content_length.split()))
+    
+    def skip_article(self):
+        self.articles_skipped += 1
+    
+    def record_unsplash(self):
+        self.unsplash_calls += 1
+    
+    def report(self):
+        """Print run summary with cost estimates."""
+        elapsed = time.time() - self.start_time
+        avg_length = sum(self.article_lengths) / len(self.article_lengths) if self.article_lengths else 0
+        
+        log.info("\n" + "="*70)
+        log.info("RUN SUMMARY")
+        log.info("="*70)
+        log.info(f"Time elapsed: {elapsed:.1f}s")
+        log.info(f"Articles generated: {self.articles_generated}")
+        log.info(f"Articles skipped: {self.articles_skipped}")
+        if self.article_lengths:
+            log.info(f"Avg article length: {avg_length:.0f} words")
+        log.info(f"LLM calls: {self.groq_calls} Groq, {self.gemini_calls} Gemini")
+        if self.groq_tokens_estimated > 0:
+            log.info(f"Groq tokens (est): {self.groq_tokens_estimated:,}")
+            # Rough estimate: 1M tokens ≈ $0.02 on Groq
+            estimated_cost = (self.groq_tokens_estimated / 1_000_000) * 0.02
+            log.info(f"Groq cost (est): ${estimated_cost:.4f}")
+        log.info(f"Unsplash API calls: {self.unsplash_calls} (50/hour limit)")
+        log.info("="*70 + "\n")
+
+metrics = Metrics()
 
 # ── RSS FEEDS ─────────────────────────────────────────────────────────────────
 #
@@ -175,7 +229,6 @@ def extract_keywords(text, max_keywords=6):
 
     raw_words = re.findall(r"[A-Za-z][A-Za-z'-]+", text)
     keywords = []
-    w = 'hello'
     phrase = []
     for w in raw_words:
         if w[0].isupper() and w.lower() not in stop_words:
@@ -214,26 +267,40 @@ CATEGORY_QUERIES = {
 }
 
 def construct_search_queries(title, summary, category):
-    """Build ordered Unsplash queries: entity phrases → proper nouns → theme → category."""
+    """
+    Build Unsplash queries in two tiers:
+      - specific: entity phrases -> proper nouns -> thematic keyword
+      - fallback: category queries that reliably return strong imagery
+    Returned separately so the searcher always tries the reliable fallbacks
+    even after the specific budget is spent.
+    """
     title_kw = extract_keywords(title, max_keywords=5)
     summary_kw = extract_keywords(summary, max_keywords=4)
 
-    queries = []
-    queries += [k for k in title_kw if ' ' in k]
-    queries += [k for k in summary_kw if ' ' in k][:1]
-    queries += [k for k in title_kw if ' ' not in k and k[:1].isupper()][:2]
-    queries += [k for k in summary_kw if ' ' not in k and k[:1].isupper()][:1]
-    queries += [k for k in title_kw if ' ' not in k and not k[:1].isupper()][:1]
-    queries += CATEGORY_QUERIES.get(category.lower(), CATEGORY_QUERIES['news'])
+    specific = []
+    specific += [k for k in title_kw if ' ' in k]
+    specific += [k for k in summary_kw if ' ' in k][:1]
+    specific += [k for k in title_kw if ' ' not in k and k[:1].isupper()][:2]
+    specific += [k for k in summary_kw if ' ' not in k and k[:1].isupper()][:1]
+    specific += [k for k in title_kw if ' ' not in k and not k[:1].isupper()][:1]
 
-    seen, unique = set(), []
-    for q in queries:
+    fallback = list(CATEGORY_QUERIES.get(category.lower(), CATEGORY_QUERIES['news']))
+    for q in CATEGORY_QUERIES['news']:
+        if q not in fallback:
+            fallback.append(q)
+
+    seen, spec_u = set(), []
+    for q in specific:
         ql = q.lower().strip()
         if ql and ql not in seen:
-            seen.add(ql)
-            unique.append(q.strip())
-    return unique or ['news']
+            seen.add(ql); spec_u.append(q.strip())
+    fb_u = []
+    for q in fallback:
+        ql = q.lower().strip()
+        if ql and ql not in seen:
+            seen.add(ql); fb_u.append(q.strip())
 
+    return spec_u, fb_u
 def fetch_image_from_unsplash(search_query, per_page=5):
     """
     Search Unsplash for an image matching the query.
@@ -257,6 +324,7 @@ def fetch_image_from_unsplash(search_query, per_page=5):
             'order_by': 'relevant',
         }
         res = requests.get(url, headers=headers, params=params, timeout=10)
+        metrics.record_unsplash()
         if res.status_code != 200:
             log.debug(f"Unsplash HTTP {res.status_code} for '{search_query}'")
             return None
@@ -286,20 +354,31 @@ def encodeURIComponent_seed(story_id, title):
 
 def get_image_for_story(story_id, title, summary, category='news'):
     """
-    Find the best image for a story. Tries ranked queries (entity phrases →
-    proper nouns → theme → category) and returns the first Unsplash hit.
-    Limits attempts for efficiency; DiceBear only if everything misses.
-    """
-    search_queries = construct_search_queries(title, summary, category)
+    Find the best image for a story.
 
-    for query in search_queries[:IMAGE_SEARCH_LIMIT]:  # Limit attempts (default 3)
-        img_url = fetch_image_from_unsplash(query, per_page=2)  # Reduced per_page for efficiency
+    Try story-specific queries first (up to IMAGE_SEARCH_LIMIT), then ALWAYS
+    try the category fallback queries — these are outside the specific budget,
+    so a story whose specific queries all miss still gets a relevant category
+    image instead of a placeholder. DiceBear is reached only if Unsplash returns
+    nothing even for the broad category terms (missing key, rate limit, outage).
+    """
+    specific, fallback = construct_search_queries(title, summary, category)
+
+    for query in specific[:IMAGE_SEARCH_LIMIT]:
+        img_url = fetch_image_from_unsplash(query, per_page=5)
         if img_url:
             log.info(f"  → Image: Unsplash ('{query}')")
             return img_url
 
+    for query in fallback:
+        img_url = fetch_image_from_unsplash(query, per_page=5)
+        if img_url:
+            log.info(f"  → Image: Unsplash fallback ('{query}')")
+            return img_url
+
     img_url = generate_dicebear_url(story_id, title)
-    log.info(f"  → Image: DiceBear placeholder (no Unsplash match)")
+    log.warning(f"  → Image: DiceBear placeholder — Unsplash returned nothing "
+                f"(check UNSPLASH_API_KEY / rate limit)")
     return img_url
 # ── SANITIZATION ──────────────────────────────────────────────────────────────
 
@@ -357,6 +436,42 @@ def fetch_feed_with_retry(feed_config):
             time.sleep(delay)
             delay *= 2
     return None
+
+def check_feed_health():
+    """Check which feeds are accessible and exit with report."""
+    log.info("Checking feed health...\n")
+    results = []
+    
+    for feed_config in FEEDS:
+        label = feed_config['source_label']
+        url = feed_config['url']
+        
+        try:
+            res = requests.get(url, headers=FEED_HEADERS, timeout=10)
+            if res.status_code == 200:
+                feed = feedparser.parse(res.content)
+                if feed.entries:
+                    status = f"✅ OK ({len(feed.entries)} entries)"
+                else:
+                    status = f"⚠️  Empty (HTTP 200 but no entries)"
+            else:
+                status = f"❌ HTTP {res.status_code}"
+        except Exception as e:
+            status = f"❌ {str(e)[:40]}"
+        
+        results.append((label, status))
+    
+    # Print formatted results
+    max_len = max(len(r[0]) for r in results)
+    for label, status in sorted(results):
+        print(f"  {label:<{max_len}} {status}")
+    
+    ok = sum(1 for _, s in results if s.startswith('✅'))
+    total = len(results)
+    print(f"\n{ok}/{total} feeds healthy")
+    sys.exit(0)
+
+# ── MAIN PROCESSING ──────────────────────────────────────────────────────────
 
 def fetch_all_rss():
     """Fetch all feeds and return sanitized, validated items."""
@@ -1091,6 +1206,10 @@ def deploy_to_netlify(data):
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 
 def main():
+    # Check feed health if requested
+    if ARGS.check_feeds:
+        check_feed_health()
+    
     log.info("=" * 60)
     log.info("VERUM AUTO PUBLISHER v2")
     log.info(f"Mode: {'DRY RUN' if ARGS.dry_run else 'LIVE'}")
@@ -1161,6 +1280,7 @@ def main():
                     base_item['is_synthesized'] = True
                     base_item['source_count'] = len(group)
                     new_stories.append(build_story_object(base_item, content, sources))
+                    metrics.record_article('groq', ARTICLE_MAX_TOKENS, content)
                     log.info(f"✓ Synthesized from {len(group)} sources")
                 else:
                     log.warning(f"✗ Synthesis failed, using single source")
@@ -1175,6 +1295,7 @@ def main():
         content, sources = rewrite_article(item)
         if content:
             new_stories.append(build_story_object(item, content, sources))
+            metrics.record_article('groq', ARTICLE_MAX_TOKENS, content)
             log.info("✓ Written")
         else:
             log.warning(f"✗ Skipped: {item['title'][:50]}")
@@ -1216,7 +1337,8 @@ def main():
    
     log.info("=" * 60)
     log.info(f"DONE — {len(new_stories)} new stories published")
-    log.info("=" * 60) 
+    log.info("=" * 60)
+    metrics.report() 
  # Deploy (unless --no-deploy)
     if ARGS.deploy:
         deploy_to_netlify(data)
