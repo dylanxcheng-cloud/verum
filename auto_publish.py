@@ -515,6 +515,105 @@ def fetch_all_rss():
 
 # ── LLM REWRITE WITH FALLBACK ─────────────────────────────────────────────────
 
+def _groq_complete(prompt, label='Groq'):
+    """Single Groq chat completion with retry/backoff. Returns content or None.
+
+    Shared by the single-article and multi-source synthesis paths so both get
+    the same retry behaviour and length floor.
+    """
+    if not GROQ_API_KEY:
+        return None
+    client = Groq(api_key=GROQ_API_KEY)
+    delay = RETRY_DELAY
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = client.chat.completions.create(
+                model='llama-3.3-70b-versatile',
+                messages=[{'role': 'user', 'content': prompt}],
+                max_tokens=ARTICLE_MAX_TOKENS,
+                temperature=0.3,
+                timeout=GROQ_TIMEOUT,
+            )
+            content = sanitize_text(response.choices[0].message.content)
+            if len(content) < ARTICLE_MIN_CHARS:
+                raise ValueError(f"Response too short ({len(content)} chars)")
+            return content
+        except Exception as e:
+            if attempt == MAX_RETRIES:
+                log.debug(f"{label} failed after {MAX_RETRIES} attempts: {e}")
+                return None
+            log.debug(f"{label} retry {attempt}/{MAX_RETRIES}: {e}")
+            time.sleep(delay)
+            delay *= 2
+    return None
+
+
+def _gemini_complete(prompt, label='Gemini'):
+    """Single Gemini completion with retry/backoff. Returns content or None."""
+    if not GEMINI_API_KEY or not GEMINI_AVAILABLE:
+        return None
+    try:
+        genai.configure(api_key=GEMINI_API_KEY)
+        model = genai.GenerativeModel('gemini-2.0-flash')
+    except Exception as e:
+        log.debug(f"Gemini initialization failed: {e}")
+        return None
+    delay = RETRY_DELAY
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = model.generate_content(
+                prompt,
+                generation_config=genai.types.GenerationConfig(
+                    max_output_tokens=ARTICLE_MAX_TOKENS,
+                    temperature=0.3,
+                ),
+            )
+            content = sanitize_text(response.text)
+            if len(content) < ARTICLE_MIN_CHARS:
+                raise ValueError(f"Response too short ({len(content)} chars)")
+            return content
+        except Exception as e:
+            if attempt == MAX_RETRIES:
+                log.debug(f"{label} failed after {MAX_RETRIES} attempts: {e}")
+                return None
+            log.debug(f"{label} retry {attempt}/{MAX_RETRIES}: {e}")
+            time.sleep(delay)
+            delay *= 2
+    return None
+
+
+def build_summary_article(item):
+    """Tier 3 floor: when neither Groq nor Gemini is available, publish the
+    cleaned RSS summary so the pipeline always emits something instead of
+    dropping the story. Returns (content, sources)."""
+    summary = sanitize_text(item.get('summary') or '')
+    if len(summary) < 60:
+        return None, []
+    sources = [{'n': 1, 'label': item['source_label'], 'url': item.get('original_url', '')}]
+    body = summary.rstrip()
+    if body[-1] not in '.!?':
+        body += '.'
+    log.info("  → Built no-LLM summary article (Tier 3 floor)")
+    return f"{body} [1]", sources
+
+
+def build_summary_synthesis(group):
+    """Tier 3 floor for multi-source items: stitch the cleaned RSS summaries
+    into one body with [n] citations when no LLM is available."""
+    sources, parts = [], []
+    for i, it in enumerate(group):
+        sources.append({'n': i + 1, 'label': it['source_label'], 'url': it.get('original_url', '')})
+        s = sanitize_text(it.get('summary') or '').rstrip()
+        if not s:
+            continue
+        if s[-1] not in '.!?':
+            s += '.'
+        parts.append(f"{s} [{i + 1}]")
+    if not parts:
+        return None, []
+    return '\n\n'.join(parts), sources
+
+
 def rewrite_with_gemini(item):
     """
     Rewrite an RSS item as a long-form Verum article using Google Gemini.
@@ -669,39 +768,85 @@ Source summary: {item['summary']}"""
 
 def rewrite_article(item):
     """
-    Rewrite an article with intelligent LLM fallback chain:
-    1. Try Groq (primary, efficient)
-    2. Fall back to Gemini (free tier, reliable)
-    3. Return None if both fail
+    Rewrite an article with an intelligent fallback chain:
+    1. Groq (primary, efficient)
+    2. Gemini (free-tier fallback)
+    3. No-LLM RSS summary floor (always publishes something)
+
+    Returns (content, sources, engine) where engine is 'groq' | 'gemini' |
+    'summary', so callers can record which engine actually produced the text.
     """
     if GROQ_API_KEY:
         content, sources = rewrite_with_groq(item)
         if content:
-            return content, sources
+            return content, sources, 'groq'
         log.debug(f"Groq unavailable, trying Gemini...")
-    
+
     if GEMINI_API_KEY and GEMINI_AVAILABLE:
         content, sources = rewrite_with_gemini(item)
         if content:
-            return content, sources
-    
-    log.warning(f"No LLM available for '{item['title'][:50]}'; using RSS summary")
-    return None, []
+            return content, sources, 'gemini'
+        log.debug("Gemini unavailable, falling back to summary floor...")
+
+    # Tier 3 floor: never drop a story just because both LLMs are exhausted.
+    log.warning(f"No LLM produced output for '{item['title'][:50]}'; using RSS summary floor")
+    content, sources = build_summary_article(item)
+    return content, sources, 'summary'
 
 # ── ARTICLE SYNTHESIS FROM MULTIPLE SOURCES ──────────────────────────────────
 
-def similarity_score(title1, title2):
+# Sentence-initial / connective words that are capitalised but not entities.
+_SIM_NON_ENTITY = {
+    'the', 'a', 'an', 'and', 'or', 'but', 'if', 'in', 'on', 'at', 'to', 'for',
+    'of', 'with', 'by', 'from', 'as', 'this', 'that', 'these', 'those', 'it',
+    'according', 'however', 'despite', 'although', 'though', 'meanwhile', 'while',
+    'furthermore', 'moreover', 'nevertheless', 'additionally', 'many', 'several',
+    'here', 'there', 'today', 'yesterday', 'tomorrow', 'new', 'more', 'most',
+    'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday',
+    'january', 'february', 'march', 'april', 'may', 'june', 'july', 'august',
+    'september', 'october', 'november', 'december', 'president', 'minister',
+    'prime', 'secretary', 'chair', 'chief', 'director', 'officials', 'report',
+    'reports', 'says', 'said', 'after', 'before', 'amid', 'over', 'his', 'her',
+}
+
+
+def _entity_tokens(text):
+    """Decomposed named-entity token set (proper-noun words) for topic matching.
+
+    Splits multi-word entities into component tokens so headlines match even
+    when phrasing differs ("Gaza Strip" ↔ "Gaza", "Federal Reserve Chair Jerome
+    Powell" ↔ "Federal Reserve"). Self-contained — no external NER dependency.
     """
-    Simple similarity check: count matching words.
-    Returns 0-1 score (higher = more similar).
+    tokens = set()
+    for w in re.findall(r"[A-Za-z][A-Za-z'\-]+", text or ''):
+        wl = re.sub(r"['’]s$", '', w.lower()).strip("-'’")
+        if w[0].isupper() and len(wl) > 2 and wl not in _SIM_NON_ENTITY:
+            tokens.add(wl)
+    return tokens
+
+
+def similarity_score(item1, item2):
     """
-    words1 = set(w.lower() for w in title1.split() if len(w) > 3)
-    words2 = set(w.lower() for w in title2.split() if len(w) > 3)
-    if not words1 or not words2:
-        return 0
-    intersection = len(words1 & words2)
-    union = len(words1 | words2)
-    return intersection / union if union > 0 else 0
+    Topic similarity via named-entity overlap coefficient.
+
+    Builds a decomposed entity-token signature for each item over its title AND
+    summary, then scores with the overlap coefficient (shared / size of the
+    smaller set), requiring at least two shared entities so a single common
+    token can't group unrelated stories. This reliably groups different
+    headlines about the same event — e.g. "Israel strikes Gaza" and "Gaza death
+    toll rises after IDF operation" — which the old title-only word-Jaccard
+    version missed (it scored such pairs near 0.05 and almost never grouped
+    them). Accepts full item dicts (not just titles) so summaries inform the
+    match.
+    """
+    s1 = _entity_tokens(f"{item1.get('title', '')} {item1.get('summary', '') or ''}")
+    s2 = _entity_tokens(f"{item2.get('title', '')} {item2.get('summary', '') or ''}")
+    if not s1 or not s2:
+        return 0.0
+    shared = len(s1 & s2)
+    if shared < 2:
+        return 0.0
+    return shared / min(len(s1), len(s2))
 
 def find_similar_articles(items, threshold=0.4):
     """
@@ -732,7 +877,7 @@ def find_similar_articles(items, threshold=0.4):
             if j in used:
                 continue
             
-            score = similarity_score(item1['title'], item2['title'])
+            score = similarity_score(item1, item2)
             if score >= threshold:
                 tier1 = source_tiers.get(item1['source'], 5)
                 tier2 = source_tiers.get(item2['source'], 5)
@@ -752,12 +897,15 @@ def rewrite_synthesized_articles(items):
     """
     Synthesize 2-3 articles from different credible sources into one long-form
     article with footnote-style attribution.
-    Returns (content, sources) where sources is a list of {n, label, url} dicts.
-    """
-    if not GROQ_API_KEY or not items or len(items) < 2:
-        return None, []
 
-    client = Groq(api_key=GROQ_API_KEY)
+    Uses the same Groq → Gemini → no-LLM summary fallback chain as the
+    single-article path, so a multi-source story degrades gracefully (and still
+    publishes) when an LLM is down instead of failing outright.
+    Returns (content, sources, engine) where sources is a list of
+    {n, label, url} dicts and engine is 'groq' | 'gemini' | 'summary' | 'none'.
+    """
+    if not items or len(items) < 2:
+        return None, [], 'none'
 
     group = items[:3]
     sources = [{
@@ -800,29 +948,22 @@ OUTPUT ONLY THE ARTICLE BODY (no headline, no byline, no reference list).
 SOURCES (cite by these numbers):
 {sources_text}"""
 
-    delay = RETRY_DELAY
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            response = client.chat.completions.create(
-                model='llama-3.3-70b-versatile',
-                messages=[{'role': 'user', 'content': prompt}],
-                max_tokens=ARTICLE_MAX_TOKENS,
-                temperature=0.3,
-                timeout=GROQ_TIMEOUT,
-            )
-            content = sanitize_text(response.choices[0].message.content)
-            if len(content) < ARTICLE_MIN_CHARS:
-                raise ValueError(f"Synthesized response too short ({len(content)} chars)")
-            log.info(f"  → Synthesized {len(group)} sources with Groq")
-            return content, sources
-        except Exception as e:
-            if attempt == MAX_RETRIES:
-                log.debug(f"Synthesis failed after {MAX_RETRIES} attempts: {e}")
-                return None, []
-            log.debug(f"Synthesis retry {attempt}/{MAX_RETRIES}: {e}")
-            time.sleep(delay)
-            delay *= 2
-    return None, []
+    # Tier 1 Groq → Tier 2 Gemini → Tier 3 no-LLM summary floor, so a
+    # multi-source story is never silently dropped when an LLM is down.
+    # Returns (content, sources, engine) to mirror rewrite_article.
+    content = _groq_complete(prompt, label='Synthesis (Groq)')
+    if content:
+        log.info(f"  → Synthesized {len(group)} sources with Groq")
+        return content, sources, 'groq'
+
+    content = _gemini_complete(prompt, label='Synthesis (Gemini)')
+    if content:
+        log.info(f"  → Synthesized {len(group)} sources with Gemini")
+        return content, sources, 'gemini'
+
+    log.warning(f"Both LLMs unavailable for synthesis; using summary floor ({len(group)} sources)")
+    content, sources = build_summary_synthesis(group)
+    return content, sources, 'summary'
 
 # ── NEW STORIES.JSON STRUCTURE ────────────────────────────────────────────────
 #
@@ -1272,7 +1413,7 @@ def main():
             if len(group) >= 2:
                 # Synthesize multiple sources
                 log.info(f"Synthesizing {len(group)} sources: {group[0]['title'][:50]}...")
-                content, sources = rewrite_synthesized_articles(group)
+                content, sources, engine = rewrite_synthesized_articles(group)
                 if content:
                     # Use first item as base, mark as synthesized
                     base_item = group[0]
@@ -1280,8 +1421,8 @@ def main():
                     base_item['is_synthesized'] = True
                     base_item['source_count'] = len(group)
                     new_stories.append(build_story_object(base_item, content, sources))
-                    metrics.record_article('groq', ARTICLE_MAX_TOKENS, content)
-                    log.info(f"✓ Synthesized from {len(group)} sources")
+                    metrics.record_article(engine, ARTICLE_MAX_TOKENS, content)
+                    log.info(f"✓ Synthesized from {len(group)} sources ({engine})")
                 else:
                     log.warning(f"✗ Synthesis failed, using single source")
                     items_to_process.append(group[0])
@@ -1292,11 +1433,11 @@ def main():
     # Process remaining single articles
     for item in items_to_process:
         log.info(f"Processing: {item['title'][:60]}...")
-        content, sources = rewrite_article(item)
+        content, sources, engine = rewrite_article(item)
         if content:
             new_stories.append(build_story_object(item, content, sources))
-            metrics.record_article('groq', ARTICLE_MAX_TOKENS, content)
-            log.info("✓ Written")
+            metrics.record_article(engine, ARTICLE_MAX_TOKENS, content)
+            log.info(f"✓ Written ({engine})")
         else:
             log.warning(f"✗ Skipped: {item['title'][:50]}")
 
