@@ -1,0 +1,24 @@
+{
+  "_doc": "Recordationem editorial overrides. Layered on top of every discovery run by recordationem.py so editors keep control without code changes. Manage this file via /recordationem-admin.html (Export overrides) or by hand.",
+  "_schema": {
+    "merges": { "child_topic_id": "parent_topic_id" },
+    "overrides": {
+      "<topic_id>": {
+        "approved": "boolean — set false to hide a discovered topic",
+        "archived": "boolean — set true to archive a completed story",
+        "importanceScore": "number — hard override of recordationemScore",
+        "title": "string — override the auto-generated title",
+        "category": "string — reassign the dynamic category",
+        "notes": ["string — contextual editor notes shown on the story page"],
+        "summaries": {
+          "whyStillImportant": "string",
+          "whatHappened": "string",
+          "whatIsHappeningNow": "string",
+          "whatChanged": "string"
+        }
+      }
+    }
+  },
+  "merges": {},
+  "overrides": {}
+}

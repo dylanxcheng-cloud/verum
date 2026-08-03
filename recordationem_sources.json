@@ -1,0 +1,264 @@
+{
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.95,
+      "updateFrequency": "15m",
+      "region": "Global",
+      "beat": "World"
+    },
+    {
+      "name": "Reuters World",
+      "url": "https://news.google.com/rss/search?q=when:24h+source:reuters",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.97,
+      "updateFrequency": "15m",
+      "region": "Global",
+      "beat": "World"
+    },
+    {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/search?q=when:24h+source:apnews",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.96,
+      "updateFrequency": "15m",
+      "region": "Global",
+      "beat": "News"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/rss",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.92,
+      "updateFrequency": "15m",
+      "region": "UK",
+      "beat": "World"
+    },
+    {
+      "name": "NPR",
+      "url": "https://feeds.npr.org/1001/rss.xml",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.9,
+      "updateFrequency": "30m",
+      "region": "US",
+      "beat": "News"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.88,
+      "updateFrequency": "15m",
+      "region": "Qatar",
+      "beat": "World"
+    },
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/rss",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.85,
+      "updateFrequency": "30m",
+      "region": "France",
+      "beat": "World"
+    },
+    {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/feed/",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.85,
+      "updateFrequency": "1h",
+      "region": "Japan",
+      "beat": "Asia"
+    },
+    {
+      "name": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/rss/data/topstories.xml",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.82,
+      "updateFrequency": "1h",
+      "region": "Thailand",
+      "beat": "Asia"
+    },
+    {
+      "name": "The Irish Times",
+      "url": "https://www.irishtimes.com/cmlink/news-1.1319192",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.84,
+      "updateFrequency": "1h",
+      "region": "Ireland",
+      "beat": "Europe"
+    },
+    {
+      "name": "CNA (Singapore)",
+      "url": "https://news.google.com/rss/search?q=when:24h+source:channelnewsasia",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.85,
+      "updateFrequency": "30m",
+      "region": "Singapore",
+      "beat": "Asia"
+    },
+    {
+      "name": "The Straits Times",
+      "url": "https://news.google.com/rss/search?q=when:24h+source:straitstimes",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.85,
+      "updateFrequency": "30m",
+      "region": "Singapore",
+      "beat": "Asia"
+    },
+    {
+      "name": "ABC News (AU)",
+      "url": "https://news.google.com/rss/search?q=when:24h+source:abc.net.au",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.86,
+      "updateFrequency": "30m",
+      "region": "Australia",
+      "beat": "World"
+    },
+    {
+      "name": "Sydney Morning Herald",
+      "url": "https://news.google.com/rss/search?q=when:24h+source:smh",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.84,
+      "updateFrequency": "30m",
+      "region": "Australia",
+      "beat": "World"
+    },
+    {
+      "name": "Google News \u2014 Business",
+      "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.6,
+      "updateFrequency": "15m",
+      "region": "Global",
+      "beat": "Economy"
+    },
+    {
+      "name": "Google News \u2014 Health",
+      "url": "https://news.google.com/rss/headlines/section/topic/HEALTH",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.6,
+      "updateFrequency": "15m",
+      "region": "Global",
+      "beat": "Health"
+    },
+    {
+      "name": "Google News \u2014 Science",
+      "url": "https://news.google.com/rss/headlines/section/topic/SCIENCE",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.6,
+      "updateFrequency": "15m",
+      "region": "Global",
+      "beat": "Science"
+    },
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com/nature/current_issue/rss",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.93,
+      "updateFrequency": "1d",
+      "region": "Global",
+      "beat": "Science"
+    },
+    {
+      "name": "The Conversation",
+      "url": "https://theconversation.com/us/articles.atom",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.86,
+      "updateFrequency": "6h",
+      "region": "US",
+      "beat": "Analysis"
+    },
+    {
+      "name": "NASA Breaking News",
+      "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.94,
+      "updateFrequency": "1d",
+      "region": "US",
+      "beat": "Science"
+    },
+    {
+      "name": "Snopes",
+      "url": "https://www.snopes.com/feed/",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.9,
+      "updateFrequency": "6h",
+      "region": "US",
+      "beat": "Fact-check"
+    },
+    {
+      "name": "Full Fact",
+      "url": "https://fullfact.org/feed/",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.9,
+      "updateFrequency": "6h",
+      "region": "UK",
+      "beat": "Fact-check"
+    },
+    {
+      "name": "UC Berkeley News",
+      "url": "https://news.berkeley.edu/feed/",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.9,
+      "updateFrequency": "1d",
+      "region": "US",
+      "beat": "Research"
+    },
+    {
+      "name": "Columbia Journalism Review",
+      "url": "https://www.cjr.org/feed",
+      "type": "rss",
+      "enabled": true,
+      "trustScore": 0.88,
+      "updateFrequency": "1d",
+      "region": "US",
+      "beat": "Media"
+    },
+    {
+      "name": "GDELT Event API",
+      "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "type": "api",
+      "enabled": false,
+      "trustScore": 0.75,
+      "updateFrequency": "15m",
+      "region": "Global",
+      "beat": "Events"
+    },
+    {
+      "name": "ReliefWeb Updates",
+      "url": "https://api.reliefweb.int/v1/reports",
+      "type": "api",
+      "enabled": false,
+      "trustScore": 0.88,
+      "updateFrequency": "1h",
+      "region": "Global",
+      "beat": "Humanitarian"
+    }
+  ]
+}

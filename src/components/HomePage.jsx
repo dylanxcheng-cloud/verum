@@ -4,6 +4,7 @@
  */
 import React, { useState, useEffect, useCallback, memo } from 'react';
 import { loadStories, timeAgo } from '../utils/shared';
+import RecordationemModule from './RecordationemModule';
 
 const REFRESH_MS = 5 * 60 * 1000;
 const STORY_URL = (id) => `/article.html?id=${encodeURIComponent(id)}`;
@@ -300,6 +301,9 @@ export default function HomePage() {
           ))}
         </div>
       </div>
+
+      {/* Recordationem — recovering stories that still matter */}
+      <RecordationemModule />
 
       {/* Latest News */}
       <SectionHeader label="Latest News" seeAllCat="News" />

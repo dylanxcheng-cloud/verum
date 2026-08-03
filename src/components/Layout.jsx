@@ -101,6 +101,22 @@ export default function Layout({ children, currentPage }) {
           >
             Science
           </span>
+          <span
+            className="nav-item nav-item--recordationem"
+            data-page="recordationem"
+            onClick={() => (location.href = '/recordationem.html')}
+            title="Recovering stories that still matter"
+          >
+            Recordationem
+          </span>
+          <span
+            className="nav-item nav-item--search"
+            data-page="search"
+            onClick={() => (location.href = '/search.html')}
+            aria-label="Search"
+          >
+            Search
+          </span>
         </div>
       </nav>
 
@@ -129,6 +145,8 @@ export default function Layout({ children, currentPage }) {
           <a href="/category.html?cat=Sports">Sports</a>
           <a href="/category.html?cat=Health">Health</a>
           <a href="/category.html?cat=Science">Science</a>
+          <a href="/recordationem.html">Recordationem</a>
+          <a href="/search.html">Search</a>
           <a href="/about.html">About</a>
           <a href="/contact.html">Contact</a>
         </nav>

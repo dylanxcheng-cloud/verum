@@ -57,10 +57,135 @@ export interface BaseProps {
 export type CategoryName = 'technology' | 'science' | 'politics' | 'world';
 
 /** Page names for navigation */
-export type PageName = 'home' | 'article' | 'category' | 'about' | 'contact' | 'editor';
+export type PageName =
+  | 'home'
+  | 'article'
+  | 'category'
+  | 'about'
+  | 'contact'
+  | 'editor'
+  | 'recordationem'
+  | 'search';
 
 /** Navigation parameters */
 export interface NavigationParams {
   page: PageName;
   [key: string]: string;
+}
+
+// ── RECORDATIONEM ────────────────────────────────────────────────────────────
+// "The act of remembering and bringing back into record."
+// Recovers stories that have faded from coverage but still matter.
+
+/** Per-topic attention metrics computed by the discovery engine */
+export interface StoryAttentionMetrics {
+  peakCoverageScore: number;
+  currentCoverageScore: number;
+  attentionDecayRate: number;
+  relevanceScore: number;
+  significanceScore: number;
+}
+
+/** A configurable Recordationem source (admin-editable, no code changes) */
+export interface RecordationemSource {
+  name: string;
+  url: string;
+  type: 'rss' | 'api' | 'scraper';
+  enabled: boolean;
+  trustScore: number;
+  updateFrequency: string;
+}
+
+/** A single point in a coverage time series (for decay visualisation) */
+export interface CoveragePoint {
+  period: string;
+  windowsAgo: number;
+  score: number;
+}
+
+export interface SourceDiversityPoint {
+  period: string;
+  windowsAgo: number;
+  sourceCount: number;
+}
+
+/** A verified update in a Recordationem timeline */
+export interface RecordationemUpdate {
+  date: string;
+  title: string;
+  source: string;
+  url?: string;
+  storyId?: string;
+}
+
+/** An upcoming milestone surfaced for "Watch Next" */
+export interface WatchNextItem {
+  type: string;
+  title: string;
+  sourceHint?: string;
+  date?: string;
+}
+
+/** Editorial decisions layered on a discovered topic */
+export interface RecordationemEditorial {
+  approved: boolean;
+  archived: boolean;
+  notes: string[];
+  importanceOverridden?: boolean;
+  summariesOverridden?: boolean;
+}
+
+/** A discovered Recordationem topic/story */
+export interface RecordationemStory {
+  id: string;
+  title: string;
+  slug: string;
+  category: string;
+  categoryEmergent: boolean;
+  entities: string[];
+  keywords: string[];
+  articleCount: number;
+  image: string;
+  metrics: StoryAttentionMetrics;
+  recordationemScore: number;
+  importance: string;
+  coverageDeclinePct: number;
+  status: string;
+  lastVerifiedUpdate: string;
+  daysSinceUpdate: number;
+  coverageHistory: CoveragePoint[];
+  sourceDiversity: SourceDiversityPoint[];
+  whyStillImportant: string;
+  whatHappened: string;
+  whatIsHappeningNow: string;
+  whatChanged: string;
+  narrativeSource: 'ai' | 'extractive';
+  updates: RecordationemUpdate[];
+  watchNext: WatchNextItem[];
+  memberStoryIds: string[];
+  editorial: RecordationemEditorial;
+}
+
+/** A dynamically generated category */
+export interface RecordationemCategory {
+  name: string;
+  count: number;
+  emergent: boolean;
+}
+
+/** Top-level recordationem.json payload */
+export interface RecordationemData {
+  mission: string;
+  subtitle: string;
+  generatedAt: string;
+  threshold: number;
+  formula: string;
+  categories: RecordationemCategory[];
+  stories: RecordationemStory[];
+  sources: RecordationemSource[];
+  stats: {
+    corpusSize: number;
+    topicsExamined: number;
+    topicsSurfaced: number;
+  };
 }

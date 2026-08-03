@@ -1,0 +1,129 @@
+{
+  "snapshots": [
+    {
+      "at": "2026-08-02T19:19:55",
+      "topics": {
+        "rec_iran-iranian-tehran-united-states": {
+          "current": 0.88,
+          "peak": 5.4,
+          "score": 51.347
+        },
+        "rec_andy-burnham-england-labour-united-kingdom": {
+          "current": 15.82,
+          "peak": 24.33,
+          "score": 37.348
+        },
+        "rec_china-chinese-iran-trump": {
+          "current": 3.5,
+          "peak": 10.15,
+          "score": 34.444
+        },
+        "rec_ap-news-iran-middle-east-united-states": {
+          "current": 18.1,
+          "peak": 18.1,
+          "score": 31.489
+        },
+        "rec_democratic-republic-ebola-united-states-world-he": {
+          "current": 29.31,
+          "peak": 29.31,
+          "score": 31.219
+        },
+        "rec_russia-russian-ukraine-ukrainian": {
+          "current": 2.58,
+          "peak": 3.72,
+          "score": 27.994
+        },
+        "rec_california-berkeley-uc-berkeley-united-states-un": {
+          "current": 0.9,
+          "peak": 5.42,
+          "score": 21.399
+        },
+        "rec_abc-news-headlines-australian-broadcasting-corpo": {
+          "current": 0.86,
+          "peak": 2.7,
+          "score": 15.358
+        },
+        "rec_ap-news-democratic-trump-united-states": {
+          "current": 0.6,
+          "peak": 1.89,
+          "score": 14.728
+        },
+        "rec_hormuz-iran-persian-gulf-strait": {
+          "current": 0.0,
+          "peak": 4.53,
+          "score": 14.518
+        },
+        "rec_israel-israeli-lebanese-united-states": {
+          "current": 0.0,
+          "peak": 3.55,
+          "score": 10.092
+        },
+        "rec_asylum-celsius-france-french": {
+          "current": 0.0,
+          "peak": 4.72,
+          "score": 9.578
+        },
+        "rec_action-jcpoa-donald-trump-joint-comprehensive-un": {
+          "current": 0.0,
+          "peak": 2.79,
+          "score": 9.578
+        },
+        "rec_legionella-manhattan-upper-east-side-york-city": {
+          "current": 1.2,
+          "peak": 1.8,
+          "score": 9.313
+        },
+        "rec_gaza-hamas-israel-israeli": {
+          "current": 0.95,
+          "peak": 1.82,
+          "score": 9.162
+        },
+        "rec_author-correction-author-correction-physiology-a": {
+          "current": 0.93,
+          "peak": 3.72,
+          "score": 8.842
+        },
+        "rec_donald-trump-fox-news-united-states-white-house": {
+          "current": 1.76,
+          "peak": 3.65,
+          "score": 7.169
+        },
+        "rec_cbs-news-donald-trump-iranian-united-states": {
+          "current": 0.6,
+          "peak": 1.8,
+          "score": 7.157
+        },
+        "rec_origin-queensland-south-wales-state": {
+          "current": 0.95,
+          "peak": 2.52,
+          "score": 6.901
+        },
+        "rec_bees-briefing-chat-sweet-elusive-earth-james-web": {
+          "current": 0.93,
+          "peak": 2.74,
+          "score": 6.062
+        },
+        "rec_british-heart-foundation-church-england-rather": {
+          "current": 0.0,
+          "peak": 1.9,
+          "score": 5.862
+        },
+        "rec_ai-powered-japan-japanese-south-korea": {
+          "current": 4.25,
+          "peak": 4.25,
+          "score": 5.575
+        },
+        "rec_bbc-news-blair-blair-labour-british-labour-party": {
+          "current": 0.0,
+          "peak": 2.82,
+          "score": 5.469
+        },
+        "rec_african-california-prolonged-united-states": {
+          "current": 0.0,
+          "peak": 2.72,
+          "score": 5.336
+        }
+      }
+    }
+  ]
+}

@@ -48,7 +48,10 @@ parser.add_argument('--limit',     type=int, default=6,  help='Max new stories p
 parser.add_argument('--no-deploy', dest='deploy', action='store_false',
                     help='Save stories.json locally but do not deploy to Netlify')
 parser.set_defaults(deploy=True)
-ARGS = parser.parse_args()
+# parse_known_args (not parse_args) so importing this module under a test
+# runner — which injects its own argv — doesn't abort with "unrecognized
+# arguments". Unknown args are ignored here; real CLI flags still parse.
+ARGS, _UNKNOWN_ARGS = parser.parse_known_args()
 
 
 # ── LOGGING ───────────────────────────────────────────────────────────────────
@@ -70,13 +73,19 @@ UNSPLASH_API_KEY   = os.environ.get('UNSPLASH_API_KEY')  # Optional
 STORIES_FILE       = 'stories.json'
 MAX_NEW_STORIES    = ARGS.limit
 
-# Validate required env vars (skip Netlify/Groq checks in --dry-run or --check-feeds)
-if not ARGS.check_feeds and not ARGS.dry_run:
-    if ARGS.deploy and not NETLIFY_SITE_ID:
-        log.error("NETLIFY_SITE_ID not set (or use --no-deploy to save locally without deploying)")
-        sys.exit(1)
-if not GROQ_API_KEY and not GEMINI_API_KEY:
-    log.error("No LLM key set (need GROQ_API_KEY or GEMINI_API_KEY). Falling back to RSS summaries.")
+def _require_runtime_env():
+    """Validate env needed for a real publish run.
+
+    Called from main() rather than at import time, so the module can be
+    imported (e.g. by the test suite) without NETLIFY/LLM env configured.
+    """
+    if not ARGS.check_feeds and not ARGS.dry_run:
+        if ARGS.deploy and not NETLIFY_SITE_ID:
+            log.error("NETLIFY_SITE_ID not set (or use --no-deploy to save locally without deploying)")
+            sys.exit(1)
+    if not GROQ_API_KEY and not GEMINI_API_KEY:
+        log.error("No LLM key set (need GROQ_API_KEY or GEMINI_API_KEY). Falling back to RSS summaries.")
+
 # Retry settings (optimized for efficiency)
 MAX_RETRIES    = 2      # Reduced from 3 (fewer wasted attempts)
 RETRY_DELAY    = 1      # Reduced from 2 (faster backoff, saves time)
@@ -337,20 +346,34 @@ def fetch_image_from_unsplash(search_query, per_page=5):
     except Exception as e:
         log.debug(f"Unsplash fetch failed for '{search_query}': {e}")
     return None
-def generate_dicebear_url(story_id, title):
-    """Generate a DiceBear procedural placeholder image URL."""
-    seed = encodeURIComponent_seed(story_id, title)
-    return f"https://api.dicebear.com/9.x/shapes/svg?seed={seed}&backgroundColor=1a1a1a&scale=80"
+def generate_placeholder_url(story_id, title):
+    """Deterministic, self-contained SVG placeholder image (returned as a data URI).
 
-def encodeURIComponent_seed(story_id, title):
-    """
-    Build the placeholder seed identically to the front-end (home.jsx /
-    article.jsx) so the server-side and client-side fallbacks resolve to the
-    SAME image. The JS does: encodeURIComponent(`verum-${id}-${title}`).substring(0,50)
+    Replaces the former external placeholder service: builds a dark, on-theme
+    abstract gradient keyed to the story, so every story gets a consistent,
+    unique placeholder with no third-party image dependency. Mirrors the
+    front-end generatePlaceholderImageUrl (same seed + hashing) so the
+    server-side and client-side fallbacks resolve to the SAME image.
     """
     from urllib.parse import quote
-    raw = f"verum-{story_id}-{title}"
-    return quote(raw, safe='')[:50]
+    seed = f"verum-{story_id}-{title}"
+    h = 0
+    for ch in seed:
+        h = (h * 31 + ord(ch)) & 0xFFFFFFFF
+    hue = h % 360
+    hue2 = (hue + 40) % 360
+    cx = 120 + (h % 560)
+    cy = 80 + ((h >> 3) % 290)
+    svg = (
+        "<svg xmlns='http://www.w3.org/2000/svg' width='800' height='450'>"
+        "<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>"
+        "<stop offset='0' stop-color='#1a1a1a'/>"
+        f"<stop offset='1' stop-color='hsl({hue},45%,16%)'/></linearGradient></defs>"
+        "<rect width='800' height='450' fill='url(#g)'/>"
+        f"<circle cx='{cx}' cy='{cy}' r='140' fill='hsl({hue2},55%,45%)' opacity='0.18'/>"
+        "</svg>"
+    )
+    return "data:image/svg+xml," + quote(svg, safe='')
 
 def get_image_for_story(story_id, title, summary, category='news'):
     """
@@ -359,8 +382,9 @@ def get_image_for_story(story_id, title, summary, category='news'):
     Try story-specific queries first (up to IMAGE_SEARCH_LIMIT), then ALWAYS
     try the category fallback queries — these are outside the specific budget,
     so a story whose specific queries all miss still gets a relevant category
-    image instead of a placeholder. DiceBear is reached only if Unsplash returns
-    nothing even for the broad category terms (missing key, rate limit, outage).
+    image instead of a placeholder. The generated SVG placeholder is reached
+    only if Unsplash returns nothing even for the broad category terms (missing
+    key, rate limit, outage).
     """
     specific, fallback = construct_search_queries(title, summary, category)
 
@@ -376,9 +400,9 @@ def get_image_for_story(story_id, title, summary, category='news'):
             log.info(f"  → Image: Unsplash fallback ('{query}')")
             return img_url
 
-    img_url = generate_dicebear_url(story_id, title)
-    log.warning(f"  → Image: DiceBear placeholder — Unsplash returned nothing "
-                f"(check UNSPLASH_API_KEY / rate limit)")
+    img_url = generate_placeholder_url(story_id, title)
+    log.warning("  → Image: generated SVG placeholder — Unsplash returned nothing "
+                "(check UNSPLASH_API_KEY / rate limit)")
     return img_url
 # ── SANITIZATION ──────────────────────────────────────────────────────────────
 
@@ -844,6 +868,42 @@ SOURCES (cite by these numbers):
 #   "mostRead": [...]
 # }
 
+def choose_article_mode(story, source_count=1):
+    """Pick article depth from how much source material is available.
+
+    Returns 'long' when the input is rich enough to sustain an in-depth piece
+    (a detailed title/summary, or multiple corroborating sources), otherwise
+    'compact'. Keeps thin wire items from being padded into long articles.
+    """
+    title = (story.get('title') or '').strip()
+    summary = (story.get('summary') or '').strip()
+    detail_chars = len(title) + len(summary)
+    detail_words = len(f"{title} {summary}".split())
+    if source_count >= 2 or detail_chars >= 300 or detail_words >= 45:
+        return 'long'
+    return 'compact'
+
+
+def deduplicate_paragraphs(text):
+    """Drop repeated paragraphs from generated copy, preserving first-seen order.
+
+    LLM output (especially synthesized multi-source pieces) occasionally repeats
+    a paragraph verbatim; this collapses those to a single occurrence while
+    keeping the surrounding narrative order intact.
+    """
+    if not text:
+        return text
+    seen, out = set(), []
+    for para in re.split(r'\n{2,}', text):
+        stripped = para.strip()
+        key = ' '.join(stripped.split()).lower()
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        out.append(stripped)
+    return '\n\n'.join(out)
+
+
 def estimate_read_time(content):
     """Estimate read time in minutes from word count."""
     words = len(content.split())
@@ -856,6 +916,9 @@ def build_story_object(item, content, sources=None):
     Note: no 'author' field — Verum articles are attributed via the `sources`
     footnote list and inline [n] markers, not a byline.
     """
+    # Collapse any accidental duplicate paragraphs from the model output.
+    content = deduplicate_paragraphs(content)
+
     # Get image with intelligent search strategy based on article category
     image_url = get_image_for_story(item['id'], item['title'], item['summary'], item['category'])
 
@@ -866,6 +929,7 @@ def build_story_object(item, content, sources=None):
         'source':      item['source'],
         'time':        datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%S'),
         'read':        estimate_read_time(content),
+        'mode':        choose_article_mode(item, source_count=len(sources) if sources else 1),
         'image':       image_url,
         'content':     content,
         'sources':     sources or [],
@@ -1156,17 +1220,22 @@ def validate_stories(data):
 
 # ── NETLIFY DEPLOY ────────────────────────────────────────────────────────────
 
-def deploy_to_netlify(data):
-    """Trigger Netlify redeploy by pushing updated stories.json."""
+def deploy_to_netlify(data, remote_name='stories.json'):
+    """Trigger Netlify redeploy by pushing an updated JSON file.
+
+    `remote_name` is the path served from the site root (e.g. 'stories.json' or
+    'recordationem.json'), so the Recordationem payload reaches production the
+    same way the main story feed does.
+    """
     if not NETLIFY_AUTH_TOKEN:
         log.error("NETLIFY_AUTH_TOKEN not set — skipping deploy")
         return False
 
-    log.info("Deploying to Netlify...")
+    log.info(f"Deploying {remote_name} to Netlify...")
     headers = { 'Authorization': f'Bearer {NETLIFY_AUTH_TOKEN}' }
 
     # Try file upload API first
-    upload_url = f'https://api.netlify.com/api/v1/sites/{NETLIFY_SITE_ID}/files/stories.json'
+    upload_url = f'https://api.netlify.com/api/v1/sites/{NETLIFY_SITE_ID}/files/{remote_name}'
     payload    = json.dumps(data, indent=2).encode('utf-8')
 
     delay = RETRY_DELAY
@@ -1179,7 +1248,7 @@ def deploy_to_netlify(data):
                 timeout=30,
             )
             if res.status_code in (200, 201):
-                log.info("✅ stories.json deployed to Netlify")
+                log.info(f"✅ {remote_name} deployed to Netlify")
                 return True
             elif res.status_code == 404:
                 # Site may require full deploy trigger
@@ -1206,6 +1275,9 @@ def deploy_to_netlify(data):
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 
 def main():
+    # Validate runtime env here (not at import) so tests can import the module.
+    _require_runtime_env()
+
     # Check feed health if requested
     if ARGS.check_feeds:
         check_feed_health()
@@ -1333,6 +1405,16 @@ def main():
         json.dump(data, f, indent=2)
     log.info(f"✓ {STORIES_FILE} saved")
 
+    # Rebuild the Recordationem section from the refreshed corpus. The discovery
+    # engine is dynamic — it re-scans every story each run, so faded-but-still-
+    # relevant topics surface automatically without any manual curation.
+    recordationem_payload = None
+    try:
+        import recordationem
+        recordationem_payload = recordationem.run(data)
+    except Exception as e:  # noqa: BLE001 — never let Recordationem block a publish
+        log.warning(f"Recordationem discovery skipped: {e}")
+
     # Deploy
    
     log.info("=" * 60)
@@ -1342,6 +1424,8 @@ def main():
  # Deploy (unless --no-deploy)
     if ARGS.deploy:
         deploy_to_netlify(data)
+        if recordationem_payload is not None:
+            deploy_to_netlify(recordationem_payload, remote_name='recordationem.json')
     else:
         log.info("--no-deploy: skipping Netlify. Preview locally with `npm run dev`")
 

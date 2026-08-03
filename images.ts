@@ -17,11 +17,24 @@ export function generatePlaceholderImageUrl(
   title: string,
   _category: string // Kept for future color-based placeholders
 ): string {
-  // Use DiceBear for consistent, unique placeholder images
-  // Encodes title as seed for consistent images
-  const seed = encodeURIComponent(`verum-${storyId}-${title}`).substring(0, 50);
-
-  return `https://api.dicebear.com/9.x/shapes/svg?seed=${seed}&backgroundColor=1a1a1a&scale=80`;
+  // Self-contained deterministic SVG placeholder (no external image service).
+  // Same seed + hashing as the Python pipeline so both resolve to one image.
+  const seed = `verum-${storyId}-${title}`;
+  let h = 0;
+  for (let i = 0; i < seed.length; i++) h = (h * 31 + seed.charCodeAt(i)) >>> 0;
+  const hue = h % 360;
+  const hue2 = (hue + 40) % 360;
+  const cx = 120 + (h % 560);
+  const cy = 80 + ((h >>> 3) % 290);
+  const svg =
+    `<svg xmlns='http://www.w3.org/2000/svg' width='800' height='450'>` +
+    `<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>` +
+    `<stop offset='0' stop-color='#1a1a1a'/>` +
+    `<stop offset='1' stop-color='hsl(${hue},45%,16%)'/></linearGradient></defs>` +
+    `<rect width='800' height='450' fill='url(#g)'/>` +
+    `<circle cx='${cx}' cy='${cy}' r='140' fill='hsl(${hue2},55%,45%)' opacity='0.18'/>` +
+    `</svg>`;
+  return `data:image/svg+xml,${encodeURIComponent(svg)}`;
 }
 
 /**

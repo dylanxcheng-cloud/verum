@@ -1,0 +1,2 @@
+# Verum autopublisher - runs 3 times daily (every 16 hours)
+0 0,4,8,12,16,20 * * * cd /Users/dylancheng/verum && python3 auto_publish.py >> logs/autopublish.log 2>&1
