@@ -114,8 +114,29 @@ export interface RecordationemUpdate {
   date: string;
   title: string;
   source: string;
+  sourceLabel?: string;
   url?: string;
   storyId?: string;
+}
+
+/** How much each outlet covered a topic */
+export interface SourceBreakdownItem {
+  source: string;
+  label: string;
+  count: number;
+  share: number;
+  trust: number;
+}
+
+/** Compact stat block for the detail page */
+export interface ByTheNumbers {
+  reportsTracked: number;
+  distinctSources: number;
+  timespanDays: number;
+  peakCoverage: number;
+  currentCoverage: number;
+  significance: number;
+  relevance: number;
 }
 
 /** An upcoming milestone surfaced for "Watch Next" */
@@ -164,6 +185,11 @@ export interface RecordationemStory {
   watchNext: WatchNextItem[];
   memberStoryIds: string[];
   editorial: RecordationemEditorial;
+  firstSeen: string;
+  timespanDays: number;
+  peakPeriod: string;
+  sourceBreakdown: SourceBreakdownItem[];
+  byTheNumbers: ByTheNumbers;
 }
 
 /** A dynamically generated category */

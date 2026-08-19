@@ -105,6 +105,9 @@ MISSION_SUBTITLE = "Recovering stories that still matter."
 
 DEFAULT_THRESHOLD   = float(os.environ.get("RECORDATIONEM_THRESHOLD", "5"))
 MAX_STORIES         = int(os.environ.get("RECORDATIONEM_MAX", "60"))
+# Groq model id (llama-3.3-70b-versatile was deprecated 2026-06-17). Override
+# via GROQ_MODEL to change models without editing code.
+GROQ_MODEL          = os.environ.get("GROQ_MODEL") or "openai/gpt-oss-20b"
 COVERAGE_WINDOW_DAYS = 14          # size of one coverage "window"
 PEAK_LOOKBACK_WINDOWS = 26         # ~1 year of history considered for peak
 MIN_CLUSTER_SIZE    = 2            # a topic needs at least this many articles
@@ -129,6 +132,14 @@ DEFAULT_SOURCES = [
     {"name": "The Guardian",       "url": "https://www.theguardian.com/world/rss",                          "type": "rss", "enabled": True, "trustScore": 0.92, "updateFrequency": "15m", "region": "UK",      "beat": "World"},
     {"name": "NPR",                "url": "https://feeds.npr.org/1001/rss.xml",                             "type": "rss", "enabled": True, "trustScore": 0.90, "updateFrequency": "30m", "region": "US",      "beat": "News"},
     {"name": "Al Jazeera",         "url": "https://www.aljazeera.com/xml/rss/all.xml",                      "type": "rss", "enabled": True, "trustScore": 0.88, "updateFrequency": "15m", "region": "Qatar",   "beat": "World"},
+
+    # ── Tier 1a: low-bias wire services & public/independent broadcasters ─────
+    #   Rated highest for factual reporting and lowest for partisan slant.
+    {"name": "AFP",                "url": "https://news.google.com/rss/search?q=when:24h+source:Agence+France-Presse", "type": "rss", "enabled": True, "trustScore": 0.96, "updateFrequency": "15m", "region": "Global",  "beat": "World"},
+    {"name": "PBS NewsHour",       "url": "https://www.pbs.org/newshour/feeds/rss/headlines",               "type": "rss", "enabled": True, "trustScore": 0.90, "updateFrequency": "1h",  "region": "US",      "beat": "News"},
+    {"name": "Christian Science Monitor", "url": "https://rss.csmonitor.com/feeds/all",                    "type": "rss", "enabled": True, "trustScore": 0.90, "updateFrequency": "1h",  "region": "US",      "beat": "World"},
+    {"name": "Deutsche Welle",     "url": "https://rss.dw.com/rdf/rss-en-all",                              "type": "rss", "enabled": True, "trustScore": 0.88, "updateFrequency": "30m", "region": "Germany", "beat": "World"},
+    {"name": "The Economist",      "url": "https://www.economist.com/international/rss.xml",                 "type": "rss", "enabled": True, "trustScore": 0.90, "updateFrequency": "1d",  "region": "UK",      "beat": "Analysis"},
 
     # ── Tier 1b: international / regional desks (branch out geographically) ────
     {"name": "France 24",          "url": "https://www.france24.com/en/rss",                                "type": "rss", "enabled": True, "trustScore": 0.85, "updateFrequency": "30m", "region": "France",  "beat": "World"},
@@ -167,6 +178,9 @@ SOURCE_SLUG_TRUST = {
     "cna": 0.85, "straitstimes": 0.85, "abcau": 0.86, "smh": 0.84,
     "bangkokpost": 0.82, "irishtimes": 0.84, "googlenews": 0.6, "espn": 0.7,
     "cjr": 0.88, "berkeleyuniv": 0.9, "gdelt": 0.75, "reliefweb": 0.88,
+    # low-bias wire services & public/independent broadcasters
+    "afp": 0.96, "pbs": 0.90, "csmonitor": 0.90, "dw": 0.88,
+    "economist": 0.90, "marketwatch": 0.82,
 }
 
 # ── DYNAMIC CATEGORY DETECTORS ───────────────────────────────────────────────────
@@ -529,6 +543,8 @@ SOURCE_LABELS = {
     "abcau": "ABC News", "smh": "Sydney Morning Herald", "bangkokpost": "Bangkok Post",
     "irishtimes": "The Irish Times", "googlenews": "Google News", "espn": "ESPN",
     "cjr": "Columbia Journalism Review", "berkeleyuniv": "UC Berkeley", "verum": "Verum",
+    "afp": "AFP", "pbs": "PBS NewsHour", "csmonitor": "Christian Science Monitor",
+    "dw": "Deutsche Welle", "economist": "The Economist", "marketwatch": "MarketWatch",
 }
 
 # Per-category "why this still matters" openers — each topic draws from the set
@@ -638,7 +654,8 @@ def build_narrative(cluster, title, m, category="Developing Stories", entities=N
     arts = sorted(cluster["articles"], key=lambda a: a["time"] or datetime.min.replace(tzinfo=timezone.utc))
     earliest, latest = arts[0], arts[-1]
 
-    llm = _try_llm_narrative(title, earliest, latest, m)
+    llm = _try_llm_narrative(title, earliest, latest, m,
+                             category=category, entities=entities, status=status)
     if llm:
         return llm
 
@@ -717,36 +734,66 @@ def build_narrative(cluster, title, m, category="Developing Stories", entities=N
     }
 
 
-def _try_llm_narrative(title, earliest, latest, metrics):
-    """Best-effort LLM narrative. Returns None if no key / any failure."""
+def _try_llm_narrative(title, earliest, latest, metrics, category="Developing Stories",
+                       entities=None, status="Active"):
+    """Best-effort LLM narrative. Returns None if no key / any failure.
+
+    The prompt is deliberately detailed: it gives the model the topic's real
+    metrics, dates, category and entities, spells out what each of the four
+    sections must do, and forbids fabrication — so the AI write-ups are
+    specific and grounded rather than generic.
+    """
     groq_key = os.environ.get("GROQ_API_KEY")
     gemini_key = os.environ.get("GEMINI_API_KEY")
     if not (groq_key or gemini_key):
         return None
 
+    decline = abs(metrics.get("coverageDeclinePct", 0))
+    days = metrics.get("daysSinceUpdate", 0)
+    e_date, l_date = _fmt_date(earliest.get("time")), _fmt_date(latest.get("time"))
+    ent_str = ", ".join(entities[:6]) if entities else "n/a"
+
     prompt = (
-        "You are an editor for Verum's 'Recordationem' desk, which recovers "
-        "important stories that have faded from the news. Using the two "
-        "datapoints below (earliest and latest reporting on the same ongoing "
-        "topic), write four concise, factual, non-sensational sections. Return "
-        "STRICT JSON with keys: whyStillImportant, whatHappened, "
-        "whatIsHappeningNow, whatChanged.\n\n"
+        "You are an editor on Verum's \"Recordationem\" desk, which recovers "
+        "consequential stories that have faded from the daily news cycle and "
+        "explains why they still matter. Your standard is accurate, measured, "
+        "and non-sensational.\n\n"
+        "Write FOUR distinct sections about the topic below, grounded ONLY in "
+        "the datapoints provided. Do NOT invent facts, figures, quotes, or "
+        "events that are not supported by the material; where something is "
+        "unknown, say so plainly. Each section must be a few substantive, "
+        "specific sentences (never a single generic line), plain text, no "
+        "markdown, and the four must not repeat one another.\n\n"
+        "Return STRICT JSON with exactly these four keys:\n"
+        f"  whyStillImportant — Concretely, why does this still matter even "
+        f"though coverage has fallen {decline}% and the most recent verified "
+        f"update is {days} days old? Tie it to real-world stakes and "
+        f"consequences; avoid boilerplate.\n"
+        f"  whatHappened — A tight historical overview of how the story began "
+        f"and peaked, anchored in the earliest reporting ({e_date}).\n"
+        f"  whatIsHappeningNow — The current state, anchored in the latest "
+        f"reporting ({l_date}); note how active it still appears (status: {status}).\n"
+        f"  whatChanged — What is materially different between the peak and now: "
+        f"the shift in framing, stakes, or attention; reference the {decline}% "
+        f"coverage decline.\n\n"
         f"TOPIC: {title}\n"
-        f"COVERAGE DECLINE: {metrics['coverageDeclinePct']}%\n"
+        f"CATEGORY: {category}\n"
+        f"KEY ENTITIES: {ent_str}\n"
+        f"COVERAGE DECLINE: {decline}%   LAST VERIFIED UPDATE: {days} days ago\n"
         f"EARLIEST ({earliest.get('time')}): {earliest['title']}. "
-        f"{(earliest.get('content') or '')[:600]}\n"
+        f"{(earliest.get('content') or '')[:800]}\n"
         f"LATEST ({latest.get('time')}): {latest['title']}. "
-        f"{(latest.get('content') or '')[:600]}\n"
+        f"{(latest.get('content') or '')[:800]}\n"
     )
     try:
         if groq_key:
             from groq import Groq
             client = Groq(api_key=groq_key)
             resp = client.chat.completions.create(
-                model="llama-3.3-70b-versatile",
+                model=GROQ_MODEL,
                 messages=[{"role": "user", "content": prompt}],
                 temperature=0.4,
-                max_tokens=900,
+                max_tokens=1200,
                 response_format={"type": "json_object"},
             )
             raw = resp.choices[0].message.content
@@ -802,10 +849,55 @@ def build_updates(cluster, limit=8):
             "date": (a["time"] or datetime.now(timezone.utc)).strftime("%Y-%m-%dT%H:%M:%S"),
             "title": a["title"],
             "source": a["source"],
+            "sourceLabel": SOURCE_LABELS.get(a["source"], a["source"].title()),
             "url": a.get("original_url", ""),
             "storyId": a["id"],
         })
     return updates
+
+
+def build_extra_detail(cluster, m):
+    """Additional surfaced facts for the detail page: which outlets covered the
+    topic and how much, the reporting timespan, first-seen and peak dates, and a
+    compact 'by the numbers' block — all derived from data already computed."""
+    from collections import Counter
+    arts = cluster["articles"]
+    times = [a["time"] for a in arts if a["time"]]
+    earliest = min(times) if times else None
+    latest = max(times) if times else None
+    timespan = (latest - earliest).days if (earliest and latest) else 0
+
+    counts = Counter(a["source"] for a in arts)
+    total = sum(counts.values()) or 1
+    source_breakdown = [
+        {
+            "source": src,
+            "label": SOURCE_LABELS.get(src, src.title()),
+            "count": c,
+            "share": round(100 * c / total),
+            "trust": round(SOURCE_SLUG_TRUST.get(src, 0.7), 2),
+        }
+        for src, c in counts.most_common()
+    ]
+
+    hist = m.get("coverageHistory") or []
+    peak_period = max(hist, key=lambda p: p["score"])["period"] if hist else None
+
+    return {
+        "firstSeen": earliest.strftime("%Y-%m-%dT%H:%M:%S") if earliest else None,
+        "timespanDays": timespan,
+        "peakPeriod": peak_period,
+        "sourceBreakdown": source_breakdown,
+        "byTheNumbers": {
+            "reportsTracked": len(arts),
+            "distinctSources": len(counts),
+            "timespanDays": timespan,
+            "peakCoverage": m["metrics"]["peakCoverageScore"],
+            "currentCoverage": m["metrics"]["currentCoverageScore"],
+            "significance": m["metrics"]["significanceScore"],
+            "relevance": m["metrics"]["relevanceScore"],
+        },
+    }
 
 
 # ── EDITORIAL OVERRIDES ──────────────────────────────────────────────────────────
@@ -976,6 +1068,7 @@ def discover(data, threshold=DEFAULT_THRESHOLD, now=None):
             "updates": build_updates(cluster),
             "watchNext": build_watch_next(cluster, title),
             "memberStoryIds": [a["id"] for a in cluster["articles"]],
+            **build_extra_detail(cluster, m),
         }
         discovered.append(story)
 

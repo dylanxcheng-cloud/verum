@@ -31,6 +31,13 @@ const RecCard = memo(function RecCard({ topic }) {
       </div>
       <h3 className="rec-card-title">{topic.title}</h3>
       <div className="rec-card-cat">{topic.category}</div>
+      {topic.sourceBreakdown && topic.sourceBreakdown.length > 0 && (
+        <div className="rec-card-sources">
+          <span className="rec-card-sources-label">Sources</span>
+          {topic.sourceBreakdown.slice(0, 3).map((s) => s.label).join(' · ')}
+          {topic.sourceBreakdown.length > 3 ? ` +${topic.sourceBreakdown.length - 3}` : ''}
+        </div>
+      )}
       <div className="rec-card-stats">
         <div className="rec-stat">
           <span className="rec-stat-label">Importance</span>

@@ -102,15 +102,28 @@ function Section({ title, children, className = '' }) {
 }
 
 const UpdateRow = memo(function UpdateRow({ u }) {
+  const external = u.url && /^https?:\/\//.test(u.url);
   const inner = (
     <>
       <div className="rec-update-date">{timeAgo(u.date)}</div>
       <div className="rec-update-body">
         <div className="rec-update-title">{u.title}</div>
-        <div className="rec-update-source">{u.source}</div>
+        <div className="rec-update-source">
+          {u.sourceLabel || u.source}
+          {external && <span className="rec-ext"> · read at source ↗</span>}
+        </div>
       </div>
     </>
   );
+  // Prefer the original source article (opens in a new tab); fall back to the
+  // internal Verum article, then to a non-link row.
+  if (external) {
+    return (
+      <a className="rec-update" href={u.url} target="_blank" rel="noopener noreferrer">
+        {inner}
+      </a>
+    );
+  }
   return u.storyId ? (
     <a className="rec-update" href={`/article.html?id=${encodeURIComponent(u.storyId)}`}>{inner}</a>
   ) : (
@@ -187,6 +200,31 @@ export default function RecordationemStory() {
         )}
       </div>
 
+      {topic.byTheNumbers && (
+        <div className="rec-bynumbers" aria-label="Key figures">
+          <div className="rec-bn">
+            <span className="rec-bn-val">{topic.byTheNumbers.reportsTracked}</span>
+            <span className="rec-bn-lbl">Reports tracked</span>
+          </div>
+          <div className="rec-bn">
+            <span className="rec-bn-val">{topic.byTheNumbers.distinctSources}</span>
+            <span className="rec-bn-lbl">Distinct sources</span>
+          </div>
+          <div className="rec-bn">
+            <span className="rec-bn-val">{topic.byTheNumbers.timespanDays}d</span>
+            <span className="rec-bn-lbl">Coverage span</span>
+          </div>
+          <div className="rec-bn">
+            <span className="rec-bn-val">{topic.daysSinceUpdate}d</span>
+            <span className="rec-bn-lbl">Since last update</span>
+          </div>
+          <div className="rec-bn">
+            <span className="rec-bn-val">{topic.recordationemScore}</span>
+            <span className="rec-bn-lbl">Recordationem score</span>
+          </div>
+        </div>
+      )}
+
       <Section title="Why This Is Still Important" className="rec-section--why">
         <p>{topic.whyStillImportant}</p>
         <div className="rec-byline">
@@ -230,6 +268,21 @@ export default function RecordationemStory() {
           </div>
         </div>
         <CoverageDecayChart history={topic.coverageHistory} diversity={topic.sourceDiversity} />
+
+        {topic.sourceBreakdown && topic.sourceBreakdown.length > 0 && (
+          <div className="rec-srcbreak">
+            <div className="rec-srcbreak-h">Coverage by source</div>
+            {topic.sourceBreakdown.slice(0, 8).map((s) => (
+              <div className="rec-srcrow" key={s.source}>
+                <span className="rec-srcname">{s.label}</span>
+                <span className="rec-srcbar" aria-hidden="true">
+                  <span className="rec-srcbar-fill" style={{ width: `${Math.max(6, s.share)}%` }} />
+                </span>
+                <span className="rec-srccount">{s.count}</span>
+              </div>
+            ))}
+          </div>
+        )}
       </Section>
 
       <Section title="Recent Verified Updates">

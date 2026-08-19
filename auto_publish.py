@@ -67,6 +67,13 @@ log = logging.getLogger('verum')
 
 GROQ_API_KEY       = os.environ.get('GROQ_API_KEY')
 GEMINI_API_KEY     = os.environ.get('GEMINI_API_KEY')  # free fallback LLM
+# Groq model id. llama-3.3-70b-versatile was deprecated by Groq on 2026-06-17.
+# openai/gpt-oss-20b is available on Groq's free tier; the larger
+# openai/gpt-oss-120b needs a paid tier (it returns HTTP 404 on free keys).
+# Override with GROQ_MODEL to switch models without touching code — confirm a
+# model is enabled for your key first with:
+#   curl https://api.groq.com/openai/v1/models -H "Authorization: Bearer $GROQ_API_KEY"
+GROQ_MODEL         = os.environ.get('GROQ_MODEL') or 'openai/gpt-oss-20b'
 NETLIFY_AUTH_TOKEN = os.environ.get('NETLIFY_AUTH_TOKEN')
 NETLIFY_SITE_ID    = os.environ.get('NETLIFY_SITE_ID')
 UNSPLASH_API_KEY   = os.environ.get('UNSPLASH_API_KEY')  # Optional
@@ -195,6 +202,17 @@ FEEDS = [
     { 'url': 'https://www.nature.com/nature/current_issue/rss',               'source': 'nature',        'source_label': 'Nature',               'category': 'Science'   },
     { 'url': 'https://www.snopes.com/feed/',                                  'source': 'snopes',        'source_label': 'Snopes',               'category': 'News'      },
     { 'url': 'https://fullfact.org/feed/',                                    'source': 'fullfact',      'source_label': 'Full Fact',            'category': 'News'      },
+
+    # ── TIER 1c: LOW-BIAS WIRE SERVICES & PUBLIC BROADCASTERS ─────────────────
+    #   Wire services and public/independent broadcasters rate highest for
+    #   factual reporting and lowest for partisan bias — added for balance.
+    { 'url': 'https://news.google.com/rss/search?q=when:24h+source:Agence+France-Presse&hl=en-US&gl=US&ceid=US:en', 'source': 'afp',       'source_label': 'AFP',                  'category': 'World'     },
+    { 'url': 'https://www.pbs.org/newshour/feeds/rss/headlines',              'source': 'pbs',           'source_label': 'PBS NewsHour',         'category': 'News'      },
+    { 'url': 'https://rss.csmonitor.com/feeds/all',                           'source': 'csmonitor',     'source_label': 'Christian Science Monitor', 'category': 'World' },
+    { 'url': 'https://rss.dw.com/rdf/rss-en-all',                             'source': 'dw',            'source_label': 'Deutsche Welle',       'category': 'World'     },
+    { 'url': 'https://feeds.a.dj.com/rss/RSSWorldNews.xml',                   'source': 'marketwatch',   'source_label': 'MarketWatch',          'category': 'Business'  },
+    { 'url': 'https://www.economist.com/international/rss.xml',               'source': 'economist',     'source_label': 'The Economist',        'category': 'World'     },
+    { 'url': 'https://apnews.com/hub/ap-top-news/rss',                        'source': 'ap',            'source_label': 'AP News',              'category': 'News'      },
 
     # ── TIER 4: SPORTS, JOURNALISM, INSTITUTIONAL ─────────────────────────────
     { 'url': 'https://www.espn.com/espn/rss/news',                            'source': 'espn',          'source_label': 'ESPN',                 'category': 'Sports'    },
@@ -375,35 +393,105 @@ def generate_placeholder_url(story_id, title):
     )
     return "data:image/svg+xml," + quote(svg, safe='')
 
-def get_image_for_story(story_id, title, summary, category='news'):
-    """
-    Find the best image for a story.
+_IMAGE_EXT_RE = re.compile(r'\.(?:jpe?g|png|webp|gif|avif)(?:[?#]|$)', re.I)
 
-    Try story-specific queries first (up to IMAGE_SEARCH_LIMIT), then ALWAYS
-    try the category fallback queries — these are outside the specific budget,
-    so a story whose specific queries all miss still gets a relevant category
-    image instead of a placeholder. The generated SVG placeholder is reached
-    only if Unsplash returns nothing even for the broad category terms (missing
-    key, rate limit, outage).
-    """
-    specific, fallback = construct_search_queries(title, summary, category)
 
-    for query in specific[:IMAGE_SEARCH_LIMIT]:
+def _looks_like_image(url):
+    """Heuristic: is this URL a usable article image (not a tracker/spacer)?"""
+    if not url or not url.startswith(('http://', 'https://')):
+        return False
+    low = url.lower()
+    if any(bad in low for bad in ('1x1', 'spacer', 'pixel.gif', 'blank.gif', 'doubleclick')):
+        return False
+    return bool(_IMAGE_EXT_RE.search(url)) or 'image' in low or '/img' in low or '/media/' in low
+
+
+def extract_feed_image(entry):
+    """Pull an image the RSS entry ALREADY carries — no extra network call.
+
+    Checks media:content, media:thumbnail, enclosures, enclosure links, then the
+    first <img> in the summary/content HTML. Most mainstream feeds (BBC, Guardian,
+    NPR, Al Jazeera, NASA…) ship a real photo in one of these, so this alone gives
+    most stories a topic-exact image for free.
+    """
+    for key in ('media_content', 'media_thumbnail'):
+        for m in entry.get(key, []) or []:
+            url = m.get('url') or m.get('href')
+            if _looks_like_image(url):
+                return url
+    for enc in entry.get('enclosures', []) or []:
+        url = enc.get('href') or enc.get('url')
+        if url and ('image' in (enc.get('type') or '') or _looks_like_image(url)):
+            return url
+    for lnk in entry.get('links', []) or []:
+        if lnk.get('rel') == 'enclosure' and 'image' in (lnk.get('type') or '') and lnk.get('href'):
+            return lnk['href']
+    html = entry.get('summary') or ''
+    if not html:
+        cont = entry.get('content') or []
+        if cont:
+            html = cont[0].get('value', '')
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', html or '', re.I)
+    if m and _looks_like_image(m.group(1)):
+        return m.group(1)
+    return None
+
+
+def fetch_og_image(url):
+    """Best-effort: fetch the article page and read its og:image / twitter:image.
+
+    One network call, fully guarded — returns None if offline or on any error, so
+    it degrades to Unsplash/placeholder without breaking the run.
+    """
+    if not url or not url.startswith(('http://', 'https://')):
+        return None
+    try:
+        res = requests.get(url, headers=FEED_HEADERS, timeout=10)
+        if res.status_code != 200:
+            return None
+        html = res.text[:250000]
+    except Exception as e:  # noqa: BLE001 — offline / bad URL is fine
+        log.debug(f"og:image fetch failed for {url}: {e}")
+        return None
+    for prop in ('og:image:secure_url', 'og:image', 'twitter:image', 'twitter:image:src'):
+        esc = re.escape(prop)
+        m = re.search(r'<meta[^>]+(?:property|name)=["\']' + esc + r'["\'][^>]+content=["\']([^"\']+)["\']', html, re.I)
+        if not m:
+            m = re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\']' + esc + r'["\']', html, re.I)
+        if m and m.group(1).startswith('http'):
+            return m.group(1)
+    return None
+
+
+def get_image_for_story(item):
+    """Find the best REAL image for a story, best quality first:
+
+      1. the image the RSS feed already carries  (topic-exact, no network)
+      2. the article page's own og:image          (one network fetch)
+      3. an Unsplash keyword match                (needs UNSPLASH_API_KEY)
+      4. a generated SVG placeholder              (last resort only)
+    """
+    story_id, title = item['id'], item['title']
+
+    feed_img = item.get('feed_image')
+    if feed_img and _looks_like_image(feed_img):
+        log.info("  → Image: from RSS feed")
+        return feed_img
+
+    og = fetch_og_image(item.get('original_url'))
+    if og:
+        log.info("  → Image: article og:image")
+        return og
+
+    specific, fallback = construct_search_queries(title, item.get('summary', ''), item.get('category', 'news'))
+    for query in specific[:IMAGE_SEARCH_LIMIT] + fallback:
         img_url = fetch_image_from_unsplash(query, per_page=5)
         if img_url:
             log.info(f"  → Image: Unsplash ('{query}')")
             return img_url
 
-    for query in fallback:
-        img_url = fetch_image_from_unsplash(query, per_page=5)
-        if img_url:
-            log.info(f"  → Image: Unsplash fallback ('{query}')")
-            return img_url
-
-    img_url = generate_placeholder_url(story_id, title)
-    log.warning("  → Image: generated SVG placeholder — Unsplash returned nothing "
-                "(check UNSPLASH_API_KEY / rate limit)")
-    return img_url
+    log.warning("  → Image: SVG placeholder (no feed image / og:image / Unsplash result)")
+    return generate_placeholder_url(story_id, title)
 # ── SANITIZATION ──────────────────────────────────────────────────────────────
 
 def sanitize_text(text):
@@ -528,6 +616,7 @@ def fetch_all_rss():
                 'category':    feed_config['category'],
                 'original_url':entry.get('link', ''),
                 'guid':        entry.get('id', ''),
+                'feed_image':  extract_feed_image(entry),   # real photo from the feed, if any
             }
             if is_valid_item(item):
                 items.append(item)
@@ -538,6 +627,48 @@ def fetch_all_rss():
     return items
 
 # ── LLM REWRITE WITH FALLBACK ─────────────────────────────────────────────────
+
+def _single_source_prompt(item):
+    """Build the (detailed) single-source rewrite prompt.
+
+    Shared by the Groq and Gemini paths so both stay in sync. The prompt gives
+    the model a clear structure, a strict sourcing/anti-fabrication contract,
+    and formatting rules — designed to produce depth without inventing facts.
+    """
+    return f"""You are a senior staff writer for Verum, a serious news publication whose mission is "The truth for all": accurate, thorough, well-sourced journalism with no sensationalism and no filler.
+
+TASK
+Turn the single news item at the bottom into a complete, in-depth news article a well-informed reader would trust.
+
+SOURCING & ACCURACY (this is the most important section)
+  - Every concrete claim — a fact, figure, date, name, event, or attributed statement — must be supported by the source material below. Put the footnote marker [1] immediately after each such claim.
+  - NEVER invent facts. Do not fabricate statistics, quotations, dates, names, locations, or events that are not in the source. If an important detail is not provided, say so plainly (e.g. "the available reporting does not specify…") instead of guessing.
+  - You MAY add widely-known, uncontroversial background to orient the reader — how an institution or process works, what a technical term means, well-established prior history. Frame it clearly as general context and do NOT attach [1] to it (it is not from the source).
+  - Do not fabricate direct quotes. Paraphrase what the source reports rather than inventing wording in quotation marks.
+
+STRUCTURE (use only the parts the source can actually support)
+  1. Lede — one paragraph on the single most important development, in plain language.
+  2. Nut graf — one paragraph on why it matters and to whom.
+  3. What happened — 2–4 paragraphs of verifiable specifics: who, what, when, where, and any figures.
+  4. Background & context — 2–4 paragraphs of history and mechanism: how we got here, how the system/institution works.
+  5. Stakeholders & impact — 2–3 paragraphs on who is affected and how, and any competing interests.
+  6. Implications — 1–2 paragraphs of reasonable, source-grounded analysis, clearly framed as analysis rather than fact.
+  7. What to watch next — one paragraph on concrete upcoming steps, deadlines, or open questions.
+
+DEPTH & STYLE
+  - Aim for a thorough article of roughly 12–18 paragraphs WHERE THE MATERIAL SUPPORTS IT. If the source is thin, write a shorter, honest piece rather than padding it with invented detail.
+  - One clear idea per paragraph, developed with specifics. Prefer concrete nouns and active voice.
+  - Measured, neutral tone. No hype, no clichés ("in a stunning turn of events"), no editorializing, no second person ("you").
+
+FORMATTING
+  - Plain prose only, paragraphs separated by a single blank line.
+  - Use the [1] marker inline as described. Do NOT name the source in prose. Do NOT add a headline, a byline, or a References/Sources list — those are added automatically.
+
+OUTPUT: the article body only.
+
+Source headline: {item['title']}
+Source summary: {item['summary']}"""
+
 
 def rewrite_with_gemini(item):
     """
@@ -561,36 +692,7 @@ def rewrite_with_gemini(item):
         'url': item.get('original_url', ''),
     }]
 
-    prompt = f"""You are a senior journalist for Verum, a prestigious news publication dedicated to factual accuracy and depth.
-Verum's mission: "The truth for all" — comprehensive, well-sourced reporting that leaves no doubt about what occurred.
-
-Write a substantial, in-depth article based on the news item below.
-
-LENGTH:
-  - Target 14 to 18 substantial paragraphs, roughly 1,800–2,400 words.
-  - Each paragraph develops one idea fully with specific detail.
-  - Lead with facts, then expand into background, context, implications, and next steps.
-
-DEPTH & SUBSTANCE:
-  - Include: who, what, when, where, specific numbers and names.
-  - Build context and history, mechanisms at play, affected parties, broader impact.
-  - Use concrete examples; avoid generalization.
-
-EVIDENCE & FOOTNOTES:
-  - When you state a fact, append a footnote marker [1].
-  - All facts in this article cite the single source, so every marker is [1].
-  - Do NOT write source names in prose — use [1] marker only.
-  - Do NOT include a "References" or "Sources" list yourself.
-
-TONE & STRUCTURE:
-  - Factual, measured, never sensational. No conjecture beyond what the source supports.
-  - Open with news, build through context, close on implications.
-  - Separate paragraphs with blank lines. No headline.
-
-OUTPUT ONLY THE ARTICLE BODY (no headline, no byline, no reference list).
-
-Source headline: {item['title']}
-Source summary: {item['summary']}"""
+    prompt = _single_source_prompt(item)
 
     delay = RETRY_DELAY
     for attempt in range(1, MAX_RETRIES + 1):
@@ -636,42 +738,13 @@ def rewrite_with_groq(item):
         'url': item.get('original_url', ''),
     }]
 
-    prompt = f"""You are a senior journalist for Verum, a prestigious news publication dedicated to factual accuracy and depth.
-Verum's mission: "The truth for all" — comprehensive, well-sourced reporting that leaves no doubt about what occurred.
-
-Write a substantial, in-depth article based on the news item below.
-
-LENGTH:
-  - Target 14 to 18 substantial paragraphs, roughly 1,800–2,400 words.
-  - Each paragraph develops one idea fully with specific detail.
-  - Lead with facts, then expand into background, context, implications, and next steps.
-
-DEPTH & SUBSTANCE:
-  - Include: who, what, when, where, specific numbers and names.
-  - Build context and history, mechanisms at play, affected parties, broader impact.
-  - Use concrete examples; avoid generalization.
-
-EVIDENCE & FOOTNOTES:
-  - When you state a fact, append a footnote marker [1].
-  - All facts in this article cite the single source, so every marker is [1].
-  - Do NOT write source names in prose — use [1] marker only.
-  - Do NOT include a "References" or "Sources" list yourself.
-
-TONE & STRUCTURE:
-  - Factual, measured, never sensational. No conjecture beyond what the source supports.
-  - Open with news, build through context, close on implications.
-  - Separate paragraphs with blank lines. No headline.
-
-OUTPUT ONLY THE ARTICLE BODY (no headline, no byline, no reference list).
-
-Source headline: {item['title']}
-Source summary: {item['summary']}"""
+    prompt = _single_source_prompt(item)
 
     delay = RETRY_DELAY
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             response = client.chat.completions.create(
-                model='llama-3.3-70b-versatile',
+                model=GROQ_MODEL,
                 messages=[{'role': 'user', 'content': prompt}],
                 max_tokens=ARTICLE_MAX_TOKENS,
                 temperature=0.3,  # Reduced from 0.4 for faster, more consistent responses
@@ -796,30 +869,32 @@ def rewrite_synthesized_articles(items):
         for i, it in enumerate(group)
     ])
 
-    prompt = f"""You are a senior investigative journalist synthesizing reporting from multiple credible sources into ONE comprehensive Verum article.
+    prompt = f"""You are a senior investigative writer for Verum, synthesizing reporting from {len(group)} independent, credible sources into ONE authoritative article. Verum's mission is "The truth for all": accurate, thorough, non-sensational journalism.
 
-LENGTH:
-  - Target 14 to 18 substantial paragraphs, roughly 1,800–2,400 words.
-  - Develop each idea fully; use all {len(group)} sources to go deep.
-  - Do not stop early; this is substantive reporting, not a summary.
+SOURCING, CORROBORATION & ACCURACY (the most important section)
+  - Cite every concrete claim with the numbered marker(s) of the source(s) that support it: [1], [2], [3]. When several sources confirm the same point, cite them together, e.g. [1][2].
+  - Cross-check the sources. When they AGREE, state the fact once and cite all of them — corroborated facts are your backbone. When they DISAGREE (different figures, timelines, or accounts), present each version, attribute it with its marker, and explicitly note the discrepancy; do not silently pick one.
+  - NEVER invent facts, figures, quotes, or events beyond what the sources provide. If the sources leave something unknown, say so rather than filling the gap.
+  - You MAY add widely-known, uncontroversial background (uncited) to orient the reader; frame it clearly as context, not as new reporting. Do not fabricate direct quotes.
 
-SYNTHESIS:
-  - Weave all sources into one cohesive narrative; eliminate redundancy but preserve unique facts.
-  - Where sources differ, present both accounts and note the discrepancy.
-  - Build out background, mechanisms, affected parties, context, and implications.
+STRUCTURE (use only what the sources support)
+  1. Lede — the single most important, best-corroborated development.
+  2. Nut graf — why it matters and to whom.
+  3. What happened — verifiable specifics drawn across the sources: who, what, when, where, figures.
+  4. Background & context — history and mechanism.
+  5. Stakeholders & impact — who is affected and how; competing interests.
+  6. Where the sources diverge — surface any conflicts or open questions between them.
+  7. Implications & what to watch next — reasonable, source-grounded analysis and concrete next steps.
 
-EVIDENCE & FOOTNOTES (critical formatting):
-  - Attribute each sourced fact with a numbered footnote marker: [1], [2], [3].
-  - Place the marker immediately after the sentence or clause it supports.
-  - A sentence drawing on multiple sources may carry multiple markers, e.g. [1][2].
-  - Do NOT write source names in prose (no "Reuters reports") and do NOT write a byline.
-  - Do NOT append a "References" or "Sources" list yourself; it is added automatically.
+DEPTH & STYLE
+  - Aim for a thorough piece of roughly 12–18 paragraphs where the combined material supports it; do not pad beyond what the sources justify.
+  - One clear idea per paragraph, developed with specifics. Concrete nouns, active voice, measured neutral tone, no clichés, no editorializing, no second person.
 
-TONE:
-  - Factual, neutral, measured. No conjecture beyond what the sources support.
-  - Separate paragraphs with blank lines. No headline.
+FORMATTING
+  - Plain prose, paragraphs separated by a single blank line.
+  - Use the [n] markers inline as described. Do NOT name sources in prose (no "Reuters reports"), do NOT add a headline or byline, and do NOT append a References/Sources list — it is added automatically.
 
-OUTPUT ONLY THE ARTICLE BODY (no headline, no byline, no reference list).
+OUTPUT: the article body only.
 
 SOURCES (cite by these numbers):
 {sources_text}"""
@@ -828,7 +903,7 @@ SOURCES (cite by these numbers):
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             response = client.chat.completions.create(
-                model='llama-3.3-70b-versatile',
+                model=GROQ_MODEL,
                 messages=[{'role': 'user', 'content': prompt}],
                 max_tokens=ARTICLE_MAX_TOKENS,
                 temperature=0.3,
@@ -920,7 +995,7 @@ def build_story_object(item, content, sources=None):
     content = deduplicate_paragraphs(content)
 
     # Get image with intelligent search strategy based on article category
-    image_url = get_image_for_story(item['id'], item['title'], item['summary'], item['category'])
+    image_url = get_image_for_story(item)
 
     return {
         'id':          item['id'],
