@@ -1,5 +1,33 @@
 name: Verum Auto Publisher
 
+# ── Secrets (set at: repo → Settings → Secrets and variables → Actions) ───────
+#
+#   REQUIRED
+#     GROQ_API_KEY        Primary LLM used to rewrite articles.
+#     NETLIFY_AUTH_TOKEN  ┐ Deploy the refreshed data files to Netlify.
+#     NETLIFY_SITE_ID     ┘
+#
+#   OPTIONAL — each one enables a fallback; the pipeline still runs without it.
+#     GEMINI_API_KEY      Backup LLM, used only when Groq is unavailable
+#                         (requires google-generativeai, in requirements.txt).
+#
+#     UNSPLASH_API_KEY    IMAGE FALLBACK ONLY — you usually do NOT need this.
+#                         Article images are taken, in order, from:
+#                           1. the RSS feed's own photo (media:content /
+#                              media:thumbnail / enclosure / inline <img>) — no key
+#                           2. the article page's og:image / twitter:image — no key
+#                           3. an Unsplash keyword search — THIS is the only step
+#                              that uses UNSPLASH_API_KEY
+#                           4. a generated SVG placeholder (last resort)
+#                         Most stories are covered by steps 1–2, which need no
+#                         key. Add UNSPLASH_API_KEY only if you want stock-photo
+#                         coverage for the minority of stories whose feed and
+#                         page carry no image of their own.
+#
+#   To backfill real images for stories PUBLISHED BEFORE this pipeline
+#   (currently on placeholders), run once where the network is reachable:
+#       python3 scripts/backfill_images.py
+
 on:
   schedule:
     - cron: '0 */6 * * *'
@@ -24,12 +52,14 @@ jobs:
       - name: Run auto publisher
         env:
           GROQ_API_KEY:         ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL:           ${{ vars.GROQ_MODEL }}           # optional; defaults to openai/gpt-oss-20b in code
+          GEMINI_API_KEY:       ${{ secrets.GEMINI_API_KEY }}    # optional backup LLM
           NETLIFY_AUTH_TOKEN:   ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID:      ${{ secrets.NETLIFY_SITE_ID }}
-          UNSPLASH_API_KEY:     ${{ secrets.UNSPLASH_API_KEY }}
+          UNSPLASH_API_KEY:     ${{ secrets.UNSPLASH_API_KEY }}  # optional image fallback (see notes above)
         run: python auto_publish.py
 
-      - name: Commit updated stories.json
+      - name: Commit updated data
         run: |
           git config --global user.name  "Verum Bot"
           git config --global user.email "bot@verumnews.app"

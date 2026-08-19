@@ -32,6 +32,20 @@ const TopicCard = memo(function TopicCard({ topic }) {
         {topic.categoryEmergent && <span className="rec-emergent-badge" title="Category emerged automatically from clustering">auto</span>}
       </div>
       <p className="rec-card-why">{topic.whyStillImportant}</p>
+      {topic.entities && topic.entities.length > 0 && (
+        <div className="rec-card-tags">
+          {topic.entities.slice(0, 4).map((e) => (
+            <span className="rec-card-tag" key={e}>{e}</span>
+          ))}
+        </div>
+      )}
+      {topic.sourceBreakdown && topic.sourceBreakdown.length > 0 && (
+        <div className="rec-card-sources">
+          <span className="rec-card-sources-label">Sources</span>
+          {topic.sourceBreakdown.slice(0, 4).map((s) => s.label).join(' · ')}
+          {topic.sourceBreakdown.length > 4 ? ` +${topic.sourceBreakdown.length - 4}` : ''}
+        </div>
+      )}
       <div className="rec-card-stats">
         <div className="rec-stat">
           <span className="rec-stat-label">Coverage decline</span>
