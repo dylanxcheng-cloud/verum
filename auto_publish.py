@@ -718,6 +718,43 @@ def rewrite_with_gemini(item):
             delay *= 2
     return None, []
 
+def probe_groq_model():
+    """
+    Startup diagnostic: log which Groq model is selected and whether a real
+    call to it succeeds. Purely informational — never raises, never aborts the
+    run. A 404 here means GROQ_MODEL is not enabled for this key, so the
+    pipeline will fall back to Gemini/RSS summaries; the log says so plainly.
+    """
+    if not GROQ_API_KEY:
+        log.warning(f"Groq: no GROQ_API_KEY set — skipping LLM, using Gemini/RSS fallback. "
+                    f"(would have used model '{GROQ_MODEL}')")
+        return
+    log.info(f"Groq: selected model '{GROQ_MODEL}' (override with GROQ_MODEL env/repo var)")
+    try:
+        client = Groq(api_key=GROQ_API_KEY)
+        client.chat.completions.create(
+            model=GROQ_MODEL,
+            messages=[{'role': 'user', 'content': 'ping'}],
+            max_tokens=1,
+            timeout=30,
+        )
+        log.info(f"Groq: model '{GROQ_MODEL}' is reachable and working ✓")
+    except Exception as e:
+        msg = str(e)
+        if '404' in msg or 'not found' in msg.lower() or 'does not exist' in msg.lower():
+            log.error(f"Groq: model '{GROQ_MODEL}' is NOT available for this key (404). "
+                      f"Set the GROQ_MODEL repo variable to a model your key allows "
+                      f"(list them: curl https://api.groq.com/openai/v1/models "
+                      f"-H \"Authorization: Bearer $GROQ_API_KEY\"). "
+                      f"Continuing with Gemini/RSS fallback.")
+        elif 'invalid_api_key' in msg or '401' in msg:
+            log.error(f"Groq: API key rejected (invalid_api_key). Check the GROQ_API_KEY "
+                      f"secret. Continuing with Gemini/RSS fallback.")
+        else:
+            log.error(f"Groq: probe call failed ({msg[:200]}). "
+                      f"Continuing; per-article retries still apply.")
+
+
 def rewrite_with_groq(item):
     """
     Rewrite an RSS item as a long-form Verum article with retry/backoff.
@@ -1361,6 +1398,9 @@ def main():
     log.info("VERUM AUTO PUBLISHER v2")
     log.info(f"Mode: {'DRY RUN' if ARGS.dry_run else 'LIVE'}")
     log.info("=" * 60)
+
+    # Diagnostic: confirm the selected Groq model actually works for this key.
+    probe_groq_model()
 
     # Load stories.json
     log.info(f"Loading {STORIES_FILE}...")
