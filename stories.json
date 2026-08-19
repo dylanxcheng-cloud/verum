@@ -35950,32 +35950,133 @@
       ],
       "original_url": "https://www.france24.com/en/video/20260819-senegal-s-first-elite-girls-boarding-school-challenges-patriarchal-norms",
       "guid": "543b96c0-9bbc-11f1-b989-bd60b5aa18b8"
+    },
+    "fullfact_985d957d": {
+      "id": "fullfact_985d957d",
+      "title": "Indonesian earthquake video compilation includes old clips from Philippines and Taiwan",
+      "category": "News",
+      "source": "fullfact",
+      "time": "2026-08-19T18:42:29",
+      "read": "3 min read",
+      "mode": "compact",
+      "image": "https://fullfact.org/media/images/indonesia_flag_resized.a17df499.fill-1200x630.jpg",
+      "content": "Old footage from earthquakes in Taiwan and the Philippines was used in a video compilation that was shared online to illustrate a recent earthquake in Indonesia. The compilation mixes these older clips with new footage of the Indonesian event, creating a misleading representation of the disaster\u2019s origin and timing. [1]\n\nThe incident matters because it illustrates how quickly misinformation can spread during a crisis. When people see a video that appears to show a current event but actually contains older material, they may form inaccurate impressions about the scale, location, or severity of the disaster. This can affect public response, emergency coordination, and the emotional well\u2011being of those directly impacted.\n\nThe video was circulated on social media platforms after the Indonesian earthquake struck. It includes scenes of shaking ground and damaged buildings that were filmed during past seismic events in Taiwan and the Philippines. The footage was then edited to align with the Indonesian earthquake\u2019s timeline and shared as a single, continuous clip. [1]\n\nIndonesia sits on the Pacific Ring of Fire, a region where tectonic plates meet and earthquakes are frequent. The Philippines and Taiwan are also located on this same fault\u2011rich belt, making them prone to similar seismic activity. Because of this shared geological context, footage from one country\u2019s quake can sometimes resemble that of another\u2019s, which may explain why the older clips were chosen for the compilation.\n\nVideo compilations of natural disasters are often assembled from a mix of new and archival footage. Filmmakers and social media users sometimes use readily available clips to fill gaps or to emphasize the intensity of an event. However, without clear labeling or attribution, viewers may assume all footage is contemporaneous with the event being described.\n\nThe primary stakeholders in this case are the residents of Indonesia who are dealing with the aftermath of the earthquake, the emergency services coordinating relief efforts, and the broader public who rely on accurate information to understand the situation. Journalists and fact\u2011checkers also have a role in verifying the authenticity of visual content before it is widely disseminated.\n\nThe impact of misrepresenting the source of footage can be significant. It can lead to confusion about the earthquake\u2019s magnitude, the areas most affected, and the urgency of the response needed. In some cases, it may also cause unnecessary distress to people who have lost loved ones or property in the actual event, as they see images that do not reflect their own experience.\n\nThe incident underscores the importance of rigorous fact\u2011checking, especially in the age of rapid information sharing. Platforms that host user\u2011generated content may need to implement stricter verification protocols for videos that claim to depict recent disasters. Likewise, media outlets must ensure that any footage they publish is clearly sourced and accurately labeled.\n\nThe challenge of verifying video content in real time is a growing concern for both the public and professionals. As more people turn to social media for updates during emergencies, the potential for mislabelled or repurposed footage increases. This case serves as a reminder that visual evidence can be easily manipulated, and that critical scrutiny is essential.\n\nIn the coming days, Indonesian authorities may issue official statements about the earthquake\u2019s details, including its magnitude and the extent of damage. Fact\u2011checking organizations may release reports clarifying the origins of the footage in question. Social media platforms could also review the video\u2019s compliance with their policies on misinformation and take action if necessary.\n\nThe Indonesian earthquake itself has not yet been fully documented in the public record, and official figures on casualties or damage remain pending. The lack of precise information makes it all the more important that any shared content be verified before it is used to inform the public.\n\nThis episode highlights the broader issue of misinformation in disaster reporting and the need for accurate, transparent communication from both official sources and the media. Ensuring that the public receives reliable information is essential for effective emergency response and for maintaining trust in the institutions that protect and serve communities during crises.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Full Fact",
+          "url": "https://fullfact.org/world/video-compilation-indonesian-earthquake-clips-philippines-ttaiwan/"
+        }
+      ],
+      "original_url": "https://fullfact.org/world/video-compilation-indonesian-earthquake-clips-philippines-ttaiwan/",
+      "guid": "https://fullfact.org/world/video-compilation-indonesian-earthquake-clips-philippines-ttaiwan/"
+    },
+    "afp_3b94d24d": {
+      "id": "afp_3b94d24d",
+      "title": "SAP strengthens its cloud infrastructure in Germany with BSI-approved Layer 1 encryption from Adva Network Security - afp.com",
+      "category": "World",
+      "source": "afp",
+      "time": "2026-08-19T18:42:58",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28172%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27612%27%20cy%3D%27161%27%20r%3D%27140%27%20fill%3D%27hsl%28212%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "SAP announced that it has strengthened its cloud infrastructure in Germany by adding BSI\u2011approved Layer\u202f1 encryption from Adva Network Security.\u202f[1]\n\nThe upgrade comes amid growing pressure on cloud providers to meet Germany\u2019s stringent data\u2011protection and security standards, and it signals SAP\u2019s commitment to safeguarding the data of its German customers.\u202f[1]\n\nAccording to the company\u2019s statement, SAP has deployed encryption at the network layer in its German cloud data centres, using solutions supplied by Adva Network Security that have received approval from the German Federal Office for Information Security (BSI).\u202f[1]\n\nThe encryption is applied at the network layer, meaning that data travelling between customers and SAP\u2019s cloud services in Germany is protected as it moves across the network.\u202f[1]\n\nThe BSI approval confirms that the encryption solution meets German security standards, a key requirement for businesses that store sensitive information in the cloud.\u202f[1]\n\nSAP, headquartered in Walldorf, Germany, is one of the world\u2019s largest providers of enterprise software and cloud services.\n\nThe German Federal Office for Information Security (BSI) is responsible for setting IT security standards and certifying solutions that comply with national requirements.\n\nLayer\u202f1 encryption refers to encryption applied at the network layer, protecting data as it travels across physical and virtual networks.\n\nAdva Network Security, a company that supplies secure networking equipment, offers hardware\u2011based encryption that can be deployed in data centres and cloud environments.\n\nGerman businesses that rely on SAP\u2019s cloud services, especially those in regulated sectors such as finance, healthcare, and public administration, stand to benefit from the enhanced protection of data in transit.\n\nThe upgrade may also influence other European cloud providers to adopt BSI\u2011approved encryption solutions to satisfy local compliance demands.\n\nBy encrypting data at the network layer, SAP reduces the risk of data interception and aligns its services with Germany\u2019s strict data sovereignty requirements.\n\nThe move may improve SAP\u2019s competitiveness in the European market, where customers increasingly demand end\u2011to\u2011end encryption and compliance with national security standards.\n\nSAP is expected to announce further security enhancements for its cloud services in the coming months, and regulators may scrutinise the implementation details to ensure compliance with German law.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "AFP",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDB2SFRMUDRoTjAxT3NmWHAxR2dISlNmS0h2ZDE0NEtQZzFSdnJoX1hVMmlfclhIUl9kRWgtXzNjS1RtbXBTM19QaE1XRHJiMTJBUFhWUkxRRUtXd2J5dUhpcXdjVTViVGR4a3NPbHJNcXJyM3JkakJITm9KXzVmVk5VWnFUZ1FMd3ctLXdVdzhuWEJWS203bUQzUkJRQ2lhWWJ2QUl5YlpVeWZtbEZIenFzTGZMOTdiV3FOWHV3?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDB2SFRMUDRoTjAxT3NmWHAxR2dISlNmS0h2ZDE0NEtQZzFSdnJoX1hVMmlfclhIUl9kRWgtXzNjS1RtbXBTM19QaE1XRHJiMTJBUFhWUkxRRUtXd2J5dUhpcXdjVTViVGR4a3NPbHJNcXJyM3JkakJITm9KXzVmVk5VWnFUZ1FMd3ctLXdVdzhuWEJWS203bUQzUkJRQ2lhWWJ2QUl5YlpVeWZtbEZIenFzTGZMOTdiV3FOWHV3?oc=5",
+      "guid": "CBMivgFBVV95cUxOdDB2SFRMUDRoTjAxT3NmWHAxR2dISlNmS0h2ZDE0NEtQZzFSdnJoX1hVMmlfclhIUl9kRWgtXzNjS1RtbXBTM19QaE1XRHJiMTJBUFhWUkxRRUtXd2J5dUhpcXdjVTViVGR4a3NPbHJNcXJyM3JkakJITm9KXzVmVk5VWnFUZ1FMd3ctLXdVdzhuWEJWS203bUQzUkJRQ2lhWWJ2QUl5YlpVeWZtbEZIenFzTGZMOTdiV3FOWHV3"
+    },
+    "googlenews_33a9b4ad": {
+      "id": "googlenews_33a9b4ad",
+      "title": "Nick Kyrgios: Controversial tennis player's career could be over after positive cocaine test - BBC",
+      "category": "Sports",
+      "source": "googlenews",
+      "time": "2026-08-19T18:43:44",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28234%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27274%27%20cy%3D%27109%27%20r%3D%27140%27%20fill%3D%27hsl%28274%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Nick Kyrgios, the Australian tennis star known for his on\u2011court flair and off\u2011court controversies, has been provisionally suspended after a positive test for cocaine at an ATP event. The Australian was caught in a doping violation that could end his professional career. [1]\n\nThe suspension has drawn attention because Kyrgios is one of the most high\u2011profile players on the tour, and his career has already been punctuated by a series of disciplinary incidents. A positive test for a prohibited substance could lead to a ban that would sideline him from all ATP and WTA competitions, potentially erasing the years of his achievements. [1] [2] [3] [4] [5] [6]\n\nKyrgios tested positive for cocaine during a routine drug test administered at an ATP tournament. The ATP announced a provisional suspension pending a full investigation, and the player\u2019s name was entered into the World Anti\u2011Doping Agency (WADA) database. The ATP\u2019s statement confirmed that the player would be barred from competition until the disciplinary process concluded. [1] [2] [3] [4] [5] [6]\n\nIn response, Kyrgios issued a statement describing the incident as \u201ca huge mistake\u201d and apologized to fans, sponsors, and the tennis community. He expressed regret for his actions and pledged to cooperate fully with the investigation. [2]\n\nUnder WADA rules, cocaine is listed as a prohibited substance, even though it is not considered a performance\u2011enhancing drug. A positive test for cocaine triggers the same disciplinary procedures as any other prohibited substance, including a provisional suspension and the possibility of a ban that can range from a few months to several years, depending on the circumstances. [1] [3] [5] [6]\n\nThe ATP\u2019s disciplinary framework requires that a provisional suspension be issued while the case is investigated. If the player is found guilty, the ATP can impose a sanction that may include a ban, a fine, or both. The player has the right to appeal the decision to the Court of Arbitration for Sport (CAS) if the sanction is deemed excessive. [General context]\n\nKyrgios\u2019s career has been marked by both brilliance and controversy. He reached the Wimbledon semi\u2011finals in 2017 and has won multiple ATP titles, but his on\u2011court outbursts, late\u2011night parties, and clashes with officials have earned him a reputation for unpredictability. The recent incident adds to a list of disciplinary actions that have already affected his rankings and reputation. [1] [2] [3] [4] [5] [6]\n\nCocaine is prohibited under Article 3 of the WADA Code, which lists all substances that are banned in competition and out of competition. While the substance is not a performance enhancer, its presence in a player\u2019s system is considered a violation of the anti\u2011doping rules. [General context]\n\nThe ATP\u2019s disciplinary process is designed to be fair and transparent. After a provisional suspension, the player is given an opportunity to present evidence and argue against the sanction. The ATP then issues a final decision, which can be challenged in CAS if the player believes the punishment is disproportionate. [General context]\n\nThe suspension affects multiple stakeholders. Kyrgios himself faces the loss of match play, potential ranking points, and income from prize money. The ATP must enforce its anti\u2011doping regulations to maintain the sport\u2019s integrity. Sponsors and partners may reassess their associations with the player, and fans are left uncertain about his future participation. [1] [2] [3] [4] [5] [6]\n\nThe available reporting does not specify which tournaments Kyrgios will miss, but a provisional suspension typically bars a player from all ATP and WTA events until the disciplinary process concludes. The ATP has not yet released a detailed schedule of the hearing or the potential length of any ban. [General context]\n\nThe incident also raises questions about the broader culture of doping in tennis. While cocaine is not a performance\u2011enhancing drug, its presence indicates a lapse in the player\u2019s personal conduct and raises concerns about the effectiveness of current education and monitoring programs. The ATP\u2019s response may influence how other players approach substance use. [General analysis]\n\nThe ATP\u2019s disciplinary process allows for an appeal to CAS, but no specific timeline has been announced for the hearing. The player\u2019s legal team will likely prepare a case that addresses the circumstances of the positive test and the player\u2019s cooperation. [General analysis]\n\nObservers should watch for the ATP\u2019s formal announcement of the hearing date and the final sanction, which is expected within the next few weeks. The outcome will determine whether Kyrgios can return to competition and how long any ban will last. [1] [2] [3] [4] [5] [6]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RTU0xWHVLbjVlRVhCZmNjUnQxSmY3eEtJZWU2YXFtekhGbmJBeXMyQUt2YklFcS0yZEFOYThaN21rXzlmQnB5UHZXTzlkMFdqcW0wSnpLZXhZbFFjc2NZcnZaaE0?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RTU0xWHVLbjVlRVhCZmNjUnQxSmY3eEtJZWU2YXFtekhGbmJBeXMyQUt2YklFcS0yZEFOYThaN21rXzlmQnB5UHZXTzlkMFdqcW0wSnpLZXhZbFFjc2NZcnZaaE0?oc=5",
+      "guid": "CBMiZEFVX3lxTE5RTU0xWHVLbjVlRVhCZmNjUnQxSmY3eEtJZWU2YXFtekhGbmJBeXMyQUt2YklFcS0yZEFOYThaN21rXzlmQnB5UHZXTzlkMFdqcW0wSnpLZXhZbFFjc2NZcnZaaE0"
+    },
+    "abcau_49a7f5f3": {
+      "id": "abcau_49a7f5f3",
+      "title": "Australia's northern bases may be a 'juicy target' but the US is showing interest - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "category": "World",
+      "source": "abcau",
+      "time": "2026-08-19T18:44:23",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28289%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27569%27%20cy%3D%27186%27%20r%3D%27140%27%20fill%3D%27hsl%28329%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Australia\u2019s northern military installations have been described by ABC News as a \u201cjuicy target,\u201d a characterization that comes amid growing U.S. interest in the region.\u202f[1]\n\nThe comment underscores a broader shift in strategic attention toward Australia\u2019s northern frontier, a zone that has long been considered pivotal for regional security and for the United States\u2019 Indo\u2011Pacific strategy.\n\nABC reports that the Australian government has highlighted the northern bases as a \u201cjuicy target,\u201d while U.S. officials have expressed interest in the area.\u202f[1] The article does not specify which bases are being referred to or detail the nature of the U.S. interest.\n\nAustralia\u2019s northern bases form part of the country\u2019s defense network, providing a forward presence in a region that includes the Timor Sea, the Arafura Sea, and the Torres Strait. Historically, these installations have supported surveillance, maritime patrol, and rapid response capabilities. The United States has maintained a long\u2011standing partnership with Australia, including joint exercises and intelligence sharing, and has sought to deepen its footprint in the Indo\u2011Pacific.\n\nKey stakeholders include the Australian Department of Defence, U.S. military planners, and regional partners such as Indonesia and the Philippines. The potential for increased U.S. engagement could influence Australia\u2019s defense posture, logistics, and diplomatic relations with neighboring states.\n\nIf the U.S. moves to deepen its presence, it could signal a shift toward greater military cooperation, potentially involving joint exercises, shared infrastructure, or increased intelligence exchanges. Such developments would also heighten the strategic calculus for other regional actors, who may view a stronger U.S. footprint as a counterbalance to China\u2019s growing influence.\n\nObservers should watch for forthcoming statements from Australian and U.S. defense officials, any announced joint exercises, and policy documents that clarify the scope of U.S. interest. The timing of such developments will be crucial for assessing how the region\u2019s security dynamics evolve.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "ABC News (Australia)",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbWlfSFdsX0VvbnU1cUxNYUZiNjg3YTlTYkZMZ0pDY1VUbjByQ2VvZHRHN0d0ZUc1MjRqX2VidDFWTDNxSE5qcjRyQ2k5d050eGRPZ2JQbmc1OW9ncVN0bkQ0YVhweTNXd1NCSnpZS0ZfWGJaUEVRZEQ0U3E0S1Y1cHN4aGJsNlpkMllvd0V1RGI5X2NtUGJMSEs2WjFpbVk5Vi1XZ0c2d1dvOGRWa295MA?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbWlfSFdsX0VvbnU1cUxNYUZiNjg3YTlTYkZMZ0pDY1VUbjByQ2VvZHRHN0d0ZUc1MjRqX2VidDFWTDNxSE5qcjRyQ2k5d050eGRPZ2JQbmc1OW9ncVN0bkQ0YVhweTNXd1NCSnpZS0ZfWGJaUEVRZEQ0U3E0S1Y1cHN4aGJsNlpkMllvd0V1RGI5X2NtUGJMSEs2WjFpbVk5Vi1XZ0c2d1dvOGRWa295MA?oc=5",
+      "guid": "CBMisAFBVV95cUxPbWlfSFdsX0VvbnU1cUxNYUZiNjg3YTlTYkZMZ0pDY1VUbjByQ2VvZHRHN0d0ZUc1MjRqX2VidDFWTDNxSE5qcjRyQ2k5d050eGRPZ2JQbmc1OW9ncVN0bkQ0YVhweTNXd1NCSnpZS0ZfWGJaUEVRZEQ0U3E0S1Y1cHN4aGJsNlpkMllvd0V1RGI5X2NtUGJMSEs2WjFpbVk5Vi1XZ0c2d1dvOGRWa295MA"
+    },
+    "reuters_f3093997": {
+      "id": "reuters_f3093997",
+      "title": "Moderna vaccine cuts recurrence and spread of high-risk melanoma, raising new treatment hope - Reuters",
+      "category": "World",
+      "source": "reuters",
+      "time": "2026-08-19T18:45:59",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28197%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27197%27%20cy%3D%27319%27%20r%3D%27140%27%20fill%3D%27hsl%28237%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Moderna\u2019s new cancer vaccine has been reported to reduce both the recurrence and spread of high\u2011risk melanoma, according to a Reuters story. The announcement suggests a potential breakthrough in the treatment of a form of skin cancer that frequently returns after initial therapy and can metastasize to distant organs.\n\nThe development matters because high\u2011risk melanoma remains one of the most lethal skin cancers, with recurrence rates that can approach 50\u202f% after surgery and adjuvant therapy. A therapy that can lower the chance of cancer returning or spreading would offer a significant benefit to patients and could reshape current treatment protocols.\n\nThe vaccine, developed by Moderna, reportedly cuts recurrence and spread of high\u2011risk melanoma[1]. The report does not provide details on the study design, sample size, or statistical significance, and it does not specify whether the findings come from a phase\u202fI, II, or III trial. The source highlights the potential of mRNA technology beyond its use in COVID\u201119 vaccines.\n\nMelanoma originates in melanocytes, the pigment\u2011producing cells of the skin. High\u2011risk melanoma refers to tumors that have penetrated deeply into the skin or have already involved regional lymph nodes. Even after surgical removal and standard adjuvant therapies, many patients experience relapse, and metastatic disease remains difficult to treat.\n\nCancer vaccines aim to train the immune system to recognize and destroy tumor cells. mRNA vaccines encode tumor\u2011specific antigens that are displayed on the surface of cells, prompting an immune response that can target cancer cells. Moderna has previously applied this platform to develop vaccines against infectious diseases, most notably the SARS\u2011CoV\u20112 virus.\n\nPatients with high\u2011risk melanoma and their families stand to benefit if the vaccine proves effective in larger trials. Oncologists and researchers are watching the data closely, as it could influence future treatment protocols and the allocation of resources for adjuvant therapy.\n\nPharmaceutical companies developing immunotherapies may see competition or collaboration opportunities. Regulatory agencies will need to evaluate safety and efficacy before approval, and the vaccine\u2019s approval pathway will likely involve additional clinical studies.\n\nIf the vaccine consistently reduces recurrence and metastasis, it could shift the standard of care toward incorporating mRNA\u2011based immunotherapy. However, the lack of detailed data in the report means that conclusions must remain tentative until peer\u2011reviewed results are available.\n\nThe findings also underscore the versatility of mRNA technology, suggesting it could be adapted to other cancers. Further research will determine whether similar benefits apply to lower\u2011risk melanoma or other tumor types, and whether the vaccine can be combined with existing checkpoint inhibitors.\n\nThe next steps will likely involve larger, phase\u202fII or III clinical trials to confirm efficacy and safety. Key indicators of progress will include regulatory filings, patient enrollment numbers, and the publication of peer\u2011reviewed results.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
+      "guid": "CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI"
     }
   },
   "featured": {
-    "hero": "berkeleyuniv_b815adf3",
+    "hero": "fullfact_985d957d",
     "stack": [
-      "bangkokpost_56f14c16",
-      "csmonitor_2a6b8006",
-      "berkeleyuniv_a60ec2da"
+      "afp_3b94d24d",
+      "googlenews_33a9b4ad",
+      "abcau_49a7f5f3"
     ],
     "latest": [
+      "abcau_49a7f5f3",
+      "googlenews_33a9b4ad",
+      "afp_3b94d24d",
+      "berkeleyuniv_b815adf3",
       "berkeleyuniv_a60ec2da",
-      "csmonitor_2a6b8006",
-      "bangkokpost_56f14c16",
-      "irishtimes_cc27902d",
-      "guardian_61274503",
-      "ap_79048734"
+      "csmonitor_2a6b8006"
     ],
     "world": [
-      "bangkokpost_56f14c16",
-      "csmonitor_2a6b8006",
-      "france24_4af4cffd",
-      "irishtimes_cc27902d"
+      "afp_3b94d24d",
+      "abcau_49a7f5f3",
+      "reuters_f3093997",
+      "bangkokpost_56f14c16"
     ]
   },
   "categoryIndex": {
     "News": [
+      "ap_79048734",
       "ap_fdb8128e",
       "npr_4cd10569",
       "ap_cdbaabe8",
@@ -35984,20 +36085,19 @@
       "ap_744f8eac",
       "snopes_f46b0e9d",
       "snopes_ab66fa89",
-      "npr_3887625b",
-      "npr_5d74cc97"
+      "npr_3887625b"
     ],
     "World": [
+      "reuters_f3093997",
+      "bangkokpost_56f14c16",
+      "irishtimes_cc27902d",
       "france24_4af4cffd",
       "guardian_c8865040",
       "guardian_92fb6ed9",
       "irishtimes_f389f13d",
       "bangkokpost_851b4e8f",
       "aljazeera_24b0766c",
-      "japantimes_ca5d9df3",
-      "bbc_c25c88d6",
-      "bangkokpost_0b36ae74",
-      "japantimes_829a2945"
+      "japantimes_ca5d9df3"
     ],
     "Politics": [
       "bbc_9f856ccd",
@@ -36036,6 +36136,7 @@
       "googlenews_599953c5"
     ],
     "Science": [
+      "guardian_61274503",
       "conversation_0ac3f04f",
       "bbc_60326f53",
       "nature_d0bb4cf3",
@@ -36044,8 +36145,7 @@
       "nature_a696f067",
       "guardian_2edd37d8",
       "nasa_590d6906",
-      "guardian_b7f5f0ab",
-      "conversation_6e24d84e"
+      "guardian_b7f5f0ab"
     ],
     "Business": [
       "googlenews_410e1267",
@@ -36060,7 +36160,7 @@
       "googlenews_993dbe0c"
     ]
   },
-  "breaking": "Tributes pour in on passing of Ray MacDonald",
+  "breaking": "SAP strengthens its cloud infrastructure in Germany with BSI-approved Layer 1 encryption from Adva N",
   "events": [
     {
       "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
@@ -36076,7 +36176,7 @@
   "mostRead": [
     "Hayden Panettiere, who starred in the television series \u2018Heroes\u2019 and \u2018Nashville,",
     "After 34 years of debilitating sickle cell crises, CRISPR gave her a new chance ",
-    "Tributes pour in on passing of Ray MacDonald",
-    "Into the Flames"
+    "SAP strengthens its cloud infrastructure in Germany with BSI-approved Layer 1 en",
+    "Indonesian earthquake video compilation includes old clips from Philippines and "
   ]
 }
