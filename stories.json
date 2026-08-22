@@ -37070,32 +37070,153 @@
       ],
       "original_url": "https://theconversation.com/more-protein-in-your-breakfast-or-snacks-wont-give-you-more-muscle-without-more-work-a-biologist-separates-the-science-from-the-marketing-287942",
       "guid": "tag:theconversation.com,2011:article/287942"
+    },
+    "guardian_6b02a8ac": {
+      "id": "guardian_6b02a8ac",
+      "title": "Unions worry Labour\u2019s plan for zero-hours contracts may break manifesto pledge",
+      "category": "Politics",
+      "source": "guardian",
+      "time": "2026-08-22T12:49:58",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/d4afc15731a176fa795bb15a0ecc65e3e0f850b0/482_0_4821_3857/master/4821.jpg?width=140&quality=85&auto=format&fit=max&s=fba722a19d723a59b1e8c50c3696978b",
+      "content": "Union leaders have warned that Labour\u2019s plan to cut zero\u2011hours contracts could fall short of the party\u2019s manifesto pledge, citing \u201cscaremongering\u201d from business groups that may render key legislation meaningless. [1]\n\nThe issue matters because zero\u2011hours contracts are used by millions of workers across the UK, offering employers flexibility at the expense of job security. Labour\u2019s manifesto promised to reduce the prevalence of such contracts, but unions fear the policy may not deliver on that promise. [1]\n\nUnion leaders have publicly warned Andy Burnham that the policy risks failing to live up to the manifesto. [1] They are seeking reassurances from the business secretary, Jonathan Reynolds, amid what the Trades Union Congress (TUC) has condemned as \u201cscaremongering\u201d from business groups. [1]\n\nZero\u2011hours contracts are agreements in which employers are not obliged to provide a minimum number of working hours, leaving workers without guaranteed income. They are common in sectors such as hospitality, retail, and the gig economy.\n\nLabour\u2019s manifesto pledged to cut zero\u2011hours contracts, aiming to give workers more predictable hours and income. The party has proposed legislation to reduce the prevalence of these contracts, though details are still being drafted.\n\nUnions argue that without robust enforcement mechanisms, the policy may be ineffective, potentially leaving workers in the same precarious position.\n\nBusiness groups have expressed concerns that stricter regulations could increase costs and reduce flexibility for employers, arguing that such changes might harm competitiveness.\n\nThe TUC has called the business groups\u2019 warnings \u201cscaremongering\u201d and urged the government to act decisively to protect workers. [1]\n\nStakeholders include workers on zero\u2011hours contracts, employers across various sectors, the Labour Party, and the broader business community, all of whom will feel the effects of any changes to the regulatory framework.\n\nIf the policy fails, workers may continue to face insecure employment; if successful, it could improve job security and income stability for many.\n\nThe debate highlights tensions between labour protection and business flexibility, raising questions about how best to balance the interests of workers and employers.\n\nWhat to watch next: The government will likely hold consultations with unions and business groups as it finalises the legislation, with no firm deadline yet announced.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/aug/22/unions-worry-labours-plan-for-zero-hours-contracts-may-break-manifesto-pledge"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/uk-news/2026/aug/22/unions-worry-labours-plan-for-zero-hours-contracts-may-break-manifesto-pledge",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/22/unions-worry-labours-plan-for-zero-hours-contracts-may-break-manifesto-pledge"
+    },
+    "csmonitor_2fc98b5d": {
+      "id": "csmonitor_2fc98b5d",
+      "title": "Military\u2019s arrest power at southern border grows. What\u2019s behind the change?",
+      "category": "World",
+      "source": "csmonitor",
+      "time": "2026-08-22T12:50:37",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://images.csmonitor.com/csm/2026/08/0821_NMILARRESTS_lede.jpg?alias=standard_900x600",
+      "content": "President Trump has expanded the U.S. military\u2019s role in immigration enforcement, and a new legal opinion gives the Pentagon greater arrest powers at the southern border. [1]\n\nThe change signals a shift in how the federal government will manage border security and raises questions about the military\u2019s involvement in civilian law enforcement. [1]\n\nThe expansion came as part of Trump\u2019s broader immigration strategy, and the legal opinion clarifies the circumstances under which military personnel can arrest migrants. [1]\n\nHistorically, the U.S. military has assisted in border patrol operations, providing logistical support, surveillance, and manpower during peak migration periods. The military\u2019s participation has typically been limited to support roles, with civilian agencies retaining primary arrest authority.\n\nThe legal framework governing military involvement in immigration enforcement is rooted in the Immigration and Nationality Act and the Department of Defense\u2019s policies on civil support. The new opinion interprets these statutes to allow broader arrest powers for military personnel under specific conditions.\n\nThe change will affect the Department of Homeland Security, the U.S. Customs and Border Protection, and the Army, Navy, Air Force, and Marine Corps. [1]\n\nMigrants crossing the southern border and the communities that host them are also impacted, as increased military presence could alter the enforcement environment and the experience of those seeking asylum or other forms of relief. [1]\n\nThe expanded arrest powers could lead to increased military involvement in border enforcement, raising concerns about the militarization of immigration policy. [1]\n\nThe shift also brings potential legal and civil\u2011military concerns, including questions about the appropriate scope of military authority in domestic law\u2011enforcement contexts and the implications for civil liberties. [1]\n\nImplementation details, coordination with civilian agencies, and potential legal challenges are expected in the coming months. [1]\n\nOfficials are likely to announce specific procedures and training requirements for military personnel who will be empowered to make arrests, and the timeline for these steps remains to be clarified. [1]\n\nThe broader implications of this policy shift will unfold as the new arrest powers are put into practice, and observers will monitor how the military and civilian agencies navigate the expanded responsibilities.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Christian Science Monitor",
+          "url": "https://www.csmonitor.com/USA/Politics/2026/0822/national-defense-areas-military-arrests?icid=rss"
+        }
+      ],
+      "original_url": "https://www.csmonitor.com/USA/Politics/2026/0822/national-defense-areas-military-arrests?icid=rss",
+      "guid": "66357a8808e8ba2400e078aea50f7c25"
+    },
+    "abcau_6d2993e6": {
+      "id": "abcau_6d2993e6",
+      "title": "Batteries send power prices up in midnight charging mystery - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "category": "World",
+      "source": "abcau",
+      "time": "2026-08-22T12:51:17",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28135%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27495%27%20cy%3D%2786%27%20r%3D%27140%27%20fill%3D%27hsl%28175%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Batteries sent power prices up in midnight charging mystery, ABC News reported.\u202f[1]\n\nThe incident highlights how battery storage can influence electricity markets, but details remain unclear.\u202f[1]\n\nThe article notes that batteries were charged at midnight, leading to a price spike. The source does not specify the amount of the increase or the location.\u202f[1]\n\nThe article does not identify the parties involved or the specific market in which the price change occurred.\u202f[1]\n\nBattery storage systems can absorb excess electricity during low\u2011demand periods and release it during peak demand, thereby affecting supply and price.\n\nElectricity markets often operate on a real\u2011time basis, with prices fluctuating hourly or even every five minutes based on supply and demand.\n\nMidnight charging is a common strategy for utilities and battery operators to shift load away from peak periods, potentially reducing costs.\n\nConsumers, utilities, and battery operators may be affected by price changes, but the article does not detail how.\u202f[1]\n\nRegulators and market operators may need to investigate the cause of the price spike to ensure market integrity.\u202f[1]\n\nThe event suggests that battery activity can influence market prices, but the lack of detail limits analysis of the underlying dynamics.\u202f[1]\n\nIf battery charging patterns are not adequately accounted for in market rules, they could create unintended price volatility.\u202f[1]\n\nFurther reporting may clarify the cause and impact of the midnight charging event, and any regulatory response.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "ABC News (Australia)",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcTR5d2h2U01oejAyMVljXzhHejRSVHlEaEctc1RRTDY3aXZRemFiMWxNVmpJUEx5XzE3X1pmRXFTMWFkZ1dfOHpsalk0NmplRkwtZWNyamFjX0pIQWZIczAzTlRJTS1hVEdWbGdZaVM4TGdnUW5PMkVZbVNkYzU1LUQxNGhWMGQwbXhfal9BNXhEbEpiRHdTeE5OTFQ5ZkwyUDRXeE1vUWNwSjhO?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcTR5d2h2U01oejAyMVljXzhHejRSVHlEaEctc1RRTDY3aXZRemFiMWxNVmpJUEx5XzE3X1pmRXFTMWFkZ1dfOHpsalk0NmplRkwtZWNyamFjX0pIQWZIczAzTlRJTS1hVEdWbGdZaVM4TGdnUW5PMkVZbVNkYzU1LUQxNGhWMGQwbXhfal9BNXhEbEpiRHdTeE5OTFQ5ZkwyUDRXeE1vUWNwSjhO?oc=5",
+      "guid": "CBMirAFBVV95cUxQcTR5d2h2U01oejAyMVljXzhHejRSVHlEaEctc1RRTDY3aXZRemFiMWxNVmpJUEx5XzE3X1pmRXFTMWFkZ1dfOHpsalk0NmplRkwtZWNyamFjX0pIQWZIczAzTlRJTS1hVEdWbGdZaVM4TGdnUW5PMkVZbVNkYzU1LUQxNGhWMGQwbXhfal9BNXhEbEpiRHdTeE5OTFQ5ZkwyUDRXeE1vUWNwSjhO"
+    },
+    "nature_132344d4": {
+      "id": "nature_132344d4",
+      "title": "Earth-shaking thunder probes underground geology",
+      "category": "Science",
+      "source": "nature",
+      "time": "2026-08-22T12:51:43",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02596-0/d41586-026-02596-0_53140964.jpg",
+      "content": "Seismologists have used thunder-generated seismic waves to map subsurface geology in a region that rarely experiences earthquakes, a technique detailed in a new Nature paper. [1]\n\nThe study shows that natural thunderquakes can serve as a passive seismic source, offering a new tool for probing the Earth's interior where conventional methods are limited. [1]\n\nThe research team recorded the arrival times of seismic waves generated by a thunderstorm over the target area and analyzed how their speeds varied with depth. [1] They found that the speed variations could be interpreted to reveal subsurface structures. [1] The area had little seismic activity, making traditional active\u2011source surveys impractical. [1]\n\nThunderquakes are seismic waves produced by the rapid expansion of air during a lightning strike. They travel through the Earth and can be detected by seismometers. Seismologists have long used controlled sources to image the subsurface, but passive sources like thunderquakes have been underexplored.\n\nConventional seismic imaging relies on artificial sources such as explosions or vibroseis trucks, which require permits and can be costly. In remote or low\u2011activity regions, the lack of natural seismicity hampers passive seismic studies, limiting geological insight.\n\nThe findings are relevant to geoscientists, resource developers, and hazard assessors who need reliable subsurface data in sparsely monitored areas. The technique could reduce the need for expensive active surveys, lowering costs for exploration projects.\n\nBy demonstrating that thunderquakes can be used to map underground geology, the study provides a cost\u2011effective alternative for regions with limited seismicity. [1] It also highlights the potential of natural events as valuable data sources for Earth science.\n\nIf the method can be refined, it may allow continuous monitoring of subsurface changes using routine thunderstorms, offering a new window into geological processes. However, the technique's resolution and depth penetration remain to be fully assessed.\n\nThe authors suggest that further work will involve testing the approach in different tectonic settings and integrating thunderquake data with other passive seismic observations. Future studies may also explore automated detection of thunderquakes to build larger datasets.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Nature",
+          "url": "https://www.nature.com/articles/d41586-026-02596-0"
+        }
+      ],
+      "original_url": "https://www.nature.com/articles/d41586-026-02596-0",
+      "guid": "https://www.nature.com/articles/d41586-026-02596-0"
+    },
+    "csmonitor_313c904c": {
+      "id": "csmonitor_313c904c",
+      "title": "From \u2018bean to bar,\u2019 boutique chocolate makers tell a new story",
+      "category": "World",
+      "source": "csmonitor",
+      "time": "2026-08-22T12:51:46",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://images.csmonitor.com/csm/2026/08/ZNCOCOA_lede.jpg?alias=standard_900x600",
+      "content": "Consumers are increasingly asking where their chocolate comes from, and boutique makers are answering with a bean\u2011to\u2011bar approach.\u202f[1] The shift reflects a broader trend toward transparency in food, and the bean\u2011to\u2011bar model offers a way for small producers to differentiate themselves.\u202f[1]\n\nIn recent months, sales of bean\u2011to\u2011bar chocolate have risen, and consumers are seeking information about the origin of the beans.\u202f[1] Traditional chocolate production often involves large factories that source beans from multiple suppliers, making it difficult to trace the product back to a single farm.\n\nThe bean\u2011to\u2011bar movement, pioneered by boutique chocolate makers, involves sourcing cacao beans directly and controlling the roasting, conching, and molding stages. This approach allows makers to maintain quality standards and to communicate the provenance of each bar to the consumer.\n\nBoutique chocolate makers benefit by building brand loyalty, while farmers can receive higher prices for their beans. Consumers gain a clearer understanding of the product and can make choices aligned with ethical and environmental values.\n\nIf the trend continues, larger chocolate companies may adopt similar practices to meet consumer demand. The movement could also pressure the industry to improve labor conditions and environmental stewardship along the supply chain.\n\nIndustry reports and consumer surveys in the coming months will indicate whether the bean\u2011to\u2011bar model becomes mainstream or remains a niche offering.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Christian Science Monitor",
+          "url": "https://www.csmonitor.com/USA/Society/2026/0822/direct-trade-chocolate-ethical-taza-loon?icid=rss"
+        }
+      ],
+      "original_url": "https://www.csmonitor.com/USA/Society/2026/0822/direct-trade-chocolate-ethical-taza-loon?icid=rss",
+      "guid": "7ce020b16682b12359d682bbe237cdf6"
+    },
+    "pbs_691c01bc": {
+      "id": "pbs_691c01bc",
+      "title": "Stars and Stripes editor, reporter fired for insubordination after doing CBS interview",
+      "category": "News",
+      "source": "pbs",
+      "time": "2026-08-22T12:52:25",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-17T213627Z_635397676_RC2HCHAMZBKK_RTRMADP_3_USA-ARMS-AI-1024x658.jpg",
+      "content": "The Pentagon fired the editor\u2011in\u2011chief of Stars and Stripes and a senior reporter for insubordination after the two journalists publicly opposed any interference by the Defense Department in the outlet\u2019s editorial independence. [1]\n\nThe move underscores the tension between the Department of Defense and a long\u2011standing military news outlet that has historically operated with editorial autonomy. [1]\n\nOn Friday, the Pentagon announced the termination of the editor\u2011in\u2011chief and a senior reporter. [1] The firings were attributed to the journalists\u2019 public statements opposing any interference by the Defense Department in Stars and Stripes. [1] The Pentagon cited insubordination as the official reason. [1]\n\nStars and Stripes has served U.S. service members for decades, publishing news, features, and opinion pieces. The outlet has traditionally maintained editorial independence from the Department of Defense. [1]\n\nThe Pentagon oversees the Department of Defense and is responsible for the conduct of the armed forces. It also manages communications and public affairs for the military.\n\nInsubordination, as defined by the Pentagon, refers to actions that undermine the authority of the department.\n\nThe editors, reporters, and staff of Stars and Stripes are directly affected by the firings. The broader military community, which relies on the outlet for news, may also feel the impact.\n\nThe Department of Defense has a vested interest in maintaining control over its public messaging. The decision to fire the journalists may be seen as an attempt to reinforce that control.\n\nThe firings could raise concerns about press freedom within the military and the extent to which the Department of Defense can influence editorial content.\n\nThe incident may prompt scrutiny from journalists\u2019 associations and advocacy groups that support independent reporting in the armed forces.\n\nThe firings may prompt legal challenges or policy reviews within the Department of Defense regarding the treatment of journalists.\n\nWhat to watch next: The Pentagon has not announced any policy changes, but the situation may prompt further statements from Stars and Stripes or the Department of Defense regarding editorial independence.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/stars-and-stripes-editor-reporter-fired-for-insubordination-after-doing-cbs-interview"
+        }
+      ],
+      "original_url": "https://www.pbs.org/newshour/politics/stars-and-stripes-editor-reporter-fired-for-insubordination-after-doing-cbs-interview",
+      "guid": "https://www.pbs.org/newshour/politics/stars-and-stripes-editor-reporter-fired-for-insubordination-after-doing-cbs-interview"
     }
   },
   "featured": {
-    "hero": "dw_ed99afa3",
+    "hero": "guardian_6b02a8ac",
     "stack": [
-      "nasa_9d298597",
-      "abcau_579f917d",
-      "guardian_ed47f1db"
+      "csmonitor_2fc98b5d",
+      "abcau_6d2993e6",
+      "nature_132344d4"
     ],
     "latest": [
+      "nature_132344d4",
+      "abcau_6d2993e6",
+      "csmonitor_2fc98b5d",
+      "dw_ed99afa3",
       "guardian_ed47f1db",
-      "abcau_579f917d",
-      "nasa_9d298597",
-      "guardian_a77acc79",
-      "abcau_b967b1db",
-      "france24_e64bf082"
+      "abcau_579f917d"
     ],
     "world": [
-      "dw_ed99afa3",
-      "abcau_579f917d",
-      "france24_e64bf082",
-      "abcau_b967b1db"
+      "csmonitor_2fc98b5d",
+      "abcau_6d2993e6",
+      "csmonitor_313c904c",
+      "dw_ed99afa3"
     ]
   },
   "categoryIndex": {
     "News": [
+      "pbs_691c01bc",
       "ap_72afca6c",
       "snopes_6c78b5d3",
       "cjr_771a0a68",
@@ -37104,22 +37225,22 @@
       "npr_1b2affbe",
       "npr_ff987e80",
       "fullfact_985d957d",
-      "ap_79048734",
-      "ap_fdb8128e"
+      "ap_79048734"
     ],
     "World": [
+      "csmonitor_313c904c",
+      "abcau_b967b1db",
+      "france24_e64bf082",
       "dw_cb77254d",
       "bbc_920df5b6",
       "bangkokpost_f55f177f",
       "smh_06de36e0",
       "abcau_3c159c16",
       "irishtimes_e6069295",
-      "japantimes_2a4dc6f4",
-      "japantimes_1ce398d1",
-      "bangkokpost_ceb0f118",
-      "irishtimes_1f20359d"
+      "japantimes_2a4dc6f4"
     ],
     "Politics": [
+      "guardian_a77acc79",
       "bbc_4612e5ac",
       "guardian_9ab03fa7",
       "bbc_30966b30",
@@ -37128,8 +37249,7 @@
       "guardian_3d3c3edb",
       "guardian_8569bd0b",
       "guardian_3bc75dcf",
-      "bbc_2f67b010",
-      "guardian_6d0fe563"
+      "bbc_2f67b010"
     ],
     "Sports": [
       "googlenews_33a9b4ad",
@@ -37156,6 +37276,7 @@
       "guardian_53184233"
     ],
     "Science": [
+      "nasa_9d298597",
       "conversation_5669492a",
       "nature_7991f84d",
       "berkeleyuniv_df0217a1",
@@ -37164,8 +37285,7 @@
       "guardian_6163df47",
       "nature_1be7d0c6",
       "conversation_59933217",
-      "berkeleyuniv_b815adf3",
-      "berkeleyuniv_a60ec2da"
+      "berkeleyuniv_b815adf3"
     ],
     "Business": [
       "marketwatch_87da845c",
@@ -37180,7 +37300,7 @@
       "googlenews_68fdc39c"
     ]
   },
-  "breaking": "Pentagon fires military newspaper leadership for 'insubordination'",
+  "breaking": "Unions worry Labour\u2019s plan for zero-hours contracts may break manifesto pledge",
   "events": [
     {
       "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
@@ -37195,8 +37315,8 @@
   ],
   "mostRead": [
     "Pentagon fires military newspaper leadership for 'insubordination'",
-    "UK borrows more than expected in July as Healey prepares for first Budget",
-    "T-wolves, Lynx co-owner Lore agrees to sell his controlling stake at a $4.5B val",
-    "APOD: 2026 August 22 \u2013 Mostly Perseids"
+    "Unions worry Labour\u2019s plan for zero-hours contracts may break manifesto pledge",
+    "Military\u2019s arrest power at southern border grows. What\u2019s behind the change?",
+    "UK borrows more than expected in July as Healey prepares for first Budget"
   ]
 }
