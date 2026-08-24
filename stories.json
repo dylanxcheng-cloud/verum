@@ -37910,28 +37910,128 @@
       ],
       "original_url": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss",
       "guid": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo#0"
+    },
+    "marketwatch_4af18c13": {
+      "id": "marketwatch_4af18c13",
+      "title": "Palestinians Stream Back to Northern Gaza on Foot",
+      "category": "Business",
+      "source": "marketwatch",
+      "time": "2026-08-24T13:02:27",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28201%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27281%27%20cy%3D%27230%27%20r%3D%27140%27%20fill%3D%27hsl%28241%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Israel has opened a corridor through a military zone that bisects the Gaza Strip, allowing displaced Palestinians to begin moving back toward the northern part of the enclave after a deadlock over hostage releases was broken. [1]\n\nThe decision marks a notable shift in the humanitarian situation in Gaza, potentially easing movement for residents who have been unable to return to their homes since the conflict escalated. [1]\n\nAccording to the reporting, the Israeli government permitted displaced Gazans to cross the military zone that separates the northern and southern sectors of the enclave. [1] The opening followed negotiations that resolved a prolonged impasse regarding the release of hostages. [1] The available reporting does not specify the number of people affected, the duration of the crossing, or the conditions under which those who cross will be allowed to move. [1]\n\nGaza is a Palestinian territory bordered by Israel and Egypt. The area has been subject to conflict and blockade for years. The military zone mentioned is a strip of land controlled by Israeli forces that divides the enclave into northern and southern sections. The deadlock over hostage releases refers to a prolonged dispute between Israel and Palestinian groups concerning the return of individuals held captive during the conflict. [1]\n\nThe displaced Gazans who are now able to cross face uncertain conditions as they return to their communities. Israeli authorities are responsible for managing the corridor and ensuring security. Palestinian leaders and humanitarian organizations are monitoring the situation closely. The impact on the local population could be significant, but the reporting does not detail the scale. [1]\n\nThe opening of the crossing may reduce pressure on humanitarian aid networks and allow displaced families to access services and homes. However, the lack of detail about the terms of the corridor and the ongoing hostilities means that the long\u2011term stability of this movement remains uncertain. [1]\n\nObservers will be looking for further announcements from Israeli officials about the duration and conditions of the corridor, as well as any additional agreements related to hostage releases. The next steps in the conflict and the humanitarian response will likely depend on these developments. [1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "MarketWatch",
+          "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+        }
+      ],
+      "original_url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "guid": "WP-WSJ-0002354638"
+    },
+    "nature_d85f293d": {
+      "id": "nature_d85f293d",
+      "title": "Frontier-technology markets are too narrow \u2014 here\u2019s how to widen them",
+      "category": "Science",
+      "source": "nature",
+      "time": "2026-08-24T13:02:52",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02572-8/d41586-026-02572-8_53111364.jpg",
+      "content": "A new Nature article warns that governments risk technological lock\u2011in if procurement processes remain too narrow. The piece argues that keeping public\u2011sector purchasing open is essential to avoid being trapped by early\u2011adopter technologies that later prove suboptimal or incompatible with emerging standards.\u00b9\n\nThe warning matters because public procurement accounts for a significant share of national spending on emerging technologies. If governments lock in to a single vendor or platform, they may face higher costs, reduced flexibility, and slower innovation cycles. The article stresses that the stakes are high for both taxpayers and the broader tech ecosystem.\u00b9\n\nThe Nature piece, published online on 24\u202fAugust\u202f2026 (doi:10.1038/d41586-026-02572-8), is titled \u201cFrontier\u2011technology markets are too narrow \u2014 here\u2019s how to widen them.\u201d It outlines the risks of narrow procurement and offers guidance on how to broaden market participation.\u00b9\n\nPublic procurement typically follows a structured process: needs assessment, tendering, evaluation, and contract award. Governments often use standardized criteria to ensure fairness and transparency, but these same criteria can inadvertently exclude innovative solutions that do not fit established categories.\n\nLock\u2011in occurs when an early decision to adopt a particular technology or vendor creates a dependency that is difficult to reverse. Subsequent upgrades, integrations, or replacements may become costly or impossible, forcing continued use of the original choice even if better alternatives emerge.\n\nFrontier\u2011technology markets\u2014such as quantum computing, advanced materials, or autonomous systems\u2014are especially vulnerable to lock\u2011in because they evolve rapidly and often lack mature supply chains. Early adopters may be limited to a handful of suppliers, narrowing competition and stifling price discovery.\n\nGovernments, technology firms, and citizens are all stakeholders in this dynamic. For policymakers, the challenge is to design procurement rules that balance risk mitigation with openness. For industry, a broader market means more opportunities to innovate and capture public contracts. For citizens, the outcome affects the quality and affordability of services delivered through new technologies.\n\nIf lock\u2011in occurs, governments may incur higher long\u2011term costs due to maintenance, lack of interoperability, and the need for costly system overhauls. Moreover, a narrow market can slow the diffusion of breakthrough technologies, delaying potential societal benefits.\n\nThe article recommends several strategies to widen markets: adopting modular procurement frameworks, encouraging open\u2011source solutions, and fostering public\u2011private partnerships that lower entry barriers for smaller firms. By doing so, governments can maintain flexibility while still ensuring accountability and value for money.\n\nExamples of lock\u2011in in practice include the widespread adoption of a single operating system in a national health network, which later proved incompatible with emerging data\u2011sharing standards. Such cases illustrate how early choices can constrain future options.\n\nLooking ahead, policymakers should monitor upcoming procurement reforms that aim to increase competition and reduce vendor lock\u2011in. Key dates include the release of revised procurement guidelines slated for early 2027 and the first round of pilot projects testing modular acquisition models.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Nature",
+          "url": "https://www.nature.com/articles/d41586-026-02572-8"
+        }
+      ],
+      "original_url": "https://www.nature.com/articles/d41586-026-02572-8",
+      "guid": "https://www.nature.com/articles/d41586-026-02572-8"
+    },
+    "pbs_2bff953f": {
+      "id": "pbs_2bff953f",
+      "title": "Human-caused wildfire approaches Reno, Nevada, forcing thousands of evacuations",
+      "category": "News",
+      "source": "pbs",
+      "time": "2026-08-24T13:03:31",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-23T053702Z_1760837106_RC244NA7X4OY_RTRMADP_3_USA-WILDFIRES-NEVADA-1024x575.jpg",
+      "content": "Human\u2011caused wildfire near Reno forced thousands of residents to evacuate as the blaze approached the city\u2019s outskirts. [1]\n\nThe sudden loss of homes, businesses, and natural resources has put the region\u2019s emergency services under intense pressure, while residents face uncertainty about the fire\u2019s trajectory and the potential for widespread damage. [1]\n\nThe Hawk Fire ignited on Saturday and expanded rapidly, covering an area of roughly 20 square miles by the time authorities reported its spread. [1] The flames moved across the Peavine Peak area of the Humboldt\u2013Toiyabe National Forest, a rugged foothill region that borders California. [1] The terrain is densely forested and interspersed with residential and commercial properties, making the fire\u2019s advance particularly threatening. [1]\n\nThe foothills surrounding the fire are ringed by homes and businesses located near the California state line, a detail that underscores the fire\u2019s proximity to populated zones and the urgency of evacuation orders. [1]\n\nThe Humboldt\u2013Toiyabe National Forest, the largest national forest in the United States, covers more than 4.5 million acres across Nevada and parts of Oregon and Idaho. It is managed by the U.S. Forest Service and is known for its diverse ecosystems, recreational opportunities, and susceptibility to wildfires during dry seasons. The forest\u2019s terrain, characterized by steep slopes and dense vegetation, can accelerate fire spread and complicate firefighting efforts.\n\nWildfires in this region are often sparked by human activity, whether through unattended campfires, discarded cigarettes, or equipment malfunctions. Once ignited, the combination of dry fuels, high temperatures, and wind can cause a fire to grow rapidly, as was seen with the Hawk Fire\u2019s expansion to 20 square miles in a short period.\n\nWhen a wildfire threatens populated areas, local authorities issue evacuation orders to protect residents. The process involves coordination between state and federal agencies, including the Nevada Department of Conservation and Natural Resources, the U.S. Forest Service, and local fire departments. Evacuation routes are established, shelters are opened, and emergency services are mobilized to assist those displaced.\n\nStakeholders in this crisis include the residents and business owners who have been forced to leave their homes, the U.S. Forest Service personnel tasked with containing the blaze, and the broader community of Reno and surrounding towns that may face secondary impacts such as air quality degradation, road closures, and economic disruptions.\n\nThe potential impact of the Hawk Fire extends beyond immediate property loss. Fires of this magnitude can damage critical infrastructure, alter local ecosystems, and impose long\u2011term economic costs on communities that rely on tourism and natural resources. The proximity of the fire to the California border also raises concerns about cross\u2011state coordination and resource sharing.\n\nLooking ahead, the primary concern is containment of the Hawk Fire before it can reach more densely populated areas or cross into Reno itself. Firefighters are working to establish fire lines and deploy aerial support, while state officials monitor weather conditions that could either aid or hinder suppression efforts.\n\nThe next few days will be pivotal as authorities assess containment progress, determine whether additional evacuation orders are necessary, and plan for post\u2011fire recovery. Residents and officials alike will be watching the evolving situation closely, with updates expected from the U.S. Forest Service and local emergency management agencies.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/nation/human-caused-wildfire-approaches-reno-nevada-forcing-thousands-of-evacuations"
+        }
+      ],
+      "original_url": "https://www.pbs.org/newshour/nation/human-caused-wildfire-approaches-reno-nevada-forcing-thousands-of-evacuations",
+      "guid": "https://www.pbs.org/newshour/nation/human-caused-wildfire-approaches-reno-nevada-forcing-thousands-of-evacuations"
+    },
+    "bangkokpost_1a4ff757": {
+      "id": "bangkokpost_1a4ff757",
+      "title": "Police armed attack drill sends temple monks fleeing",
+      "category": "World",
+      "source": "bangkokpost",
+      "time": "2026-08-24T13:03:54",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://static.bangkokpost.com/media/content/20260824/c1_3307073_700.jpg",
+      "content": "On Monday, police in Nakhon Ratchasima carried out an unannounced emergency response drill that simulated an armed intruder, prompting monks and novices to flee a temple and forcing staff at a nearby kindergarten to evacuate hundreds of children in a hurry. [1]\n\nThe incident underscores the tension between public safety exercises and the need for calm in religious and educational settings, raising questions about how such drills are coordinated with civilian institutions. [1]\n\nDuring the drill, officers staged a realistic scenario of an armed threat without prior notice to the temple or kindergarten. Monks and novices left the premises in panic, while kindergarten staff hurriedly moved children to safety. [1]\n\nThe exercise was designed to test police readiness for potential armed incidents, but the lack of advance warning left participants unprepared for the sudden escalation. [1]\n\nThailand\u2019s police routinely conduct emergency response drills to prepare officers for a range of threats, including simulated armed scenarios. These exercises are intended to improve response times and coordination among law enforcement units.\n\nIn Thailand, many temples serve as community hubs, and schools and kindergartens are often located in close proximity to religious sites. The close spatial relationship can amplify the impact of sudden security drills on both religious practitioners and young children.\n\nThe monks and novices experienced sudden fear and disruption of their daily routines, while parents of the kindergarten children had to manage the evacuation and ensure the safety of their children. [1]\n\nLocal authorities have not yet issued a statement regarding the drill\u2019s timing or coordination with the temple and kindergarten, leaving questions about the decision\u2011making process. [1]\n\nThe incident may prompt a review of how police drills are communicated to civilian institutions, especially those with vulnerable populations.\n\nIt also raises concerns about the psychological impact on children and religious practitioners exposed to sudden simulated violence.\n\nPolice and local officials are expected to clarify the purpose of the drill and whether additional coordination measures will be implemented before future exercises.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Bangkok Post",
+          "url": "https://www.bangkokpost.com/thailand/general/3307073/police-armed-attack-drill-sends-temple-monks-fleeing"
+        }
+      ],
+      "original_url": "https://www.bangkokpost.com/thailand/general/3307073/police-armed-attack-drill-sends-temple-monks-fleeing",
+      "guid": ""
+    },
+    "guardian_eed0aea6": {
+      "id": "guardian_eed0aea6",
+      "title": "No 10 says glorification of dangerous driving \u2018for clips and entertainment is utterly disgraceful\u2019 \u2013 UK politics live",
+      "category": "Politics",
+      "source": "guardian",
+      "time": "2026-08-24T13:04:19",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/3eedc0044644e06699c37930a523b1066754ab52/302_0_3985_3188/master/3985.jpg?width=140&quality=85&auto=format&fit=max&s=0e7894761f24354bfb8e330017d9ba8b",
+      "content": "Downing Street has called on social\u2011media platforms to review content after a fatal crash near Middlesbrough, while Reform UK is using a press conference to announce a pledge to prioritise British\u2011born workers under 35 for social housing.\u202f[1]\n\nThe calls come amid growing concern over dangerous driving content online and a perceived lack of housing opportunities for young people. Reform UK\u2019s pledge signals a shift in the party\u2019s housing policy and highlights tensions over national versus immigrant housing priorities.\u202f[1]\n\nOn Saturday, a fatal crash occurred near Middlesbrough, prompting Downing Street to repeat its earlier calls for social\u2011media platforms to review content and policies that glorify dangerous driving for clips and entertainment.\u202f[1] The incident has drawn attention to the broader issue of online content that encourages risky behaviour.\u202f[1]\n\nThe same day, Reform UK MP Lee Anderson spoke at a press conference scheduled to begin at 11\u202fa.m. He stated that young people in his constituency and across the country have \u201cabsolutely no chance\u201d of securing council or social housing.\u202f[1] Anderson said that Reform\u2019s government would \u201cput British people first\u201d in a housing system he described as unfair.\u202f[1]\n\nDuring the press conference, Reform UK announced a pledge to prioritise British\u2011born workers under 35 when allocating social housing.\u202f[1] The party\u2019s deputy leader Richard Tice and chairman Lee Anderson fronted the announcement.\u202f[1]\n\nDowning Street has previously urged social\u2011media companies to curb content that encourages reckless driving, citing public safety concerns.\u202f[1] Reform UK, a political party that has positioned itself as a nationalist alternative, has long advocated for policies that favour British\u2011born residents in public services.\u202f[1] Social housing in the UK is managed by local authorities and is intended to provide affordable accommodation for those in need.\n\nThe fatal crash near Middlesbrough is part of a series of incidents that have raised questions about the influence of online videos on driving behaviour.\u202f[1] While the source does not provide details on the crash\u2019s cause, the incident has prompted calls for stricter regulation of dangerous driving content.\u202f[1]\n\nYoung people and low\u2011income households stand to be affected by the Reform UK pledge, which could limit their access to social housing.\u202f[1] Local authorities responsible for housing allocation may face pressure to adjust their criteria to align with the party\u2019s policy.\u202f[1] Social media platforms could be compelled to review and potentially remove content that glorifies dangerous driving.\u202f[1]\n\nThe pledge also raises questions about the balance between national identity and inclusive housing policy.\u202f[1] Critics may argue that prioritising British\u2011born workers under 35 could conflict with existing anti\u2011discrimination laws and the UK\u2019s commitments to equality.\u202f[1]\n\nIf Reform UK\u2019s policy gains traction, it could influence future housing legislation and set a precedent for other parties to adopt similar criteria.\u202f[1] The calls for social media review may lead to increased scrutiny of platforms\u2019 content\u2011moderation practices and potentially new regulatory frameworks.\u202f[1]\n\nThe policy could raise legal questions under existing anti\u2011discrimination laws, though no specific legal challenge has been announced.\n\nThe press conference is",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/politics/live/2026/aug/24/labour-andy-bunrham-social-media-firms-dangerous-driving-content-middlesborough-latest-news-updates"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/politics/live/2026/aug/24/labour-andy-bunrham-social-media-firms-dangerous-driving-content-middlesborough-latest-news-updates",
+      "guid": "https://www.theguardian.com/politics/live/2026/aug/24/labour-andy-bunrham-social-media-firms-dangerous-driving-content-middlesborough-latest-news-updates"
     }
   },
   "featured": {
-    "hero": "cna_3b971bd6",
+    "hero": "marketwatch_4af18c13",
     "stack": [
-      "guardian_81265859",
-      "reuters_910cfff9",
-      "googlenews_d5c88ac4"
+      "nature_d85f293d",
+      "pbs_2bff953f",
+      "bangkokpost_1a4ff757"
     ],
     "latest": [
+      "bangkokpost_1a4ff757",
+      "pbs_2bff953f",
+      "nature_d85f293d",
+      "cna_3b971bd6",
       "googlenews_d5c88ac4",
-      "reuters_910cfff9",
-      "guardian_81265859",
-      "afp_df217819",
-      "dw_a54b204b",
-      "guardian_c14c60c9"
+      "reuters_910cfff9"
     ],
     "world": [
+      "bangkokpost_1a4ff757",
       "cna_3b971bd6",
       "reuters_910cfff9",
-      "afp_df217819",
-      "japantimes_bcd97d74"
+      "afp_df217819"
     ]
   },
   "categoryIndex": {
@@ -37948,6 +38048,8 @@
       "snopes_4ca23b80"
     ],
     "World": [
+      "afp_df217819",
+      "dw_a54b204b",
       "japantimes_bcd97d74",
       "straitstimes_c5136112",
       "irishtimes_89b0d2b7",
@@ -37955,11 +38057,11 @@
       "bangkokpost_ad57f8a4",
       "aljazeera_1a9b9e0a",
       "japantimes_91166073",
-      "irishtimes_91a874d9",
-      "csmonitor_3253f41e",
-      "cna_51c1bf04"
+      "irishtimes_91a874d9"
     ],
     "Politics": [
+      "guardian_eed0aea6",
+      "guardian_81265859",
       "bbc_0a0b2871",
       "bbc_dbe80dcf",
       "guardian_7e837519",
@@ -37967,9 +38069,7 @@
       "guardian_a77acc79",
       "bbc_4612e5ac",
       "guardian_9ab03fa7",
-      "bbc_30966b30",
-      "guardian_fb54dee2",
-      "bbc_9f856ccd"
+      "bbc_30966b30"
     ],
     "Sports": [
       "googlenews_ed3c3ce3",
@@ -37984,6 +38084,7 @@
       "googlenews_dcfa4d92"
     ],
     "Health": [
+      "guardian_c14c60c9",
       "bbc_42bf1e23",
       "guardian_49b729a5",
       "googlenews_5beb030f",
@@ -37992,8 +38093,7 @@
       "guardian_508a50d1",
       "bbc_d16881c1",
       "googlenews_612a53c4",
-      "googlenews_2c3dfe24",
-      "bbc_0bc7d349"
+      "googlenews_2c3dfe24"
     ],
     "Science": [
       "berkeleyuniv_3d7b9eb2",
@@ -38020,7 +38120,7 @@
       "googlenews_7e81b675"
     ]
   },
-  "breaking": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say - CNA",
+  "breaking": "Police armed attack drill sends temple monks fleeing",
   "events": [
     {
       "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say -",
@@ -38031,17 +38131,12 @@
       "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
       "date": "2026-08-15",
       "source": "Verum News"
-    },
-    {
-      "title": "Burnham announces \u00a365m for drought-hit farmers after Labour pressure",
-      "date": "2026-08-15",
-      "source": "Verum News"
     }
   ],
   "mostRead": [
-    "From welfare to prisons: the challenges for Burnham when MPs return to Commons",
+    "Frontier-technology markets are too narrow \u2014 here\u2019s how to widen them",
+    "Palestinians Stream Back to Northern Gaza on Foot",
     "SoftBank plans record $6.3 billion retail bond sale in Japan",
-    "Xiaomi launches new Xring chip, partners with TSMC for production, sources say -",
-    "Syria holds talks with Israel addressing de-escalation, Israel-Turkey tensions -"
+    "From welfare to prisons: the challenges for Burnham when MPs return to Commons"
   ]
 }
