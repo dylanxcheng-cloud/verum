@@ -39310,32 +39310,153 @@
       ],
       "original_url": "https://www.economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
       "guid": "f156e482-3257-413a-9f49-430357440dac"
+    },
+    "ap_b4f7ac75": {
+      "id": "ap_b4f7ac75",
+      "title": "The bond market prepares for a hike to interest rates, while US stocks drift lower - AP News",
+      "category": "News",
+      "source": "ap",
+      "time": "2026-08-28T22:04:30",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28234%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27234%27%20cy%3D%27264%27%20r%3D%27140%27%20fill%3D%27hsl%28274%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "The bond market is bracing for a rise in interest rates, while U.S. stocks have slipped in recent trading sessions. The shift signals that investors are adjusting expectations for borrowing costs and corporate earnings.\n\nThe move matters because higher rates can tighten credit, slow investment, and alter the balance between fixed\u2011income and equity assets. For households, it could mean higher mortgage and loan rates, while businesses may face steeper financing costs.\n\nAccording to AP News, the bond market is preparing for a hike to interest rates, and U.S. stocks drift lower.\u202f[1]\n\nBond markets reflect expectations about future interest rates set by the Federal Reserve and other central banks. When investors anticipate a rate increase, bond prices typically fall and yields rise, as the fixed coupon payments become less attractive relative to new, higher\u2011yielding issues.\n\nEquity markets, on the other hand, are sensitive to the cost of capital and the present value of future earnings. A rise in rates can reduce the present value of corporate profits and dampen investor enthusiasm, leading to downward pressure on stock prices.\n\nThe primary stakeholders are investors, who must decide how to allocate capital between bonds and stocks; borrowers, who may face higher interest payments; and policymakers, who monitor market reactions to guide monetary policy.\n\nIf rates do rise, borrowing costs for consumers and businesses could climb, potentially slowing economic growth and affecting corporate profitability. Bond yields would likely increase, making fixed\u2011income securities more attractive relative to equities.\n\nThe market\u2019s reaction will be closely watched as it may foreshadow the Federal Reserve\u2019s next policy move. Investors and analysts will look for signals from the Fed\u2019s statements and minutes, as well as economic data releases, to gauge whether the anticipated rate hike materializes.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0JWTC1aei1PWXBXLVdLb0kyX1JQaGtTXy1hX3M1UmNtWFRTZHB6blRtakpDOUUwSW1kRDZVTmlhaHRBMjNTbkR4TTQxczQzZWUycHNIR1R1UEtTS2VLQkRMQ1ppVks4YzJ0Qzh3b1RQdi1NYWxmbjFFLUVlMHFMdjgzX0NUQjVZY0ZsbTBfR2NIZw?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0JWTC1aei1PWXBXLVdLb0kyX1JQaGtTXy1hX3M1UmNtWFRTZHB6blRtakpDOUUwSW1kRDZVTmlhaHRBMjNTbkR4TTQxczQzZWUycHNIR1R1UEtTS2VLQkRMQ1ppVks4YzJ0Qzh3b1RQdi1NYWxmbjFFLUVlMHFMdjgzX0NUQjVZY0ZsbTBfR2NIZw?oc=5",
+      "guid": "CBMikgFBVV95cUxNR0JWTC1aei1PWXBXLVdLb0kyX1JQaGtTXy1hX3M1UmNtWFRTZHB6blRtakpDOUUwSW1kRDZVTmlhaHRBMjNTbkR4TTQxczQzZWUycHNIR1R1UEtTS2VLQkRMQ1ppVks4YzJ0Qzh3b1RQdi1NYWxmbjFFLUVlMHFMdjgzX0NUQjVZY0ZsbTBfR2NIZw"
+    },
+    "irishtimes_24a00b79": {
+      "id": "irishtimes_24a00b79",
+      "title": "Wrong-way motorway driving could be detected by AI",
+      "category": "World",
+      "source": "irishtimes",
+      "time": "2026-08-28T22:04:53",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://www.irishtimes.com/resizer/v2/5RI6OS6WDNFHTWLBEHI42P24SY.jpg?auth=1afad9397134b04b534ed33d4bd7e6f7eba80708d1e72acce3564fc16a970995&smart=true&width=630&height=350",
+      "content": "New legislation will allow artificial\u2011intelligence systems to spot vehicles driving the wrong way on motorways, and offenders will face stricter penalties. The move was announced after a fatal crash on the M9 motorway, prompting lawmakers to seek stronger enforcement tools. [1]\n\nThe change is significant because wrong\u2011way driving is a major cause of serious motorway accidents. By enabling real\u2011time detection, authorities hope to deter drivers from taking the wrong lane and to reduce the number of collisions that result from such violations. [1]\n\nThe government\u2019s announcement came in a policy briefing that outlined the new legal framework. It states that AI\u2011based monitoring will be deployed on major motorways, and that the penalties for wrong\u2011way driving will be increased to reflect the heightened risk to public safety. [1]\n\nThe M9 incident, which prompted the legislation, involved a vehicle traveling against the flow of traffic. The collision that ensued caused multiple injuries and highlighted the dangers of this type of offence. The available reporting does not specify the exact number of casualties. [1]\n\nWrong\u2011way driving occurs when a vehicle moves in the direction opposite to the designated traffic flow on a motorway. It is illegal in most jurisdictions and can lead to head\u2011on collisions, which are often fatal. The new law reinforces the existing prohibition by adding harsher penalties.\n\nArtificial\u2011intelligence detection relies on cameras and sensors that capture video and sensor data from the roadway. Machine\u2011learning algorithms analyze this data to identify vehicles that are traveling in the wrong direction. The system can flag incidents in real time, allowing authorities to respond more quickly.\n\nThe AI algorithms used in the system are trained to recognize lane markings, vehicle orientation, and speed patterns that indicate a wrong\u2011way approach. Once a violation is detected, the system can automatically generate a citation or alert law\u2011enforcement officers.\n\nUnder the new regulations, motorways will be required to install AI\u2011enabled cameras or sensors. The legislation also sets out guidelines for how the data will be stored, accessed, and deleted, aiming to balance enforcement needs with privacy concerns.\n\nMotorists will be directly affected by the stricter enforcement, as they may receive higher fines or other penalties for wrong\u2011way driving. Law\u2011enforcement agencies will use the AI system to identify offenders more efficiently. Insurance companies may adjust premiums or coverage terms for drivers who are caught violating the new rules.\n\nThe use of AI surveillance raises privacy questions, as the technology involves continuous monitoring of road users. Stakeholders have expressed concerns about how long the data will be retained and who will have access to it.\n\nFrom a safety perspective, the legislation aims to reduce the number of wrong\u2011way incidents and the severity of the accidents they cause. By making detection faster and penalties harsher, the law seeks to change driver behaviour and improve overall motorway safety.\n\nThe new framework could set a precedent for broader AI applications in traffic enforcement. It may also prompt legal challenges regarding due process, the admissibility of AI\u2011generated evidence, and the rights of drivers to contest citations.\n\nIn the coming months, the government is expected to release a detailed implementation timeline, including pilot projects on selected motorways. Stakeholder consultations will likely address technical, legal, and privacy issues, and the next steps will involve finalizing guidelines for data handling and enforcement procedures.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/08/28/tougher-penalties-for-aggravated-and-wrong-way-dangerous-driving-are-proposed/"
+        }
+      ],
+      "original_url": "https://www.irishtimes.com/ireland/2026/08/28/tougher-penalties-for-aggravated-and-wrong-way-dangerous-driving-are-proposed/",
+      "guid": "https://www.irishtimes.com/ireland/2026/08/28/tougher-penalties-for-aggravated-and-wrong-way-dangerous-driving-are-proposed/"
+    },
+    "googlenews_f8513ca9": {
+      "id": "googlenews_f8513ca9",
+      "title": "College football odds, picks, predictions for Week 0, 2026: Computer backs Virginia, New Mexico State - CBS Sports",
+      "category": "Sports",
+      "source": "googlenews",
+      "time": "2026-08-28T22:05:13",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28283%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27203%27%20cy%3D%27140%27%20r%3D%27140%27%20fill%3D%27hsl%28323%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Computer models back Virginia and New Mexico State for Week\u202f0 2026 games.\u202f[1]\n\nThe early games set the tone for the season and influence betting markets.\u202f[1]\n\nIn the Week\u202f0 Saturday preview, the Atlantic Coast Conference (ACC) opens with four matchups, including UNC vs\u202fTCU and NC\u202fState vs\u202fVirginia.\u202f[1]\n\nThe computer models also highlight two underdogs as attractive bets for Week\u202f0.\u202f[1]\n\nESPN Presto\u2019s picks emphasize conference clashes as the starting point of the season.\u202f[1]\n\nYahoo Sports preview notes the ACC kickoff with four Week\u202f0 matchups.\u202f[1]\n\nWTOP News reports on the same schedule.\u202f[1]\n\nWeek\u202f0 games are played before the regular season begins and often feature teams from different conferences.\n\nHow computer models work: They analyze historical performance, player statistics, and coaching changes to generate odds.\n\nStakeholders: Bettors, teams, and fans are all impacted by early\u2011season odds and outcomes.\n\nImpact on teams: Early wins can boost rankings and recruiting prospects.\n\nImpact on betting: Early odds can shape betting volume and line movement for the rest of the season.\n\nImplications: Virginia\u2019s strong defense and New\u202fMexico State\u2019s offensive capabilities could carry them to early victories, setting momentum.\n\nImplications: The UNC vs\u202fTCU matchup offers a chance for UNC to seek revenge, while the NC\u202fState vs\u202fVirginia game could ignite ACC rivalry narratives.\n\nWhat to watch next: The Week\u202f1 matchups will follow, with betting lines likely to shift as more information becomes available.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXNaUFVCUUVJNzZ0N3J0WDJqY0NYZUM3RkNubGNnN29RSl9DNmVmZGcxOGJFaEJsSG1KelFucHhKMUlIVWxpVm9LczVodTlDRmp6Z3AyY0VLNHFWQXFJM2lLZmgwY0RMcXlhRjdXUi1PNVY4NFZIMncxamVFMXBtZUM2LWo2VTlrandPNm4zREVoTDlhS0dZWmVEVWZSTnRXeDNMREVqQ1ltZk03S3Vv?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXNaUFVCUUVJNzZ0N3J0WDJqY0NYZUM3RkNubGNnN29RSl9DNmVmZGcxOGJFaEJsSG1KelFucHhKMUlIVWxpVm9LczVodTlDRmp6Z3AyY0VLNHFWQXFJM2lLZmgwY0RMcXlhRjdXUi1PNVY4NFZIMncxamVFMXBtZUM2LWo2VTlrandPNm4zREVoTDlhS0dZWmVEVWZSTnRXeDNMREVqQ1ltZk03S3Vv?oc=5",
+      "guid": "CBMirwFBVV95cUxQZXNaUFVCUUVJNzZ0N3J0WDJqY0NYZUM3RkNubGNnN29RSl9DNmVmZGcxOGJFaEJsSG1KelFucHhKMUlIVWxpVm9LczVodTlDRmp6Z3AyY0VLNHFWQXFJM2lLZmgwY0RMcXlhRjdXUi1PNVY4NFZIMncxamVFMXBtZUM2LWo2VTlrandPNm4zREVoTDlhS0dZWmVEVWZSTnRXeDNMREVqQ1ltZk03S3Vv"
+    },
+    "france24_d5e4caeb": {
+      "id": "france24_d5e4caeb",
+      "title": "Israel army carries out rare West Bank air strike, killing 'three terrorists'",
+      "category": "World",
+      "source": "france24",
+      "time": "2026-08-28T22:05:36",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://s.france24.com/media/display/fd7979b0-a2f5-11f1-9ae1-005056bf30b7/w:1024/p:16x9/2026-08-28T152358Z-1191338275-RC2R7NA7VEHT-RTRMADP-3-ISRAEL-PALESTINIANS-JENIN-AIRSTRIKE.jpg",
+      "content": "An Israeli air strike in the Jenin area of the West Bank on Friday killed three people, including a Hamas militant operative, according to the Israeli military.\u202f[1]\n\nThe incident marks a rare deployment of Israeli air power in the occupied West Bank, a territory where the military has traditionally relied on ground operations. The strike could heighten tensions between Israel and Palestinian groups and draw international scrutiny.\n\nThe Israeli Defense Forces (IDF) reported that a drone or aircraft targeted a location in the Jenin district, striking a building or vehicle that housed the alleged operative and his associates. The strike resulted in the deaths of three individuals.\u202f[1] The IDF identified the primary target as a Hamas militant operative, a designation that indicates the individual was believed to be involved in the organization\u2019s activities. Two other individuals, described as accomplices, were also killed in the same strike.\u202f[1]\n\nThe West Bank has been under Israeli military occupation since the 1967 Six\u2011Day War, and Israeli forces have conducted numerous operations in the area. However, the use of air strikes has been uncommon, with the IDF typically employing ground forces for raids and arrests.\n\nIsrael has used its air force extensively in Gaza, where the territory is considered a separate operational theater. In contrast, the West Bank\u2019s geography and the presence of civilian populations have historically limited the feasibility of air attacks.\n\nThe strike directly affects residents of the Jenin area, many of whom live in densely populated neighborhoods. Hamas and other Palestinian factions may view the attack as a provocation, potentially prompting retaliatory actions. The Israeli government may justify the operation as a counterterrorism measure.\n\nThe loss of three individuals, including a Hamas operative, could alter the operational capabilities of the group in the region. At the same time, the use of air power in a civilian area raises concerns about collateral damage and the protection of noncombatants.\n\nThis event may signal a shift in Israeli tactics, indicating a willingness to employ air strikes in the West Bank when deemed necessary. The international community, particularly the United Nations and human rights organizations, may scrutinize the legality and proportionality of the attack.\n\nUnder international humanitarian law, the use of force must be proportionate and discriminate. The IDF\u2019s decision to strike in a densely populated area raises questions about compliance with these principles, though the Israeli military has argued that the target was a legitimate military objective.\n\nIsraeli officials are expected to release further details about the operation in the coming days",
+      "sources": [
+        {
+          "n": 1,
+          "label": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists"
+        }
+      ],
+      "original_url": "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists",
+      "guid": "45d4b240-a302-11f1-adc1-7d8ef64e4da5"
+    },
+    "abcau_ba1aa966": {
+      "id": "abcau_ba1aa966",
+      "title": "Australia's tobacco tax crushed smoking. Has it gone too far? - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "category": "World",
+      "source": "abcau",
+      "time": "2026-08-28T22:06:10",
+      "read": "3 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28288%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27528%27%20cy%3D%2791%27%20r%3D%27140%27%20fill%3D%27hsl%28328%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Australia\u2019s recent policy of raising tobacco taxes has been credited with a dramatic decline in smoking, yet some analysts question whether the measure has gone too far. The Australian Broadcasting Corporation\u2019s ABC News headline \u201cAustralia\u2019s tobacco tax crushed smoking. Has it gone too far?\u201d frames the debate around the balance between public health gains and potential unintended consequences. [1]\n\nThe issue matters to a broad range of stakeholders. For the government, higher tobacco taxes generate revenue and reduce health\u2011care costs. For smokers, the price hike can be a barrier to purchase but may also encourage quitting. Public\u2011health advocates see the tax as a powerful tool to curb smoking\u2011related disease, while the tobacco industry and some consumer groups worry about the economic impact and the risk of illicit trade. The question of \u201chow far is too far?\u201d therefore touches on public\u2011health policy, economic regulation, and individual liberty.\n\nABC News reports that the tax has \u201ccrushed\u201d smoking, but the article does not provide specific figures on smoking prevalence or tax rates. [2] The lack of detail means readers must rely on broader evidence from other sources to gauge the scale of the effect.\n\nAustralia\u2019s use of tobacco taxation dates back to the early 2000s, when the government introduced a significant increase in the excise duty on cigarettes. Since then, the tax has been raised periodically, making Australian cigarettes among the most expensive in the world. The policy is part of a comprehensive tobacco control strategy that also includes plain packaging, advertising bans, and public\u2011health campaigns.\n\nThe mechanism behind the tax\u2019s impact is straightforward: higher prices reduce demand, especially among price\u2011sensitive groups such as young people and low\u2011income smokers. Economic theory on price elasticity of demand predicts that a 10\u202f% price increase can lead to a 4\u20135\u202f% drop in consumption, and Australia\u2019s steep tax hikes have been associated with a steady decline in smoking rates over the past two decades.\n\nStakeholders experience the tax\u2019s effects differently. Smokers face higher costs and may be motivated to quit or switch to cheaper alternatives, including illicit products. Public\u2011health agencies benefit from lower rates of smoking\u2011related illnesses, which translates into reduced health\u2011care spending. The tobacco industry, meanwhile, sees shrinking sales and faces legal challenges over the tax\u2019s fairness. Taxpayers receive additional revenue that can be earmarked for health initiatives or general government budgets.\n\nThe broader impact of the tax has been largely positive for public health. Studies have linked the tax increases to reductions in smoking prevalence, lower rates of lung cancer and heart disease, and a decline in smoking\u2011related mortality. However, the policy has also raised concerns about the growth of a black market for cigarettes, which can undermine revenue collection and expose consumers to unregulated products.\n\nLooking ahead, the debate centers on whether further tax increases are warranted. Proponents argue that higher prices could accelerate the decline in smoking and generate more funds for health programs. Critics caution that excessive taxation may disproportionately burden low\u2011income smokers and encourage smuggling. The government\u2019s next steps will likely involve reviewing current tax rates, monitoring smoking trends, and assessing enforcement of anti\u2011smuggling measures.\n\nWhat to watch next includes upcoming parliamentary discussions on potential tax adjustments, the release of new smoking\u2011prevalence data, and any changes to enforcement strategies aimed at curbing illicit trade. These developments will shape the trajectory of Australia\u2019s tobacco\u2011control policy and determine whether the current approach remains a balanced solution for public health and economic stability.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "ABC News (Australia)",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWnNRanNvLUhUYkVyRjZvX0dJOHNhLWRobDFva2MzWk9CRG43d21zMEh0cm9Xb0sxMmk0dHdoZXhCdzgtd1lsNFRpLUVRQ1RBcEdDSlhrVFZtNERNckUybnA5MlRkRVRqOWd3MmFIZUdickVFYXBWNWZRaHdhV2lETndIRnY2eng3M21wNnJGRlBxQlR1d0RHX09VRkRBZw?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWnNRanNvLUhUYkVyRjZvX0dJOHNhLWRobDFva2MzWk9CRG43d21zMEh0cm9Xb0sxMmk0dHdoZXhCdzgtd1lsNFRpLUVRQ1RBcEdDSlhrVFZtNERNckUybnA5MlRkRVRqOWd3MmFIZUdickVFYXBWNWZRaHdhV2lETndIRnY2eng3M21wNnJGRlBxQlR1d0RHX09VRkRBZw?oc=5",
+      "guid": "CBMingFBVV95cUxPWnNRanNvLUhUYkVyRjZvX0dJOHNhLWRobDFva2MzWk9CRG43d21zMEh0cm9Xb0sxMmk0dHdoZXhCdzgtd1lsNFRpLUVRQ1RBcEdDSlhrVFZtNERNckUybnA5MlRkRVRqOWd3MmFIZUdickVFYXBWNWZRaHdhV2lETndIRnY2eng3M21wNnJGRlBxQlR1d0RHX09VRkRBZw"
+    },
+    "bbc_1ffcb98a": {
+      "id": "bbc_1ffcb98a",
+      "title": "Hypermobility - the little-known 'bendy disease' that causes pain and fatigue",
+      "category": "Health",
+      "source": "bbc",
+      "time": "2026-08-28T22:06:48",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ec/live/6e373a20-a2a6-11f1-b109-879e35c24276.jpg",
+      "content": "Hypermobility, a little\u2011known \u201cbendy disease,\u201d can cause chronic pain and fatigue, and it may affect hundreds of thousands of people across the United Kingdom, yet many patients face significant delays before receiving a diagnosis.\u00b9\n\nThe condition\u2019s prevalence and diagnostic lag mean that a large segment of the population endures unmanaged symptoms that can erode quality of life, strain healthcare resources, and impose economic costs on families and the public system.\n\nHypermobility refers to joints that move beyond the normal range expected for a given age and sex. When the disorder is severe enough to produce pain, fatigue, or other systemic symptoms, it is often classified as a hypermobility syndrome. Patients typically report joint discomfort, frequent sprains, and a pervasive sense of tiredness that can interfere with daily activities.\n\nEpidemiological estimates suggest that the disorder may affect hundreds of thousands of people in the UK, a figure that underscores its public health significance.\u00b9\n\nDespite its prevalence, many sufferers experience prolonged periods before a clinician recognises the condition. Delays can span months or even years, during which patients may undergo unnecessary investigations for other musculoskeletal or neurological disorders.\u00b9\n\nThe medical community distinguishes benign joint hypermobility\u2014where extra mobility does not produce symptoms\u2014from hypermobility syndromes that do. The latter are often linked to connective tissue abnormalities that compromise joint stability and may involve other organ systems.\n\nDiagnosis typically begins with a clinical assessment, including the Beighton score, which evaluates hypermobility across several joints. A score above a certain threshold, combined with a history of pain or other systemic signs, prompts further investigation. In some cases, genetic testing may be pursued to identify underlying connective tissue disorders.\n\nWhile the condition can affect individuals of any age, it is most frequently reported among young adults and adolescents, with a higher prevalence in women. The gender disparity is thought to reflect hormonal influences on connective tissue laxity.\n\nFor those living with hypermobility, the chronic pain and fatigue can lead to reduced physical activity, social isolation, and mental health challenges such as anxiety and depression. The cumulative effect can diminish work productivity and increase reliance on social support services.\n\nFrom a health\u2011system perspective, the diagnostic delay and ongoing symptom burden translate into higher rates of primary care visits, specialist referrals, and investigations for related conditions. The economic impact extends beyond direct medical costs to include lost productivity and caregiver burden.\n\nPatients, clinicians, and patient advocacy groups are key stakeholders in addressing the gap between prevalence and diagnosis. Advocacy organisations push for greater awareness, while clinicians call for clearer guidelines to streamline referral pathways and reduce unnecessary testing.\n\nThe implications of these findings point to a need for enhanced education among primary care providers, the development of standardized diagnostic criteria, and the establishment of multidisciplinary hypermobility clinics. Such measures could shorten diagnostic timelines and improve patient outcomes.\n\nIn the coming months, the National Institute for Health and Care Excellence (NICE) is expected to review its guidance on hypermobility syndromes, and several research groups are launching studies to refine diagnostic tools and explore targeted therapies. Patients and clinicians alike will be watching for updated recommendations that could reshape the care pathway for this often\u2011overlooked condition.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyx0gzynneo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/clyx0gzynneo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/clyx0gzynneo#0"
     }
   },
   "featured": {
-    "hero": "npr_8057f42f",
+    "hero": "ap_b4f7ac75",
     "stack": [
-      "nature_2fa826ad",
-      "abcau_3bdadb00",
-      "dw_b6f70189"
+      "irishtimes_24a00b79",
+      "googlenews_f8513ca9",
+      "france24_d5e4caeb"
     ],
     "latest": [
+      "france24_d5e4caeb",
+      "googlenews_f8513ca9",
+      "irishtimes_24a00b79",
+      "npr_8057f42f",
       "dw_b6f70189",
-      "abcau_3bdadb00",
-      "nature_2fa826ad",
-      "snopes_4b73fd6b",
-      "googlenews_95b2d725",
-      "googlenews_be7b75ed"
+      "abcau_3bdadb00"
     ],
     "world": [
-      "abcau_3bdadb00",
-      "dw_b6f70189",
-      "economist_b72b38c1",
-      "straitstimes_ef0a0d35"
+      "irishtimes_24a00b79",
+      "france24_d5e4caeb",
+      "abcau_ba1aa966",
+      "abcau_3bdadb00"
     ]
   },
   "categoryIndex": {
     "News": [
+      "snopes_4b73fd6b",
       "npr_7eef4ceb",
       "fullfact_90d030e2",
       "snopes_5273bab8",
@@ -39344,10 +39465,10 @@
       "pbs_c9ccfde4",
       "ap_09593c58",
       "pbs_2bff953f",
-      "ap_97fc6b38",
-      "snopes_1fe79269"
+      "ap_97fc6b38"
     ],
     "World": [
+      "abcau_ba1aa966",
       "economist_b72b38c1",
       "economist_d442bd0e",
       "straitstimes_ef0a0d35",
@@ -39356,8 +39477,7 @@
       "dw_db6566bd",
       "afp_052462be",
       "smh_998a41b6",
-      "abcau_34b3bfad",
-      "bangkokpost_679f30b9"
+      "abcau_34b3bfad"
     ],
     "Politics": [
       "guardian_44b19b5f",
@@ -39372,6 +39492,7 @@
       "guardian_6b02a8ac"
     ],
     "Sports": [
+      "googlenews_95b2d725",
       "googlenews_ed3c3ce3",
       "googlenews_33a9b4ad",
       "googlenews_f572b054",
@@ -39380,10 +39501,11 @@
       "googlenews_e414776c",
       "googlenews_219b13fb",
       "googlenews_f125b53c",
-      "googlenews_2fb43abc",
-      "googlenews_dcfa4d92"
+      "googlenews_2fb43abc"
     ],
     "Health": [
+      "bbc_1ffcb98a",
+      "googlenews_be7b75ed",
       "googlenews_a8d40883",
       "bbc_5e71431f",
       "guardian_55abf2b3",
@@ -39391,11 +39513,10 @@
       "guardian_c5da55b9",
       "googlenews_f0e0cb02",
       "googlenews_f4098e4f",
-      "googlenews_d5c88ac4",
-      "guardian_c14c60c9",
-      "bbc_42bf1e23"
+      "googlenews_d5c88ac4"
     ],
     "Science": [
+      "nature_2fa826ad",
       "conversation_f5010c04",
       "nature_3ceec40d",
       "npr_e734f83a",
@@ -39404,8 +39525,7 @@
       "nasa_8c7c1afa",
       "guardian_92dc34b5",
       "guardian_f1cca456",
-      "npr_6f2ed730",
-      "npr_33350b19"
+      "npr_6f2ed730"
     ],
     "Business": [
       "marketwatch_4af18c13",
@@ -39420,7 +39540,7 @@
       "googlenews_7355585c"
     ]
   },
-  "breaking": "First H5N1 bird flu detection confirmed in Australian dolphin - ABC News & Headlines \u2013 Australian Br",
+  "breaking": "Wrong-way motorway driving could be detected by AI",
   "events": [
     {
       "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say -",
@@ -39434,9 +39554,9 @@
     }
   ],
   "mostRead": [
-    "Can't stop fixating on the way you look? These 4 mental exercises may help",
     "Mysteries of the deep and AI friendship: Books in brief",
-    "FDA approves breakthrough pancreatic cancer drug \u2013 an oncologist explains how da",
-    "Trump posted US is giving 'serious consideration' to changing Lake Ontario's nam"
+    "Can't stop fixating on the way you look? These 4 mental exercises may help",
+    "Wrong-way motorway driving could be detected by AI",
+    "The bond market prepares for a hike to interest rates, while US stocks drift low"
   ]
 }
