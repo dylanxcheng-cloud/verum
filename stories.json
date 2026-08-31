@@ -40410,32 +40410,133 @@
       ],
       "original_url": "https://www.pbs.org/newshour/politics/treasury-department-blocks-certain-journalists-from-covering-g20-meeting",
       "guid": "https://www.pbs.org/newshour/politics/treasury-department-blocks-certain-journalists-from-covering-g20-meeting"
+    },
+    "googlenews_fc0d0922": {
+      "id": "googlenews_fc0d0922",
+      "title": "US health officials exclude measles-related deaths in Pennsylvania from counts - The Guardian",
+      "category": "Health",
+      "source": "googlenews",
+      "time": "2026-08-31T22:42:12",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28249%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27329%27%20cy%3D%27256%27%20r%3D%27140%27%20fill%3D%27hsl%28289%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "US health officials have decided not to include measles\u2011related deaths in Pennsylvania in national counts, according to the CDC. [1]\n\nThis decision affects how the outbreak is tracked and may influence public perception and policy. [1]\n\nThe CDC\u2019s new director delayed adding Pennsylvania deaths to measles data, a move that came amid a growing outbreak in Amish communities. [1] The Lancaster County Coroner is investigating a second death of a person with measles. [1] A mother in the region lost her newborn son to the disease. [1] Exposures have raised concerns among at\u2011risk populations. [1]\n\nThe outbreak has escalated in Pennsylvania\u2019s Amish Country, prompting heightened surveillance and public health responses. [1] The CDC has been collecting data on measles cases and deaths, and the new director\u2019s delay indicates a review of data before inclusion. [1]\n\nMeasles is a highly contagious viral disease prevented by vaccination. The CDC tracks outbreaks and publishes data on cases and fatalities. In the United States, measles cases are reported by state health departments and compiled by the CDC.\n\nAmish communities have lower vaccination rates due to cultural beliefs, making them more vulnerable to outbreaks. The current outbreak has highlighted gaps in coverage.\n\nPublic health officials in Pennsylvania are working to contain the outbreak. Families of those affected, including the mother who lost her newborn, are directly impacted. The broader community, especially those with weakened immune systems, faces exposure risk.\n\nThe CDC\u2019s decision to exclude deaths may affect funding and resource allocation for outbreak response. It also influences the national picture of measles mortality.\n\nDelaying the inclusion of deaths could delay public health interventions and public awareness. It may also affect the perception of the outbreak\u2019s severity.\n\nThe decision underscores the importance of accurate data reporting and the challenges of managing outbreaks in communities with low vaccination rates.\n\nThe CDC is expected to finalize the data update soon. Health officials will likely issue guidance on exposure prevention. The next steps include contact tracing and vaccination campaigns in affected areas.\n\nThe outbreak has prompted discussions about vaccine hesitancy and the role of community leaders in promoting immunization.\n\nThe situation remains fluid, with ongoing investigations into deaths and exposures. Public health authorities will continue to monitor the outbreak and adjust strategies as new information emerges.\n\nThe exclusion of Pennsylvania measles deaths from national counts highlights the complexities of outbreak reporting and the need for coordinated efforts to protect vulnerable populations.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUowQnc5cXpUWmpoRnpaX0Z6dVJyR1dWSkhRTlBLX3psaEZzX185czlxTWZnc2Q5azdXM2lVVS11dW4yNjlpaWxfS3hVVzQwcjZUenZhb193N3IzakF5VE9NVUtkR0JUbDlNYlpVZ2ptWDJrbTFWSWpVOUxKYmFmazFIVUY2WU9QeUhsUQ?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUowQnc5cXpUWmpoRnpaX0Z6dVJyR1dWSkhRTlBLX3psaEZzX185czlxTWZnc2Q5azdXM2lVVS11dW4yNjlpaWxfS3hVVzQwcjZUenZhb193N3IzakF5VE9NVUtkR0JUbDlNYlpVZ2ptWDJrbTFWSWpVOUxKYmFmazFIVUY2WU9QeUhsUQ?oc=5",
+      "guid": "CBMijAFBVV95cUxQeUowQnc5cXpUWmpoRnpaX0Z6dVJyR1dWSkhRTlBLX3psaEZzX185czlxTWZnc2Q5azdXM2lVVS11dW4yNjlpaWxfS3hVVzQwcjZUenZhb193N3IzakF5VE9NVUtkR0JUbDlNYlpVZ2ptWDJrbTFWSWpVOUxKYmFmazFIVUY2WU9QeUhsUQ"
+    },
+    "reuters_0796129b": {
+      "id": "reuters_0796129b",
+      "title": "'Positive developments' expected after IMF mission to Senegal, source says - Reuters",
+      "category": "World",
+      "source": "reuters",
+      "time": "2026-08-31T22:42:48",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28323%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27323%27%20cy%3D%27295%27%20r%3D%27140%27%20fill%3D%27hsl%283%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "The International Monetary Fund (IMF) has dispatched a mission to Senegal, and officials say the visit is expected to bring positive developments.\u202f[1] The announcement follows a period of heightened scrutiny of the country\u2019s fiscal and monetary policies, and it signals the IMF\u2019s continued interest in Senegal\u2019s economic trajectory.\n\nSenegal\u2019s economy is a key focus for international financial institutions because the country is a major West African market with growing trade ties and a relatively stable political environment. The IMF\u2019s engagement is therefore closely watched by investors, development partners, and domestic policymakers who rely on external support to maintain macro\u2011economic stability and fund public investment projects.\n\nThe mission itself is a routine part of the IMF\u2019s supervisory framework. Senior officials typically review a member country\u2019s economic performance, assess the implementation of agreed policy measures, and evaluate the country\u2019s eligibility for future financial assistance. The process involves meetings with government officials, central bank staff, and other stakeholders to discuss policy priorities and potential adjustments.\n\nSenegal has a diversified economy that includes agriculture, mining, and services, but it also faces challenges such as high public debt, a need for fiscal consolidation, and the need to improve infrastructure. The country has previously entered into arrangements with the IMF to support reforms aimed at strengthening fiscal discipline and boosting growth. The current mission builds on that history and seeks to assess progress and identify new areas for improvement.\n\nThe stakeholders in this development are broad. The Senegalese government stands to benefit from the IMF\u2019s technical assistance and potential access to financing, while the IMF seeks to ensure that its resources are used effectively to promote sustainable growth. Donor agencies and private investors also monitor the mission\u2019s outcomes, as they influence the country\u2019s creditworthiness and investment climate.\n\nIf the mission\u2019s expectations are met, Senegal could see a range of positive outcomes. These might include the approval of new financial assistance packages, the implementation of policy reforms that improve fiscal balance, and increased confidence among international investors. Such developments would help the country to manage its debt burden and to fund critical public services.\n\nThe implications of the IMF mission extend beyond immediate financial arrangements. A successful engagement could reinforce Senegal\u2019s reputation as a responsible borrower and could encourage further foreign direct investment. It could also set a precedent for other West African economies seeking IMF support, highlighting the importance of transparent governance and sound macro\u2011economic management.\n\nLooking ahead, the next steps will likely involve the IMF\u2019s release of a detailed assessment report. Senegal\u2019s authorities will then use the findings to negotiate the terms of any new financial assistance or to adjust existing policy frameworks. The timeline for these negotiations and the specific conditions attached to potential funding remain to be clarified, but the country\u2019s officials have indicated that they are prepared to act on the IMF\u2019s recommendations.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZGVIZFlQZU1CWjJfMVJMMm1pcGdrWFFBUVZTTEF2bVNKX20yX2xrQXRFWjF3cmxNWURzRGQ4SjgxVHhCUWNXMHQ3MGZmSzd4TTlVVDhqdzNDTjdhSlN6em92LWctQ0gtRlRBS3lZMzcxM0hvb3ViSzQ4VGZUZzgyUDBuWXRTRVdUbndhNWRNUGxmOE53dFVjM0tEbHVvQ3U1aDZSVlIzT3oyTXFkeWdKNEVLXzhkbDE3?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZGVIZFlQZU1CWjJfMVJMMm1pcGdrWFFBUVZTTEF2bVNKX20yX2xrQXRFWjF3cmxNWURzRGQ4SjgxVHhCUWNXMHQ3MGZmSzd4TTlVVDhqdzNDTjdhSlN6em92LWctQ0gtRlRBS3lZMzcxM0hvb3ViSzQ4VGZUZzgyUDBuWXRTRVdUbndhNWRNUGxmOE53dFVjM0tEbHVvQ3U1aDZSVlIzT3oyTXFkeWdKNEVLXzhkbDE3?oc=5",
+      "guid": "CBMiuAFBVV95cUxNZGVIZFlQZU1CWjJfMVJMMm1pcGdrWFFBUVZTTEF2bVNKX20yX2xrQXRFWjF3cmxNWURzRGQ4SjgxVHhCUWNXMHQ3MGZmSzd4TTlVVDhqdzNDTjdhSlN6em92LWctQ0gtRlRBS3lZMzcxM0hvb3ViSzQ4VGZUZzgyUDBuWXRTRVdUbndhNWRNUGxmOE53dFVjM0tEbHVvQ3U1aDZSVlIzT3oyTXFkeWdKNEVLXzhkbDE3"
+    },
+    "bbc_6b204d3e": {
+      "id": "bbc_6b204d3e",
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+      "category": "Science",
+      "source": "bbc",
+      "time": "2026-08-31T22:43:51",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/206f/live/de2a7590-a48b-11f1-b109-879e35c24276.jpg",
+      "content": "NASA launched a powerful new space telescope.\u202f[1] The launch marks the beginning of a multi\u2011year mission.\u202f[1] The mission will create a new map of the universe.\u202f[1] It will also help scientists learn more about dark energy and dark matter.\u202f[1]\n\nThe launch marks a significant step in cosmology, offering new data to test theories about the universe\u2019s expansion and the unseen mass that shapes its structure.\n\nNASA launched the telescope, which has now entered orbit and begun its primary science operations.\u202f[1] The spacecraft is equipped with instruments designed to capture light from distant objects.\n\nThe mission will create a new map of the universe, providing a detailed view of the distribution of galaxies and other celestial structures.\u202f[1]\n\nBy observing the faint glow of distant galaxies, the telescope will help scientists learn more about dark energy, the force driving the accelerating expansion of space, and dark matter, the invisible mass that influences gravitational dynamics.\u202f[1]\n\nSpace telescopes have historically expanded our view of the cosmos. The Hubble Space Telescope, launched in 1990, revolutionized astronomy by providing high\u2011resolution images beyond Earth\u2019s atmosphere.\n\nThe new telescope builds on that legacy, incorporating advanced detectors and a larger aperture to gather more light and resolve finer details than previous missions.\n\nDark energy and dark matter are two of the",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo#0"
+    },
+    "googlenews_54bf970a": {
+      "id": "googlenews_54bf970a",
+      "title": "FTC Sues Amazon, Alleging It Deceived Advertisers and Drove Up Prices - WSJ",
+      "category": "Business",
+      "source": "googlenews",
+      "time": "2026-08-31T22:44:27",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28239%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27199%27%20cy%3D%27219%27%20r%3D%27140%27%20fill%3D%27hsl%28279%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "The Federal Trade Commission, joined by 22 state attorneys general, filed a lawsuit against Amazon alleging that the company deceived advertisers and drove up advertising costs through a secret surcharge scheme that the firm has not disclosed to its clients. The complaint claims Amazon added hidden fees that increased the price of its advertising services by an estimated $20\u202fbillion.\u202f[1]\n\nThe suit matters because Amazon\u2019s advertising platform is a major source of revenue for the retailer and a key channel for brands worldwide. If the allegations are proven, the company could face significant penalties and be forced to overhaul its pricing practices, potentially reshaping how digital ads are sold on the platform.\u202f[1]\n\nThe lawsuit was filed in a federal court by the FTC and the 22 states, charging that Amazon \u201csecretly inflated ad prices\u201d by adding undisclosed surcharges to the cost of advertising on its marketplace.\u202f[1]\n\nAccording to the complaint, Amazon\u2019s ad pricing model was opaque, and the surcharges were not disclosed to advertisers in any contractual or public documentation. The surcharges were allegedly applied to a wide range of ad products, including sponsored product listings and display ads.\u202f[1]\n\nThe FTC\u2019s complaint further alleges that the cumulative effect of these hidden fees amounted to roughly $20\u202fbillion in excess costs paid by advertisers over the past several years.\u202f[1]\n\nAmazon\u2019s advertising business has grown rapidly, becoming one of the largest digital ad platforms in the United States. Advertisers use Amazon\u2019s tools to target shoppers directly on the retailer\u2019s site and across its network of partner sites.\u202f[2]\n\nAmazon\u2019s ad pricing typically involves a bidding system where advertisers pay per click or per impression. The platform\u2019s pricing is determined by a combination of factors, including product category, competition, and time of day.\u202f[3]\n\nThe FTC\u2019s mandate includes protecting consumers from deceptive and unfair business practices. In addition to consumer protection, the FTC also enforces antitrust laws that prevent companies from engaging in conduct that harms competition.\u202f[4]\n\nThe primary stakeholders in this case are the advertisers who have paid the alleged surcharges, Amazon as the defendant, and the 22 states that joined the lawsuit. Advertisers could seek restitution for the hidden fees, while Amazon faces the threat of substantial fines and mandatory changes to its pricing disclosures.\u202f[1]\n\nIf the court finds Amazon liable, the company could be required to refund advertisers, provide clearer pricing information, and possibly pay damages to the states and the federal government. The outcome could also prompt other platforms to review their own pricing practices to avoid similar litigation.\u202f[1]\n\nThe lawsuit raises broader questions about transparency in digital advertising. A ruling against Amazon could establish a legal precedent that forces major ad platforms to disclose all fees and surcharges, potentially increasing competition and reducing costs for advertisers.\u202f[1]\n\nThe case may also influence regulatory scrutiny of other tech giants that offer advertising services, as lawmakers and regulators look for ways to ensure fair pricing and prevent deceptive practices in the rapidly evolving digital marketplace.\u202f[1]\n\nKey next steps include the court\u2019s scheduling of initial hearings, the parties\u2019 exchange of discovery documents, and any settlement negotiations that may arise before a trial. The FTC and the states will likely seek a comprehensive remedy that includes both monetary relief and changes to Amazon\u2019s business practices.\u202f[1]\n\nThe lawsuit represents a significant test of Amazon\u2019s advertising business model and could have lasting implications for the digital advertising industry as a whole. Whether the court sides with the regulators or the retailer remains to be seen, but the case will undoubtedly be closely watched by advertisers, competitors, and policymakers alike.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTdfSlBMRDYwWko4RjVDVEZCdWNDM3Zvdi11MWlTSlVxZjcwZDViYWJxMUUzSXR5QmQ2a0p2dHJTY3dpMlVaWmlGUThOS0EwNmlXaU9IWS1zb2lLdjlTUUVQb0RHNGZOWnptVm5OZFNneTFjNWY0c0xHekR3OXJFY2VLb0F2ZV9ubUtHZHBkTXR0LWJO?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTdfSlBMRDYwWko4RjVDVEZCdWNDM3Zvdi11MWlTSlVxZjcwZDViYWJxMUUzSXR5QmQ2a0p2dHJTY3dpMlVaWmlGUThOS0EwNmlXaU9IWS1zb2lLdjlTUUVQb0RHNGZOWnptVm5OZFNneTFjNWY0c0xHekR3OXJFY2VLb0F2ZV9ubUtHZHBkTXR0LWJO?oc=5",
+      "guid": "CBMilAFBVV95cUxQVTdfSlBMRDYwWko4RjVDVEZCdWNDM3Zvdi11MWlTSlVxZjcwZDViYWJxMUUzSXR5QmQ2a0p2dHJTY3dpMlVaWmlGUThOS0EwNmlXaU9IWS1zb2lLdjlTUUVQb0RHNGZOWnptVm5OZFNneTFjNWY0c0xHekR3OXJFY2VLb0F2ZV9ubUtHZHBkTXR0LWJO"
+    },
+    "pbs_bc6e60b5": {
+      "id": "pbs_bc6e60b5",
+      "title": "Colombia's president says soldiers killed a key dissident leader",
+      "category": "News",
+      "source": "pbs",
+      "time": "2026-08-31T22:46:29",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-26T204150Z_1600463300_RC2G6NAM24ID_RTRMADP_3_COLOMBIA-POLITICS-1024x683.jpg",
+      "content": "Colombia\u2019s president announced that soldiers have killed a key dissident leader, a development the government described as a \u201ccrushing blow\u201d to a faction it says is headed by a man who goes by the name \u201cIv\u00e1n\u202fMordisco.\u201d[1]\n\nThe statement was made in a brief press briefing, in which the president emphasized that the death of the individual, known in the movement as \u201cFelipe\u201d or \u201cArcadio,\u201d would significantly weaken the dissident group\u2019s operational capacity.[1]\n\nThe president\u2019s remarks came after reports that military forces had engaged the dissident faction in a confrontation that resulted in the death of the individual. The government\u2019s description of the event frames it as a decisive victory over a group that has been described as a splinter of larger armed movements in the country.[1]\n\nColombia has a long history of armed conflict involving state forces and various insurgent or dissident groups. Over the past decades, the government has pursued a strategy of military operations aimed at dismantling armed factions that challenge its authority. This approach has been a central element of Colombia\u2019s broader security policy.\n\nIn the context of these operations, soldiers are typically deployed to conduct raids, surveillance, and targeted strikes against suspected members of dissident groups. The use of military force is intended to disrupt the groups\u2019 command structures and reduce their capacity to carry out attacks.\n\nThe primary stakeholders in this development are the Colombian government, the dissident faction led by Iv\u00e1n\u202fMordisco, and the civilian population that lives in areas where such groups operate. The government\u2019s claim suggests a shift in the balance of power that could alter the security dynamics in affected regions.\n\nIf the death of the key leader indeed weakens the faction, it could lead to a temporary reduction in violence. However, the removal of a central figure can also provoke retaliation or a splintering of the group, potentially leading to new, unpredictable threats.\n\nThe broader implication of this event is that it may influence the trajectory of Colombia\u2019s ongoing peace and security negotiations. A weakened dissident faction could reduce pressure on the government to negotiate, but it could also create a vacuum that other armed actors might fill.\n\nObservers will be looking for official follow\u2011up statements from the military regarding the operation, as well as any investigations into the circumstances of the death. The next few days will also be crucial for monitoring potential responses from the dissident faction and assessing the immediate impact on local security.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/colombias-president-says-soldiers-killed-a-key-dissident-leader"
+        }
+      ],
+      "original_url": "https://www.pbs.org/newshour/world/colombias-president-says-soldiers-killed-a-key-dissident-leader",
+      "guid": "https://www.pbs.org/newshour/world/colombias-president-says-soldiers-killed-a-key-dissident-leader"
     }
   },
   "featured": {
-    "hero": "straitstimes_af22f413",
+    "hero": "googlenews_fc0d0922",
     "stack": [
-      "nature_15a37186",
-      "bbc_88e5cb96",
-      "pbs_36a63781"
+      "reuters_0796129b",
+      "bbc_6b204d3e",
+      "googlenews_54bf970a"
     ],
     "latest": [
+      "googlenews_54bf970a",
+      "bbc_6b204d3e",
+      "reuters_0796129b",
+      "straitstimes_af22f413",
       "pbs_36a63781",
-      "bbc_88e5cb96",
-      "nature_15a37186",
-      "france24_938db1a4",
-      "csmonitor_726ac6a2",
-      "cna_df80993f"
+      "bbc_88e5cb96"
     ],
     "world": [
+      "reuters_0796129b",
       "straitstimes_af22f413",
       "bangkokpost_dc30f40d",
-      "france24_938db1a4",
-      "cna_df80993f"
+      "france24_938db1a4"
     ]
   },
   "categoryIndex": {
     "News": [
+      "pbs_bc6e60b5",
       "pbs_715b5c13",
       "snopes_bb775271",
       "snopes_35e98fe6",
@@ -40444,20 +40545,19 @@
       "ap_43598167",
       "snopes_bf8e0931",
       "cjr_c314a659",
-      "ap_b4f7ac75",
-      "npr_8057f42f"
+      "ap_b4f7ac75"
     ],
     "World": [
+      "france24_938db1a4",
+      "csmonitor_726ac6a2",
+      "cna_df80993f",
       "bangkokpost_dc30f40d",
       "france24_37ca1641",
       "dw_066610ac",
       "abcau_2241cef7",
       "japantimes_55a32366",
       "france24_47e19900",
-      "bbc_3d5fdcba",
-      "irishtimes_fe75b023",
-      "aljazeera_1137e910",
-      "dw_736917f7"
+      "bbc_3d5fdcba"
     ],
     "Politics": [
       "bbc_68f0f659",
@@ -40496,6 +40596,7 @@
       "googlenews_f4098e4f"
     ],
     "Science": [
+      "nature_15a37186",
       "guardian_f6a9763e",
       "conversation_435aac1b",
       "guardian_b033c696",
@@ -40504,8 +40605,7 @@
       "conversation_c4fa6358",
       "npr_95a90a56",
       "conversation_86fb42e3",
-      "nature_2fa826ad",
-      "conversation_f5010c04"
+      "nature_2fa826ad"
     ],
     "Business": [
       "marketwatch_4af18c13",
@@ -40520,8 +40620,13 @@
       "googlenews_7355585c"
     ]
   },
-  "breaking": "More than 300 cooling centres to open if S\u2019pore faces heatwave: New heat office - The Straits Times",
+  "breaking": "'Positive developments' expected after IMF mission to Senegal, source says - Reuters",
   "events": [
+    {
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+      "date": "2026-08-31",
+      "source": "Verum News"
+    },
     {
       "title": "PC Harper's killers to stay in jail as PM announces changes to early release sch",
       "date": "2026-08-30",
@@ -40536,7 +40641,7 @@
   "mostRead": [
     "Scale of snakebites estimated globally",
     "Bernie Sanders, AOC join marchers in Washington to \u2018defend the vote\u2019",
-    "More than 300 cooling centres to open if S\u2019pore faces heatwave: New heat office ",
-    "Burnham's summer tour is over - now he has to prove himself in Parliament"
+    "US health officials exclude measles-related deaths in Pennsylvania from counts -",
+    "'Positive developments' expected after IMF mission to Senegal, source says - Reu"
   ]
 }
