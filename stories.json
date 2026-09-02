@@ -41150,28 +41150,128 @@
       ],
       "original_url": "https://www.nature.com/articles/d41586-026-02746-4",
       "guid": "https://www.nature.com/articles/d41586-026-02746-4"
+    },
+    "bbc_9c68e54e": {
+      "id": "bbc_9c68e54e",
+      "title": "Children as young as six going to A&E in mental health crisis",
+      "category": "Health",
+      "source": "bbc",
+      "time": "2026-09-02T16:22:24",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7de/live/6e6b6300-a697-11f1-a291-b542ee92de7c.jpg",
+      "content": "Children as young as six are now being taken to Accident & Emergency (A&E) departments in the United Kingdom in the midst of mental health crises. [1]\n\nThe rise in emergency presentations among very young people signals a growing challenge for the National Health Service (NHS) and for families who must navigate an increasingly complex health\u2011care landscape.\n\nNHS emergency departments are reporting a surge in cases involving self\u2011harm, eating disorders and emotional distress among children and adolescents. [1] The trend includes children as young as six who are being brought to A&E for urgent mental\u2011health care. [1]\n\nA&E, the emergency department of NHS hospitals, serves as the first point of contact for acute medical and mental\u2011health emergencies. It is staffed by doctors, nurses and mental\u2011health specialists who assess and treat patients on a 24\u2011hour basis.\n\nThe NHS provides a range of mental\u2011health services for children and young people, from community teams and crisis lines to specialist inpatient care. These services are designed to offer early intervention and ongoing support for a variety of conditions.\n\nSelf\u2011harm, eating disorders and emotional distress are common mental\u2011health issues that can lead to emergency presentation when symptoms become severe or life\u2011threatening.\n\nFamilies of affected children are among the most directly impacted stakeholders, as they must coordinate care, manage uncertainty and often face financial and emotional strain. NHS staff, mental\u2011health professionals and policymakers also feel the effects of increased demand on emergency services.\n\nThe higher volume of young\u2011person presentations can strain A&E resources, potentially diverting attention and equipment from other urgent medical cases. This shift may affect overall hospital throughput and patient outcomes.\n\nThe trend suggests a growing unmet need for mental\u2011health support for children and adolescents, highlighting gaps in prevention, early detection and community care.\n\nIt may prompt reviews of mental\u2011health provision, resource allocation and early\u2011intervention strategies, as health authorities seek to address the underlying causes of the surge.\n\nThe NHS and health authorities are monitoring the situation closely, but specific policy responses or resource allocations have not yet been announced.\n\nFamilies and clinicians should remain vigilant, seeking help early for signs of self\u2011harm, eating disorders or emotional distress, and advocating for stronger preventive and support services.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo#0"
+    },
+    "guardian_95ea63e5": {
+      "id": "guardian_95ea63e5",
+      "title": "Andy Burnham pressed on borrowing costs and spending at first PMQs \u2013 UK politics live",
+      "category": "Politics",
+      "source": "guardian",
+      "time": "2026-09-02T16:23:38",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/f89dcc944b11e120270f68907c76b430c496ed95/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=4c48c1f90ccd3872c93d826ac7ca3c02",
+      "content": "Andy Burnham, the Labour Party\u2019s shadow finance minister, used the first Prime Minister\u2019s Questions of the new parliamentary session to press the government on borrowing costs and spending, a move that drew questions from Kemi Badenoch and other MPs amid speculation over the upcoming budget.\u202f[1]\n\nThe exchange was significant because PMQs are a high\u2011profile venue where ministers are held accountable for their policy positions.\u202f[1]\n\nDuring the session, Burnham was asked to clarify the Treasury\u2019s stance on the cost of borrowing and how it would affect public spending.\u202f[1]\n\nPMQs are held weekly in the House of Commons, allowing MPs to question the Prime Minister and other senior ministers on a range of issues.\u202f[1]\n\nBorrowing costs refer to the interest rates the government pays on its debt, while spending concerns the allocation of public funds across sectors such as health, education, and infrastructure.\u202f[1]\n\nThe questions raised by Kemi Badenoch and her colleagues reflected broader concerns among MPs about the sustainability of the fiscal plan and the impact of rising interest rates on the economy.\u202f[1]\n\nBurnham\u2019s emphasis on borrowing costs suggested a focus on debt management, while his comments on spending hinted at potential adjustments to the budgetary framework.\u202f[1]\n\nObservers will watch for the Treasury\u2019s forthcoming budget documents and any subsequent policy announcements that clarify the government\u2019s approach to borrowing and spending.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
+      "guid": "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news"
+    },
+    "csmonitor_e9f4b65d": {
+      "id": "csmonitor_e9f4b65d",
+      "title": "As US steps up pressure on Iran, ordinary people say they\u2019re paying the price",
+      "category": "World",
+      "source": "csmonitor",
+      "time": "2026-09-02T16:24:35",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "https://images.csmonitor.com/csm/2026/09/0901_OIRAN_fish_mkt.jpg?alias=standard_900x600",
+      "content": "The United States has intensified its economic pressure on Iran, and ordinary Iranians say the cost is being paid in their daily lives. The latest round of sanctions, dubbed \u201cD\u2011Day\u201d by U.S. officials, has added to a long\u2011standing punitive regime that critics argue has already devastated the country\u2019s economy. [1]\n\nThe stakes are high for both the Iranian people and the regime that governs them. As the sanctions tighten, everyday costs rise, while the government\u2019s ability to maintain public support is tested. If the population\u2019s frustration grows, it could alter the political calculus for Tehran\u2019s leadership. [1]\n\nIn the past week, the U.S. Treasury announced a new set of sanctions targeting key sectors of Iran\u2019s oil and financial industries. The move follows a pattern of escalating measures that have been in place for years. Iran\u2019s economy, which was already in a precarious state before the war and before Trump\u2019s \u201cD\u2011Day\u201d sanctions, is now facing further strain. Ordinary Iranians bear the brunt of these policies, reporting higher prices and limited access to essential goods. Many feel apathetic toward the political process, suggesting that the risk of a popular uprising may be lower for the time being. [1]\n\nSanctions are a tool used by governments to influence foreign policy by restricting trade, investment, and financial transactions. They can target specific individuals, companies, or entire sectors, and are often accompanied by secondary sanctions that penalize third\u2011party entities that do business with the sanctioned country. The U.S. has employed this strategy against Iran for decades, aiming to curb its nuclear program and regional influence.\n\nIran\u2019s economic challenges predate the current sanctions regime. The country\u2019s economy suffered significant damage during the Iran\u2011Iraq war, which strained public finances and infrastructure. Even before the war, the economy was described as \u201cin ruins,\u201d a condition that has persisted despite subsequent reforms and international agreements. The Trump administration\u2019s \u201cD\u2011Day\u201d sanctions represent a further escalation, targeting the oil sector and financial institutions that facilitate international trade.\n\nThe primary stakeholders in this dynamic are the Iranian government, its citizens, and the United States. The Tehran administration seeks to maintain control and legitimacy amid economic hardship, while ordinary Iranians confront rising prices, unemployment, and limited access to services. The U.S. aims to pressure Iran into compliance with its nuclear and regional policies, using economic tools as a lever.\n\nFor ordinary Iranians, the impact is tangible: food and medicine become more expensive, and the availability of foreign currency for imports dwindles. Inflation erodes savings, and the banking system faces restrictions that limit cross\u2011border transactions. These conditions create a sense of frustration, but also a sense of resignation, as many feel that political change is unlikely in the short term.\n\nThe current trajectory suggests that the risk of a mass uprising may be muted, at least for now. The combination of economic hardship and political apathy can dampen collective action, even as the regime remains vulnerable to internal dissent. Analysts note that while sanctions may weaken Iran\u2019s strategic objectives, they also risk entrenching the status quo by fostering a climate of fatalism among the populace.\n\nLooking ahead, the U.S. is expected to announce additional sanctions in the coming weeks, potentially targeting more sectors or tightening existing restrictions. Iran\u2019s response\u2014whether through diplomatic negotiations, domestic policy adjustments, or further economic reforms\u2014will shape the next phase of this protracted standoff. The international community will be watching closely for any signs of change in the balance of power or the potential for renewed dialogue.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Christian Science Monitor",
+          "url": "https://www.csmonitor.com/World/Middle-East/2026/0901/iranian-people-trump-economic-sanctions?icid=rss"
+        }
+      ],
+      "original_url": "https://www.csmonitor.com/World/Middle-East/2026/0901/iranian-people-trump-economic-sanctions?icid=rss",
+      "guid": "b751e52ff6d44fa2ab74116db2ba4a6b"
+    },
+    "npr_11056458": {
+      "id": "npr_11056458",
+      "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
+      "category": "News",
+      "source": "npr",
+      "time": "2026-09-02T16:24:56",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2Fff%2F39eed76e47cebecea107bd74fbb5%2Fap26245387790183.jpg",
+      "content": "Iran fired on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull. [1]\n\nThe renewed hostilities have spiked oil prices, disrupted the global economy, and intensified political challenges for President Trump's Republican Party ahead of the November midterm elections. [1]\n\nThe six\u2011month conflict that began earlier this year has resumed with Iranian forces launching attacks against neighboring Gulf states. The attacks followed a monthlong period of relative calm, during which the U.S. had conducted air strikes against Iranian targets. [1]\n\nThe Iranian strikes targeted military installations and infrastructure in the Gulf region, though the reporting does not specify the exact locations or the extent of damage. The U.S. strikes that prompted Iran's retaliation were part of a broader campaign aimed at curbing Iranian influence in the region. [1]\n\nIran occupies a strategic position in the Persian Gulf, a corridor that carries a significant portion of the world's oil supply. Its relationships with Gulf neighbors have historically been marked by rivalry and conflict, especially over issues such as maritime security and regional influence.\n\nIran has employed a mix of missile and drone technology in its regional operations, while Gulf states rely on advanced air defense systems and close coordination with U.S. military forces stationed in the area. The U.S. has maintained a presence in the Gulf to support allies and deter Iranian aggression.\n\nThe primary parties affected are the governments of Iran and the Gulf states, the U.S. administration, and the global oil market. Investors and consumers worldwide feel the ripple effects of any disruption to oil supply.\n\nThe spike in oil prices has increased production costs for businesses and raised inflationary pressures in many economies. The broader global economy has experienced volatility as markets react to the uncertainty surrounding the conflict.\n\nWithin the United States, the Republican Party faces scrutiny over its foreign\u2011policy record, particularly in light of the war\u2019s economic fallout. The timing of the conflict, close to the November midterm elections, adds pressure on Republican candidates to address voters\u2019 concerns about national security and economic stability.\n\nThe continuation of hostilities raises the risk of further escalation, which could widen the conflict and deepen the volatility in energy markets. Diplomatic efforts, if pursued, would need to address both security guarantees for Gulf states and the broader geopolitical objectives of Iran.\n\nFor U.S. foreign policy, the situation underscores the challenge of balancing deterrence with diplomatic engagement. For Iran, the conflict offers a platform to assert its regional influence, but also risks isolating it further on the international stage. Global economic stability remains contingent on a swift resolution to the hostilities.\n\nObservers should monitor U.S. policy statements and any forthcoming diplomatic initiatives aimed at de\u2011escalation. The next phase of the conflict will also be shaped by the political dynamics of the upcoming midterm elections, as candidates seek to position themselves on foreign\u2011policy and economic issues.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NPR",
+          "url": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates"
+        }
+      ],
+      "original_url": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
+      "guid": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates"
+    },
+    "bangkokpost_4a8a39f4": {
+      "id": "bangkokpost_4a8a39f4",
+      "title": "New York City to ban AI in schools through Grade 8",
+      "category": "World",
+      "source": "bangkokpost",
+      "time": "2026-09-02T16:25:26",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://static.bangkokpost.com/media/content/20260902/c1_3312633_260902195757_700.jpg",
+      "content": "New York City will ban the use of artificial intelligence for students in public schools through eighth grade. [1]\n\nThe decision signals a cautious approach to emerging digital tools in early education, reflecting concerns about how AI might affect learning, equity, and academic integrity for younger students.\n\nA source close to the matter told a news agency on Wednesday that the city will ban the use of AI for students in public schools through eighth grade, confirming US media reports. [1]\n\nThe ban applies to all public schools in the city, covering students up to the eighth grade. [1]\n\nArtificial\u2011intelligence tools such as chatbots and generative models have become widely used by students for writing, homework, and creative projects.\n\nThe policy comes amid a national conversation about the role of AI in education, with debates over the appropriate age for exposure to advanced technology and how to balance innovation with safeguarding learning outcomes.\n\nStakeholders\u2014including students, teachers, parents, and school administrators\u2014will need to adjust to new restrictions on digital tools.\n\nTeachers and administrators will need to modify policies and practices to comply with the ban.\n\nThe ban may affect how students access AI resources outside school, potentially requiring alternative methods for research and creative work.\n\nThe policy could raise questions about how to balance innovation with safeguarding learning outcomes for younger students.\n\nImplications include the possibility that other districts might adopt similar restrictions, and the policy could prompt discussions about the legal boundaries of restricting technology in schools.\n\nWhat to watch next: The city has not yet announced specific implementation plans, timelines, or enforcement mechanisms, and stakeholders will likely seek clarification on how the ban will be monitored and what exceptions, if any, may apply.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Bangkok Post",
+          "url": "https://www.bangkokpost.com/world/3312633/new-york-city-to-ban-ai-in-schools-through-grade-8"
+        }
+      ],
+      "original_url": "https://www.bangkokpost.com/world/3312633/new-york-city-to-ban-ai-in-schools-through-grade-8",
+      "guid": ""
     }
   },
   "featured": {
-    "hero": "conversation_5cbbab7a",
+    "hero": "bbc_9c68e54e",
     "stack": [
-      "bbc_20720170",
-      "irishtimes_36de12cb",
-      "googlenews_3c50c2a3"
+      "guardian_95ea63e5",
+      "csmonitor_e9f4b65d",
+      "npr_11056458"
     ],
     "latest": [
+      "npr_11056458",
+      "csmonitor_e9f4b65d",
+      "guardian_95ea63e5",
+      "conversation_5cbbab7a",
       "googlenews_3c50c2a3",
-      "irishtimes_36de12cb",
-      "bbc_20720170",
-      "bbc_ea18a2b3",
-      "guardian_a312dd20",
-      "conversation_287b7707"
+      "irishtimes_36de12cb"
     ],
     "world": [
+      "csmonitor_e9f4b65d",
+      "bangkokpost_4a8a39f4",
       "bbc_20720170",
-      "irishtimes_36de12cb",
-      "bbc_ea18a2b3",
-      "france24_b4889bff"
+      "irishtimes_36de12cb"
     ]
   },
   "categoryIndex": {
@@ -41188,16 +41288,16 @@
       "snopes_35e98fe6"
     ],
     "World": [
+      "bangkokpost_4a8a39f4",
+      "bbc_20720170",
+      "bbc_ea18a2b3",
       "csmonitor_3a2c91a5",
       "france24_b4889bff",
       "csmonitor_a1a28f57",
       "guardian_e330fced",
       "dw_c630bbe0",
       "straitstimes_14ac2e9a",
-      "bbc_21ab71d7",
-      "aljazeera_2a0e5236",
-      "cna_5b284588",
-      "reuters_0796129b"
+      "bbc_21ab71d7"
     ],
     "Politics": [
       "guardian_71f8e700",
@@ -41224,6 +41324,7 @@
       "googlenews_6aa521ed"
     ],
     "Health": [
+      "guardian_a312dd20",
       "googlenews_f950b997",
       "googlenews_07750623",
       "googlenews_fc0d0922",
@@ -41232,10 +41333,10 @@
       "googlenews_be7b75ed",
       "googlenews_a8d40883",
       "bbc_5e71431f",
-      "guardian_55abf2b3",
-      "googlenews_bf3d2ae0"
+      "guardian_55abf2b3"
     ],
     "Science": [
+      "conversation_287b7707",
       "nature_bf93c7ac",
       "bbc_27355323",
       "guardian_be9ae749",
@@ -41244,8 +41345,7 @@
       "bbc_6b204d3e",
       "nature_15a37186",
       "guardian_f6a9763e",
-      "conversation_435aac1b",
-      "guardian_b033c696"
+      "conversation_435aac1b"
     ],
     "Business": [
       "googlenews_54bf970a",
@@ -41260,7 +41360,7 @@
       "googlenews_266e4a85"
     ]
   },
-  "breaking": "Why US troops have a history in this raucous Thai city",
+  "breaking": "Andy Burnham pressed on borrowing costs and spending at first PMQs \u2013 UK politics live",
   "events": [
     {
       "title": "'A giant leap forward': Nasa launches powerful new space telescope",
@@ -41274,9 +41374,9 @@
     }
   ],
   "mostRead": [
-    "A newborn and child reportedly died of measles; CDC isn\u2019t counting them - Ars Te",
+    "Andy Burnham pressed on borrowing costs and spending at first PMQs \u2013 UK politics",
     "Did Trump cut down dozens of cherry trees for DC golf course renovations?",
-    "Why US troops have a history in this raucous Thai city",
-    "Before the infinity nets, there was \u2018The Pacific Ocean\u2019 \u2013 what origin stories fo"
+    "Children as young as six going to A&E in mental health crisis",
+    "A newborn and child reportedly died of measles; CDC isn\u2019t counting them - Ars Te"
   ]
 }
