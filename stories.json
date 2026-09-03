@@ -41370,32 +41370,153 @@
       ],
       "original_url": "https://www.dw.com/en/unity-at-last-is-libya-s-damaging-power-struggle-at-an-end/a-78758325?maca=en-rss-en-all-1573-rdf",
       "guid": "https://www.dw.com/en/unity-at-last-is-libya-s-damaging-power-struggle-at-an-end/a-78758325?maca=en-rss-en-all-1573-rdf"
+    },
+    "cjr_92256e92": {
+      "id": "cjr_92256e92",
+      "title": "Why ABC Self-Censored",
+      "category": "News",
+      "source": "cjr",
+      "time": "2026-09-03T03:57:52",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://www.cjr.org/wp-content/uploads/2026/09/fcc-abc_2.jpg",
+      "content": "In a lawsuit filed by a group of ABC journalists, the network has admitted that it has altered its news coverage in response to government pressure. [1]\n\nThe admission is striking because it is the first time a major broadcast network has publicly acknowledged that external political forces have shaped its editorial decisions. The case also introduces an untested legal strategy that could reshape how media organizations defend against claims of censorship. [1]\n\nThe lawsuit alleges that ABC\u2019s editorial team, under directives from government officials, chose to downplay or omit stories that could be deemed critical of the administration. Court documents show that ABC acknowledged the influence of these directives in its internal communications. [1]\n\nABC, one of the largest U.S. broadcast networks, has a long history of investigative reporting and national news coverage. The network\u2019s reputation for independence has made the admission particularly noteworthy.\n\nSelf\u2011censorship has long been a concern for media outlets, especially during periods of heightened political scrutiny. Broadcasters often face pressure from regulators, advertisers, and political actors, which can influence editorial choices.\n\nLegally, the lawsuit represents an untested approach. Courts have rarely addressed internal editorial decisions as a matter of law, making this case a potential precedent for future disputes over media independence.\n\nStakeholders in the case include ABC employees, viewers who rely on the network for news, government agencies that may be involved in the alleged pressure, and press\u2011freedom advocates who monitor media independence.\n\nIf the court sides with the journalists, ABC could face increased scrutiny and may be required to implement reforms to safeguard editorial independence. The outcome could also prompt other networks to reassess their own editorial policies.\n\nThe case could set a precedent for how media organizations defend against claims of censorship, potentially influencing the legal framework for future disputes between broadcasters and government entities.\n\nThe next hearing in the case is scheduled, though the specific date has not yet been announced. The outcome will be closely watched by media professionals, regulators, and the public, as it may determine the future balance between government influence and journalistic autonomy.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Columbia Journalism Review",
+          "url": "https://www.cjr.org/analysis/why-abc-self-censored-disney-lawsuit-government-pressure-fcc-carr-kimmel-untested-legal-strategy.php"
+        }
+      ],
+      "original_url": "https://www.cjr.org/analysis/why-abc-self-censored-disney-lawsuit-government-pressure-fcc-carr-kimmel-untested-legal-strategy.php",
+      "guid": "https://www.cjr.org/?p=122287"
+    },
+    "fullfact_431230b3": {
+      "id": "fullfact_431230b3",
+      "title": "Fake footage of Nepal-Tibet flood circulates online",
+      "category": "News",
+      "source": "fullfact",
+      "time": "2026-09-03T03:58:01",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://fullfact.org/media/images/AFP__20260827__C6NC7GE__v1__HighR.040dc3d1.fill-1200x630.png",
+      "content": "An AI\u2011generated video purporting to show a recent flood on the Nepal\u2011Tibet border has circulated online. [1] The clip was shared on social media platforms, with users claiming it depicted the disaster that has affected the region.\n\nThe spread of such footage raises concerns about misinformation, especially in areas where accurate reporting is essential for disaster response. When unverified images or videos are taken at face value, they can distort public understanding of a crisis and impede relief efforts.\n\nThe video in question was posted online and circulated widely, with no verification of its authenticity. The claims accompanying the clip suggested that it captured the flood that has recently struck the border area. [1] No official confirmation or corroborating evidence has been provided.\n\nThe Nepal\u2011Tibet border region is prone to seasonal flooding, largely driven by monsoon rains that can swell rivers and cause landslides. Local communities in this area often rely on timely information to prepare for and respond to such events.\n\nArtificial intelligence has made it increasingly easy to create realistic video content that can be difficult to distinguish from genuine footage. These AI\u2011generated videos, often called deepfakes, can be produced with little technical expertise and shared rapidly across digital platforms.\n\nLocal residents, relief agencies, and government authorities depend on reliable information to coordinate aid and manage resources during floods. Misinformation that misrepresents the severity or location of a disaster can delay or misdirect assistance, potentially putting lives at risk.\n\nJournalists and fact\u2011checking organizations play a crucial role in verifying content before it is reported. By scrutinizing the provenance of videos and cross\u2011checking with official sources, they help prevent the spread of false narratives.\n\nIf the video is mistaken for genuine footage, it could influence public perception and policy decisions about flood management and resource allocation. The misrepresentation of a disaster\u2019s scope or impact might lead to misinformed priorities in future preparedness plans.\n\nThe incident underscores the need for improved detection tools and greater media literacy among the public. As AI technology advances, distinguishing authentic from fabricated content will become increasingly challenging without robust verification mechanisms.\n\nFact\u2011checking groups are currently investigating the origin of the video, examining metadata, and consulting experts in video forensics. Authorities in the region may issue statements to clarify the situation and provide accurate updates on the flood\u2019s status.\n\nIn the coming weeks, the focus will likely shift to determining the video\u2019s authenticity and assessing any potential impact on relief operations. The outcome of these investigations will inform how similar incidents are handled in the future.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Full Fact",
+          "url": "https://fullfact.org/world/fake-footage-nepal-tibet-flood/"
+        }
+      ],
+      "original_url": "https://fullfact.org/world/fake-footage-nepal-tibet-flood/",
+      "guid": "https://fullfact.org/world/fake-footage-nepal-tibet-flood/"
+    },
+    "nature_afddb44b": {
+      "id": "nature_afddb44b",
+      "title": "Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control",
+      "category": "Science",
+      "source": "nature",
+      "time": "2026-09-03T03:58:14",
+      "read": "3 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28148%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27628%27%20cy%3D%27273%27%20r%3D%27140%27%20fill%3D%27hsl%28188%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Nature published an author correction on 2\u202fSeptember\u202f2026 concerning a study on endocannabinoids and reward engagement. The correction appears in the online issue of the journal and cites the original article titled \u201cEndocannabinoids facilitate reward engagement through retrograde gain control.\u201d\u00b9\n\nThe notice signals the journal\u2019s commitment to maintaining an accurate scientific record. By publicly correcting errors, the authors and the publisher acknowledge that the original findings may have contained mistakes that could influence how the results are interpreted. This is particularly relevant for researchers in neuroscience and pharmacology who rely on precise data to guide experiments and therapeutic development.\n\nThe correction itself does not specify the nature of the errors in the brief notice. It simply indicates that the authors have identified inaccuracies in the published work and have issued a formal amendment. The original article, which appeared earlier in Nature, reported that endocannabinoids modulate reward circuits through a retrograde signaling mechanism that adjusts synaptic gain. The correction likely addresses issues such as data presentation, figure labeling, or statistical analysis, though the exact details are not disclosed in the brief statement.\n\nEndocannabinoids are lipid molecules produced by neurons that travel backward across the synapse to bind to cannabinoid receptors on presynaptic terminals. This retrograde signaling can inhibit the release of neurotransmitters, thereby modulating the strength of synaptic connections. In the context of reward processing, such modulation is thought to influence how strongly a brain region responds to rewarding stimuli.\n\nRetrograde gain control refers to the dynamic adjustment of synaptic efficacy mediated by endocannabinoids. By dampening or enhancing neurotransmitter release, these molecules can fine\u2011tune the responsiveness of neural circuits involved in motivation, pleasure, and reinforcement learning. The original study suggested that this mechanism plays a key role in how the brain engages with rewarding experiences.\n\nThe findings contributed to a growing body of literature that links the endocannabinoid system to addiction, mood regulation, and other neuropsychiatric conditions. Understanding the precise mechanisms of retrograde signaling could inform the design of drugs that target specific aspects of reward circuitry without producing widespread psychoactive effects.\n\nKey stakeholders include basic scientists studying synaptic physiology, clinicians exploring cannabinoid\u2011based interventions, pharmaceutical companies developing novel therapeutics, and patients with disorders of reward processing such as addiction or depression. All of these groups rely on the integrity of the underlying data to make informed decisions.\n\nThe correction may alter the interpretation of certain experimental results, potentially affecting ongoing research projects and drug development pipelines that have cited the original article. If the errors involve quantitative data or key figures, subsequent studies may need to re\u2011evaluate their hypotheses or experimental designs.\n\nWhile the correction does not overturn the central thesis that endocannabinoids influence reward engagement, it underscores the importance of meticulous data handling and transparent reporting. It also highlights that peer review, though rigorous, cannot catch every mistake, and post\u2011publication scrutiny remains essential.\n\nThe scientific community views corrections as a normal part of the self\u2011correcting nature of research. They help preserve trust in the literature and remind researchers that reproducibility and verification are ongoing responsibilities.\n\nResearchers who have cited the original article should update their references to include the correction and consider whether the amended data affect their own conclusions. Future investigations into endocannabinoid signaling may need to revisit the specific mechanisms described in the original study to ensure consistency with the corrected information.\n\nNature will link the correction to the original article in its online database, ensuring that anyone accessing the study will see the updated version and the accompanying notice. This linkage helps maintain a clear and transparent record for readers and future researchers.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Nature",
+          "url": "https://www.nature.com/articles/s41586-026-11104-3"
+        }
+      ],
+      "original_url": "https://www.nature.com/articles/s41586-026-11104-3",
+      "guid": "https://www.nature.com/articles/s41586-026-11104-3"
+    },
+    "economist_008f4da6": {
+      "id": "economist_008f4da6",
+      "title": "The Ukraine war is intensifying, expanding and stuck",
+      "category": "World",
+      "source": "economist",
+      "time": "2026-09-03T03:59:15",
+      "read": "3 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28332%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27492%27%20cy%3D%27316%27%20r%3D%27140%27%20fill%3D%27hsl%2812%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Sweden\u2019s assessment of the war in Ukraine has shifted from cautious support to a stark warning that the conflict is intensifying, expanding, and now appears stuck in a protracted stalemate, a view that signals the country\u2019s readiness for a long\u2011term confrontation with Russia. The Swedish government has described the situation as bleak, noting that the war\u2019s trajectory suggests a potential 50\u2011year struggle between the two nations.\u202f[1]\n\nThe implications of Sweden\u2019s stance are far\u2011reaching. As a key European ally of Ukraine, Sweden\u2019s perception of the war\u2019s trajectory informs its policy on military aid, sanctions, and defense cooperation. The country\u2019s readiness for a prolonged confrontation also reflects a broader shift in its security posture, moving away from a historically neutral stance toward a more active engagement in regional stability.\u202f[1]\n\nIn recent months, the fighting on the eastern front has escalated, with Russian forces pushing into new territories and Ukrainian units mounting counter\u2011offensives in the south. Despite these shifts, the front lines have largely stabilized, creating a frozen conflict zone that has persisted for over a year. Sweden\u2019s officials have highlighted that this stalemate, coupled with the expansion of the war\u2019s geographic scope, underscores the difficulty of achieving a swift resolution.\u202f[1]\n\nSweden\u2019s relationship with Ukraine has deepened since the 2022 Russian invasion. The country has supplied non\u2011lethal aid, intelligence, and humanitarian assistance, and has called for increased sanctions against Russia. Historically, Sweden maintained a policy of neutrality, but the war has prompted a reassessment of its defense strategy and international alliances.\u202f[1]\n\nThe war\u2019s intensification can be attributed to several factors. Russian military tactics have shifted toward attritional warfare, focusing on artillery and missile strikes to erode Ukrainian defenses. Ukrainian forces have leveraged international support to conduct counter\u2011offensives, but logistical challenges and supply constraints have limited their reach. The resulting stalemate has made the conflict a protracted engagement rather than a rapid campaign.\u202f[1]\n\nKey stakeholders in this dynamic include the governments of Ukraine and Russia, the Swedish parliament and defense establishment, the European Union, and NATO allies. Civilians on both sides bear the brunt of the conflict, while the global economy feels the ripple effects of sanctions and disrupted supply chains. Sweden\u2019s defense industry also stands to be impacted by increased demand for equipment and training.\u202f[1]\n\nThe impact on Sweden is multifaceted. The country has increased its defense budget, reallocated resources to support Ukraine, and engaged in public debates over the extent of its involvement. Politically, the war has galvanized support for stronger ties with NATO, even as Sweden remains formally outside the alliance. Public opinion has shifted toward greater acceptance of military aid, reflecting a broader consensus on the need to counter Russian aggression.\u202f[1]\n\nSweden\u2019s long\u2011term confrontation with Russia signals a potential realignment of European security architecture. The country\u2019s readiness for a 50\u2011year struggle suggests that it views the conflict as a catalyst for deeper integration with Western defense structures and a reevaluation of its neutrality policy. This shift could influence future policy decisions regarding collective defense and deterrence.\u202f[1]\n\nLooking ahead, several developments will shape the trajectory of the conflict and Sweden\u2019s role. The Swedish government is expected to finalize new defense procurement plans, potentially increasing the purchase of advanced weaponry for Ukraine. The European Union will continue to refine its sanctions regime against Russia, while NATO may expand its support to Ukraine through training and logistics. Additionally, diplomatic efforts to negotiate a ceasefire or peace settlement remain uncertain, with no clear timetable for resolution.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Economist",
+          "url": "https://www.economist.com/international/2026/09/01/the-ukraine-war-is-intensifying-expanding-and-stuck"
+        }
+      ],
+      "original_url": "https://www.economist.com/international/2026/09/01/the-ukraine-war-is-intensifying-expanding-and-stuck",
+      "guid": "9977578f-66e7-46cd-976d-7f7263650891"
+    },
+    "bbc_f8c19e06": {
+      "id": "bbc_f8c19e06",
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "category": "World",
+      "source": "bbc",
+      "time": "2026-09-03T03:59:33",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7003/live/d674cf10-a6ef-11f1-9e4c-79c1c0e340c6.jpg",
+      "content": "Saudi Arabia condemned an attack on its tanker *Sidr* in the Strait of Hormuz that killed two Filipino sailors. The incident, reported by Saudi officials, involved the vessel being struck by unknown projectiles on Monday, and the kingdom has identified the attack as Iranian. [1]\n\nThe event highlights the continuing volatility of shipping lanes in the Persian Gulf and the broader rivalry between Saudi Arabia and Iran. It underscores the risks commercial vessels face in a region where geopolitical tensions frequently spill over into maritime incidents. [1]\n\nAccording to Saudi authorities, the tanker *Sidr* was hit by projectiles while transiting the Strait of Hormuz on Monday. The impact caused casualties, including two Filipino crew members who lost their lives. The tanker was operating in a critical maritime corridor that sees a high volume of international traffic. [1]\n\nSaudi officials described the attack as an intentional targeting of the vessel, and they allege that Iran was responsible for the strike. While details of the incident remain unverified, the kingdom\u2019s statement points to a deliberate act rather than an accidental collision or navigational error. [1]\n\nThe Strait of Hormuz is a narrow waterway that connects the Persian Gulf to the Gulf of Oman and the Arabian Sea. It is a vital route for global oil shipments, carrying a significant portion of the world\u2019s petroleum exports. (General context)\n\nThe region has experienced periodic incidents involving shipping, often linked to geopolitical tensions between Iran and its regional rivals. These events have raised concerns about maritime security and the safety of commercial vessels operating in the area. (General context)\n\nThe tanker *Sidr* is a Saudi-owned vessel that operates in international waters. Its presence in the Strait of Hormuz places it within a high\u2011risk zone that has seen a number of attacks and near\u2011misses over the past decade. (General context)\n\nThe incident directly affected the crew of the *Sidr*, particularly the Filipino sailors who were killed. It also involves Saudi Arabia, which has a vested interest in protecting its maritime assets, and Iran, which Saudi officials allege was responsible. The incident may prompt diplomatic protests from Saudi Arabia to Iran and could lead to increased security measures for shipping in the Strait. (Analysis)\n\nThe attack raises concerns about the safety of commercial vessels in a region already fraught with tension. It may influence shipping companies\u2019 routing decisions and could affect the cost of insurance for vessels transiting the area. (Analysis)\n\nSaudi Arabia is likely to pursue an investigation into the incident and may seek international support for a broader review of maritime security in the Strait. The next steps will involve diplomatic channels and possibly coordination with international maritime authorities. (Speculation)",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o#0"
+    },
+    "bbc_ec95e66e": {
+      "id": "bbc_ec95e66e",
+      "title": "Flu vaccine rollout begins as NHS regroups from 'busiest summer'",
+      "category": "Health",
+      "source": "bbc",
+      "time": "2026-09-03T03:59:42",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d73b/live/cf577dd0-a2f9-11f1-8d5b-155abe464768.jpg",
+      "content": "The National Health Service has begun the annual flu vaccination campaign, a move that follows a particularly busy summer of health services.\u202f[1]\n\nThe start of the rollout is significant because influenza remains a leading cause of illness and hospitalisation each year, and the vaccine is the primary tool for reducing its impact. Public confidence in the vaccine and timely access are critical for protecting vulnerable groups and easing pressure on the health system.\n\nThe NHS has re\u2011organised its resources after a demanding summer period, allowing it to focus on the distribution of the new flu jab. The campaign now proceeds across the country, with clinics and pharmacies scheduled to administer doses to the public.\u202f[1]\n\nThis year\u2019s formulation includes several adjustments designed to improve protection against the strain that dominated last season, known as the Super\u2011K strain. The changes aim to enhance the vaccine\u2019s effectiveness against that particular virus.\u202f[1]\n\nFlu vaccines are updated annually to match the influenza strains that are most likely to circulate. Scientists analyse global surveillance data each year to select the strains that will be included in the next season\u2019s vaccine.\n\nThe NHS coordinates the national vaccination programme, managing the procurement, storage, and distribution of the jab to primary care practices, community pharmacies, and other vaccination sites. The programme also tracks coverage rates and monitors adverse events.\n\nKey recipients of the vaccine include older adults, people with chronic health conditions, pregnant women, and healthcare workers, all of whom are at higher risk of severe influenza complications. The NHS also offers the jab to the general public on a voluntary basis.\n\nHigher vaccination coverage is expected to reduce the number of influenza cases, hospital admissions, and related deaths. Early data from previous campaigns suggest that each additional percentage point of coverage can prevent a measurable number of severe outcomes.\n\nDespite the benefits, challenges remain. Vaccine hesitancy, driven by misinformation and mistrust, can limit uptake. Additionally, supply chain constraints sometimes affect the availability of doses, especially in remote or underserved areas.\n\nIf the updated vaccine performs as intended, it could provide stronger protection against the Super\u2011K strain, potentially lowering the overall burden of flu on the health system. This would also free up resources for other public health priorities during the winter months.\n\nHealth authorities will monitor vaccine effectiveness through surveillance of influenza activity and hospitalisation rates. The next few weeks will see the NHS assess coverage levels, identify any gaps in distribution, and adjust outreach efforts accordingly.\n\nThe commencement of the flu vaccination campaign marks a routine yet essential step in safeguarding public health during the upcoming winter season. Its success will depend on continued coordination, public engagement, and vigilant monitoring of vaccine performance.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o#0"
     }
   },
   "featured": {
-    "hero": "snopes_af1c661c",
+    "hero": "cjr_92256e92",
     "stack": [
-      "smh_7a8f4f1b",
-      "npr_aa2db330",
-      "aljazeera_e2b099c7"
+      "fullfact_431230b3",
+      "nature_afddb44b",
+      "economist_008f4da6"
     ],
     "latest": [
+      "economist_008f4da6",
+      "nature_afddb44b",
+      "fullfact_431230b3",
+      "snopes_af1c661c",
       "aljazeera_e2b099c7",
-      "npr_aa2db330",
-      "smh_7a8f4f1b",
-      "bbc_9c68e54e",
-      "npr_11056458",
-      "csmonitor_e9f4b65d"
+      "npr_aa2db330"
     ],
     "world": [
+      "economist_008f4da6",
+      "bbc_f8c19e06",
       "smh_7a8f4f1b",
-      "aljazeera_e2b099c7",
-      "dw_0cfdb6e4",
-      "csmonitor_e9f4b65d"
+      "aljazeera_e2b099c7"
     ]
   },
   "categoryIndex": {
     "News": [
+      "npr_11056458",
       "pbs_650c8037",
       "snopes_e73d92b9",
       "fullfact_aab1a1e7",
@@ -41404,20 +41525,19 @@
       "pbs_36a63781",
       "pbs_bc6e60b5",
       "pbs_715b5c13",
-      "snopes_bb775271",
-      "snopes_35e98fe6"
+      "snopes_bb775271"
     ],
     "World": [
+      "bbc_f8c19e06",
+      "smh_7a8f4f1b",
+      "csmonitor_e9f4b65d",
       "dw_0cfdb6e4",
       "irishtimes_36de12cb",
       "bangkokpost_4a8a39f4",
       "bbc_20720170",
       "bbc_ea18a2b3",
       "csmonitor_3a2c91a5",
-      "france24_b4889bff",
-      "csmonitor_a1a28f57",
-      "guardian_e330fced",
-      "dw_c630bbe0"
+      "france24_b4889bff"
     ],
     "Politics": [
       "guardian_95ea63e5",
@@ -41444,6 +41564,8 @@
       "googlenews_6aa521ed"
     ],
     "Health": [
+      "bbc_ec95e66e",
+      "bbc_9c68e54e",
       "googlenews_3c50c2a3",
       "guardian_a312dd20",
       "googlenews_f950b997",
@@ -41451,9 +41573,7 @@
       "googlenews_fc0d0922",
       "guardian_36b36f02",
       "bbc_1ffcb98a",
-      "googlenews_be7b75ed",
-      "googlenews_a8d40883",
-      "bbc_5e71431f"
+      "googlenews_be7b75ed"
     ],
     "Science": [
       "conversation_b7789df6",
@@ -41480,7 +41600,7 @@
       "googlenews_266e4a85"
     ]
   },
-  "breaking": "Sydney Swan Riley Bice \u2018not a suspect\u2019 in police sexual assault investigation - SMH.com.au",
+  "breaking": "The Ukraine war is intensifying, expanding and stuck",
   "events": [
     {
       "title": "'A giant leap forward': Nasa launches powerful new space telescope",
@@ -41494,9 +41614,9 @@
     }
   ],
   "mostRead": [
-    "Did Trump order weeping willows be cut down outside Kennedy Center?",
+    "Why ABC Self-Censored",
     "Did Trump cut down dozens of cherry trees for DC golf course renovations?",
-    "Sydney Swan Riley Bice \u2018not a suspect\u2019 in police sexual assault investigation - ",
-    "Andy Burnham pressed on borrowing costs and spending at first PMQs \u2013 UK politics"
+    "Did Trump order weeping willows be cut down outside Kennedy Center?",
+    "Fake footage of Nepal-Tibet flood circulates online"
   ]
 }
