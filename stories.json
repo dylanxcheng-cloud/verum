@@ -42050,28 +42050,48 @@
       ],
       "original_url": "https://www.theguardian.com/society/2026/sep/03/tell-us-have-you-given-up-on-trying-to-buy-your-first-home",
       "guid": "https://www.theguardian.com/society/2026/sep/03/tell-us-have-you-given-up-on-trying-to-buy-your-first-home"
+    },
+    "japantimes_40648c84": {
+      "id": "japantimes_40648c84",
+      "title": "Nepal floods ruin merchants, traders ahead of crucial festival season",
+      "category": "World",
+      "source": "japantimes",
+      "time": "2026-09-04T10:50:09",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/04/561293.jpg",
+      "content": "Ne\u202fpal\u2019s recent monsoon floods have devastated merchants and traders just before the country\u2019s peak festival season, threatening a critical period of economic activity.\u202f[1]\n\nThe timing of the disaster coincides with the September\u2011to\u2011November Hindu festival season, a period that traditionally sees a surge in consumer spending, making the impact particularly acute for businesses.\u202f[1]\n\nIn recent weeks, heavy monsoon rains triggered widespread flooding across several provinces in Nepal. The available reporting does not specify the extent of the damage or the number of businesses affected.\n\nThe festival season includes major celebrations such as Dashain and Tihar, during which households typically increase purchases of food, clothing, and household goods.\u202f[1]\n\nMerchants reported that the sudden loss of inventory and the closure of marketplaces have forced many to postpone sales and seek alternative venues. The available reporting does not specify the financial losses incurred.\n\nNe\u202fpal is prone to monsoon\u2011related flooding, especially in the Terai region, where heavy rainfall can cause rivers to overflow. The country\u2019s infrastructure, including roads and bridges, often suffers during such events, hampering the movement of goods.\n\nThe Hindu festival season is a cornerstone of Ne\u202fpal\u2019s economy. Retailers, spice traders, and textile merchants rely on the increased demand to recoup costs incurred during the leaner months. The surge in spending during this period is a key driver of seasonal employment and local income.\n\nThe floods have disrupted transportation routes that connect rural producers with urban markets.\n\nSmall\u2011scale merchants, who often operate from family\u2011owned stalls, are among the most vulnerable. Their limited financial reserves make it difficult to absorb losses or rebuild damaged infrastructure. Traders who import goods from neighboring countries also face increased shipping costs and uncertainty.\n\nThe government has announced emergency relief measures for affected communities, but the available reporting does not detail the scope or funding of these initiatives. Local NGOs have mobilized",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/09/04/asia-pacific/society/nepal-floods-merchants-traders-festival/"
+        }
+      ],
+      "original_url": "https://www.japantimes.co.jp/news/2026/09/04/asia-pacific/society/nepal-floods-merchants-traders-festival/",
+      "guid": "https://www.japantimes.co.jp/article/646123/"
     }
   },
   "featured": {
-    "hero": "berkeleyuniv_12cd7d67",
+    "hero": "japantimes_40648c84",
     "stack": [
-      "aljazeera_1b41fbb5",
-      "nature_fc38c3fc",
-      "dw_24cce5fc"
+      "berkeleyuniv_12cd7d67",
+      "dw_24cce5fc",
+      "nature_fc38c3fc"
     ],
     "latest": [
+      "berkeleyuniv_12cd7d67",
       "dw_24cce5fc",
       "nature_fc38c3fc",
       "aljazeera_1b41fbb5",
       "npr_7c17dda4",
-      "bbc_50fe5a03",
-      "npr_065307da"
+      "bbc_50fe5a03"
     ],
     "world": [
+      "japantimes_40648c84",
       "aljazeera_1b41fbb5",
       "dw_24cce5fc",
-      "bangkokpost_17cf2695",
-      "bangkokpost_f4af2182"
+      "bangkokpost_17cf2695"
     ]
   },
   "categoryIndex": {
@@ -42136,6 +42156,7 @@
       "googlenews_fc0d0922"
     ],
     "Science": [
+      "npr_065307da",
       "npr_f3633864",
       "berkeleyuniv_b81f94da",
       "nasa_a9da9e53",
@@ -42144,8 +42165,7 @@
       "conversation_5cbbab7a",
       "conversation_287b7707",
       "nature_bf93c7ac",
-      "bbc_27355323",
-      "guardian_be9ae749"
+      "bbc_27355323"
     ],
     "Business": [
       "googlenews_54bf970a",
@@ -42160,7 +42180,7 @@
       "googlenews_266e4a85"
     ]
   },
-  "breaking": "\u2018Build The Wall\u2019: White House arcade games face backlash",
+  "breaking": "Nepal floods ruin merchants, traders ahead of crucial festival season",
   "events": [
     {
       "title": "'A giant leap forward': Nasa launches powerful new space telescope",
@@ -42174,9 +42194,8 @@
     }
   ],
   "mostRead": [
-    "Watch: UC Berkeley professor calls for a halt to AI weapons",
     "\u2018Build The Wall\u2019: White House arcade games face backlash",
-    "Burnham and Macron discuss small boats and bringing UK closer to Europe",
-    "Leading medical groups update flu, COVID vaccine recommendations amid confusion "
+    "Watch: UC Berkeley professor calls for a halt to AI weapons",
+    "Nepal floods ruin merchants, traders ahead of crucial festival season"
   ]
 }
