@@ -79,8 +79,17 @@ export default function SearchPage() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    Promise.allSettled([loadStories(), loadRecordationem()]).then(([s, r]) => {
-      if (s.status === 'fulfilled') setStories(Object.values(s.value.stories || {}));
+    // Search spans the full corpus: the live file plus the on-demand archive
+    // (older stories rolled out of stories.json to keep the home page fast).
+    // The archive is optional — if it 404s, search just covers the live set.
+    const loadArchive = fetch('stories-archive.json')
+      .then((res) => (res.ok ? res.json() : null))
+      .catch(() => null);
+    Promise.allSettled([loadStories(), loadRecordationem(), loadArchive]).then(([s, r, a]) => {
+      const live = s.status === 'fulfilled' ? s.value.stories || {} : {};
+      const archived = a.status === 'fulfilled' && a.value ? a.value.stories || {} : {};
+      // Merge with live taking precedence over any archived duplicate.
+      setStories(Object.values({ ...archived, ...live }));
       if (r.status === 'fulfilled') setRec(r.value);
       setLoading(false);
     });
