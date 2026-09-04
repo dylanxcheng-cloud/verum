@@ -463,15 +463,77 @@ def fetch_og_image(url):
     return None
 
 
+# Words that make bad Wikipedia lookups (too generic → wrong/disambiguation page).
+_WIKI_SKIP = {
+    'news', 'update', 'live', 'video', 'photos', 'opinion', 'analysis', 'report',
+    'world', 'business', 'politics', 'health', 'science', 'sports', 'week', 'day',
+    'government', 'president', 'minister', 'police', 'court', 'study', 'people',
+}
+
+
+def _wiki_entity_candidates(title, summary):
+    """Ordered Wikipedia page-title guesses from a story's named entities.
+
+    Multi-word proper phrases first (e.g. 'European Union', 'Taylor Swift'),
+    then standalone capitalized proper nouns. These map most reliably to a real
+    Wikipedia article with a lead image.
+    """
+    kws = extract_keywords(title, max_keywords=6) + extract_keywords(summary, max_keywords=4)
+    phrases, singles, seen = [], [], set()
+    for k in kws:
+        kl = k.lower().strip()
+        if not kl or kl in seen or kl in _WIKI_SKIP:
+            continue
+        seen.add(kl)
+        if ' ' in k:
+            phrases.append(k.strip())
+        elif k[:1].isupper() and len(k) > 3:
+            singles.append(k.strip())
+    return phrases + singles
+
+
+def fetch_wikipedia_image(title, summary):
+    """Keyless topic image: the lead photo of the story's main entity on Wikipedia.
+
+    Uses the public REST summary endpoint (no API key). Skips disambiguation
+    pages and only returns a genuine article image, so it stays topic-relevant.
+    Fully guarded — returns None on any error so the chain falls through to the
+    placeholder. This is what gives most stories a real image WITHOUT an
+    Unsplash key.
+    """
+    from urllib.parse import quote
+    for entity in _wiki_entity_candidates(title, summary)[:4]:
+        slug = quote(entity.replace(' ', '_'), safe='')
+        url = f"https://en.wikipedia.org/api/rest_v1/page/summary/{slug}"
+        try:
+            res = requests.get(url, headers=FEED_HEADERS, timeout=10)
+            if res.status_code != 200:
+                continue
+            data = res.json()
+        except Exception as e:  # noqa: BLE001 — offline / bad title is fine
+            log.debug(f"Wikipedia lookup failed for '{entity}': {e}")
+            continue
+        # Skip disambiguation / non-article results — they have no real subject.
+        if data.get('type') not in (None, 'standard'):
+            continue
+        img = (data.get('originalimage') or {}).get('source') \
+            or (data.get('thumbnail') or {}).get('source')
+        if img and _looks_like_image(img):
+            return img, entity
+    return None, None
+
+
 def get_image_for_story(item):
     """Find the best REAL image for a story, best quality first:
 
       1. the image the RSS feed already carries  (topic-exact, no network)
       2. the article page's own og:image          (one network fetch)
-      3. an Unsplash keyword match                (needs UNSPLASH_API_KEY)
-      4. a generated SVG placeholder              (last resort only)
+      3. the main entity's Wikipedia lead photo    (keyless, topic-relevant)
+      4. an Unsplash keyword match                (needs UNSPLASH_API_KEY)
+      5. a generated SVG placeholder              (last resort only)
     """
     story_id, title = item['id'], item['title']
+    summary = item.get('summary', '')
 
     feed_img = item.get('feed_image')
     if feed_img and _looks_like_image(feed_img):
@@ -483,14 +545,19 @@ def get_image_for_story(item):
         log.info("  → Image: article og:image")
         return og
 
-    specific, fallback = construct_search_queries(title, item.get('summary', ''), item.get('category', 'news'))
+    wiki_img, entity = fetch_wikipedia_image(title, summary)
+    if wiki_img:
+        log.info(f"  → Image: Wikipedia ('{entity}')")
+        return wiki_img
+
+    specific, fallback = construct_search_queries(title, summary, item.get('category', 'news'))
     for query in specific[:IMAGE_SEARCH_LIMIT] + fallback:
         img_url = fetch_image_from_unsplash(query, per_page=5)
         if img_url:
             log.info(f"  → Image: Unsplash ('{query}')")
             return img_url
 
-    log.warning("  → Image: SVG placeholder (no feed image / og:image / Unsplash result)")
+    log.warning("  → Image: SVG placeholder (no feed / og:image / Wikipedia / Unsplash result)")
     return generate_placeholder_url(story_id, title)
 # ── SANITIZATION ──────────────────────────────────────────────────────────────
 
