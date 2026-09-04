@@ -734,6 +734,28 @@ def build_narrative(cluster, title, m, category="Developing Stories", entities=N
     }
 
 
+def _extract_json_object(raw):
+    """Pull the JSON object out of an LLM reply.
+
+    Handles reasoning-model output that may wrap the JSON in prose or a
+    ```json code fence. Raises ValueError if nothing JSON-like is present, so
+    the caller degrades to the extractive fallback.
+    """
+    if not raw:
+        raise ValueError("empty LLM response")
+    text = raw.strip()
+    # Strip a leading/trailing markdown code fence if present.
+    fence = re.search(r"```(?:json)?\s*(\{.*?\})\s*```", text, re.S)
+    if fence:
+        return fence.group(1)
+    # Otherwise take the outermost { ... } span.
+    start = text.find("{")
+    end = text.rfind("}")
+    if start == -1 or end == -1 or end <= start:
+        raise ValueError("no JSON object found in LLM response")
+    return text[start:end + 1]
+
+
 def _try_llm_narrative(title, earliest, latest, metrics, category="Developing Stories",
                        entities=None, status="Active"):
     """Best-effort LLM narrative. Returns None if no key / any failure.
@@ -785,6 +807,14 @@ def _try_llm_narrative(title, earliest, latest, metrics, category="Developing St
         f"LATEST ({latest.get('time')}): {latest['title']}. "
         f"{(latest.get('content') or '')[:800]}\n"
     )
+    # Ask for JSON in the prompt itself rather than using Groq's strict
+    # response_format={"type":"json_object"} mode: the gpt-oss reasoning models
+    # frequently fail that server-side validator (returning an empty
+    # failed_generation), which forced every topic onto the extractive fallback.
+    # We extract the JSON object from the reply ourselves below, which is robust
+    # across Groq and Gemini.
+    prompt += ('\n\nRespond with ONLY the JSON object — no preamble, no '
+               'explanation, no markdown code fences.')
     try:
         if groq_key:
             from groq import Groq
@@ -793,8 +823,7 @@ def _try_llm_narrative(title, earliest, latest, metrics, category="Developing St
                 model=GROQ_MODEL,
                 messages=[{"role": "user", "content": prompt}],
                 temperature=0.4,
-                max_tokens=1200,
-                response_format={"type": "json_object"},
+                max_tokens=2000,
             )
             raw = resp.choices[0].message.content
         else:
@@ -802,7 +831,11 @@ def _try_llm_narrative(title, earliest, latest, metrics, category="Developing St
             genai.configure(api_key=gemini_key)
             model = genai.GenerativeModel("gemini-1.5-flash")
             raw = model.generate_content(prompt).text
-        data = json.loads(re.search(r"\{.*\}", raw, re.S).group(0))
+        data = json.loads(_extract_json_object(raw))
+        if not isinstance(data, dict) or not any(
+                data.get(k) for k in ("whyStillImportant", "whatHappened",
+                                      "whatIsHappeningNow", "whatChanged")):
+            raise ValueError("LLM returned no usable narrative sections")
         data["generatedBy"] = "ai"
         return data
     except Exception as e:  # noqa: BLE001 — degrade gracefully
