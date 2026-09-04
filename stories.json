@@ -42070,22 +42070,42 @@
       ],
       "original_url": "https://www.japantimes.co.jp/news/2026/09/04/asia-pacific/society/nepal-floods-merchants-traders-festival/",
       "guid": "https://www.japantimes.co.jp/article/646123/"
+    },
+    "bbc_7125aebb": {
+      "id": "bbc_7125aebb",
+      "title": "Two Reform officials step down after undercover donations report",
+      "category": "Politics",
+      "source": "bbc",
+      "time": "2026-09-04T11:00:00",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5fa/live/438f7380-a82f-11f1-b109-879e35c24276.jpg",
+      "content": "Dan Jukes and James\u202fOrr have stepped down from their positions at Reform after a recent investigative report alleged that the organization had received undercover donations. Reform said it was launching an inquiry into the claims. The report, which was published earlier this week, accused the group of accepting money from donors who concealed their identities. [1]\n\nThe resignations come as Reform\u2019s leadership faces scrutiny over how it handles campaign\u2011finance contributions. The organization, which has long been involved in monitoring political donations, is now under pressure to explain whether the alleged donations violated disclosure rules. [1]\n\nAccording to Reform\u2019s statement, Jukes and Orr left their roles voluntarily as the organization began its internal review. The statement did not specify whether the departures were a direct result of the report or a broader decision to restructure. [1]\n\nThe investigative piece, released by an independent media outlet, detailed a series of transactions that the reporters say were made through shell accounts and anonymous donors. The report claims that these contributions were routed to Reform in ways that bypassed standard reporting requirements. [1]\n\nReform\u2019s investigation will examine the financial records and the chain of custody for the alleged donations. The organization said it would cooperate fully with any external regulators and would make its findings public once the review is complete. [1]\n\nThe allegations touch on a broader issue of \u201cundercover\u201d or \u201cdark money\u201d in politics, where donors use intermediaries or false identities to conceal their support for a cause. Such practices are prohibited under federal campaign\u2011finance law, which requires donors to disclose their identities and the amounts they contribute. [1]\n\nStakeholders include donors who may have been implicated, as well as the broader political community that relies on transparent funding disclosures. If the investigation confirms the allegations, Reform could face legal penalties and a loss of credibility among its supporters. [1]\n\nThe implications of the report extend beyond Reform. A finding that the organization accepted undisclosed contributions could prompt a review of other political groups\u2019 compliance with disclosure rules. It could also influence public trust in the integrity of campaign\u2011finance oversight. [1]\n\nReform has not yet set a timetable for the investigation\u2019s completion, nor has it announced whether it will involve external auditors or regulatory agencies. The next public update is expected in the coming weeks, when the organization will likely release a detailed report on its findings and any corrective actions taken. [1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c86xj5z7x61o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/c86xj5z7x61o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c86xj5z7x61o#0"
     }
   },
   "featured": {
-    "hero": "japantimes_40648c84",
+    "hero": "bbc_7125aebb",
     "stack": [
+      "japantimes_40648c84",
       "berkeleyuniv_12cd7d67",
-      "dw_24cce5fc",
-      "nature_fc38c3fc"
+      "dw_24cce5fc"
     ],
     "latest": [
+      "japantimes_40648c84",
       "berkeleyuniv_12cd7d67",
       "dw_24cce5fc",
       "nature_fc38c3fc",
       "aljazeera_1b41fbb5",
-      "npr_7c17dda4",
-      "bbc_50fe5a03"
+      "npr_7c17dda4"
     ],
     "world": [
       "japantimes_40648c84",
@@ -42156,6 +42176,7 @@
       "googlenews_fc0d0922"
     ],
     "Science": [
+      "bbc_50fe5a03",
       "npr_065307da",
       "npr_f3633864",
       "berkeleyuniv_b81f94da",
@@ -42164,8 +42185,7 @@
       "conversation_b7789df6",
       "conversation_5cbbab7a",
       "conversation_287b7707",
-      "nature_bf93c7ac",
-      "bbc_27355323"
+      "nature_bf93c7ac"
     ],
     "Business": [
       "googlenews_54bf970a",
@@ -42180,7 +42200,7 @@
       "googlenews_266e4a85"
     ]
   },
-  "breaking": "Nepal floods ruin merchants, traders ahead of crucial festival season",
+  "breaking": "Two Reform officials step down after undercover donations report",
   "events": [
     {
       "title": "'A giant leap forward': Nasa launches powerful new space telescope",
@@ -42194,8 +42214,8 @@
     }
   ],
   "mostRead": [
-    "\u2018Build The Wall\u2019: White House arcade games face backlash",
     "Watch: UC Berkeley professor calls for a halt to AI weapons",
-    "Nepal floods ruin merchants, traders ahead of crucial festival season"
+    "\u2018Build The Wall\u2019: White House arcade games face backlash",
+    "Two Reform officials step down after undercover donations report"
   ]
 }
