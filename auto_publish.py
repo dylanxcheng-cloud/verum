@@ -12,6 +12,7 @@ import os
 import re
 import sys
 import json
+import collections
 import time
 import hashlib
 import logging
@@ -1451,6 +1452,51 @@ def deploy_to_netlify(data, remote_name='stories.json'):
 
     return False
 
+def _classify_image(url):
+    """Bucket a story image URL by where it came from, for the run summary."""
+    u = (url or '').lower()
+    if not u or u.startswith('data:'):
+        return 'placeholder'
+    if 'wikipedia.org' in u or 'wikimedia.org' in u:
+        return 'wikipedia'
+    if 'unsplash.' in u:
+        return 'unsplash'
+    if u.startswith('http'):
+        return 'feed/og'
+    return 'placeholder'
+
+
+def log_run_summary(new_stories, recordationem_payload):
+    """One glance-able health report at the end of a run.
+
+    Surfaces the three things that have silently degraded before — the LLM,
+    images, and Recordationem — so a bad run is obvious in the log instead of
+    hiding behind a green checkmark.
+    """
+    n = len(new_stories)
+    img = collections.Counter(_classify_image(s.get('image')) for s in new_stories)
+    real = img['feed/og'] + img['wikipedia'] + img['unsplash']
+    rec_n = len(recordationem_payload.get('stories', [])) if recordationem_payload else 0
+
+    log.info("─" * 60)
+    log.info("RUN SUMMARY")
+    log.info(f"  Stories added : {n}")
+    log.info(f"  LLM articles  : {metrics.articles_generated} written "
+             f"({metrics.groq_calls} Groq, {metrics.gemini_calls} Gemini), "
+             f"{metrics.articles_skipped} skipped")
+    if n:
+        log.info(f"  Images        : {real}/{n} real "
+                 f"(feed/og {img['feed/og']}, Wikipedia {img['wikipedia']}, "
+                 f"Unsplash {img['unsplash']}) · {img['placeholder']} placeholder")
+        if img['placeholder'] > n / 2:
+            log.warning("  ⚠ Over half of new stories fell back to a placeholder "
+                        "image — check feed/og reachability or set UNSPLASH_API_KEY.")
+    log.info(f"  Recordationem : {rec_n} topics surfaced")
+    if not GROQ_API_KEY and not GEMINI_API_KEY:
+        log.warning("  ⚠ No LLM key configured — articles are RSS summaries, not rewrites.")
+    log.info("─" * 60)
+
+
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -1598,11 +1644,12 @@ def main():
         log.warning(f"Recordationem discovery skipped: {e}")
 
     # Deploy
-   
+
     log.info("=" * 60)
     log.info(f"DONE — {len(new_stories)} new stories published")
     log.info("=" * 60)
-    metrics.report() 
+    log_run_summary(new_stories, recordationem_payload)
+    metrics.report()
  # Deploy (unless --no-deploy)
     if ARGS.deploy:
         deploy_to_netlify(data)
