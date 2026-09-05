@@ -330,8 +330,20 @@ function ArticlePage({ storyId }) {
     }
 
     loadStories()
-      .then(data => {
-        const found = data.stories[storyId];
+      .then(async data => {
+        let found = data.stories[storyId];
+        // Older stories live in stories-archive.json, not the small live file.
+        // Fetch it only when the id isn't in the live set (keeps normal
+        // article loads fast). Guarded — a missing archive just means not found.
+        if (!found) {
+          try {
+            const res = await fetch('stories-archive.json');
+            if (res.ok) {
+              const arch = await res.json();
+              found = (arch.stories || {})[storyId];
+            }
+          } catch (e) { /* no archive available — fall through to not found */ }
+        }
         if (!found) throw new Error(`Story not found`);
         setStory(found);
         document.title = `${found.title} — Verum`;

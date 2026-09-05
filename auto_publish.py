@@ -12,6 +12,7 @@ import os
 import re
 import sys
 import json
+import collections
 import time
 import hashlib
 import logging
@@ -78,6 +79,12 @@ NETLIFY_AUTH_TOKEN = os.environ.get('NETLIFY_AUTH_TOKEN')
 NETLIFY_SITE_ID    = os.environ.get('NETLIFY_SITE_ID')
 UNSPLASH_API_KEY   = os.environ.get('UNSPLASH_API_KEY')  # Optional
 STORIES_FILE       = 'stories.json'
+ARCHIVE_FILE       = 'stories-archive.json'
+# Keep only the newest MAX_LIVE_STORIES in stories.json (what the homepage,
+# categories and article pages download); older stories roll into
+# stories-archive.json, which Search and old permalinks load on demand. This
+# keeps the front page fast as the corpus grows. Set very high to disable.
+MAX_LIVE_STORIES   = int(os.environ.get('MAX_LIVE_STORIES') or '800')
 MAX_NEW_STORIES    = ARGS.limit
 
 def _require_runtime_env():
@@ -1221,6 +1228,96 @@ def inject_new_stories(data, new_stories):
     data['categoryIndex'] = cat_index
     return data
 
+def _story_time(s):
+    return s.get('time') or s.get('publishedAt') or ''
+
+
+def _referenced_story_keys(data):
+    """Every id OR title the homepage structure points at (hero, latest, stack,
+    world, category banks, breaking, events, most-read). A story matching any of
+    these must never be archived out of stories.json, or the front end would
+    show a dangling reference. Titles are included because some sections (e.g.
+    mostRead) reference stories by title rather than id."""
+    refs = set()
+
+    def add(v):
+        if isinstance(v, str):
+            refs.add(v)
+        elif isinstance(v, dict):
+            for k in ('id', 'title', 'storyId'):
+                if v.get(k):
+                    refs.add(v[k])
+
+    featured = data.get('featured', {}) or {}
+    add(featured.get('hero'))
+    for key in ('latest', 'stack', 'world'):
+        for v in featured.get(key, []) or []:
+            add(v)
+    for bank in (data.get('categoryIndex', {}) or {}).values():
+        for v in bank or []:
+            add(v)
+    add(data.get('breaking'))
+    for ev in data.get('events', []) or []:
+        add(ev.get('storyId') if isinstance(ev, dict) else ev)
+    for v in data.get('mostRead', []) or []:
+        add(v)
+    return refs
+
+
+def load_archive():
+    """Load stories-archive.json, or an empty archive if it doesn't exist yet."""
+    try:
+        with open(ARCHIVE_FILE) as f:
+            arch = json.load(f)
+        arch.setdefault('stories', {})
+        return arch
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {'stories': {}}
+
+
+def prune_and_archive(data):
+    """Split the corpus into a small live file and a growing archive.
+
+    Keeps the newest MAX_LIVE_STORIES (plus any story still referenced by the
+    homepage structure) in `data['stories']`; moves the rest into
+    stories-archive.json. Returns (archive, full_corpus) where full_corpus is
+    live+archived stories merged, so Recordationem can still scan the whole
+    history to find faded topics. `data` is mutated in place (pruned).
+    """
+    stories = data.get('stories', {})
+    archive = load_archive()
+
+    if len(stories) <= MAX_LIVE_STORIES:
+        full = {**archive['stories'], **stories}
+        return archive, full
+
+    refs = _referenced_story_keys(data)
+    keep_ids = set()
+    ordered = sorted(stories.items(), key=lambda kv: _story_time(kv[1]), reverse=True)
+    for i, (sid, _s) in enumerate(ordered):
+        if i < MAX_LIVE_STORIES:
+            keep_ids.add(sid)
+
+    keep, moved = {}, {}
+    for sid, s in stories.items():
+        # Keep if it's recent, or the homepage references it by id or by title.
+        if sid in keep_ids or sid in refs or s.get('title') in refs:
+            keep[sid] = s
+        else:
+            moved[sid] = s
+
+    if moved:
+        archive['stories'].update(moved)
+        archive['updatedAt'] = datetime.now(timezone.utc).isoformat()
+        archive['count'] = len(archive['stories'])
+        log.info(f"Archived {len(moved)} older stories → {ARCHIVE_FILE} "
+                 f"({len(keep)} kept live, {archive['count']} archived total)")
+
+    data['stories'] = keep
+    full = {**archive['stories'], **keep}
+    return archive, full
+
+
 def _add_to_category(cat_index, stories, sid):
     """Add a story ID to its category index, capped at 10."""
     story = stories.get(sid, {})
@@ -1451,6 +1548,51 @@ def deploy_to_netlify(data, remote_name='stories.json'):
 
     return False
 
+def _classify_image(url):
+    """Bucket a story image URL by where it came from, for the run summary."""
+    u = (url or '').lower()
+    if not u or u.startswith('data:'):
+        return 'placeholder'
+    if 'wikipedia.org' in u or 'wikimedia.org' in u:
+        return 'wikipedia'
+    if 'unsplash.' in u:
+        return 'unsplash'
+    if u.startswith('http'):
+        return 'feed/og'
+    return 'placeholder'
+
+
+def log_run_summary(new_stories, recordationem_payload):
+    """One glance-able health report at the end of a run.
+
+    Surfaces the three things that have silently degraded before — the LLM,
+    images, and Recordationem — so a bad run is obvious in the log instead of
+    hiding behind a green checkmark.
+    """
+    n = len(new_stories)
+    img = collections.Counter(_classify_image(s.get('image')) for s in new_stories)
+    real = img['feed/og'] + img['wikipedia'] + img['unsplash']
+    rec_n = len(recordationem_payload.get('stories', [])) if recordationem_payload else 0
+
+    log.info("─" * 60)
+    log.info("RUN SUMMARY")
+    log.info(f"  Stories added : {n}")
+    log.info(f"  LLM articles  : {metrics.articles_generated} written "
+             f"({metrics.groq_calls} Groq, {metrics.gemini_calls} Gemini), "
+             f"{metrics.articles_skipped} skipped")
+    if n:
+        log.info(f"  Images        : {real}/{n} real "
+                 f"(feed/og {img['feed/og']}, Wikipedia {img['wikipedia']}, "
+                 f"Unsplash {img['unsplash']}) · {img['placeholder']} placeholder")
+        if img['placeholder'] > n / 2:
+            log.warning("  ⚠ Over half of new stories fell back to a placeholder "
+                        "image — check feed/og reachability or set UNSPLASH_API_KEY.")
+    log.info(f"  Recordationem : {rec_n} topics surfaced")
+    if not GROQ_API_KEY and not GEMINI_API_KEY:
+        log.warning("  ⚠ No LLM key configured — articles are RSS summaries, not rewrites.")
+    log.info("─" * 60)
+
+
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -1582,30 +1724,42 @@ def main():
         log.info(f"Would have published {len(new_stories)} stories")
         return
 
+    # Keep the live file small: newest MAX_LIVE_STORIES stay in stories.json;
+    # older ones roll into stories-archive.json. `full_corpus` is the merged
+    # live+archived set, used only for Recordationem discovery below.
+    archive, full_corpus = prune_and_archive(data)
+
     # Save locally
     with open(STORIES_FILE, 'w') as f:
         json.dump(data, f, indent=2)
-    log.info(f"✓ {STORIES_FILE} saved")
+    log.info(f"✓ {STORIES_FILE} saved ({len(data.get('stories', {}))} live stories)")
 
-    # Rebuild the Recordationem section from the refreshed corpus. The discovery
-    # engine is dynamic — it re-scans every story each run, so faded-but-still-
-    # relevant topics surface automatically without any manual curation.
+    with open(ARCHIVE_FILE, 'w') as f:
+        json.dump(archive, f, indent=2)
+    log.info(f"✓ {ARCHIVE_FILE} saved ({len(archive.get('stories', {}))} archived stories)")
+
+    # Rebuild the Recordationem section from the FULL corpus (live + archive).
+    # The discovery engine is dynamic — it re-scans every story each run, so
+    # faded-but-still-relevant topics surface automatically. It must see the
+    # whole history, not just the pruned live file, to measure coverage decay.
     recordationem_payload = None
     try:
         import recordationem
-        recordationem_payload = recordationem.run(data)
+        recordationem_payload = recordationem.run({**data, 'stories': full_corpus})
     except Exception as e:  # noqa: BLE001 — never let Recordationem block a publish
         log.warning(f"Recordationem discovery skipped: {e}")
 
     # Deploy
-   
+
     log.info("=" * 60)
     log.info(f"DONE — {len(new_stories)} new stories published")
     log.info("=" * 60)
-    metrics.report() 
+    log_run_summary(new_stories, recordationem_payload)
+    metrics.report()
  # Deploy (unless --no-deploy)
     if ARGS.deploy:
         deploy_to_netlify(data)
+        deploy_to_netlify(archive, remote_name='stories-archive.json')
         if recordationem_payload is not None:
             deploy_to_netlify(recordationem_payload, remote_name='recordationem.json')
     else:
