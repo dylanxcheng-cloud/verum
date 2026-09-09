@@ -87,3 +87,70 @@ export const RECORDATIONEM_STORY_URL = (idOrSlug) =>
   `/recordationem-story.html?id=${encodeURIComponent(idOrSlug)}`;
 
 export const RECORDATIONEM_URL_PATH = '/recordationem.html';
+
+/** Map a source slug (as stored on each article) to a readable outlet name. */
+export const SOURCE_LABELS = {
+  bbc: 'BBC News',
+  guardian: 'The Guardian',
+  npr: 'NPR',
+  googlenews: 'Google News',
+  aljazeera: 'Al Jazeera',
+  japantimes: 'The Japan Times',
+  snopes: 'Snopes',
+  nature: 'Nature',
+  abcau: 'ABC News (Australia)',
+  straitstimes: 'The Straits Times',
+  berkeleyuniv: 'UC Berkeley News',
+  conversation: 'The Conversation',
+  ap: 'Associated Press',
+  france24: 'France 24',
+  smh: 'Sydney Morning Herald',
+  reuters: 'Reuters',
+  irishtimes: 'The Irish Times',
+  cjr: 'Columbia Journalism Review',
+  fullfact: 'Full Fact',
+  bangkokpost: 'Bangkok Post',
+  cna: 'CNA (Singapore)',
+  nasa: 'NASA',
+  economist: 'The Economist',
+  dw: 'Deutsche Welle',
+  pbs: 'PBS NewsHour',
+  csmonitor: 'Christian Science Monitor',
+  afp: 'AFP',
+  marketwatch: 'MarketWatch',
+  espn: 'ESPN',
+  verum: 'Verum',
+};
+
+/** Readable outlet name for a source slug, falling back to a title-cased slug. */
+export function sourceLabel(slug) {
+  if (!slug) return 'Source';
+  if (SOURCE_LABELS[slug]) return SOURCE_LABELS[slug];
+  return String(slug)
+    .replace(/[-_]+/g, ' ')
+    .replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
+/**
+ * Collapse a topic's article list (its `updates`) into a per-outlet source
+ * directory for "further research": one entry per outlet, each carrying every
+ * article from that outlet with its outbound link. Sorted by article count,
+ * then outlet name.
+ */
+export function sourcesByOutlet(updates) {
+  const byOutlet = new Map();
+  for (const u of updates || []) {
+    const slug = u.source || 'source';
+    if (!byOutlet.has(slug)) {
+      byOutlet.set(slug, { slug, label: u.sourceLabel || sourceLabel(slug), articles: [] });
+    }
+    byOutlet.get(slug).articles.push(u);
+  }
+  const out = [...byOutlet.values()];
+  for (const o of out) {
+    o.count = o.articles.length;
+    o.articles.sort((a, b) => new Date(b.date) - new Date(a.date));
+  }
+  out.sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+  return out;
+}

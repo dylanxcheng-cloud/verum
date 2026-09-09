@@ -19,6 +19,8 @@ import {
   importanceClass,
   statusClass,
   formatDecline,
+  sourceLabel,
+  sourcesByOutlet,
 } from '../utils/recordationem';
 
 function getParam(name) {
@@ -131,6 +133,74 @@ const UpdateRow = memo(function UpdateRow({ u }) {
   );
 });
 
+// A single source article link inside the outlet directory.
+const SourceLink = memo(function SourceLink({ a }) {
+  const external = a.url && /^https?:\/\//.test(a.url);
+  const label = a.title || 'Untitled report';
+  const meta = (
+    <span className="rec-srclink-meta">
+      {a.date ? timeAgo(a.date) : ''}
+      {external ? ' · read at source ↗' : a.storyId ? ' · read on Verum' : ''}
+    </span>
+  );
+  if (external) {
+    return (
+      <a className="rec-srclink" href={a.url} target="_blank" rel="noopener noreferrer">
+        <span className="rec-srclink-title">{label}</span>
+        {meta}
+      </a>
+    );
+  }
+  return a.storyId ? (
+    <a className="rec-srclink" href={`/article.html?id=${encodeURIComponent(a.storyId)}`}>
+      <span className="rec-srclink-title">{label}</span>
+      {meta}
+    </a>
+  ) : (
+    <div className="rec-srclink rec-srclink--plain">
+      <span className="rec-srclink-title">{label}</span>
+      {meta}
+    </div>
+  );
+});
+
+/**
+ * "Sources & Further Reading" — a directory of every outlet that reported the
+ * topic, each expandable to its individual articles with outbound links. Built
+ * entirely from the topic's tracked articles, so a reader can follow any source
+ * to the original reporting for deeper research.
+ */
+const SourcesSection = memo(function SourcesSection({ outlets, totalArticles }) {
+  if (!outlets.length) return null;
+  return (
+    <Section title="Sources & Further Reading" className="rec-section--sources">
+      <p className="rec-sources-intro">
+        This recovered story is assembled from <strong>{totalArticles}</strong>{' '}
+        {totalArticles === 1 ? 'report' : 'reports'} across{' '}
+        <strong>{outlets.length}</strong> {outlets.length === 1 ? 'outlet' : 'outlets'}.
+        Follow any source below for the original article and deeper context.
+      </p>
+      <div className="rec-source-outlets">
+        {outlets.map((o) => (
+          <details className="rec-outlet" key={o.slug} open={outlets.length <= 3}>
+            <summary className="rec-outlet-head">
+              <span className="rec-outlet-name">{o.label}</span>
+              <span className="rec-outlet-count">
+                {o.count} {o.count === 1 ? 'report' : 'reports'}
+              </span>
+            </summary>
+            <div className="rec-outlet-links">
+              {o.articles.map((a, i) => (
+                <SourceLink key={i} a={a} />
+              ))}
+            </div>
+          </details>
+        ))}
+      </div>
+    </Section>
+  );
+});
+
 export default function RecordationemStory() {
   const [state, setState] = useState({ topic: null, data: null, error: null, loading: true });
 
@@ -173,6 +243,30 @@ export default function RecordationemStory() {
 
   const m = topic.metrics;
 
+  // Derive the source directory and summary figures from the topic's tracked
+  // articles, so these render from the data that always exists (`updates`) even
+  // when the pipeline hasn't emitted the richer sourceBreakdown/byTheNumbers.
+  const updates = topic.updates || [];
+  const outlets = sourcesByOutlet(updates);
+  const byNumbers = topic.byTheNumbers || {
+    reportsTracked: updates.length || topic.articleCount || 0,
+    distinctSources: outlets.length,
+    timespanDays: (() => {
+      const times = updates.map((u) => new Date(u.date).getTime()).filter((n) => !isNaN(n));
+      if (times.length < 2) return 0;
+      return Math.round((Math.max(...times) - Math.min(...times)) / 86400000);
+    })(),
+  };
+  const srcBreakdown =
+    topic.sourceBreakdown && topic.sourceBreakdown.length > 0
+      ? topic.sourceBreakdown
+      : outlets.map((o) => ({
+          source: o.slug,
+          label: o.label,
+          count: o.count,
+          share: updates.length ? Math.round((o.count / updates.length) * 100) : 0,
+        }));
+
   return (
     <article className="rec-detail">
       <a href="/recordationem.html" className="rec-back">← Recordationem</a>
@@ -200,18 +294,18 @@ export default function RecordationemStory() {
         )}
       </div>
 
-      {topic.byTheNumbers && (
+      {byNumbers && (
         <div className="rec-bynumbers" aria-label="Key figures">
           <div className="rec-bn">
-            <span className="rec-bn-val">{topic.byTheNumbers.reportsTracked}</span>
+            <span className="rec-bn-val">{byNumbers.reportsTracked}</span>
             <span className="rec-bn-lbl">Reports tracked</span>
           </div>
           <div className="rec-bn">
-            <span className="rec-bn-val">{topic.byTheNumbers.distinctSources}</span>
+            <span className="rec-bn-val">{byNumbers.distinctSources}</span>
             <span className="rec-bn-lbl">Distinct sources</span>
           </div>
           <div className="rec-bn">
-            <span className="rec-bn-val">{topic.byTheNumbers.timespanDays}d</span>
+            <span className="rec-bn-val">{byNumbers.timespanDays}d</span>
             <span className="rec-bn-lbl">Coverage span</span>
           </div>
           <div className="rec-bn">
@@ -269,12 +363,12 @@ export default function RecordationemStory() {
         </div>
         <CoverageDecayChart history={topic.coverageHistory} diversity={topic.sourceDiversity} />
 
-        {topic.sourceBreakdown && topic.sourceBreakdown.length > 0 && (
+        {srcBreakdown && srcBreakdown.length > 0 && (
           <div className="rec-srcbreak">
             <div className="rec-srcbreak-h">Coverage by source</div>
-            {topic.sourceBreakdown.slice(0, 8).map((s) => (
+            {srcBreakdown.slice(0, 10).map((s) => (
               <div className="rec-srcrow" key={s.source}>
-                <span className="rec-srcname">{s.label}</span>
+                <span className="rec-srcname">{s.label || sourceLabel(s.source)}</span>
                 <span className="rec-srcbar" aria-hidden="true">
                   <span className="rec-srcbar-fill" style={{ width: `${Math.max(6, s.share)}%` }} />
                 </span>
@@ -284,6 +378,8 @@ export default function RecordationemStory() {
           </div>
         )}
       </Section>
+
+      <SourcesSection outlets={outlets} totalArticles={updates.length} />
 
       <Section title="Recent Verified Updates">
         <div className="rec-updates">
