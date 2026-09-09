@@ -846,3 +846,37 @@ a.rec-update:hover .rec-update-title { color: var(--yellow); }
 }
 .rec-ext { color: var(--yellow); font-size: 11px; letter-spacing: .3px; }
 a.rec-update:hover .rec-ext { color: #fff; }
+
+/* ── Sources & Further Reading (per-outlet source directory) ─────────────── */
+.rec-section--sources { background: rgba(255,255,255,0.015); border-radius: 8px; padding: 22px 20px; }
+.rec-sources-intro { color: var(--gray); line-height: 1.6; margin: 0 0 16px; font-size: 14px; }
+.rec-sources-intro strong { color: var(--white); }
+.rec-source-outlets { display: flex; flex-direction: column; gap: 8px; }
+.rec-outlet { background: #161616; border: 1px solid #262626; border-radius: 6px; overflow: hidden; }
+.rec-outlet[open] { border-color: #383838; }
+.rec-outlet-head {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  padding: 12px 14px; cursor: pointer; list-style: none; user-select: none;
+}
+.rec-outlet-head::-webkit-details-marker { display: none; }
+.rec-outlet-head::after {
+  content: '＋'; color: var(--gray); font-size: 14px; flex-shrink: 0; transition: transform .15s, color .15s;
+}
+.rec-outlet[open] .rec-outlet-head::after { content: '－'; color: var(--yellow); }
+.rec-outlet-head:hover .rec-outlet-name { color: var(--yellow); }
+.rec-outlet-name { font-weight: 700; color: var(--white); font-size: 15px; }
+.rec-outlet-count {
+  margin-left: auto; margin-right: 10px; font-family: 'Barlow Condensed', sans-serif;
+  font-size: 12px; letter-spacing: .5px; color: var(--gray); flex-shrink: 0;
+}
+.rec-outlet-links { display: flex; flex-direction: column; border-top: 1px solid #262626; }
+.rec-srclink {
+  display: flex; flex-direction: column; gap: 2px; padding: 10px 14px;
+  border-bottom: 1px solid #1e1e1e; transition: background .15s;
+}
+.rec-outlet-links .rec-srclink:last-child { border-bottom: none; }
+a.rec-srclink:hover { background: #1c1c1c; }
+.rec-srclink-title { color: var(--white); font-weight: 600; line-height: 1.4; font-size: 14px; }
+a.rec-srclink:hover .rec-srclink-title { color: var(--yellow); }
+.rec-srclink-meta { font-size: 11px; color: var(--gray); letter-spacing: .3px; }
+.rec-srclink--plain { opacity: .75; }
