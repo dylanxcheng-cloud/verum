@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Daybook — habits, journal & reminders</title>
+  <meta name="description" content="Daily habits, a journal, and the things people ask you to do — with reminders as notifications, a lock-screen wallpaper, or a widget.">
+  <meta name="theme-color" content="#7c5cff">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Daybook">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="brand">
+        <img src="icons/icon.svg" alt="" width="30" height="30">
+        <div>
+          <h1>Daybook</h1>
+          <div class="sub" id="topbar-sub"></div>
+        </div>
+      </div>
+      <button class="btn small" id="install-btn" hidden data-action="install">Install app</button>
+    </header>
+
+    <main>
+      <section class="view" id="view-today" data-view="today"></section>
+      <section class="view" id="view-habits" data-view="habits"></section>
+      <section class="view" id="view-events" data-view="events"></section>
+      <section class="view" id="view-reminders" data-view="reminders"></section>
+      <section class="view" id="view-settings" data-view="settings"></section>
+    </main>
+  </div>
+
+  <!-- Habit editor -->
+  <dialog id="habit-dialog">
+    <form method="dialog" id="habit-form">
+      <h2 id="habit-dialog-title">New habit</h2>
+      <div class="grid-2">
+        <div class="field" style="grid-column: 1 / -1">
+          <label for="habit-name">Habit</label>
+          <input type="text" id="habit-name" name="name" required maxlength="60" placeholder="e.g. Read 10 pages" autocomplete="off">
+        </div>
+        <div class="field">
+          <label for="habit-emoji">Emoji (optional)</label>
+          <input type="text" id="habit-emoji" name="emoji" maxlength="4" placeholder="📖">
+        </div>
+        <div class="field">
+          <label>Color</label>
+          <div class="swatches" id="habit-colors"></div>
+        </div>
+      </div>
+      <div class="field">
+        <label>Days</label>
+        <div class="weekdays" id="habit-days"></div>
+        <div class="small muted">Streaks only count the days you pick.</div>
+      </div>
+      <div class="dialog-actions">
+        <button type="button" class="btn danger" id="habit-delete" data-action="habit-delete" hidden>Delete</button>
+        <div class="right">
+          <button type="button" class="btn" data-action="close-dialog">Cancel</button>
+          <button type="submit" class="btn primary">Save habit</button>
+        </div>
+      </div>
+    </form>
+  </dialog>
+
+  <!-- Event editor -->
+  <dialog id="event-dialog">
+    <form method="dialog" id="event-form">
+      <h2 id="event-dialog-title">New event</h2>
+      <div class="field">
+        <label for="ev-title">What</label>
+        <input type="text" id="ev-title" name="title" required maxlength="100" placeholder="e.g. Send Maria the report" autocomplete="off">
+      </div>
+      <div class="grid-2">
+        <div class="field">
+          <label for="ev-from">Who asked (optional)</label>
+          <input type="text" id="ev-from" name="from" maxlength="60" placeholder="Maria">
+        </div>
+        <div class="field">
+          <label for="ev-date">Date</label>
+          <input type="date" id="ev-date" name="date" required>
+        </div>
+      </div>
+      <div class="toggle">
+        <div><div class="t-label">All day</div><div class="t-sub">No specific time</div></div>
+        <label class="switch"><input type="checkbox" id="ev-allday" name="allday"><span></span></label>
+      </div>
+      <div class="field" id="ev-time-field">
+        <label for="ev-time">Time</label>
+        <input type="time" id="ev-time" name="time">
+      </div>
+      <div class="grid-2">
+        <div class="field">
+          <label for="ev-repeat">Repeats</label>
+          <select id="ev-repeat" name="repeat">
+            <option value="none">Does not repeat</option>
+            <option value="daily">Daily</option>
+            <option value="weekly">Weekly</option>
+            <option value="monthly">Monthly</option>
+            <option value="yearly">Yearly</option>
+          </select>
+        </div>
+        <div class="field" id="ev-interval-field">
+          <label for="ev-interval">Every</label>
+          <div class="row" style="flex-wrap: nowrap">
+            <input type="number" id="ev-interval" name="interval" min="1" max="365" value="1" style="width: 90px">
+            <span class="muted small" id="ev-interval-unit">weeks</span>
+          </div>
+        </div>
+      </div>
+      <div class="field" id="ev-weekdays-field">
+        <label>On</label>
+        <div class="weekdays" id="ev-weekdays"></div>
+      </div>
+      <div class="field" id="ev-until-field">
+        <label for="ev-until">Until (optional)</label>
+        <input type="date" id="ev-until" name="until">
+      </div>
+      <div class="field">
+        <label for="ev-notes">Notes</label>
+        <textarea id="ev-notes" name="notes" maxlength="1000" placeholder="Details, links, context…"></textarea>
+      </div>
+
+      <h3 class="muted small" style="text-transform: uppercase; letter-spacing: .04em; margin: 14px 0 2px">Remind me with</h3>
+      <div class="toggle">
+        <div><div class="t-label">🔔 Notification</div><div class="t-sub">Like a calendar alert</div></div>
+        <label class="switch"><input type="checkbox" id="ev-push" name="push"><span></span></label>
+      </div>
+      <div class="field" id="ev-lead-field">
+        <label for="ev-lead">When</label>
+        <select id="ev-lead" name="lead"></select>
+      </div>
+      <div class="toggle">
+        <div><div class="t-label">🖼️ Wallpaper</div><div class="t-sub">Show on the lock-screen wallpaper</div></div>
+        <label class="switch"><input type="checkbox" id="ev-wallpaper" name="wallpaper" checked><span></span></label>
+      </div>
+      <div class="toggle">
+        <div><div class="t-label">▦ Widget</div><div class="t-sub">Show in the glanceable widget</div></div>
+        <label class="switch"><input type="checkbox" id="ev-widget" name="widget" checked><span></span></label>
+      </div>
+
+      <div class="dialog-actions">
+        <button type="button" class="btn danger" id="event-delete" data-action="event-delete" hidden>Delete</button>
+        <div class="right">
+          <button type="button" class="btn" data-action="close-dialog">Cancel</button>
+          <button type="submit" class="btn primary">Save event</button>
+        </div>
+      </div>
+    </form>
+  </dialog>
+
+  <nav class="nav" aria-label="Main">
+    <div class="inner">
+      <button data-nav="today" class="active" aria-label="Today">
+        <svg viewBox="0 0 24 24"><path d="M12 3v2M12 19v2M3 12h2M19 12h2M5.6 5.6l1.4 1.4M17 17l1.4 1.4M5.6 18.4 7 17M17 7l1.4-1.4"/><circle cx="12" cy="12" r="4"/></svg>
+        Today
+      </button>
+      <button data-nav="habits" aria-label="Habits">
+        <svg viewBox="0 0 24 24"><path d="M4 12l5 5L20 6"/></svg>
+        Habits
+      </button>
+      <button data-nav="events" aria-label="Events">
+        <svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>
+        Events
+      </button>
+      <button data-nav="reminders" aria-label="Reminders">
+        <svg viewBox="0 0 24 24"><path d="M6 16V11a6 6 0 0 1 12 0v5l2 2H4l2-2zM10 20a2 2 0 0 0 4 0"/></svg>
+        Reminders
+      </button>
+      <button data-nav="settings" aria-label="Settings">
+        <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg>
+        Settings
+      </button>
+    </div>
+  </nav>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

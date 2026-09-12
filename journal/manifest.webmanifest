@@ -1,0 +1,23 @@
+{
+  "name": "Daybook — habits, journal & reminders",
+  "short_name": "Daybook",
+  "description": "Daily habits, a journal, and the things people ask you to do — with reminders as notifications, a lock-screen wallpaper, or a widget.",
+  "id": "/journal/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1020",
+  "theme_color": "#7c5cff",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "shortcuts": [
+    { "name": "Today", "url": "./index.html#today", "description": "Check off habits and write today's entry" },
+    { "name": "Add event", "url": "./index.html#events?new=1", "description": "Add something someone asked you to do" },
+    { "name": "Widget", "url": "./widget.html?size=medium", "description": "Glanceable view of today" }
+  ]
+}
