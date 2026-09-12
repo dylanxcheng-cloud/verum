@@ -58,7 +58,7 @@ function render(size, { maskable = false } = {}) {
       const x = (px + 0.5) / s, y = (py + 0.5) / s;
       // background: gradient
       const t = (x + y) / 1024;
-      let r = lerp(0x8f, 0x5b, t), g = lerp(0x74, 0x3f, t), b = lerp(0xff, 0xe0, t), a = 1;
+      let r = lerp(0x4d, 0x18, t), g = lerp(0x8f, 0x5e, t), b = lerp(0xf5, 0xd3, t), a = 1;
       if (!maskable) {
         a = cover(sdRoundRect(x, y, 256, 256, 256, 256, 112) * s);
       }

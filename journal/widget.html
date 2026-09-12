@@ -12,25 +12,25 @@
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
   <style>
     :root {
-      --bg: #f6f6fa; --surface: #ffffff; --text: #17172b; --muted: #6b6b80; --border: #e3e3ec;
-      --accent: #7c5cff; --success: #2fa66a; color-scheme: light;
+      --bg: #ffffff; --surface: #ffffff; --text: #202124; --muted: #70757a; --border: #dadce0;
+      --accent: #1a73e8; --success: #1e8e3e; color-scheme: light;
     }
-    :root[data-theme='dark'] { --bg: #0f1020; --surface: #181a2f; --text: #f2f2f8; --muted: #9a9ab5; --border: #2b2d48; color-scheme: dark; }
+    :root[data-theme='dark'] { --bg: #1f1f1f; --surface: #1f1f1f; --text: #e8eaed; --muted: #9aa0a6; --border: #3c4043; --accent: #8ab4f8; --success: #81c995; color-scheme: dark; }
     @media (prefers-color-scheme: dark) {
-      :root:not([data-theme='light']) { --bg: #0f1020; --surface: #181a2f; --text: #f2f2f8; --muted: #9a9ab5; --border: #2b2d48; color-scheme: dark; }
+      :root:not([data-theme='light']) { --bg: #1f1f1f; --surface: #1f1f1f; --text: #e8eaed; --muted: #9aa0a6; --border: #3c4043; --accent: #8ab4f8; --success: #81c995; color-scheme: dark; }
     }
     * { box-sizing: border-box; }
     html, body { margin: 0; height: 100%; }
     body {
-      font-family: -apple-system, BlinkMacSystemFont, Inter, Roboto, system-ui, sans-serif;
+      font-family: Roboto, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
       background: var(--bg); color: var(--text); -webkit-font-smoothing: antialiased;
       display: flex; align-items: stretch; justify-content: center; padding: 8px;
     }
     body.standalone { padding: max(12px, env(safe-area-inset-top)) 12px 12px; }
     .widget {
-      background: var(--surface); border: 1px solid var(--border); border-radius: 22px; padding: 14px 16px;
+      background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px;
       width: 100%; max-width: 420px; display: flex; flex-direction: column; gap: 10px; overflow: hidden;
-      box-shadow: 0 1px 2px rgba(20,20,40,.06), 0 8px 24px rgba(20,20,40,.06);
+      
     }
     .head { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
     .head .date { font-weight: 700; font-size: .95rem; }
@@ -43,7 +43,7 @@
     ul { list-style: none; margin: 0; padding: 0; }
     li { display: flex; align-items: center; gap: 10px; padding: 6px 0; border-top: 1px solid var(--border); font-size: .9rem; min-width: 0; }
     li:first-child { border-top: 0; }
-    .box { width: 20px; height: 20px; border-radius: 6px; border: 2px solid var(--border); flex: none; display: grid; place-items: center; cursor: pointer; }
+    .box { width: 20px; height: 20px; border-radius: 50%; border: 2px solid var(--border); flex: none; display: grid; place-items: center; cursor: pointer; }
     .box svg { width: 12px; height: 12px; stroke: #fff; stroke-width: 3; fill: none; opacity: 0; }
     li.done .box { background: var(--success); border-color: var(--success); }
     li.done .box svg { opacity: 1; }

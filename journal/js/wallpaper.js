@@ -74,7 +74,7 @@ export function render(canvas, state, opts) {
   canvas.height = H;
   const ctx = canvas.getContext('2d');
   const t = THEMES[opts.theme] || THEMES.dark;
-  const accent = opts.accent || '#7c5cff';
+  const accent = opts.accent || '#1a73e8';
   const u = Math.min(W, H) / 1080; // scale unit
   const font = (px, weight = 400) => `${weight} ${Math.round(px * u)}px -apple-system, "SF Pro Text", Inter, Roboto, system-ui, sans-serif`;
 

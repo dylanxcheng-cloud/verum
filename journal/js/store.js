@@ -27,7 +27,7 @@ export function defaultState() {
       wallpaper: {
         preset: 'iphone-6.1',
         theme: 'dark',
-        accent: '#7c5cff',
+        accent: '#1a73e8',
         showHabits: true,
         showEvents: true,
         showJournalPrompt: true,
