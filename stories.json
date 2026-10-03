@@ -1,125 +1,5 @@
 {
   "stories": {
-    "googlenews_39a2a739": {
-      "id": "googlenews_39a2a739",
-      "title": "Prenups cover more than just marriage and divorce these days - USA Today",
-      "category": "Business",
-      "source": "googlenews",
-      "time": "2026-08-23T12:50:56",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28235%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27555%27%20cy%3D%27284%27%20r%3D%27140%27%20fill%3D%27hsl%28275%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Prenuptial agreements, once largely associated with high\u2011net\u2011worth individuals, are now being signed by a growing number of younger couples as a way to protect their finances. USA\u202fToday reported that the scope of these contracts has broadened beyond the traditional concerns of marriage and divorce.1 Peak Earnings Alert noted a rise in the number of younger couples using prenups as a financial safeguard.2 dars.gov.et highlighted that the agreements are no longer limited to the wealthy, with young couples embracing financial protection.3 WISH\u2011TV raised the question of whether signing a prenup can protect family assets.4 The Financial Times described the trend as a growing movement among couples.5 ABC30 Fresno also covered the increasing prevalence of prenups.6\n\nThe shift reflects changing attitudes toward marriage, cohabitation, and financial planning. Couples are increasingly looking for ways to clarify their financial responsibilities before a partnership begins, and prenups are becoming one tool in that toolkit.\n\nUSA\u202fToday\u2019s article points out that prenups now cover more than just marriage and divorce, indicating a broader scope of protection.1 Peak Earnings Alert\u2019s coverage underscores the trend among younger couples, framing it as a financial safeguarding strategy.2 dars.gov.et\u2019s reporting notes that the agreements are no longer confined to the wealthy, suggesting a democratization of the practice.3 WISH\u2011TV\u2019s question about family asset protection highlights the practical concerns driving the trend.4 The Financial Times\u2019 discussion of the growing trend underscores its national relevance.5 ABC30 Fresno\u2019s coverage confirms that the phenomenon is being observed across different regions.6\n\nPrenuptial agreements are legal contracts that outline how assets and responsibilities will be divided in the event of divorce or death. They have traditionally been associated with high\u2011net\u2011worth individuals, but the legal framework for prenups remains the same across most jurisdictions.\n\nYoung couples are the primary beneficiaries of this trend, seeking to clarify financial responsibilities before a partnership begins. Family members may be affected if assets are protected or divided differently, and legal professionals may see increased demand for drafting and advising on prenups.\n\nThe trend could influence how families approach estate planning and asset protection, and it may prompt clearer guidelines on prenup enforceability. Legal reforms or court rulings in the near future could shape the enforceability of these agreements, and couples may need to consult legal counsel to tailor agreements to their circumstances.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzVZNjV3WGNpT0w0bnRBNVp6emZiVFpVV01zb0tCbzhkV095NEZFZDhyWGs1Uzc1NHMxWDlDVWNDY3NsakJaSEFQOVo1SlhoeE9Eb09nU2hWZk0yS0w1NEJFeUFoeFNLSUc0djQ3cFRQSXl1QWR0UHlKVkpNSGEwOTVoNnh1cVM4Wk54dnpjQk5wN1JvVU9fZUdoZ1ZWRkhfZ3BWZFhZbmZvc1lfU2pFQ0xCU1A2NEFEM2ZN?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzVZNjV3WGNpT0w0bnRBNVp6emZiVFpVV01zb0tCbzhkV095NEZFZDhyWGs1Uzc1NHMxWDlDVWNDY3NsakJaSEFQOVo1SlhoeE9Eb09nU2hWZk0yS0w1NEJFeUFoeFNLSUc0djQ3cFRQSXl1QWR0UHlKVkpNSGEwOTVoNnh1cVM4Wk54dnpjQk5wN1JvVU9fZUdoZ1ZWRkhfZ3BWZFhZbmZvc1lfU2pFQ0xCU1A2NEFEM2ZN?oc=5",
-      "guid": "CBMiuwFBVV95cUxNXzVZNjV3WGNpT0w0bnRBNVp6emZiVFpVV01zb0tCbzhkV095NEZFZDhyWGs1Uzc1NHMxWDlDVWNDY3NsakJaSEFQOVo1SlhoeE9Eb09nU2hWZk0yS0w1NEJFeUFoeFNLSUc0djQ3cFRQSXl1QWR0UHlKVkpNSGEwOTVoNnh1cVM4Wk54dnpjQk5wN1JvVU9fZUdoZ1ZWRkhfZ3BWZFhZbmZvc1lfU2pFQ0xCU1A2NEFEM2ZN"
-    },
-    "guardian_49b729a5": {
-      "id": "guardian_49b729a5",
-      "title": "Finland tried to end homelessness. What can we learn from its runaway success \u2013 and recent failures?",
-      "category": "Health",
-      "source": "guardian",
-      "time": "2026-08-23T12:51:37",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/d8da72afc8a20893b4e44cde64223b4dc39bfb86/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=c8482a34c95502c18857a37609f59359",
-      "content": "Finland\u2019s Housing First policy cut the country\u2019s homeless population in half, but recent setbacks have raised questions about the program\u2019s long\u2011term viability.\u202f[1]\n\nThe policy\u2019s dramatic success has drawn international attention, offering a potential model for other nations, yet the emergence of new challenges suggests limits to its effectiveness.\u202f[1]\n\nFinland\u2019s Housing First initiative, which provides permanent housing before addressing other needs, has been credited with reducing homelessness by 50\u202fpercent.\u202f[1]\n\nAt 3:30\u202fa.m., Vello\u202fSenkel, a former homeless person, was awakened by a knock on his door.\u202f[1]\n\nHis neighbors asked for salt, then macaroni, illustrating the everyday challenges of those still adjusting to stable housing.\u202f[1]\n\nSenkel, nicknamed\u202fVelho, is known for his culinary skills and has a fully stocked freezer in his apartment.\u202f[1]\n\nHe lives with 77 other formerly homeless residents in a Helsinki suburb, a community that has benefited from the Housing First approach.\u202f[1]\n\nThe Housing First strategy prioritizes permanent housing before tackling other issues such as employment or mental\u2011health support, a model that has been studied worldwide.\n\nStable housing has been linked to improved health and social outcomes, though critics argue that it does not address all underlying causes of homelessness.\n\nRecent failures have challenged the sustainability of the model, but the available reporting does not specify the details of these setbacks.\u202f[1]\n\nStakeholders include former homeless individuals, policymakers, and local communities, all of whom weigh the benefits and drawbacks of the Housing First strategy.\n\nThe available reporting does not specify whether Finland is reviewing its housing policy or what changes might be considered.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/society/2026/aug/23/finland-tried-to-end-homelessness-what-can-we-learn-from-its-runaway-success-and-recent-failures"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/society/2026/aug/23/finland-tried-to-end-homelessness-what-can-we-learn-from-its-runaway-success-and-recent-failures",
-      "guid": "https://www.theguardian.com/society/2026/aug/23/finland-tried-to-end-homelessness-what-can-we-learn-from-its-runaway-success-and-recent-failures"
-    },
-    "bangkokpost_ad57f8a4": {
-      "id": "bangkokpost_ad57f8a4",
-      "title": "American faces attempted murder charge after drug-fuelled robbery",
-      "category": "World",
-      "source": "bangkokpost",
-      "time": "2026-08-23T12:53:00",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://static.bangkokpost.com/media/content/20260823/c1_3306565_700.jpg",
-      "content": "An American man faces an attempted\u2011murder charge after a drug\u2011fueled robbery in Bangkok.\u202f[1]\n\nThe case underscores the severity with which Thailand treats violent crime and drug\u2011related offenses, and it raises questions about how foreign nationals are prosecuted under Thai law.\n\nThe man allegedly stole beer from a convenience store while high on methamphetamine and later slashed a policeman\u2019s neck, injuring the officer, when the officer tried to arrest him.\u202f[1]\n\nThe incident took place in Bangkok.\u202f[1]\n\nThai authorities have charged the American with attempted murder.\u202f[1]\n\nThailand\u2019s criminal justice system is based on a civil law framework, with the Penal Code defining attempted murder as an act that causes serious bodily injury or death to another person, even if the intended outcome is not achieved. The law imposes severe penalties, including long prison terms and, in some cases, the death penalty for the most serious offenses.\n\nUnder Thai law, drug possession and use are strictly prohibited, and methamphetamine is classified as a Class A drug, carrying the harshest penalties. The combination of a violent assault and drug possession typically leads to a compounded legal response.\n\nThe American\u2019s arrest and charge bring multiple stakeholders into focus: the victim police officer, the Thai legal system, the American\u2019s home country, and the U.S. Embassy in Thailand, which may provide consular assistance. The case also highlights the broader issue of drug\u2011related violence in urban centers across Southeast Asia.\n\nIf convicted, the American could face a lengthy prison sentence, and the Thai authorities may seek extradition if he returns to the United States. The outcome of this case could influence future diplomatic discussions on the treatment of foreign nationals charged with serious crimes abroad.\n\nObservers will watch for the next court hearing, any extradition requests, and the U.S. Embassy\u2019s response to the situation. The proceedings will determine whether the charge of attempted murder is upheld and what penalties, if any, will be imposed.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Bangkok Post",
-          "url": "https://www.bangkokpost.com/thailand/general/3306565/american-faces-attempted-murder-charge-after-drugfuelled-robbery"
-        }
-      ],
-      "original_url": "https://www.bangkokpost.com/thailand/general/3306565/american-faces-attempted-murder-charge-after-drugfuelled-robbery",
-      "guid": ""
-    },
-    "irishtimes_91a874d9": {
-      "id": "irishtimes_91a874d9",
-      "title": "Walk marks 30th anniversary of Fiona Pender disappearance",
-      "category": "World",
-      "source": "irishtimes",
-      "time": "2026-08-23T12:53:39",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://www.irishtimes.com/resizer/v2/VXSYINJR4QTP3B5IBZO3RSQZMI.jpg?auth=1a5057db3efd0774984c61e24a23798c599e09fe0a2d1bb908ff7b8c876cb785&smart=true&width=630&height=350",
-      "content": "In 1996, pregnant Irish woman Fiona\u202fPender vanished from her flat in Tullamore, and 30\u202fyears later a community walk and a fresh police appeal seek answers.\u202f[1]\n\nThe disappearance remains unsolved, and the new appeal underscores the ongoing demand for closure by family and law\u2011enforcement agencies.\u202f[1]\n\nFiona\u202fPender was last seen at her flat in Tullamore in 1996.\u202f[1] No further information has been released about her whereabouts.\u202f[1]\n\nThe 30th anniversary of her disappearance was marked by a walk that drew local participants and raised public awareness.\u202f[1]\n\nThe Garda\u00ed have issued a fresh appeal for anyone with information, urging witnesses to come forward.\u202f[1]\n\nMissing\u2011person investigations in Ireland typically involve a coordinated effort by the Garda\u00ed, forensic teams, and community outreach, with public appeals used to gather new leads.\u202f[general context]\n\nFiona\u2019s family and the local community continue to seek answers, while the Garda\u00ed are under pressure to resolve the case.\u202f[1]\n\nThe renewed appeal may lead to a re\u2011examination of existing evidence and renewed media attention, highlighting the challenges of cold cases where time can erode potential leads.\u202f[general context]\n\nThe Garda\u00ed are likely to review the appeal\u2019s response and decide whether to reopen the investigation, but no specific timeline has been announced.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Irish Times",
-          "url": "https://www.irishtimes.com/crime-law/2026/08/23/walk-marks-30th-anniversary-of-fiona-pender-disappearance/"
-        }
-      ],
-      "original_url": "https://www.irishtimes.com/crime-law/2026/08/23/walk-marks-30th-anniversary-of-fiona-pender-disappearance/",
-      "guid": "https://www.irishtimes.com/crime-law/2026/08/23/walk-marks-30th-anniversary-of-fiona-pender-disappearance/"
-    },
-    "japantimes_91166073": {
-      "id": "japantimes_91166073",
-      "title": "Japan outlines measures to protect infrastructure from cyberattacks",
-      "category": "World",
-      "source": "japantimes",
-      "time": "2026-08-23T12:54:20",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/23/558945.jpg",
-      "content": "Japan has released a draft policy aimed at strengthening the protection of critical infrastructure against cyberattacks, urging firms to adopt measures such as purchasing cybersecurity insurance in response to a recent wave of ransomware incidents. [1][2][3]\n\nThe initiative signals Tokyo\u2019s recognition that cyber threats increasingly target essential services and seeks to compel private sector players to bolster defenses and mitigate financial losses. [1][2]\n\nThe draft, circulated by the government, calls for businesses that operate or support key infrastructure to implement specific safeguards, including the purchase of cybersecurity insurance. [2] The policy comes after a series of ransomware attacks that disrupted operations across various sectors. [3]\n\nRansomware is a type of malware that encrypts data and demands payment for decryption. The attacks have escalated globally, prompting governments to consider regulatory responses.\n\nCybersecurity insurance provides coverage for costs associated with data breaches, business interruption, and legal liabilities. It has become a common tool for risk management in the private sector.\n\nThe primary stakeholders are companies that supply or maintain critical infrastructure, such as utilities, transportation, and communications. They face increased regulatory scrutiny and potential financial penalties if they fail to comply.\n\nInsurance providers will see a rise in demand for cyber policies, while regulators will monitor compliance. The policy may also affect small and medium enterprises that support infrastructure, as they may need to allocate resources for new security measures.\n\nBy mandating insurance, Japan could reduce the economic impact of future attacks and encourage a more resilient cyber ecosystem. However, the requirement may strain firms with limited budgets and could lead to uneven implementation.\n\nThe draft also reflects a broader trend of governments adopting proactive cyber defense strategies, signaling to international partners that Japan is committed to safeguarding its digital infrastructure.\n\nThe draft's future steps, including potential approval and implementation dates, have not yet been announced. Stakeholders should monitor official announcements for guidance on compliance requirements.\n\nJapan\u2019s move aligns with similar initiatives in other advanced economies, which are tightening cyber regulations to protect national security and economic stability. The policy may influence cross\u2011border partnerships and the global cyber insurance market.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Japan Times",
-          "url": "https://www.japantimes.co.jp/news/2026/08/23/japan/japan-critical-infrastructure-cybersecurity-guidelines/"
-        }
-      ],
-      "original_url": "https://www.japantimes.co.jp/news/2026/08/23/japan/japan-critical-infrastructure-cybersecurity-guidelines/",
-      "guid": "https://www.japantimes.co.jp/article/645579/"
-    },
-    "straitstimes_c5136112": {
-      "id": "straitstimes_c5136112",
-      "title": "NDR 2026: Sentosa\u2019s west coast to get better access, new Downtown South resort to be built on Brani - Yahoo News Singapore",
-      "category": "World",
-      "source": "straitstimes",
-      "time": "2026-08-23T18:37:16",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%2868%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27228%27%20cy%3D%2793%27%20r%3D%27140%27%20fill%3D%27hsl%28108%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Sentosa\u2019s west coast is slated for improved access and a new Downtown South resort on Brani, according to a report in Yahoo News Singapore.\u202f[1]\n\nThe announcement signals a push to boost tourism and infrastructure on the island, potentially affecting visitors, local businesses, and residents.\u202f[1]\n\nThe Yahoo News Singapore article notes that the National Development Report 2026 includes plans to enhance access to Sentosa\u2019s west coast and to build a new resort on Brani. The piece does not provide details on the nature of the access improvements, the resort\u2019s size or features, or the timeline for construction.\u202f[1]\n\nSentosa is Singapore\u2019s premier resort island, home to attractions such as Universal Studios, beaches, and heritage sites. Historically, development has focused on the east coast, leaving the west coast comparatively quieter.\n\nThe National Development Report is a government publication that outlines long\u2011term development priorities for Singapore. The 2026 edition appears to address tourism and infrastructure on Sentosa.\n\nLocal businesses on Sentosa\u2019s west coast may benefit from increased visitor traffic, while residents and workers may experience changes in traffic patterns and construction activity.\n\nThe article does not specify the roles of the Singapore Tourism Board or the Urban Redevelopment Authority in the planning and approval of the new resort and access improvements.\u202f[1]\n\nThe lack of detail in the reporting leaves questions about the scale of the infrastructure upgrades, the resort\u2019s environmental impact, and how the project will fit into broader island development plans.\u202f[1]\n\nFuture steps will likely involve detailed planning, environmental assessments, and public consultation, but the article does not provide a timeline for construction or opening of the Downtown South resort.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45RXltOGozYm95cXpPRUNlQnJwNkVkQjJKOW5wR2VUR3lPemxUd1JQSjNkRUtfQ0tkU0ZJbDBuRVZzcWMySkFYbGExOUYwYkFqLWFlWFVmMjQ4SlRSMVFuLXoydnhsdlhlckVaMHlKb2JCVkhLeFE4?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45RXltOGozYm95cXpPRUNlQnJwNkVkQjJKOW5wR2VUR3lPemxUd1JQSjNkRUtfQ0tkU0ZJbDBuRVZzcWMySkFYbGExOUYwYkFqLWFlWFVmMjQ4SlRSMVFuLXoydnhsdlhlckVaMHlKb2JCVkhLeFE4?oc=5",
-      "guid": "CBMid0FVX3lxTE45RXltOGozYm95cXpPRUNlQnJwNkVkQjJKOW5wR2VUR3lPemxUd1JQSjNkRUtfQ0tkU0ZJbDBuRVZzcWMySkFYbGExOUYwYkFqLWFlWFVmMjQ4SlRSMVFuLXoydnhsdlhlckVaMHlKb2JCVkhLeFE4"
-    },
     "berkeleyuniv_3d7b9eb2": {
       "id": "berkeleyuniv_3d7b9eb2",
       "title": "A promising new weight loss and diabetes treatment helps burn fat while keeping muscle",
@@ -15999,28 +15879,148 @@
       ],
       "original_url": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
       "guid": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure"
+    },
+    "bbc_999078b7": {
+      "id": "bbc_999078b7",
+      "title": "Could El Ni\u00f1o mean there are no Atlantic hurricanes this year?",
+      "category": "Science",
+      "source": "bbc",
+      "time": "2026-10-03T16:03:12",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5343/live/bc021660-be5f-11f1-b36c-81ad410b221e.jpg",
+      "content": "For the first time in three decades, September has seen no Atlantic hurricanes, breaking the pattern of the most active month of the season.\n\nThe absence of storms in September raises questions about the influence of El\u202fNi\u00f1o and other climate patterns on hurricane activity, with implications for coastal communities, insurers, and the broader economy.\n\nThe Atlantic hurricane season runs from June\u202f1 to November\u202f30, and September is normally the month with the highest number of tropical cyclones. This year, however, no storms reached hurricane strength during that month.\u202f[1]\n\nThe lack of September hurricanes is unprecedented in the past 30\u202fyears. The last time a September without a hurricane occurred was roughly 30\u202fyears ago.\u202f[2]\n\nMeteorologists note that September is usually the month with the highest number of tropical cyclones, due to warm sea surface temperatures and favorable atmospheric conditions.\n\nHurricanes form when warm ocean water fuels a low\u2011pressure system, and the Atlantic basin has a well\u2011documented seasonal cycle.\n\nEl\u202fNi\u00f1o, a warming of the central and eastern Pacific Ocean, can influence atmospheric circulation and reduce wind shear over the Atlantic, potentially suppressing hurricane formation.\n\nThe National Hurricane Center monitors these patterns and issues seasonal outlooks that incorporate El\u202fNi\u00f1o forecasts.\n\nResidents of the Gulf Coast and Caribbean rely on accurate forecasts to prepare for potential storms, while the insurance sector tracks hurricane activity to assess risk exposure.\n\nThe absence of September hurricanes may reduce the immediate threat to these communities, but it also raises concerns about the overall season\u2019s intensity and the possibility of a late\u2011season surge.\n\nAnalysts suggest that if El\u202fNi\u00f1o persists, the Atlantic season could remain subdued, but a transition to La\u202fNi\u00f1a could trigger a more active period later in the year.\n\nA quieter September could mean lower insurance payouts and less economic disruption, but it also underscores the need for vigilance as conditions can change.\n\nThe National Hurricane Center will release its updated seasonal outlook in the coming weeks, and scientists will continue to monitor El\u202fNi\u00f1o indicators to gauge their impact on Atlantic hurricane activity.\n\nCoastal planners and insurers will reassess risk models and prepare for any late\u2011season storms that could still develop.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o#0"
+    },
+    "conversation_7b8520c6": {
+      "id": "conversation_7b8520c6",
+      "title": "Hunter-gatherer societies are often put on a pedestal as paragons of equality \u2013 but the reality is more complicated",
+      "category": "Science",
+      "source": "conversation",
+      "time": "2026-10-03T16:03:21",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://images.theconversation.com/files/763725/original/file-20261002-60-8lnm30.jpg?ixlib=rb-4.1.1&amp;rect=0%2C880%2C4080%2C2040&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "content": "Hunter\u2011gatherer societies are often celebrated as the ultimate examples of social equality, a view that has shaped academic debates and popular imagination alike. Yet recent scholarship suggests that the picture is more nuanced than the idealized portrait. The reality is that while these groups do not always pursue perfect equality, they can still function as egalitarian societies. [1]\n\nThe way hunter\u2011gatherers are framed matters because it informs contemporary discussions about gender roles, economic organization, and the design of social policies that aim to reduce inequality. By treating them as flawless models, scholars and activists risk overlooking the complexities that actually characterize human social life. [1]\n\nThe claim that hunter\u2011gatherers are paragons of equality is widespread in anthropological literature and popular media. Critics argue that this portrayal oversimplifies the diversity of social arrangements found among foraging peoples. The available reporting does not specify which societies are being referenced, but the general assertion is that the idealization is common. [1]\n\nAccording to the source, hunter\u2011gatherers do not always seek total equality, but that does not mean they lack egalitarian features. In other words, while some groups may exhibit uneven resource distribution or hierarchical decision\u2011making, they can still maintain a broader sense of fairness and shared responsibility. [1]\n\nHunter\u2011gatherer societies are small, mobile communities that rely primarily on wild plants, animals, and fish for subsistence. Their social structures are typically organized around kinship ties and cooperative labor, and they often move seasonally to follow resource availability.\n\nEgalitarianism in this context refers to the relatively equal access to food, mates, and decision\u2011making authority that many foraging groups display. It is not a static or uniform arrangement; rather, it is a set of practices that reduce overt hierarchies and promote collective well\u2011being.\n\nAnthropologists have long studied hunter\u2011gatherers to understand the roots of human social organization. Early theories posited that foraging life was inherently egalitarian, while later research highlighted variations in status, wealth, and power that complicate that narrative.\n\nResearchers, policymakers, and social activists are among those most affected by how hunter\u2011gatherer societies are portrayed. The idealized image can influence funding priorities, conservation strategies, and the framing of indigenous rights.\n\nThe idealization also shapes public perception, leading some to view modern societies as inherently unequal and in need of radical reform. Recognizing the nuances in hunter\u2011gatherer egalitarianism can temper such narratives and encourage more realistic policy approaches.\n\nThe source\u2019s emphasis on the distinction between \u201ctotal equality\u201d and \u201cegalitarianism\u201d invites a re\u2011examination of what counts as fairness in human societies. It suggests that egalitarian outcomes can arise even when absolute parity is unattainable, a perspective that may inform debates on distributive justice.\n\nFuture research will likely continue to probe the variability of social structures among foraging peoples, with upcoming conferences and journal issues dedicated to revisiting long\u2011held assumptions. Scholars will need to clarify the criteria used to define egalitarianism and to document the ways in which these societies negotiate inequality.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Conversation",
+          "url": "https://theconversation.com/hunter-gatherer-societies-are-often-put-on-a-pedestal-as-paragons-of-equality-but-the-reality-is-more-complicated-289009"
+        }
+      ],
+      "original_url": "https://theconversation.com/hunter-gatherer-societies-are-often-put-on-a-pedestal-as-paragons-of-equality-but-the-reality-is-more-complicated-289009",
+      "guid": "tag:theconversation.com,2011:article/289009"
+    },
+    "guardian_2f4d5ba2": {
+      "id": "guardian_2f4d5ba2",
+      "title": "Libyan unity talks upended as warlord\u2019s son linked to drone attacks on fuel facilities",
+      "category": "World",
+      "source": "guardian",
+      "time": "2026-10-03T16:03:30",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/e919f8d82815f579e7c5edb2cd27ecadbc3127e9/403_0_3248_2598/master/3248.jpg?width=140&quality=85&auto=format&fit=max&s=7bb1a21b0fceeed68eb9af10fbeedb3d",
+      "content": "The government of national unity (GNU) in Tripoli has declared that it can no longer work with Khalifa Haftar\u2019s deputy commander, Saddam Haftar, after new allegations surfaced that the warlord\u2019s son oversaw a \u201cterror cell\u201d that carried out drone attacks on fuel storage facilities and power stations in western Libya. The GNU\u2019s statement, which came after the US\u2011backed merger plan to unify Libya\u2019s security, judicial and political institutions collapsed, marks a significant setback for efforts to end the country\u2019s long\u2011running conflict. [1]\n\nThe collapse of the merger talks is a blow to Libya\u2019s fragile peace process. The GNU had been negotiating a power\u2011sharing arrangement with the Libyan National Army (LNA) that could bring an end to the division between the east and west. The new allegations have undermined the trust that was essential for such an agreement, raising doubts about the viability of a unified government and the role of foreign actors, particularly the United States, in shaping Libya\u2019s future. [1]\n\nIn a statement released by the GNU, officials said that working with Saddam Haftar was \u201cimpossible\u201d in light of the accusations that he had overseen a terror cell responsible for drone attacks on key fuel infrastructure in the west. The attacks targeted fuel storage facilities and power stations, disrupting the supply of energy to large parts of the country. [1]\n\nThe allegations claim that Saddam Haftar, the son of the LNA commander Khalifa Haftar, directed a group that launched the drone strikes. The claims have not yet been independently verified, but they have been enough to prompt the GNU to sever ties with Haftar\u2019s deputy. [1]\n\nThe GNU had been pursuing a US\u2011backed plan to unify Libya\u2019s security, judicial and political institutions, a strategy that had seen the United States increasingly view Saddam Haftar as a pivotal figure in achieving stability. The sudden reversal of the GNU\u2019s position has thrown the merger plan into doubt. [1]\n\nThe GNU, which governs the western part of Libya, was formed in 2021 to represent the interests of the Tripoli\u2011based political establishment. It has been in a protracted struggle with the LNA, which controls the eastern regions of the country. [1]\n\nThe LNA, led by Khalifa Haftar, has long been a rival to the GNU, with both sides claiming legitimacy over the entire country. Haftar\u2019s forces have been involved in a series of clashes with the GNU\u2019s militias, contributing to the ongoing instability. [1]\n\nThe United States has been a key backer of Haftar\u2019s campaign, providing diplomatic support and viewing him as a counterbalance to Islamist militias in Libya. The US has also promoted the idea that Haftar\u2019s deputy, Saddam Haftar, could play a central role in unifying Libya\u2019s fragmented institutions. [1]\n\nThe immediate stakeholders in this development include the GNU, the LNA, the United States, and the Libyan civilian population, especially those who rely on fuel and electricity supplied by the damaged infrastructure. The allegations have heightened tensions between the two sides and raised concerns about the safety of critical infrastructure. [1]\n\nThe disruption of fuel storage facilities and power stations has already had tangible effects on the civilian population, leading to shortages of electricity and fuel in western Libya. The attacks have also increased the risk of further violence as the two sides reassess their positions. [1]\n\nThe implications of the GNU\u2019s decision are far\u2011reaching. The United States may need to reconsider its strategy in Libya, potentially shifting its support away from Haftar\u2019s camp or seeking alternative pathways to peace. The collapse of the merger plan also leaves open the possibility of renewed hostilities or a prolonged stalemate. [1]\n\nObservers will be watching for the next diplomatic moves by both the GNU and the LNA, as well as any changes in US policy toward the conflict. Key questions include whether the GNU will seek new partners for a unity government, whether the LNA will respond to the allegations, and whether the United States will impose sanctions or offer new incentives to encourage a resolution. [1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
+      "guid": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar"
+    },
+    "npr_4205a3a2": {
+      "id": "npr_4205a3a2",
+      "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
+      "category": "News",
+      "source": "npr",
+      "time": "2026-10-03T16:03:38",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "content": "The U.S. labor market has slipped below expectations, with job growth falling short of forecasts and the unemployment rate climbing to 4.2%, prompting economists to examine how the gender gap in hiring may be influencing these trends. [1]\n\nThe slower pace of job creation and the uptick in unemployment raise concerns about the overall health of the labor market, particularly for women, who have historically faced hiring disparities that can affect career trajectories and earnings. [1]\n\nAccording to the latest data, the U.S. economy added fewer jobs than analysts predicted last month, and the unemployment rate increased to 4.2%. [1] NPR\u2019s Scott Simon interviewed Betsey Stevenson, an economist at the University of Michigan, to discuss these developments. [1]\n\nStevenson explained that the gender gap in recent hiring reports remains a significant issue. [1] She highlighted that women continue to be underrepresented in certain sectors and that hiring trends show persistent disparities. [1]\n\nThe Bureau of Labor Statistics releases monthly employment reports that track job creation and unemployment. These figures influence policy decisions and market sentiment. [no footnote]\n\nThe unemployment rate is calculated by dividing the number of unemployed persons by the labor force. A rise to 4.2% indicates a modest increase in the number of people without jobs. [no footnote]\n\nThe gender gap in hiring refers to differences in the rates at which men and women are hired, promoted, and paid. Historically, women have faced barriers to entry in high\u2011growth industries. [no footnote]\n\nEmployers, job seekers, and policymakers are all affected by the labor market\u2019s performance. Women, in particular, may feel the impact of hiring disparities. [no footnote]\n\nThe University of Michigan\u2019s economics department, where Stevenson works, conducts research on labor market dynamics and gender disparities. [1]\n\nIf the gender gap persists, it could dampen overall job growth and widen income inequality. Policymakers may need to consider targeted interventions. [no footnote]\n\nThe current data suggest that the labor market is not uniformly healthy, and that gender\u2011specific hiring trends could be a contributing factor. [no footnote]\n\nAnalysts will look to the next monthly employment report for signs of improvement or further decline, and will monitor whether policy changes address the gender gap. [no footnote]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NPR",
+          "url": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports"
+        }
+      ],
+      "original_url": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
+      "guid": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports"
+    },
+    "straitstimes_31bc455d": {
+      "id": "straitstimes_31bc455d",
+      "title": "Suspect in flydubai attack was barred from flying in Oman: Media - The Straits Times",
+      "category": "World",
+      "source": "straitstimes",
+      "time": "2026-10-03T16:04:46",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/89/The_Straits_Times_%28January_20%2C_2026%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "The suspect in a recent flydubai attack was barred from flying in Oman, according to media reports. [1]\n\nThe revelation highlights how national security lists can intersect with airline operations and raises questions about the effectiveness of travel restrictions. [1]\n\nThe suspect, whose identity has not been disclosed, was involved in an attack on a flydubai flight. The incident prompted authorities to investigate the suspect\u2019s travel history. [1]\n\nThe investigation revealed that the suspect had been prohibited from flying within Oman, a restriction that was in place prior to the attack. [1]\n\nflydubai is a low\u2011cost carrier based in Dubai that operates domestic and regional routes. The airline has faced security challenges in recent years.\n\nOman maintains a list of individuals barred from boarding flights due to security concerns. The policy is part of the country\u2019s broader counter\u2011terrorism strategy.\n\nThe incident affects passengers, airlines, and governments. Airlines must balance commercial interests with compliance to security lists.\n\nThe case underscores the need for robust data sharing between airlines and security agencies. It also raises questions about the scope of travel bans and their enforcement.\n\nAuthorities are reviewing the incident and may update travel restriction protocols. The suspect\u2019s legal status and potential charges remain unclear.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOFZCaW1oY3F2a0l1emc1bm40YjNxQ0k1ZTRaZm03b1p3dU9IMDVUUG1BaVlRc293dTJNY1I2UEZmTThGUndPZ0lQNnNZOEhMZkxubVkyNXNYWTZERFJ2Q0JvbVZ2U3JfZmREMXdlM3dMRlMxN3prb18zWVRZSXFlV0p3MUJyb3pqWXk5Q0dveEpzRTBsUFhGbGRtaDl5VFNmMTdDcmZnbldYTjNKOUtj?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOFZCaW1oY3F2a0l1emc1bm40YjNxQ0k1ZTRaZm03b1p3dU9IMDVUUG1BaVlRc293dTJNY1I2UEZmTThGUndPZ0lQNnNZOEhMZkxubVkyNXNYWTZERFJ2Q0JvbVZ2U3JfZmREMXdlM3dMRlMxN3prb18zWVRZSXFlV0p3MUJyb3pqWXk5Q0dveEpzRTBsUFhGbGRtaDl5VFNmMTdDcmZnbldYTjNKOUtj?oc=5",
+      "guid": "CBMirwFBVV95cUxNOFZCaW1oY3F2a0l1emc1bm40YjNxQ0k1ZTRaZm03b1p3dU9IMDVUUG1BaVlRc293dTJNY1I2UEZmTThGUndPZ0lQNnNZOEhMZkxubVkyNXNYWTZERFJ2Q0JvbVZ2U3JfZmREMXdlM3dMRlMxN3prb18zWVRZSXFlV0p3MUJyb3pqWXk5Q0dveEpzRTBsUFhGbGRtaDl5VFNmMTdDcmZnbldYTjNKOUtj"
+    },
+    "guardian_96bb1924": {
+      "id": "guardian_96bb1924",
+      "title": "\u2018Sadness, cynicism and deep disappointment\u2019: the Cornell gang-rape case and the failure of #MeToo",
+      "category": "Health",
+      "source": "guardian",
+      "time": "2026-10-03T16:05:10",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/2c3bbae95706ff7d6235d72007cf28a2bb2f8a91/682_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=ed00bf49cce1ffca538cdf34877ee17f",
+      "content": "A former Cornell University student has accused a group of fraternity brothers of gang\u2011raping her in mid\u2011October 2024, a claim that has drawn sharp criticism from women\u2019s rights advocates and reignited a national debate over how campus sexual\u2011assault allegations are handled. The university and local police have defended the treatment of the alleged perpetrators, a stance that has sparked widespread outrage this week.\u202f[1]\n\nThe case matters because it highlights the persistent tension between campus institutions and the #MeToo movement, especially during the fall semester\u2019s \u201cred zone,\u201d a period when student safety advocates say the risk of sexual assault spikes.\u202f[1] The controversy underscores the broader question of whether universities and law\u2011enforcement agencies are adequately protecting students and holding perpetrators accountable.\n\nThe alleged assault occurred in mid\u2011October, just before the Halloween celebrations that mark the start of the fall semester. The victim, a former Cornell student, says she was gang\u2011raped by a group of fraternity brothers during this time.\u202f[1] The incident took place amid a flurry of parties hosted by fraternities, sororities, and off\u2011campus bars, which are common features of the red zone.\u202f[1]\n\nIn response, Cornell officials and the local police department have publicly defended their handling of the case, arguing that the procedures followed were appropriate and that the alleged perpetrators were treated fairly under the law.\u202f[1] The defense has been criticized by many who view it as a protective stance toward the fraternity members.\n\nWomen\u2019s groups and student safety advocates have decried the situation as a familiar pattern of institutional indifference. They argue that the university\u2019s response mirrors past failures to address sexual violence on campus, and they call for greater transparency and accountability.\u202f[1] The broader community has expressed deep disappointment, noting that the case echoes earlier incidents that have been dismissed or inadequately investigated.\n\nThe red zone, a term coined by student safety advocates, refers to the first six to ten weeks of the fall semester when parties, alcohol, and new student socialization converge. During this period, more than half of all sexual assaults on college campuses occur, according to the advocates\u2019 estimates.\u202f[1] The timing of the alleged assault, therefore, fits a pattern that has long raised concerns about campus safety.\n\nThe #MeToo movement, which began in 2017, has brought national attention to sexual misconduct in various institutions, including universities. The Cornell case has revived the debate over how authorities respond to sexual\u2011assault allegations on campus, especially regarding the balance between due process for the accused and support for survivors.\u202f[1] Critics argue that the current system often prioritizes protecting the accused over addressing the victim\u2019s needs.\n\nKey stakeholders in this case include the alleged victim, the fraternity brothers accused of the assault, Cornell University\u2019s administration, the local police department, and student\u2011safety advocacy groups. Each party has a distinct perspective: the victim seeks justice and institutional change; the alleged perpetrators and their fraternity seek protection from legal and reputational harm; the university and police aim to maintain order and uphold procedural standards; and advocacy groups push for reforms to prevent future incidents.\u202f[1]\n\nThe incident has had a chilling effect on campus climate, raising fears among students about attending social events and questioning the safety of the campus environment. Many students have called for clearer policies and stronger enforcement to deter future assaults.\u202f[1] The broader campus community is now more vigilant, demanding that institutions take sexual\u2011violence allegations seriously.\n\nLegally, campus sexual\u2011assault cases often involve Title\u202fIX investigations, which are designed to protect students from discrimination based on sex. The involvement of local police can complicate matters, as law\u2011enforcement procedures may differ from university protocols. The current case illustrates the challenges of coordinating between campus and external authorities, especially when allegations involve multiple parties and potential criminal charges.\u202f[1]\n\nThe implications of this case could extend beyond Cornell. If the university\u2019s handling of the allegations is found lacking, it may prompt other institutions to review their policies and procedures. The renewed scrutiny could also influence legislative discussions on campus sexual\u2011assault laws and the role of law enforcement in such cases.\u202f[1] The outcome may either reinforce existing practices or catalyze reforms aimed at better protecting students.\n\nLooking ahead, observers will watch for the next steps in the investigation, any forthcoming statements from Cornell\u2019s administration, and the local police\u2019s findings. Key dates include the scheduled hearing for the alleged perpetrators and the university\u2019s planned review of its sexual\u2011assault policies. The case remains a focal point for discussions about campus safety and the effectiveness of current institutional responses.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/oct/03/cornell-gang-rape-me-too"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/society/2026/oct/03/cornell-gang-rape-me-too",
+      "guid": "https://www.theguardian.com/society/2026/oct/03/cornell-gang-rape-me-too"
     }
   },
   "featured": {
-    "hero": "pbs_8213fd83",
+    "hero": "bbc_999078b7",
     "stack": [
-      "googlenews_f38b38fb",
-      "straitstimes_62fb2147",
-      "afp_792794b0"
+      "conversation_7b8520c6",
+      "guardian_2f4d5ba2",
+      "npr_4205a3a2"
     ],
     "latest": [
+      "npr_4205a3a2",
+      "guardian_2f4d5ba2",
+      "conversation_7b8520c6",
+      "pbs_8213fd83",
       "afp_792794b0",
-      "straitstimes_62fb2147",
-      "googlenews_f38b38fb",
-      "npr_9fb9d91f",
-      "japantimes_f04bc114",
-      "abcau_35e7a116"
+      "straitstimes_62fb2147"
     ],
     "world": [
+      "guardian_2f4d5ba2",
+      "straitstimes_31bc455d",
       "straitstimes_62fb2147",
-      "afp_792794b0",
-      "bbc_a151a675",
-      "abcau_35e7a116"
+      "afp_792794b0"
     ]
   },
   "categoryIndex": {
@@ -16037,16 +16037,16 @@
       "snopes_2be5c515"
     ],
     "World": [
+      "straitstimes_31bc455d",
+      "japantimes_f04bc114",
+      "abcau_35e7a116",
       "bbc_a151a675",
       "csmonitor_a8b08077",
       "japantimes_20c5d404",
       "dw_db70e71e",
       "straitstimes_8e1d341f",
       "abcau_7e7c3eed",
-      "reuters_a7c2091a",
-      "cna_fbb66bd6",
-      "bangkokpost_0082fe3b",
-      "smh_8efd2067"
+      "reuters_a7c2091a"
     ],
     "Politics": [
       "guardian_5ffe2ef2",
@@ -16073,6 +16073,8 @@
       "googlenews_74d69411"
     ],
     "Health": [
+      "guardian_96bb1924",
+      "googlenews_f38b38fb",
       "guardian_323d4fa1",
       "googlenews_42632b45",
       "bbc_89fbc4b1",
@@ -16080,11 +16082,10 @@
       "googlenews_32825b50",
       "guardian_ad2705f1",
       "googlenews_4abd78fd",
-      "guardian_dac99750",
-      "guardian_4acb1a89",
-      "googlenews_5eca4f0b"
+      "guardian_dac99750"
     ],
     "Science": [
+      "npr_9fb9d91f",
       "berkeleyuniv_c9750b18",
       "npr_7a0fdbff",
       "guardian_c77e49b1",
@@ -16093,8 +16094,7 @@
       "conversation_d7240965",
       "bbc_e34bd557",
       "berkeleyuniv_1ad2f02b",
-      "nature_8cb21470",
-      "conversation_c3b48c7c"
+      "nature_8cb21470"
     ],
     "Business": [
       "googlenews_bd560b79",
@@ -16109,7 +16109,7 @@
       "googlenews_075e0c23"
     ]
   },
-  "breaking": "Flydubai co-pilot attacked pilot with axe, attempted \u2018terrorist\u2019 attack, UAE says - The Straits Time",
+  "breaking": "Libyan unity talks upended as warlord\u2019s son linked to drone attacks on fuel facilities",
   "events": [
     {
       "title": "Safeguards 'build a moat' around US AI firms, prevent open-source models from ad",
@@ -16124,8 +16124,8 @@
   ],
   "mostRead": [
     "A toddler\u2019s wobbly walk, hand tremors send parents on a medical journey - The Wa",
+    "Could El Ni\u00f1o mean there are no Atlantic hurricanes this year?",
     "Could the International Space Station win a Nobel Peace Prize? Here's what to kn",
-    "US murderer Christa Pike unconscious and on ventilator after failed execution, l",
-    "This week in science: Loud birds, eating with company, and asteroid samples"
+    "Hunter-gatherer societies are often put on a pedestal as paragons of equality \u2013 "
   ]
 }
