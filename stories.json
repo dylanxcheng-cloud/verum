@@ -1,125 +1,5 @@
 {
   "stories": {
-    "berkeleyuniv_3d7b9eb2": {
-      "id": "berkeleyuniv_3d7b9eb2",
-      "title": "A promising new weight loss and diabetes treatment helps burn fat while keeping muscle",
-      "category": "Science",
-      "source": "berkeleyuniv",
-      "time": "2026-08-23T18:39:43",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://news.berkeley.edu/wp-content/uploads/2026/08/20260820_Naar-Lab-5841_BN-1024x585.jpg",
-      "content": "A new molecular compound discovered by researchers at the University of California, Berkeley can increase the amount of energy cells burn, leading to fat loss while preserving muscle mass, and does so without affecting appetite or exercise habits.1\n\nThe finding could reshape the treatment of obesity and type\u20112 diabetes, conditions that currently rely heavily on drugs that suppress appetite. A therapy that raises energy expenditure directly may offer a safer, more sustainable approach to weight loss and glucose control.1\n\nUC\u202fBerkeley scientists identified the compound and tested it in mouse models, where it promoted the burning of excess energy. The mice lost fat but maintained lean muscle tissue, and their food intake and activity levels remained unchanged.1\n\nUnlike glucagon\u2011like peptide\u20111 (GLP\u20111) receptor agonists, which lower energy intake by reducing hunger, the new compound appears to work by stimulating cellular metabolism.1\n\nGLP\u20111 drugs are among the most widely prescribed treatments for weight loss and diabetes. They mimic a hormone that signals the brain to feel full, thereby reducing caloric consumption.1\n\nIncreasing the rate at which cells consume energy can help the body burn stored fat. Preserving muscle during weight loss is important because muscle tissue is metabolically active and supports overall health.1\n\nPreclinical studies in mice are a standard step in drug development, allowing researchers to assess efficacy and safety before moving to human trials.1\n\nPatients with obesity or type\u20112 diabetes stand to benefit most from a new class of treatments that do not rely on appetite suppression. Clinicians and pharmaceutical companies are also watching closely, as the compound could fill a gap in the current therapeutic landscape.1\n\nIf the compound\u2019s effects translate to humans, it could reduce the need for appetite\u2011suppressing drugs, potentially lowering side\u2011effect risks such as nausea or cardiovascular concerns.1\n\nHowever, the path from mouse models to approved medication is long. Regulatory agencies require extensive safety data, and existing treatments may compete for market share.1\n\nThe discovery suggests a shift toward metabolic therapies that target energy expenditure rather than intake. Further research will need to confirm whether the mechanism is safe and effective in humans.1\n\nResearchers will likely next conduct dose\u2011finding studies and early\u2011phase clinical trials to evaluate the compound\u2019s safety profile, efficacy, and optimal delivery method. The timing of these trials and any regulatory milestones remain to be announced.1",
-      "sources": [
-        {
-          "n": 1,
-          "label": "UC Berkeley News",
-          "url": "https://news.berkeley.edu/2026/08/21/a-promising-new-weight-loss-and-diabetes-treatment-helps-burn-fat-while-keeping-muscle/"
-        }
-      ],
-      "original_url": "https://news.berkeley.edu/2026/08/21/a-promising-new-weight-loss-and-diabetes-treatment-helps-burn-fat-while-keeping-muscle/",
-      "guid": "https://news.berkeley.edu/?p=141494"
-    },
-    "irishtimes_89b0d2b7": {
-      "id": "irishtimes_89b0d2b7",
-      "title": "Latest Gaza aid flotilla sets sail from Kinsale with \u2018trepidation\u2019",
-      "category": "World",
-      "source": "irishtimes",
-      "time": "2026-08-23T18:41:18",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://www.irishtimes.com/resizer/v2/CA4WD5JTGVHBVOPS73NBVPT2GY.jpg?auth=e4d6bea5198d73e6d00b222423823030103d4cefe710c77a97fc39c59899f313&smart=true&width=630&height=350",
-      "content": "The Freedom Flotilla Coalition set sail from Kinsale today, carrying humanitarian supplies for Gaza, but the mission faces likely interception by Israeli forces.\u202f[1]\n\nThe departure highlights the ongoing struggle over the Gaza blockade and the international community's attempts to deliver aid.\u202f[1]\n\nThe flotilla left Kinsale, a port town in County Cork, Ireland, with a small crew and a cargo of medical supplies, food, and other essentials. The departure was marked by a sense of trepidation among participants.\u202f[1] The coalition intends to navigate to Gaza, but Israeli naval patrols have previously intercepted similar missions.\u202f[1]\n\nThe Gaza Strip has been under an Israeli blockade since 2007, limiting the flow of goods and people. International law allows for humanitarian aid, but the blockade has been a point of contention. The Freedom Flotilla Coalition is one of several groups that have organized maritime aid attempts over the past decade.\n\nThe primary beneficiaries are Palestinians in Gaza who face shortages of medical supplies and food. The coalition's composition is not detailed in the reporting, but the mission's safety is a concern. Israeli authorities view such flotillas as a challenge to the blockade.\n\nIf intercepted, the flotilla could lead to diplomatic friction between Ireland and Israel, and potentially spark further international debate over the legality of the blockade. The mission also highlights the persistent demand for humanitarian assistance in Gaza.\n\nObservers will monitor Israeli naval movements and any diplomatic communications between the involved parties. The outcome will inform future aid efforts and international responses.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Irish Times",
-          "url": "https://www.irishtimes.com/ireland/2026/08/23/latest-gaza-aid-flotilla-sets-sail-from-kinsale-with-trepidation/"
-        }
-      ],
-      "original_url": "https://www.irishtimes.com/ireland/2026/08/23/latest-gaza-aid-flotilla-sets-sail-from-kinsale-with-trepidation/",
-      "guid": "https://www.irishtimes.com/ireland/2026/08/23/latest-gaza-aid-flotilla-sets-sail-from-kinsale-with-trepidation/"
-    },
-    "afp_df217819": {
-      "id": "afp_df217819",
-      "title": "Syria holds talks with Israel addressing de-escalation, Israel-Turkey tensions - South China Morning Post",
-      "category": "World",
-      "source": "afp",
-      "time": "2026-08-24T01:42:58",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28182%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27662%27%20cy%3D%27177%27%20r%3D%27140%27%20fill%3D%27hsl%28222%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Syria held talks with Israel to discuss de\u2011escalation and Israel\u2011Turkey tensions, according to a report by the South China Morning Post. [1]\n\nThe meeting could signal a shift in the long\u2011standing hostility between the two states and affect regional security dynamics, especially given Israel\u2019s strained relations with Turkey.\n\nThe talks were reportedly held in an undisclosed location and focused on de\u2011escalation measures and the broader context of Israel\u2011Turkey tensions. [1]\n\nSyria and Israel have been adversaries since the mid\u201120th century, with intermittent conflicts and a ceasefire line that has been the subject of diplomatic negotiations for decades. De\u2011escalation talks between the two countries are infrequent.\n\nIsrael and Turkey have experienced diplomatic friction over a range of issues, including the Gaza conflict and the status of the Golan Heights. These tensions have influenced regional alliances and the broader Middle East peace process.\n\nThe Syrian government, the Israeli government, and regional actors such as Turkey and the United Nations may be affected by any progress resulting from the dialogue.\n\nIf the talks lead to concrete agreements, they could reduce flare\u2011ups along the border and influence the broader Middle East peace process.\n\nAnalysts suggest that the dialogue could open a pathway for further diplomatic engagement, though skepticism remains due to the entrenched positions of both sides.\n\nObservers will look for official statements from both governments, potential agreements on border protocols, and any shifts in Turkey\u2019s diplomatic posture toward Israel.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "AFP",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPemFKX0ZPam1zQUUzNmxoUksybjJtclgtQWZmUjhaVXFsdElqaHhjU2RQNThJS1oybngtWW5pbll0WVFCM21CaWFncHlpenF1UHZ4aXR2a29ldUxFQmZ1ZGo4aWlsQ3l2WVNBVzVtNEZIakV6eVlnbHNHbVZHSndEcWIwd0FwUjNKVExiSDRZdFNpWUtsVUNHYm40VTZQdk9kYWhDMi13Q0hSYlVPMHNsRjd6ejRMd0lqVTNYRHl5azZXQVNqa0tPTWU3RW1CVjBqM3fSAdIBQVVfeXFMT3phSl9GT2ptc0FFMzZsaFJLMm4ybXJYLUFmZlI4WlVxbHRJamh4Y1NkUDU4SUtaMm54LVluaW5ZdFlRQjNtQmlhZ3B5aXpxdVB2eGl0dmtvZXVMRUJmdWRqOGlpbEN5dllTQVc1bTRGSGpFenlZZ2xzR21WR0p3RHFiMHdBcFIzSlRMYkg0WXRTaVlLbFVDR2JuNFU2UHZPZGFoQzItd0NIUmJVTzBzbEY3eno0THdJalUzWER5eWs2V0FTamtLT01lN0VtQlYwajN3?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPemFKX0ZPam1zQUUzNmxoUksybjJtclgtQWZmUjhaVXFsdElqaHhjU2RQNThJS1oybngtWW5pbll0WVFCM21CaWFncHlpenF1UHZ4aXR2a29ldUxFQmZ1ZGo4aWlsQ3l2WVNBVzVtNEZIakV6eVlnbHNHbVZHSndEcWIwd0FwUjNKVExiSDRZdFNpWUtsVUNHYm40VTZQdk9kYWhDMi13Q0hSYlVPMHNsRjd6ejRMd0lqVTNYRHl5azZXQVNqa0tPTWU3RW1CVjBqM3fSAdIBQVVfeXFMT3phSl9GT2ptc0FFMzZsaFJLMm4ybXJYLUFmZlI4WlVxbHRJamh4Y1NkUDU4SUtaMm54LVluaW5ZdFlRQjNtQmlhZ3B5aXpxdVB2eGl0dmtvZXVMRUJmdWRqOGlpbEN5dllTQVc1bTRGSGpFenlZZ2xzR21WR0p3RHFiMHdBcFIzSlRMYkg0WXRTaVlLbFVDR2JuNFU2UHZPZGFoQzItd0NIUmJVTzBzbEY3eno0THdJalUzWER5eWs2V0FTamtLT01lN0VtQlYwajN3?oc=5",
-      "guid": "CBMi0gFBVV95cUxPemFKX0ZPam1zQUUzNmxoUksybjJtclgtQWZmUjhaVXFsdElqaHhjU2RQNThJS1oybngtWW5pbll0WVFCM21CaWFncHlpenF1UHZ4aXR2a29ldUxFQmZ1ZGo4aWlsQ3l2WVNBVzVtNEZIakV6eVlnbHNHbVZHSndEcWIwd0FwUjNKVExiSDRZdFNpWUtsVUNHYm40VTZQdk9kYWhDMi13Q0hSYlVPMHNsRjd6ejRMd0lqVTNYRHl5azZXQVNqa0tPTWU3RW1CVjBqM3fSAdIBQVVfeXFMT3phSl9GT2ptc0FFMzZsaFJLMm4ybXJYLUFmZlI4WlVxbHRJamh4Y1NkUDU4SUtaMm54LVluaW5ZdFlRQjNtQmlhZ3B5aXpxdVB2eGl0dmtvZXVMRUJmdWRqOGlpbEN5dllTQVc1bTRGSGpFenlZZ2xzR21WR0p3RHFiMHdBcFIzSlRMYkg0WXRTaVlLbFVDR2JuNFU2UHZPZGFoQzItd0NIUmJVTzBzbEY3eno0THdJalUzWER5eWs2V0FTamtLT01lN0VtQlYwajN3"
-    },
-    "japantimes_bcd97d74": {
-      "id": "japantimes_bcd97d74",
-      "title": "SoftBank plans record $6.3 billion retail bond sale in Japan",
-      "category": "World",
-      "source": "japantimes",
-      "time": "2026-08-24T01:43:00",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/24/558986.jpg",
-      "content": "SoftBank is set to launch a record\u2011sized retail bond sale in Japan, offering 7\u2011year notes that will be priced on September\u202f4. The company has indicated a coupon range of 4.3\u202f% to 4.9\u202f%, and the total issuance is expected to reach $6.3\u202fbillion\u202f[1].\n\nThe deal is significant because it represents the largest retail bond offering by a Japanese firm to date. It will broaden the supply of medium\u2011term debt in the domestic market and could influence the pricing of other corporate bonds. Investors will be watching to see how the coupon range is settled and whether the offering attracts a strong subscription from individual savers and institutional participants alike.\n\nSoftBank filed a formal plan for the bond sale with Japanese regulators, detailing the 7\u2011year maturity and the proposed coupon range. The pricing is scheduled for September\u202f4, after which the bonds will be allocated to investors. The filing confirms the company\u2019s intent to raise $6.3\u202fbillion through this retail issuance\u202f[1].\n\nSoftBank has a long history of tapping the bond market to finance its expansive operations. While the company has issued debt in the past, this sale marks the largest retail offering it has announced, underscoring its continued reliance on capital markets for funding. The firm\u2019s previous issuances have ranged from short\u2011term notes to longer\u2011dated bonds, but none have matched the scale of the current proposal.\n\nJapan\u2019s retail bond market has grown steadily over the past decade, with individual investors increasingly turning to corporate bonds as a source of yield. Retail issuers typically offer coupons that reflect prevailing market rates and the credit profile of the issuer. SoftBank\u2019s proposed range of 4.3\u202f% to 4.9\u202f% falls within the upper tier of rates seen for 7\u2011year corporate bonds in Japan, suggesting a competitive stance aimed at attracting buyers.\n\nThe coupon range indicates the interest rate that investors will receive annually on the bonds. A higher coupon generally signals a higher perceived risk or a desire to compensate investors for lower liquidity. SoftBank\u2019s choice of a 4.3\u202f% to 4.9\u202f% spread reflects the company\u2019s assessment of its creditworthiness and the current demand for yield among Japanese retail investors.\n\nKey stakeholders in the transaction include SoftBank itself, which will use the proceeds to support its business activities; individual and institutional investors who will purchase the bonds; and the broader Japanese financial system, which will absorb the new supply of debt. Regulators will also monitor the offering to ensure compliance with disclosure and market\u2011fairness rules.\n\nThe company has not yet disclosed the specific use of the funds, but typical corporate bond proceeds are employed for capital expenditures, debt refinancing, or general corporate purposes. The allocation of the $6.3\u202fbillion will likely be announced once the bonds are priced and the offering concludes.\n\nBy adding a substantial amount of medium\u2011term debt to the market, SoftBank will increase the overall supply of corporate bonds in Japan. This could exert downward pressure on yields if demand does not keep pace, or it could reinforce the attractiveness of corporate bonds relative to government securities, depending on investor sentiment.\n\nMarket analysts will interpret the coupon range and the size of the offering as signals of SoftBank\u2019s confidence in its financial position and its expectations for future cash flows. A successful subscription could reinforce the company\u2019s reputation as a reliable issuer, while a weak response might raise questions about investor appetite for its debt.\n\nSoftBank\u2019s next steps will involve finalizing the pricing on September\u202f4, after which the bonds will be allocated to investors. The company will need to secure regulatory approvals and complete the necessary documentation before the sale can close. Investors and market participants will be watching the pricing outcome, the subscription levels, and any subsequent announcements regarding the use of proceeds.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Japan Times",
-          "url": "https://www.japantimes.co.jp/business/2026/08/24/companies/softbank-plan-bond-sale/"
-        }
-      ],
-      "original_url": "https://www.japantimes.co.jp/business/2026/08/24/companies/softbank-plan-bond-sale/",
-      "guid": "https://www.japantimes.co.jp/article/645587/"
-    },
-    "guardian_c14c60c9": {
-      "id": "guardian_c14c60c9",
-      "title": "Reform says it would put foreign-born UK citizens lower on social housing list",
-      "category": "Health",
-      "source": "guardian",
-      "time": "2026-08-24T01:43:23",
-      "read": "4 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/7c101f8b3b4d3e3fe8cb3ab126fe960e7d956f7d/295_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=dcb77a0f967aff9da165fa7cfdbab042",
-      "content": "Reform UK has announced plans to lower the priority of foreign\u2011born UK citizens on the social housing waiting list, a move that could reshape the allocation of state\u2011owned homes across the country.\u202f[1]\n\nThe proposal, unveiled at a press conference in London on Monday, would give UK\u2011born married couples under 35 who have children a higher ranking for new social housing.\u202f[1] Conversely, British citizens who were born abroad would be required to wait longer for the same type of accommodation.\u202f[1] The party said it would detail the policy at the event, signalling a shift in its stance on housing and immigration.\n\nThe press conference, hosted by Nigel Farage\u2019s Reform UK, was attended by party officials and a small group of media representatives.\u202f[1] Farage, who founded the party after leaving the UK Independence Party, has long been a vocal critic of immigration policies and the allocation of public services to non\u2011native residents.\u202f[2] The announcement marks the first time the party has outlined concrete measures that directly affect the housing market.\n\nUnder the proposed scheme, priority would be given to UK\u2011born married couples under the age of 35 who have children, regardless of their income level.\u202f[1] The policy would not alter the existing criteria for other groups, such as those with severe health conditions or disabilities, but would shift the overall ranking system to favour the newly defined demographic.\u202f[1]\n\nForeign\u2011born UK citizens, who currently hold the same status as native\u2011born citizens in the eyes of the law, would see their position on the waiting list moved down.\u202f[1] The party\u2019s statement did not specify how many places would be reallocated or the exact mechanics of the new ranking system, leaving many questions unanswered.\n\nSocial housing in the United Kingdom is managed by local authorities and housing associations, which allocate homes based on a range of factors including income, family size, and special circumstances.\u202f[3] Applicants are placed on a waiting list, and priority is typically given to those with the greatest need, such as families with young children, the elderly, or individuals with health conditions.\u202f[3] The current system treats all UK citizens equally, regardless of birthplace, and does not differentiate between native\u2011born and foreign\u2011born residents.\n\nReform UK, officially known as the Reform Party, was established in 2020 by former UKIP leader Nigel Farage.\u202f[4] The party positions itself as a right\u2011wing, Eurosceptic alternative to the Conservative Party, emphasizing issues such as immigration control, national sovereignty, and fiscal restraint.\u202f[4] Since its inception, Reform UK has struggled to gain a foothold in Parliament, but it has attracted attention through high\u2011profile policy proposals and a growing media presence.\n\nDebates over the intersection of immigration and social housing have a long history in the UK.\u202f[5] Critics of the current system argue that it can lead to overcrowding and long waiting times, while supporters contend that it ensures fairness and equal treatment under the law.\u202f[5] The new proposal by Reform UK adds a fresh dimension to the debate, suggesting that birthplace should be a factor in determining housing priority.\n\nThe policy would directly affect foreign\u2011born UK citizens, many of whom have lived in the country for decades and have established families and careers.\u202f[1] Local authorities, which administer social housing allocations, would need to adjust their processes to accommodate the new ranking system, potentially leading to administrative challenges and increased scrutiny from oversight bodies.\u202f[6]\n\nHousing associations, which often manage large portfolios of social homes, could face pressure to comply with the revised criteria.\u202f[6] Some may argue that the changes could undermine the principle of equal access to public services, while others might see it as a necessary step to address perceived imbalances in the system.\u202f[6]\n\nThe implications of the proposal are multifaceted.\u202f[7] Legally, the policy could face challenges on grounds of discrimination or breach of equal treatment provisions under UK law.\u202f[7] Politically, it could galvanise support among voters who favour stricter immigration controls, but it may also provoke backlash from advocacy groups and the broader public who view it as exclusionary.\u202f[7]\n\nBeyond legal and political ramifications, the policy could influence social cohesion.\u202f[8] By creating a tangible distinction between native\u2011born and foreign\u2011born citizens in the allocation of essential services, the proposal risks deepening divisions within communities and eroding trust in public institutions.\u202f[8] The long\u2011term effects on community integration and the perception of fairness remain uncertain.\n\nReform UK is expected to release a detailed policy brief in the coming days, outlining the exact criteria, implementation timeline, and anticipated impact on waiting lists.\u202f[9] The policy will likely be debated in Parliament, with opposition parties and housing advocacy groups poised to scrutinise its legality and fairness.\u202f[9] Stakeholders will need to monitor the forthcoming legislative process and any judicial reviews that may arise.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/society/2026/aug/23/reform-social-housing-uk-citizens"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/society/2026/aug/23/reform-social-housing-uk-citizens",
-      "guid": "https://www.theguardian.com/society/2026/aug/23/reform-social-housing-uk-citizens"
-    },
-    "dw_a54b204b": {
-      "id": "dw_a54b204b",
-      "title": "Ukraine: UK Prime Minister Andy Burnham to visit Kyiv in show of support on Ukraine's Independence Day",
-      "category": "World",
-      "source": "dw",
-      "time": "2026-08-24T01:44:03",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://static.dw.com/image/78136299_6.jpg",
-      "content": "UK Prime Minister Andy\u202fBurnham will travel to Kyiv on Ukraine\u2019s 35th Independence Day to co\u2011chair a meeting of the country\u2019s main backers and meet President Volodymyr\u202fZelenskyy, marking his first trip abroad as head of government.[1]\n\nThe visit underscores Britain\u2019s continued support for Ukraine amid the ongoing conflict with Russia and signals the UK\u2019s commitment to the country\u2019s sovereignty and democratic future.[1]\n\nBurnham, the UK\u2019s new prime minister, will travel to Kyiv. [1] The trip will include a joint session with Ukraine\u2019s main backers. [1] He will also meet with President Volodymyr\u202fZelenskyy. [1] The visit coincides with Ukraine celebrating 35 years of independence from the Soviet Union. [1]\n\nUkraine declared independence from the Soviet Union in 1991, and its Independence Day is celebrated annually on August\u202f24.\n\nSince the 2014 annexation of Crimea by Russia and the 2022 full\u2011scale invasion, Ukraine has received extensive diplomatic and military support from Western nations.\n\nThe UK has been a key supporter, providing aid and sanctions against Russia.\n\nThe UK\u2019s policy toward Ukraine has evolved over the past decade, with the government pledging to support Ukraine\u2019s sovereignty and democratic institutions.\n\nBurnham\u2019s visit signals to Ukrainian officials and the international community that Britain remains a steadfast ally. [1] It also reinforces the UK\u2019s diplomatic engagement with Kyiv amid the war. [1] The meeting of Ukraine\u2019s main backers will likely discuss ongoing aid and strategic cooperation. [1]\n\nFor Ukrainian citizens, the visit may be perceived as a morale boost.\n\nFor the UK, the trip represents a diplomatic commitment and a demonstration of leadership in foreign policy.\n\nBurnham\u2019s participation in the meeting could influence the allocation of future aid and the coordination of sanctions against Russia.\n\nThe visit also underscores the importance of multilateral support for Ukraine, potentially encouraging other nations to deepen their engagement.\n\nObservers will look to the outcomes of the meeting, including any new pledges of support, and to the UK\u2019s subsequent policy announcements regarding Ukraine.\n\nBurnham's first trip abroad as prime minister underscores the importance the UK places on its relationship with Ukraine.[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Deutsche Welle",
-          "url": "https://www.dw.com/en/ukraine-uk-prime-minister-andy-burnham-to-visit-kyiv-in-show-of-support-on-ukraine-s-independence-day/live-78479580?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "original_url": "https://www.dw.com/en/ukraine-uk-prime-minister-andy-burnham-to-visit-kyiv-in-show-of-support-on-ukraine-s-independence-day/live-78479580?maca=en-rss-en-all-1573-rdf",
-      "guid": "https://www.dw.com/en/ukraine-uk-prime-minister-andy-burnham-to-visit-kyiv-in-show-of-support-on-ukraine-s-independence-day/live-78479580?maca=en-rss-en-all-1573-rdf"
-    },
     "bbc_42bf1e23": {
       "id": "bbc_42bf1e23",
       "title": "How easy is it to find an NHS dentist? It depends where you live",
@@ -15999,32 +15879,154 @@
       ],
       "original_url": "https://www.theguardian.com/society/2026/oct/03/cornell-gang-rape-me-too",
       "guid": "https://www.theguardian.com/society/2026/oct/03/cornell-gang-rape-me-too"
+    },
+    "googlenews_9923dbaa": {
+      "id": "googlenews_9923dbaa",
+      "title": "Aaron Judge left off Yankees' Division Series roster vs. Rays while he recover from calf strain - ABC News - Breaking News, Latest News and Videos",
+      "category": "Sports",
+      "source": "googlenews",
+      "time": "2026-10-03T20:53:10",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Aaron_Judge_posing_with_Donald_Trump_2025-09-11_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "Aaron Judge was left off the New\u202fYork Yankees\u2019 roster for the American League Division Series against the Tampa Bay Rays because he is still recovering from a calf strain.\u202f[1]\n\nThe decision removes one of the Yankees\u2019 most potent hitters from the lineup, raising questions about the team\u2019s offensive depth and strategy in the postseason.\u202f[1]\n\nIn a statement released before the series, the Yankees confirmed that Judge would not be on the 25\u2011man roster for the ALDS, citing a lingering calf injury that has prevented him from returning to play.\u202f[1]\n\nJudge, a three\u2011time MVP, has been sidelined by the injury, which has persisted despite rehabilitation efforts.\u202f[1]\n\nThe Yankees will face the Rays in the ALDS, with the series scheduled to begin shortly.\u202f[1]\n\nThe American League Division Series is the first round of the MLB postseason, featuring the top teams from each division.\n\nJudge has been a key player for the Yankees, known for his power hitting and defensive skills.\n\nCalf strains are common in baseball and can require several weeks of rest and rehabilitation.\n\nThe Yankees organization, including management and coaching staff, will need to adjust their lineup to compensate for Judge\u2019s absence.\n\nThe Rays, as the opposing team, will face a Yankees lineup missing one of its star players.\n\nWithout Judge, the Yankees may rely more heavily on other power hitters such as Giancarlo Stanton and Aaron Hicks.\n\nJudge\u2019s absence could also affect the team\u2019s morale and fan expectations.\n\nAnalysts suggest that the Yankees\u2019 chances of advancing may be reduced without Judge\u2019s offensive contributions.\n\nThe next steps include monitoring Judge\u2019s recovery progress and potential roster adjustments before the series begins.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNDdBNlEyblpMd0RNSXNDcGJJTG5uNjBsd2VqSWc3aExKX1h2LS10WDBYQklDZUNFY29GTHhUaEI4SklJUURZX1RWOXdMeTA0YVJvRFdZaDZwUlpuYm9QaUU1a2x2RlBRSzJUVzhJbGphUG04Tm1waUxtNWZRb1I3REF1TmxteWNFRVRieC13cmxxa2pPTmI2cURSRjF1RmPSAaQBQVVfeXFMUFFBSWcya0wxbnFmYmRleGFkaU5wMW14NFRpdDR0bUFteHVsZlBOZW1DMC1BTW9CdFlMRjBGZlRMUFAteHU2VnlyVkFXQUw4OTFFS2doZDRXY212ai1GRU9la2FFeFRoa1RQX3V2bS1BSWJuWVZMMHZSczBUejVEc3RScFNUSlRnYzBpcDJJb1RkVDhKTm90RzlnZkZGRWpfem85Tnc?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNDdBNlEyblpMd0RNSXNDcGJJTG5uNjBsd2VqSWc3aExKX1h2LS10WDBYQklDZUNFY29GTHhUaEI4SklJUURZX1RWOXdMeTA0YVJvRFdZaDZwUlpuYm9QaUU1a2x2RlBRSzJUVzhJbGphUG04Tm1waUxtNWZRb1I3REF1TmxteWNFRVRieC13cmxxa2pPTmI2cURSRjF1RmPSAaQBQVVfeXFMUFFBSWcya0wxbnFmYmRleGFkaU5wMW14NFRpdDR0bUFteHVsZlBOZW1DMC1BTW9CdFlMRjBGZlRMUFAteHU2VnlyVkFXQUw4OTFFS2doZDRXY212ai1GRU9la2FFeFRoa1RQX3V2bS1BSWJuWVZMMHZSczBUejVEc3RScFNUSlRnYzBpcDJJb1RkVDhKTm90RzlnZkZGRWpfem85Tnc?oc=5",
+      "guid": "CBMinwFBVV95cUxNNDdBNlEyblpMd0RNSXNDcGJJTG5uNjBsd2VqSWc3aExKX1h2LS10WDBYQklDZUNFY29GTHhUaEI4SklJUURZX1RWOXdMeTA0YVJvRFdZaDZwUlpuYm9QaUU1a2x2RlBRSzJUVzhJbGphUG04Tm1waUxtNWZRb1I3REF1TmxteWNFRVRieC13cmxxa2pPTmI2cURSRjF1RmPSAaQBQVVfeXFMUFFBSWcya0wxbnFmYmRleGFkaU5wMW14NFRpdDR0bUFteHVsZlBOZW1DMC1BTW9CdFlMRjBGZlRMUFAteHU2VnlyVkFXQUw4OTFFS2doZDRXY212ai1GRU9la2FFeFRoa1RQX3V2bS1BSWJuWVZMMHZSczBUejVEc3RScFNUSlRnYzBpcDJJb1RkVDhKTm90RzlnZkZGRWpfem85Tnc"
+    },
+    "france24_51c66a17": {
+      "id": "france24_51c66a17",
+      "title": "Lula and Bolsonaro make final push for votes ahead of Brazil's knife-edge election",
+      "category": "World",
+      "source": "france24",
+      "time": "2026-10-03T20:53:51",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://s.france24.com/media/display/4ae32c90-bf62-11f1-bcb8-dd51fcab6130/w:1024/p:16x9/2026-10-03T181839Z-337218467-RC2QVNAP2RHU-RTRMADP-3-BRAZIL-ELECTION-LULA.jpg",
+      "content": "Brazil's President Luiz Inacio Lula da Silva and his main challenger Flavio Bolsonaro wrapped up their campaigns on Saturday in the powerhouse state of Sao\u202fPaulo.\u202f[1] Sao\u202fPaulo accounts for a fifth of the nation's vote.\u202f[1] The final push aimed to rally supporters and convince the undecided on the eve of Sunday's nail\u2011biter election.\u202f[1]\n\nThe election, scheduled for Sunday, is expected to be one of the closest in recent Brazilian history.\n\nBoth candidates have focused on the state's economic and social issues, hoping to sway the large electorate.\n\nLula, who has been in office since 2003, seeks a third term, while Bolsonaro, a former army officer, has positioned himself as a conservative alternative.\n\nSao\u202fPaulo, the country's largest state, has historically been a bellwether for national politics.\n\nCampaigns in Sao\u202fPaulo often involve large rallies, media appearances, and targeted outreach to key demographic groups.\n\nThe outcome in Sao\u202fPaulo could determine the overall result, given its weight in the electoral college.\n\nObservers note that the final days of campaigning are critical for undecided voters, many of whom have expressed concerns about economic stability and public security.\n\nIf Lula secures a majority in Sao\u202fPaulo, he would likely win the presidency, but a Bolsonaro victory could signal a shift toward more conservative policies.\n\nThe close race may prompt post\u2011election legal challenges, as seen in previous elections.\n\nElection officials will begin counting ballots on Sunday, with results expected to be announced in the early hours of Monday.\n\nInternational observers will monitor the process to ensure transparency and fairness.\n\nThe next week will see the formation of a new administration and potential policy shifts.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "France 24",
+          "url": "https://www.france24.com/en/americas/20261003-lula-and-bolsonaro-make-final-push-for-votes-ahead-of-brazil-s-knife-edge-election"
+        }
+      ],
+      "original_url": "https://www.france24.com/en/americas/20261003-lula-and-bolsonaro-make-final-push-for-votes-ahead-of-brazil-s-knife-edge-election",
+      "guid": "7139ccce-bf61-11f1-a668-8511c6a54966"
+    },
+    "googlenews_2d47a392": {
+      "id": "googlenews_2d47a392",
+      "title": "Braves go with Dodd to open NLDS against Dodgers - MLB.com",
+      "category": "Sports",
+      "source": "googlenews",
+      "time": "2026-10-03T20:54:13",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/3840px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "The Atlanta Braves have selected Dylan\u202fDodd to start Game\u202f1 of the National League Division Series against the Los\u202fAngeles Dodgers.\u202f[1] The first matchup of the best\u2011of\u2011five series will take place in Los\u202fAngeles, where the Dodgers\u2019 home crowd is already bracing for record heat.\u202f[1]\n\nThe opening game is a high\u2011stakes contest that will determine which club advances to the National League Championship Series.\u202fThe Braves\u2019 decision to hand the ball to Dodd signals confidence in his recent performance and a strategy to counter the Dodgers\u2019 potent lineup.\u202fThe weather, with triple\u2011digit temperatures forecast for the Los\u202fAngeles area, adds an extra layer of challenge for both teams.\u202f[1]\n\nDodd\u2019s assignment follows a discussion among Braves\u2019 front\u2011office and coaching staff, including manager Walt\u202fWeiss, pitcher Brent\u202fSuter, and veteran infielder Lane\u202fThomas, who reviewed lineups, openers, and the impact of the heat on the game plan.\u202f[1] Their conversation highlighted the importance of a strong start and the need to manage player stamina in extreme conditions.\n\nA preview published by the New\u202fYork\u202fTimes described the series as a clash of star power and noted bold predictions for the outcome, underscoring the high expectations surrounding both clubs.\u202f[1]\n\nThe National League Division Series is the first round of the MLB postseason, featuring the three division winners and the winner of the wild\u2011card game in each league.\u202fEach matchup is a best\u2011of\u2011five series, with the higher seed hosting Games\u202f1,",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSjFjTXg1UmpnNFBCOFRBeXMxMUVadHVsZEs0dmx0S1JlQnhOZGRHbmRaWV9LM3BMTFdjWTR3QkFTWGhxU1V0aVlwUmNPVTFVZGktbXE5NlVmQWUyRnlDY0hEUzFPeXpJY0FlSFFucVZVYWl2M0JxNUhqWHdycmM3aG9lRDhDUmhqRnk3WVoyVdIBmwFBVV95cUxOY0FZN3RGLW5tUWp3R1ZIOXZqTXJwNkJIaHNobTVJdEN6b3dMaXV2TWVBaWw1bHczZ2FRSHEwMVFkQkktWmVlVmRLb0tvZGx2eHU4cUlUVUpoY0NzLU5qRDN4LWdwSEQyRVFOanBOTmFBNE9xME1sWUZuVndEMC14aUZPemtJUnQ1MW9iV0ZDWGdvcDVfbWtRVkM5OA?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSjFjTXg1UmpnNFBCOFRBeXMxMUVadHVsZEs0dmx0S1JlQnhOZGRHbmRaWV9LM3BMTFdjWTR3QkFTWGhxU1V0aVlwUmNPVTFVZGktbXE5NlVmQWUyRnlDY0hEUzFPeXpJY0FlSFFucVZVYWl2M0JxNUhqWHdycmM3aG9lRDhDUmhqRnk3WVoyVdIBmwFBVV95cUxOY0FZN3RGLW5tUWp3R1ZIOXZqTXJwNkJIaHNobTVJdEN6b3dMaXV2TWVBaWw1bHczZ2FRSHEwMVFkQkktWmVlVmRLb0tvZGx2eHU4cUlUVUpoY0NzLU5qRDN4LWdwSEQyRVFOanBOTmFBNE9xME1sWUZuVndEMC14aUZPemtJUnQ1MW9iV0ZDWGdvcDVfbWtRVkM5OA?oc=5",
+      "guid": "CBMijwFBVV95cUxPSjFjTXg1UmpnNFBCOFRBeXMxMUVadHVsZEs0dmx0S1JlQnhOZGRHbmRaWV9LM3BMTFdjWTR3QkFTWGhxU1V0aVlwUmNPVTFVZGktbXE5NlVmQWUyRnlDY0hEUzFPeXpJY0FlSFFucVZVYWl2M0JxNUhqWHdycmM3aG9lRDhDUmhqRnk3WVoyVdIBmwFBVV95cUxOY0FZN3RGLW5tUWp3R1ZIOXZqTXJwNkJIaHNobTVJdEN6b3dMaXV2TWVBaWw1bHczZ2FRSHEwMVFkQkktWmVlVmRLb0tvZGx2eHU4cUlUVUpoY0NzLU5qRDN4LWdwSEQyRVFOanBOTmFBNE9xME1sWUZuVndEMC14aUZPemtJUnQ1MW9iV0ZDWGdvcDVfbWtRVkM5OA"
+    },
+    "csmonitor_b2e93d0a": {
+      "id": "csmonitor_b2e93d0a",
+      "title": "My life sentence? Diagramming.",
+      "category": "World",
+      "source": "csmonitor",
+      "time": "2026-10-03T20:54:49",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://images.csmonitor.com/csm/2026/10/1220036_1_USENTENCE_standard.jpg?alias=standard_900x600",
+      "content": "A student discovered that diagramming sentences can transform grammar from tedious homework into a puzzle that reveals the underlying architecture of language. The piece is a personal narrative. [1]\n\nThe shift illustrates how teaching methods can reshape students\u2019 attitudes toward language learning and suggests potential benefits for educators seeking to engage learners. [1]\n\nThe article recounts how the student began diagramming clauses, breaking them into subject, predicate, and modifiers, and found that this process clarified the relationships within sentences. [1]\n\nThe student noted that the exercise made grammar feel less like a chore and more like a problem to solve, turning the classroom into a space of discovery. [1]\n\nSentence diagramming is a visual representation of grammatical structure that has been used in classrooms for over a century. It involves drawing a diagram that shows the grammatical components of a sentence, often using lines and boxes to represent parts of speech and their relationships.\n\nThe method helps learners see how words function together, making abstract grammatical rules concrete. By mapping out clauses, students can identify subjects, verbs, objects, and modifiers in a way that is often more intuitive than traditional textbook explanations.\n\nFor students, diagramming can improve comprehension and writing skills by making the mechanics of sentence construction visible. For teachers, it offers a tool to illustrate complex grammatical concepts and to assess students\u2019 understanding of syntax.\n\nIf more educators adopt diagramming, students may develop stronger analytical skills and a deeper appreciation for language structure, potentially influencing curriculum design and instructional strategies.\n\nEducators may explore integrating diagramming into digital platforms, and future research could assess its impact on student outcomes, offering a clearer picture of how visual grammar tools affect learning.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Christian Science Monitor",
+          "url": "https://www.csmonitor.com/The-Home-Forum/2026/1003/sentence-language-diagram?icid=rss"
+        }
+      ],
+      "original_url": "https://www.csmonitor.com/The-Home-Forum/2026/1003/sentence-language-diagram?icid=rss",
+      "guid": "33868d713f5ad8e8e060bdc78215df80"
+    },
+    "bbc_6ec0c0e1": {
+      "id": "bbc_6ec0c0e1",
+      "title": "Greens would offer two-year jobs to unemployed under-24s",
+      "category": "Politics",
+      "source": "bbc",
+      "time": "2026-10-03T20:55:06",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0ad/live/a0ceddd0-bf1b-11f1-9b47-174f268aae1d.jpg",
+      "content": "The Greens have announced a new initiative that would give unemployed people under the age of 24 two\u2011year job contracts, a move aimed at tackling the country\u2019s rising youth unemployment. [1]\n\nThe proposal is part of the party\u2019s broader strategy to address the economic challenges faced by young people, a demographic that has seen a steady rise in joblessness and a growing sense of disillusionment.\n\nAt the party\u2019s conference, co\u2011deputy leader Mothin Ali told attendees that many young people feel \u201cbored, desperate and lost.\u201d [1] He used the conference as a platform to highlight the urgency of the issue and to introduce the two\u2011year job scheme. [1]\n\nUnder the plan, the Greens would offer formal employment contracts lasting two years to those under 24 who are currently without work. The contracts would be designed to provide practical experience, skill development and a clear pathway to longer\u2011term employment. [1]\n\nThe Greens have long championed policies that support youth employment and social welfare. Their platform traditionally emphasizes the importance of early career opportunities and the role of government in creating a supportive environment for young workers.\n\nYouth unemployment has been a persistent problem in the region, with many young people reporting a lack of opportunities and a feeling of being left behind. The new scheme seeks to address this gap by providing structured work experiences that could help bridge the transition from education to the labour market.\n\nKey stakeholders in the proposal include the unemployed under\u201124 population, potential employers who would host the young workers, the Greens party itself, and the broader government that would need to allocate resources for the program. The initiative could reduce the burden on social services by providing an alternative to welfare support.\n\nIf adopted, the scheme could create thousands of temporary jobs and give young people valuable work experience. However, it would also require significant funding and coordination with the private sector to ensure that the roles are meaningful and that employers are willing to take on new staff for a limited period.\n\nThe proposal is likely to shift the political conversation around youth unemployment, prompting debates about the feasibility and cost of such a program. Critics may question whether the two\u2011year timeframe is sufficient to produce lasting employment outcomes and whether the scheme could be scaled to meet national demand.\n\nThe Greens will debate the policy at the upcoming party meeting, with a vote scheduled for the end of the month. The outcome of that vote will determine whether the two\u2011year job scheme becomes part of the party\u2019s official platform and whether it will be presented to the public as a concrete policy option.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo#0"
+    },
+    "pbs_c620eba2": {
+      "id": "pbs_c620eba2",
+      "title": "Inside the study for a remedy to fight Congo's deadliest Ebola outbreak",
+      "category": "News",
+      "source": "pbs",
+      "time": "2026-10-03T20:56:06",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/AP26274646476425-1024x683.jpg",
+      "content": "A new drug trial targeting Bundibugyo virus has begun in the Democratic Republic of Congo to address the fastest\u2011moving Ebola outbreak in the country [1].\n\nThe study is part of a broader effort to find treatments for an outbreak that has no approved vaccine or therapy, underscoring the urgency for new medical interventions [1].\n\nThe trial started in July, enrolling patients infected with Bundibugyo virus, a strain responsible for the current outbreak. The drug is designed to target the virus directly, and it is one of several studies launched to provide protection and slow spread [1].\n\nEbola virus disease is caused by several filoviruses, including the Bundibugyo strain first identified in 2007. The virus can cause severe hemorrhagic fever with high mortality rates, and outbreaks often spread rapidly in rural communities with limited healthcare infrastructure.\n\nBundibugyo virus has historically been less studied than other strains such as Zaire or Sudan, leading to gaps in approved medical countermeasures. Because of this, no vaccine or treatment has been licensed specifically for Bundibugyo infections.\n\nThe Democratic Republic of Congo has experienced multiple Ebola outbreaks, with the most recent one in 2023\u20132024 being the largest in the country. The outbreak has drawn international attention due to its speed and the lack of existing therapeutic options.\n\nThe trial involves patients in affected regions, local health workers, and international agencies such as the World Health Organization and M\u00e9decins Sans Fronti\u00e8res. These organizations coordinate surveillance, case management, and community engagement to curb transmission.\n\nCommunities in the outbreak area face high risk of infection and mortality, and the absence of approved treatments heightens fear and uncertainty. Rapid development of effective therapies is therefore a priority for public health officials.\n\nIf the drug proves effective, it could become a critical tool for managing Bundibugyo outbreaks, potentially reducing case numbers and mortality. A successful treatment would also provide a template for responding to future filovirus threats.\n\nHowever, the trial\u2019s success depends on enrollment, safety data, and regulatory approval, and there remains uncertainty about how quickly results will be available. Even a modest therapeutic benefit could shift the balance of care in resource\u2011constrained settings.\n\nThe trial will continue to enroll patients and monitor outcomes, with interim analyses planned to assess safety and preliminary efficacy. The study\u2019s progress will inform future treatment protocols and policy decisions.\n\nThe international community remains focused on supporting research and response efforts to curb the outbreak and protect vulnerable populations.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/health/inside-the-study-for-a-remedy-to-fight-congos-deadliest-ebola-outbreak"
+        }
+      ],
+      "original_url": "https://www.pbs.org/newshour/health/inside-the-study-for-a-remedy-to-fight-congos-deadliest-ebola-outbreak",
+      "guid": "https://www.pbs.org/newshour/health/inside-the-study-for-a-remedy-to-fight-congos-deadliest-ebola-outbreak"
     }
   },
   "featured": {
-    "hero": "bbc_999078b7",
+    "hero": "googlenews_9923dbaa",
     "stack": [
-      "conversation_7b8520c6",
-      "guardian_2f4d5ba2",
-      "npr_4205a3a2"
+      "france24_51c66a17",
+      "googlenews_2d47a392",
+      "csmonitor_b2e93d0a"
     ],
     "latest": [
+      "csmonitor_b2e93d0a",
+      "googlenews_2d47a392",
+      "france24_51c66a17",
+      "bbc_999078b7",
       "npr_4205a3a2",
-      "guardian_2f4d5ba2",
-      "conversation_7b8520c6",
-      "pbs_8213fd83",
-      "afp_792794b0",
-      "straitstimes_62fb2147"
+      "guardian_2f4d5ba2"
     ],
     "world": [
+      "france24_51c66a17",
+      "csmonitor_b2e93d0a",
       "guardian_2f4d5ba2",
-      "straitstimes_31bc455d",
-      "straitstimes_62fb2147",
-      "afp_792794b0"
+      "straitstimes_31bc455d"
     ]
   },
   "categoryIndex": {
     "News": [
+      "pbs_c620eba2",
+      "pbs_8213fd83",
       "npr_c9721ab8",
       "snopes_daed3c79",
       "snopes_21cdbfde",
@@ -16032,11 +16034,11 @@
       "pbs_9bafc0b0",
       "ap_4186ae77",
       "snopes_01847732",
-      "npr_7d960b6e",
-      "snopes_25f931cf",
-      "snopes_2be5c515"
+      "npr_7d960b6e"
     ],
     "World": [
+      "afp_792794b0",
+      "straitstimes_62fb2147",
       "straitstimes_31bc455d",
       "japantimes_f04bc114",
       "abcau_35e7a116",
@@ -16044,11 +16046,10 @@
       "csmonitor_a8b08077",
       "japantimes_20c5d404",
       "dw_db70e71e",
-      "straitstimes_8e1d341f",
-      "abcau_7e7c3eed",
-      "reuters_a7c2091a"
+      "straitstimes_8e1d341f"
     ],
     "Politics": [
+      "bbc_6ec0c0e1",
       "guardian_5ffe2ef2",
       "guardian_5aa27fc3",
       "guardian_5d90d037",
@@ -16057,8 +16058,7 @@
       "guardian_fa09d438",
       "bbc_9184c85c",
       "bbc_5e4edf53",
-      "guardian_a6b4c094",
-      "guardian_d115a405"
+      "guardian_a6b4c094"
     ],
     "Sports": [
       "googlenews_8e05048d",
@@ -16085,6 +16085,7 @@
       "guardian_dac99750"
     ],
     "Science": [
+      "conversation_7b8520c6",
       "npr_9fb9d91f",
       "berkeleyuniv_c9750b18",
       "npr_7a0fdbff",
@@ -16093,8 +16094,7 @@
       "conversation_47c00ebc",
       "conversation_d7240965",
       "bbc_e34bd557",
-      "berkeleyuniv_1ad2f02b",
-      "nature_8cb21470"
+      "berkeleyuniv_1ad2f02b"
     ],
     "Business": [
       "googlenews_bd560b79",
@@ -16109,7 +16109,7 @@
       "googlenews_075e0c23"
     ]
   },
-  "breaking": "Libyan unity talks upended as warlord\u2019s son linked to drone attacks on fuel facilities",
+  "breaking": "Lula and Bolsonaro make final push for votes ahead of Brazil's knife-edge election",
   "events": [
     {
       "title": "Safeguards 'build a moat' around US AI firms, prevent open-source models from ad",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
+    "Aaron Judge left off Yankees' Division Series roster vs. Rays while he recover f",
+    "Lula and Bolsonaro make final push for votes ahead of Brazil's knife-edge electi",
     "A toddler\u2019s wobbly walk, hand tremors send parents on a medical journey - The Wa",
-    "Could El Ni\u00f1o mean there are no Atlantic hurricanes this year?",
-    "Could the International Space Station win a Nobel Peace Prize? Here's what to kn",
-    "Hunter-gatherer societies are often put on a pedestal as paragons of equality \u2013 "
+    "Could El Ni\u00f1o mean there are no Atlantic hurricanes this year?"
   ]
 }
