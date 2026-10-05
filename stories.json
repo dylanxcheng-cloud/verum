@@ -1,105 +1,5 @@
 {
   "stories": {
-    "npr_33350b19": {
-      "id": "npr_33350b19",
-      "title": "Lab-grown organoids are living longer \u2014 offering new insight into the human brain",
-      "category": "Science",
-      "source": "npr",
-      "time": "2026-08-25T01:39:31",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "content": "A new study in *Nature* reports that lab\u2011grown brain organoids can now survive longer than ever before, setting a new lifespan record. [1]\n\nThe finding matters because organoids are key tools for studying brain development and disease; longer viability could improve research fidelity and therapeutic testing. [1]\n\nThe research team, published in *Nature*, demonstrated that organoids derived from human cells in petri dishes lived longer than previously documented. [1] The study\u2019s authors noted the extended lifespan, though specific duration is not disclosed in the summary. [1]\n\nOrganoids are three\u2011dimensional clusters of cells grown from stem cells that self\u2011organize into structures resembling organs. They are commonly used to model human brain development, neurodegenerative diseases, and drug responses.\n\nThe technique involves culturing stem cells in a matrix that supports growth and differentiation, allowing the cells to form layered structures that mimic the architecture of the brain.\n\nScientists in neuroscience, pharmacology, and regenerative medicine rely on organoids for in\u2011vitro experiments. The longer lifespan may benefit studies of late\u2011stage disease progression and long\u2011term drug effects.\n\nThe extended viability also raises questions about the ethical considerations of creating increasingly lifelike brain tissue outside the body.\n\nWith organoids lasting longer, scientists can observe developmental processes over extended periods, potentially revealing new insights into brain maturation and pathology.\n\nThe study does not provide details on how the extended lifespan might affect the organoids\u2019 fidelity to actual brain tissue, leaving questions for future research.\n\nFuture publications will likely detail the exact duration achieved, the methods used to extend viability, and how the findings influence ongoing research protocols. Researchers and funding agencies will monitor how this development shapes the next generation of brain models.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "NPR",
-          "url": "https://www.npr.org/2026/08/24/nx-s1-5939537/lab-grown-organoids-are-living-longer-offering-new-insight-into-the-human-brain"
-        }
-      ],
-      "original_url": "https://www.npr.org/2026/08/24/nx-s1-5939537/lab-grown-organoids-are-living-longer-offering-new-insight-into-the-human-brain",
-      "guid": "https://www.npr.org/2026/08/24/nx-s1-5939537/lab-grown-organoids-are-living-longer-offering-new-insight-into-the-human-brain"
-    },
-    "irishtimes_44b72575": {
-      "id": "irishtimes_44b72575",
-      "title": "\u2018The Swiss Army knife of the school\u2019: Principals report burnout due to heavy workloads",
-      "category": "World",
-      "source": "irishtimes",
-      "time": "2026-08-25T01:40:10",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://www.irishtimes.com/resizer/v2/YQNV3Q36VBELJJKPHII24QCCFQ.JPG?auth=c8f0f9c9ed263011c17b2f1ccefb3c34669f8952f2a6285096dbd6ff838f6f2c&smart=true&width=630&height=350",
-      "content": "Principals across the country are reporting burnout, a trend that has drawn attention to the heavy workloads they carry and the unrealistic expectations set by the Department of Education. The findings come from a recent DCU study that highlighted these pressures as key contributors to leader fatigue. [1]\n\nThe issue matters because school leaders play a central role in shaping educational environments. When principals struggle with burnout, the ripple effects can touch teachers, students, parents, and the broader community, potentially undermining instructional quality and school stability.\n\nThe DCU study documented that principals attribute their burnout to the sheer volume of tasks they must juggle, from administrative duties to instructional oversight and community engagement. It also identified unrealistic expectations from the Department of Education as a significant factor. [1] The study\u2019s title, \u201cThe Swiss Army knife of the school,\u201d underscores the multiplicity of roles that principals are expected to perform.\n\nIn general, principals are often described as the \u201cSwiss Army knife\u201d of a school because they must manage a wide array of responsibilities. This metaphor reflects the reality that leaders are called upon to act as administrators, teachers, counselors, and public relations figures all at once. The study\u2019s findings suggest that this breadth of duty, coupled with external pressures, can lead to chronic stress and burnout.\n\nStakeholders most directly affected include the principals themselves, who face the day\u2011to\u2011day demands of their roles. Teachers may experience the consequences of a leader\u2019s fatigue through reduced support and guidance. Students could see indirect impacts through changes in school climate and instructional continuity. Parents and the wider community may also feel the effects of a strained leadership structure.\n\nThe implications of the study point to a need for systemic change. If the Department of Education\u2019s expectations are contributing to burnout, revising those expectations could help alleviate pressure on principals. Adjusting workload distribution and providing targeted support could improve leader well\u2011being and, by extension, school performance.\n\nWhat to watch next is the Department of Education\u2019s response. Potential actions include revising guidelines, offering professional development focused on workload management, and implementing support mechanisms for school leaders. The next steps will likely involve further research to refine understanding of burnout drivers and to evaluate the effectiveness of any policy changes.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Irish Times",
-          "url": "https://www.irishtimes.com/ireland/education/2026/08/25/the-swiss-army-knife-of-the-school-significant-majority-of-principals-report-burnout/"
-        }
-      ],
-      "original_url": "https://www.irishtimes.com/ireland/education/2026/08/25/the-swiss-army-knife-of-the-school-significant-majority-of-principals-report-burnout/",
-      "guid": "https://www.irishtimes.com/ireland/education/2026/08/25/the-swiss-army-knife-of-the-school-significant-majority-of-principals-report-burnout/"
-    },
-    "snopes_ac9c6bbf": {
-      "id": "snopes_ac9c6bbf",
-      "title": "Posts claim Texas Roadhouse servers contaminated Black customers' food. Here's what we know",
-      "category": "News",
-      "source": "snopes",
-      "time": "2026-08-25T01:40:40",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/08/texas_logans_roadhouse_getty.jpg",
-      "content": "A rumor circulating on social media claims that servers at Texas\u202fRoadhouse restaurants conspired to contaminate food served to Black customers. The posts allege that employees coordinated in a large Facebook group and that they licked their fingers and touched or spat on the food before serving it. [1]\n\nThe allegation, if accurate, would raise serious concerns about racial discrimination and violations of food\u2011safety standards. It has attracted attention from diners, advocacy groups, and the media, prompting calls for an investigation. [1]\n\nAccording to the posts, the alleged conspiracy involved a sizable Facebook group where employees supposedly shared instructions and encouragement. The group was described as \u201clarge,\u201d but no membership numbers or screenshots were provided. [1]\n\nThe posts do not name specific locations, dates, or individual employees. They also do not include any evidence such as photographs, videos, or corroborating testimony. The rumor has not been confirmed by any official statements from Texas\u202fRoadhouse or from local health authorities. [1]\n\nTexas\u202fRoadhouse is a chain of steakhouse restaurants that serves a diverse customer base across the United States. The company has built a reputation for quality food and service, and it operates under the same health\u2011code regulations that apply to all food\u2011service establishments. [general]\n\nFood\u2011service regulations require servers to maintain strict hygiene practices. Licking fingers or spitting on food would constitute a violation of health codes and could expose patrons to serious health risks. [general]\n\nThe alleged Facebook group, as described in the rumor, would have provided a platform for employees to share instructions and possibly coordinate the alleged misconduct. No details are available about the group\u2019s content, membership, or the extent of its influence. [1]\n\nThe primary stakeholders in this situation are the customers, particularly Black patrons who may feel targeted or unsafe. Employees could face scrutiny from their employer and from regulators, while the company\u2019s reputation and financial performance could be impacted by the allegations. [general]\n\nIf the allegations were proven, the chain could face investigations by health departments, potential civil\u2011rights lawsuits, and damage to its brand. The company might also be required to implement additional training or disciplinary measures for staff. [general]\n\nThe rumor underscores how quickly unverified claims can spread online and the potential for reputational harm when allegations are not substantiated. It also highlights the importance of verifying information before sharing it publicly. [analysis]\n\nTexas\u202fRoadhouse has not yet issued a statement regarding the allegations. The chain may launch an internal review or cooperate with external investigations. The next steps will likely involve monitoring the situation, gathering evidence, and determining whether any formal action is warranted. [analysis]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Snopes",
-          "url": "https://www.snopes.com/news/2026/08/24/texas-roadhouse-spitting-scandal-claims/"
-        }
-      ],
-      "original_url": "https://www.snopes.com/news/2026/08/24/texas-roadhouse-spitting-scandal-claims/",
-      "guid": "https://www.snopes.com/news/2026/08/24/texas-roadhouse-spitting-scandal-claims/"
-    },
-    "ap_09593c58": {
-      "id": "ap_09593c58",
-      "title": "Trump moves toward levying new tariff on China for flooding market with cheap goods, AP sources say - AP News",
-      "category": "News",
-      "source": "ap",
-      "time": "2026-08-25T01:41:08",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%2815%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27615%27%20cy%3D%2791%27%20r%3D%27140%27%20fill%3D%27hsl%2855%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Trump is reportedly moving toward levying a new tariff on China for flooding the U.S. market with cheap goods, according to AP sources. The administration\u2019s decision would add to a series of trade measures aimed at addressing perceived unfair practices by China. [1]\n\nThe potential tariff could reshape the already tense trade relationship between the United States and China, affecting manufacturers, consumers, and global supply chains. It signals a continued willingness by the Trump administration to use trade policy as a tool to protect domestic industries and to pressure China on intellectual property and market access issues.\n\nThe move is being considered by officials in the White House and the U.S. Trade Representative\u2019s office, though no specific tariff rate or list of targeted products has been announced. The administration has not yet set a timetable for implementation, and the proposal remains in the early stages of deliberation.\n\nThe United States has a long history of using tariffs to influence trade partners. Since the 1970s, tariffs have been applied to a range of goods to protect domestic producers or to correct trade imbalances. The U.S. has also used tariffs to address concerns about intellectual property theft and forced technology transfers. These measures are typically justified by the administration as necessary to level the playing field for American businesses.\n\nTariffs work by imposing a duty on imported goods, raising their price in the domestic market. This can make foreign products less competitive, encouraging consumers to buy domestically produced alternatives. The mechanism also signals to foreign producers that the importing country is serious about protecting its industries. The effectiveness of tariffs depends on the elasticity of demand for the affected goods and the ability of domestic producers to meet demand.\n\nAmerican manufacturers in sectors such as electronics, textiles, and machinery stand to benefit from higher tariffs on Chinese imports. These firms often compete with low\u2011cost Chinese products that have dominated U.S. markets for years. By raising the cost of Chinese goods, tariffs could reduce imports and give U.S. producers a larger share of the market.\n\nConsumers, however, could face higher prices for a wide range of products. Many everyday items\u2014from clothing to kitchen appliances\u2014are sourced from China. A tariff would increase the cost of these goods, potentially leading to higher retail prices and reduced purchasing power for American households.\n\nChinese exporters would likely experience a decline in sales to the United States, the world\u2019s largest market for many of their products. The tariff could also trigger retaliatory measures from China, such as tariffs on U.S. agricultural products or restrictions on American technology companies. Such a tit\u2011for\u2011tat escalation could widen the trade war and increase uncertainty for businesses on both sides.\n\nThe broader U.S.-China relationship could be strained further by the new tariff. Trade policy is a key lever in the administration\u2019s broader strategy to address issues ranging from human rights to national security. A tariff could be seen as a signal of the U.S. willingness to confront China on multiple fronts, potentially prompting diplomatic negotiations or further economic pressure.\n\nAnalysts suggest that the effectiveness of the tariff will depend on its scope and the response of Chinese firms. If the tariff is narrowly targeted, Chinese producers may find alternative markets or adjust their supply chains. A broad tariff could disrupt global supply chains, forcing companies to source from other countries or invest in domestic production.\n\nThe next steps will involve formal proposals from the U.S. Trade Representative and potential consultations with Congress, which must approve any new tariff measures. The administration will also need to coordinate with industry groups and other stakeholders to assess the economic impact. The timeline for these actions remains unclear, and the outcome will hinge on political and economic pressures.\n\nObservers will watch for official announcements from the White House and the U.S. Trade Representative\u2019s office in the coming weeks. Key questions include the specific goods targeted, the tariff rate, and the legal basis for the measure. The decision will also influence how other countries respond to U.S. trade policy and could set a precedent for future trade disputes.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQk12QTBQMWIwcnlxcmRTX2ZxRjhxZl9NN1BnTXVGRTcyLUJxclhTZlluRHd6MlVJUHd4U2tFNVVnTHlIbzdHWk9sSVdnSlZBUGVRWEFodWFaVTFyZE8xS3phSDZwdFltb0hOZ0pPQ3pGSzU3ZElYQm42ZzlOTUhDazJWeEhZNkNQWnE3T1F0QUtqaGFFQUtjTUYxQS0?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQk12QTBQMWIwcnlxcmRTX2ZxRjhxZl9NN1BnTXVGRTcyLUJxclhTZlluRHd6MlVJUHd4U2tFNVVnTHlIbzdHWk9sSVdnSlZBUGVRWEFodWFaVTFyZE8xS3phSDZwdFltb0hOZ0pPQ3pGSzU3ZElYQm42ZzlOTUhDazJWeEhZNkNQWnE3T1F0QUtqaGFFQUtjTUYxQS0?oc=5",
-      "guid": "CBMinAFBVV95cUxQQk12QTBQMWIwcnlxcmRTX2ZxRjhxZl9NN1BnTXVGRTcyLUJxclhTZlluRHd6MlVJUHd4U2tFNVVnTHlIbzdHWk9sSVdnSlZBUGVRWEFodWFaVTFyZE8xS3phSDZwdFltb0hOZ0pPQ3pGSzU3ZElYQm42ZzlOTUhDazJWeEhZNkNQWnE3T1F0QUtqaGFFQUtjTUYxQS0"
-    },
-    "pbs_c9ccfde4": {
-      "id": "pbs_c9ccfde4",
-      "title": "Canada will announce retaliatory tariffs against U.S. on Tuesday, official tells AP",
-      "category": "News",
-      "source": "pbs",
-      "time": "2026-08-25T01:41:11",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-23T214710Z_279035158_RC2R3NAHQYVU_RTRMADP_3_USA-TRUMP-TARIFFS-CANADA-1024x693.jpg",
-      "content": "Canada will announce retaliatory tariffs against the United States on Tuesday, an official familiar with the plans told The Associated Press, escalating a trade fight that has sharply worsened since negotiations with the Trump administration collapsed.\u202f[1]\n\nThe move signals a new phase in the long\u2011standing trade dispute between the two North American neighbors. The tariffs could affect a range of goods, from agricultural products to manufactured goods, and may influence the broader North American Free Trade Agreement (NAFTA) and its successor, the USMCA. The announcement comes amid rising tensions over steel, aluminum, and other sectors.\n\nThe Canadian government is set to unveil a list of tariffs on Tuesday, according to an official familiar with the plans who spoke to AP. The official did not disclose the specific products or rates that will be applied. The announcement follows a series of U.S. tariffs imposed on Canadian goods in 2018 and 2019, which Canada has challenged in international courts.\u202f[1]\n\nCanada and the United States trade more than $600\u202fbillion annually, making their relationship the largest bilateral trade partnership in the world. The USMCA, which replaced NAFTA in 2020, includes provisions for tariff reductions and dispute resolution. However, the Trump administration\u2019s trade policy, which included tariffs on steel and aluminum, sparked a series of retaliatory measures by Canada and other partners.\n\nThe trade fight began in 2018 when the U.S. imposed tariffs on Canadian steel and aluminum, citing national security concerns. Canada responded by imposing its own tariffs on U.S. goods and filing a complaint with the World Trade Organization. The dispute escalated as the U.S. broadened its tariffs to other Canadian products, and Canada sought to protect its domestic industries.\n\nCanadian farmers, manufacturers, and exporters could face higher costs if the tariffs are applied to U.S. goods such as soybeans, automobiles, and machinery. U.S. businesses that rely on Canadian supply chains may also feel the impact. Consumers in both countries could see higher prices for imported goods. The specific sectors affected remain unclear until the tariffs are announced.\n\nThe Canadian government has indicated that the tariffs will be targeted to address specific grievances, but it has not yet outlined the legal basis for the measures. The trade dispute has already strained diplomatic relations, with both sides engaging in public statements and legal challenges.\n\nAnalysts suggest that the new tariffs could trigger further escalation, potentially leading to a broader trade war. The move may also prompt negotiations to resolve the underlying disputes, or it could force both governments to seek arbitration through the WTO. The timing of the announcement may influence the pace of any future negotiations.\n\nThe Canadian government is expected to release the tariff schedule on Tuesday, and the U.S. Treasury and Commerce Departments will likely respond with statements or counter\u2011measures. The next steps will involve monitoring the impact on trade flows, potential legal challenges, and any diplomatic outreach to de\u2011escalate tensions. The outcome will shape the trajectory of Canada\u2011U.S. trade relations for the coming months.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/world/canada-will-announce-retaliatory-tariffs-against-u-s-on-tuesday-official-tells-ap"
-        }
-      ],
-      "original_url": "https://www.pbs.org/newshour/world/canada-will-announce-retaliatory-tariffs-against-u-s-on-tuesday-official-tells-ap",
-      "guid": "https://www.pbs.org/newshour/world/canada-will-announce-retaliatory-tariffs-against-u-s-on-tuesday-official-tells-ap"
-    },
     "googlenews_f0e0cb02": {
       "id": "googlenews_f0e0cb02",
       "title": "Measles outbreak in southern Iowa expands to 17 cases, new potential exposure location added - KCCI",
@@ -15999,32 +15899,134 @@
       ],
       "original_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
       "guid": "CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw"
+    },
+    "csmonitor_46bdb23e": {
+      "id": "csmonitor_46bdb23e",
+      "title": "Brazil's Flavio Bolsonaro beats polls in presidential vote, faces Lula in runoff",
+      "category": "World",
+      "source": "csmonitor",
+      "time": "2026-10-05T05:05:03",
+      "read": "3 min read",
+      "mode": "compact",
+      "image": "https://images.csmonitor.com/csm/2026/10/1220169_1_brazil-election-10-4-26_standard_1.jpg?alias=standard_900x600",
+      "content": "Senator Flavio\u202fBolsonaro has emerged as the leading candidate in Brazil\u2019s presidential election, setting up a runoff against incumbent President Luiz\u202fIn\u00e1cio\u202fLula\u202fda\u202fSilva, who is seeking a fourth term.\u202f[1] The result places the country on the brink of a decisive contest between a right\u2011wing movement associated with the Bolsonaro family and a left\u2011ist administration that has governed since 2023.\u202f[1]\n\nThe stakes are high for Brazil\u2019s political trajectory. A victory for Bolsonaro would signal a return to the hard\u2011line policies that defined his father\u2019s presidency, while a Lula win would extend the current left\u2011ist agenda. The outcome will shape the nation\u2019s economic strategy, social programs, and foreign policy for the next four years.\u202f[1]\n\nIn the first round of voting, Flavio\u202fBolsonaro surpassed the threshold needed to avoid a second round, effectively beating the polls and securing the top spot. The available reporting does not specify the exact vote share, but the result was sufficient to trigger a runoff.\u202f[1] President Lula, who has been in office since 2023, is the other candidate in the race and is seeking a fourth term.\u202f[1]\n\nBrazil\u2019s presidential elections are conducted in two rounds. If no candidate obtains an absolute majority in the first round, the top two candidates face each other in a second round, which determines the winner. The runoff will be held after the initial vote, though the exact date has not yet been announced. This system is designed to ensure that the elected president has broad support across the electorate.\n\nThe Bolsonaro family has long been a central figure in Brazil\u2019s right\u2011wing politics. Jair\u202fBolsonaro, the former president, served from 2019 to 2022 and was known for his populist rhetoric and conservative policies. His son, Flavio, has followed in his footsteps, positioning himself as a champion of the same ideological platform. The movement he represents has been associated with strong stances on law and order, economic liberalism, and a skeptical view of environmental regulations.\u202f[1]\n\nLuiz\u202fIn\u00e1cio\u202fLula\u202fda\u202fSilva, on the other hand, has a history of left\u2011ist governance. He previously served as president from 2003 to 2010, during which he implemented expansive social programs and pursued a more interventionist economic policy. His current administration, which began in 2023, continues to focus on social welfare, income redistribution, and environmental protection, albeit with a pragmatic approach to economic growth.\u202f[1]\n\nThe electorate is diverse, with significant regional variations in political preference. Urban centers tend to lean toward Lula\u2019s policies, while rural and conservative areas have shown stronger support for Bolsonaro. The outcome of the runoff will therefore have implications for regional development, resource allocation, and the balance of power among Brazil\u2019s federal states.\n\nInternational investors and foreign governments are closely monitoring the election. Brazil\u2019s economic policies, particularly regarding trade, agriculture, and environmental regulation, are key to global markets. A shift toward Bolsonaro\u2019s right\u2011wing agenda could alter trade agreements and environmental commitments, while a Lula administration would likely maintain the current trajectory of social spending and environmental safeguards.\n\nThe political polarization evident in the election could lead to heightened tensions in the public sphere. Both candidates have been associated with strong rhetoric, and the runoff is expected to intensify debates over Brazil\u2019s future direction. The potential for civil unrest or political instability remains a concern for domestic and international observers.\n\nLooking ahead, the next steps include the scheduling of the runoff, the formal certification of the first round results, and the preparation of campaign strategies by both candidates. Legal challenges to the election process or to the candidates\u2019 eligibility could arise, as has occurred in previous Brazilian elections. The final outcome will hinge on voter turnout, campaign messaging, and the ability of each side to mobilize its base in the critical weeks leading up to the runoff.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Christian Science Monitor",
+          "url": "https://www.csmonitor.com/World/2026/1004/Brazil-s-Flavio-Bolsonaro-beats-polls-in-presidential-vote-faces-Lula-in-runoff?icid=rss"
+        }
+      ],
+      "original_url": "https://www.csmonitor.com/World/2026/1004/Brazil-s-Flavio-Bolsonaro-beats-polls-in-presidential-vote-faces-Lula-in-runoff?icid=rss",
+      "guid": "fbc9e0d3b137887c3711d95b9ae4a71d"
+    },
+    "japantimes_34609068": {
+      "id": "japantimes_34609068",
+      "title": "A first look aboard the shinkansen\u2019s new Supreme Class",
+      "category": "World",
+      "source": "japantimes",
+      "time": "2026-10-05T05:05:07",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/05/566740.jpg",
+      "content": "From October\u202f1, select Shinkansen trains running between Tokyo and Hakata will offer the most luxurious way yet to travel on a bullet train.\u202f[1]\n\nThe launch marks a significant upgrade in Japan\u2019s high\u2011speed rail offerings, targeting affluent travelers and boosting the Shinkansen\u2019s premium brand. It will affect passengers on the Tokyo\u2011Hakata corridor, a key link between Honshu and Kyushu that currently takes about five hours on the fastest services.\n\nThe new Supreme\u202fClass will be available on a limited number of Shinkansen services, beginning on the first day of the new fiscal year. The announcement was made by the Shinkansen operators, who have been expanding their premium product line in recent years.\n\nJapan\u2019s Shinkansen network began in 1964 with the Tokaido line and has since grown to cover most of the country\u2019s major cities. The system is renowned for its punctuality, speed, and safety, and it offers several classes of service. Ordinary seats provide the standard experience, Green Car offers first\u2011class comfort, and Gran\u202fClass delivers a premium, spacious environment on select trains.\n\nSupreme\u202fClass builds on this hierarchy, positioning itself as the highest tier of Shinkansen travel. While the operators have not released detailed specifications, the service is expected to provide an even more luxurious experience than Gran\u202fClass, with larger seats, enhanced privacy, and upgraded amenities.\n\nPassengers traveling between Tokyo and Hakata\u2014especially business travelers and tourists\u2014will have a new option that could rival the comfort of domestic airlines. The introduction of Supreme\u202fClass may also influence seat availability in other classes, as operators balance demand across the fleet.\n\nThe new class could increase revenue for the Shinkansen operators and raise the profile of Japan\u2019s high\u2011speed rail as a luxury travel option. It may also prompt other rail operators to consider similar premium upgrades to remain competitive.\n\nThe launch reflects Japan\u2019s ongoing commitment to maintaining its high\u2011speed rail as a global benchmark. By adding a top\u2011tier product, the operators signal a shift toward more premium offerings to capture a larger share of the travel market.\n\nOn October\u202f1, the operators will begin the rollout and will likely monitor passenger response closely. Future announcements may reveal pricing, seat layout, and availability on other routes.\n\nThe Tokyo\u2011Hakata route connects Japan\u2019s capital with Fukuoka, a major city on Kyushu. The corridor is a vital artery for business and tourism, and the new Supreme\u202fClass may enhance the travel experience for long\u2011distance passengers.\n\nThe Shinkansen competes with domestic airlines on the same routes. The introduction of a premium class could help it retain customers who might otherwise choose air travel, especially for those willing to pay extra for comfort and convenience.\n\nThe operators have previously introduced Gran\u202fClass on the Tokaido Shinkansen. Supreme\u202fClass may represent the next step in expanding premium services across the network, potentially setting a new standard for luxury rail travel in Japan.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/life/2026/10/05/travel/supreme-class-shinkansen-debut-travel-trains/"
+        }
+      ],
+      "original_url": "https://www.japantimes.co.jp/life/2026/10/05/travel/supreme-class-shinkansen-debut-travel-trains/",
+      "guid": "https://www.japantimes.co.jp/article/647403/"
+    },
+    "bbc_040e7a98": {
+      "id": "bbc_040e7a98",
+      "title": "Students blast off to US for Nasa robotics competition",
+      "category": "Science",
+      "source": "bbc",
+      "time": "2026-10-05T05:05:10",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/788e/live/e1125b50-be4a-11f1-a73b-295bdc9b9b7f.jpg",
+      "content": "A team of students will travel to Florida to compete in a NASA robotics competition against university teams from Australia, India and the United States. [1]\n\nThe event brings together engineering students from around the world to showcase their robotic designs and compete for recognition, underscoring the growing international collaboration in STEM education. [1]\n\nThe students will head to Florida to compete against university teams from Australia, India and the US. [1] The competition is organized by NASA and is part of an annual robotics challenge. [1]\n\nNASA robotics competitions have been held for decades to encourage innovation among students. These contests typically require participants to design autonomous robots that perform tasks such as navigation, manipulation, or data collection, and they are often hosted at facilities that provide access to advanced equipment and expert mentors.\n\nThe competition in Florida is one of the largest of its kind, drawing participants from multiple countries and offering a platform for cross\u2011border teamwork and knowledge exchange. The venue\u2019s proximity to NASA\u2019s research centers provides students with unique opportunities to interact with professionals and learn about cutting\u2011edge technologies.\n\nStudents gain hands\u2011on experience, exposure to industry professionals, and potential scholarships. Universities benefit from increased visibility and recruitment, while NASA gains fresh ideas and talent that can feed into its research and development pipelines.\n\nThe international nature of the competition highlights the global nature of engineering challenges and the importance of cross\u2011cultural collaboration. It also demonstrates NASA\u2019s commitment to fostering international partnerships and promoting STEM education worldwide.\n\nThe competition will conclude at the end of the event, with awards announced at the closing ceremony. The outcome could influence future funding and partnerships for the participating institutions and for NASA\u2019s outreach programs.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo#0"
+    },
+    "cjr_6674ac74": {
+      "id": "cjr_6674ac74",
+      "title": "Following the Political Money",
+      "category": "News",
+      "source": "cjr",
+      "time": "2026-10-05T05:06:14",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://www.cjr.org/wp-content/uploads/2026/09/AP26197746849148-scaled.jpg",
+      "content": "LAist\u2019s latest series of articles has brought new clarity to the flow of money in the city\u2019s mayoral race, charting contributions, expenditures, and donor identities that had previously been difficult for voters to parse. [1]\n\nThe reporting matters because it gives residents a concrete view of the financial forces shaping the campaign, underscoring the broader need for transparency in local elections. [1]\n\nIn the series, LAist tracked the amounts donated to each candidate, the sources of those funds, and the timing of those contributions, providing a detailed ledger of the campaign\u2019s fundraising landscape. [1]\n\nThe coverage also examined how contributions aligned with key campaign milestones, revealing patterns that could influence strategic decisions by the candidates. [1]\n\nBeyond the mayoral race, the outlet highlighted a linguistic misstep in a recent Cornell case, noting that a poor choice of words could have altered public perception of the issue. [1]\n\nThe piece also explored the economic value of five\u2011dollar obituaries, explaining how this modest fee can generate significant revenue for newspapers while offering families a dignified memorial. [1]\n\nCampaign finance reporting in the United States is governed by federal and state laws that require disclosure of contributions above certain thresholds. Local jurisdictions often rely on media outlets to interpret and present the data to the public.\n\nThe mayoral race in question has been characterized by a competitive field, with candidates seeking to differentiate themselves on policy and fundraising prowess.\n\nThe Cornell case referenced by LAist involves a legal or administrative decision where the wording used in official documents or communications was criticized for being misleading or inappropriate.\n\nFive\u2011dollar obituaries are a common pricing strategy for newspapers, balancing affordability for families with the need to cover production costs.\n\nVoters, candidates, donors, and the local media are directly impacted by the transparency of campaign finance data.\n\nThe Cornell case\u2019s wording issue may affect public trust in institutional communications, while the obituary pricing model influences how news organizations sustain themselves financially.\n\nGreater visibility into campaign contributions could pressure candidates to adhere to stricter ethical standards and encourage reforms in disclosure requirements.\n\nThe discussion around the Cornell case underscores the importance of precise language in official documents, which can shape public opinion and policy outcomes.\n\nThe city\u2019s election commission will review the new reporting for compliance, and the mayoral candidates may adjust their fundraising strategies in response.\n\nAdditionally, the debate over obituary pricing may prompt newspapers to reassess their revenue models as digital media continues to evolve.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Columbia Journalism Review",
+          "url": "https://www.cjr.org/laurels-and-darts/following-the-political-money-los-angeles-mayor-race-bass-raman-donations-laist-gerda-moore.php"
+        }
+      ],
+      "original_url": "https://www.cjr.org/laurels-and-darts/following-the-political-money-los-angeles-mayor-race-bass-raman-donations-laist-gerda-moore.php",
+      "guid": "https://www.cjr.org/?p=123007"
+    },
+    "snopes_1c1fb927": {
+      "id": "snopes_1c1fb927",
+      "title": "Are there road signs in Japan warning drivers that cats may jump out into traffic?",
+      "category": "News",
+      "source": "snopes",
+      "time": "2026-10-05T05:06:41",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/09/japanese_cat_signs_feature.png",
+      "content": "Japan has installed road signs that warn drivers that cats may jump onto the road. The signs, which appear on certain streets, carry Japanese text that translates roughly to \u201cWatch for Cats Crossing the Road.\u201d[1]\n\nThe new signage reflects growing concern over animal\u2011related traffic incidents. Cats are a common sight in Japanese cities, and their unpredictable movements can pose hazards to motorists. By alerting drivers to the possibility of a cat darting into traffic, authorities aim to reduce collisions involving animals.\n\nThe source reports that the signs have been observed in a few locations, with the Japanese wording translating to \u201cWatch for Cats Crossing the Road.\u201d[1] No details are given about how many signs exist, where they are placed, or which municipalities issued them.\n\nRoad safety signs in Japan are governed by the Road Traffic Act and are standardized to convey clear, concise information to drivers. Typical signs warn of pedestrians, cyclists, or hazardous road conditions, but a sign specifically addressing cats is unusual.\n\nCats in Japan often roam freely, especially at dusk and dawn. Their nocturnal habits and curiosity can lead them to cross roads unexpectedly, sometimes without warning. This behavior has been noted by local animal welfare groups, who report that stray cats are common in many urban and rural areas.\n\nJapan\u2019s high vehicle density and the prevalence of stray animals have contributed to a number of traffic accidents involving cats. While exact statistics are not provided in the source, animal\u2011related collisions are a recognized safety issue in the country.\n\nThe primary stakeholders include drivers, who must adjust their vigilance; cat owners, who may be concerned about their pets\u2019 safety; animal welfare organizations, which advocate for measures to protect wildlife; and local governments, which are responsible for implementing signage.\n\nIf the signs prove effective, they could lower the incidence of cat\u2011related accidents and increase driver awareness of animal crossings. The added caution may also encourage drivers to slow down in areas known for stray animal activity.\n\nCritics might argue that such signs could distract drivers or that the risk posed by cats is relatively low compared to other hazards. Some may question whether the cost of producing and maintaining these signs is justified by the expected safety benefits.\n\nThe introduction of cat\u2011warning signs could signal a broader shift toward inclusive road safety measures that consider non\u2011human road users. Similar initiatives in other countries have addressed wildlife crossings, and Japan\u2019s approach may inspire comparable actions elsewhere.\n\nFuture developments will likely include studies measuring the signs\u2019 impact on accident rates, potential expansion to other animals such as dogs or wildlife, and any policy updates from transportation authorities. The next steps will determine whether this measure becomes a permanent feature of Japan\u2019s road safety landscape.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Snopes",
+          "url": "https://www.snopes.com/fact-check/japan-cat-road-signs/"
+        }
+      ],
+      "original_url": "https://www.snopes.com/fact-check/japan-cat-road-signs/",
+      "guid": "https://www.snopes.com/fact-check/japan-cat-road-signs/"
     }
   },
   "featured": {
-    "hero": "googlenews_d5f103a3",
+    "hero": "csmonitor_46bdb23e",
     "stack": [
-      "fullfact_664f7ee1",
-      "aljazeera_a0ea7440",
-      "googlenews_7625666a"
+      "japantimes_34609068",
+      "bbc_040e7a98",
+      "cjr_6674ac74"
     ],
     "latest": [
+      "cjr_6674ac74",
+      "bbc_040e7a98",
+      "japantimes_34609068",
+      "googlenews_d5f103a3",
       "googlenews_7625666a",
-      "aljazeera_a0ea7440",
-      "fullfact_664f7ee1",
-      "csmonitor_95c14075",
-      "france24_1156d763",
-      "nasa_94875d57"
+      "aljazeera_a0ea7440"
     ],
     "world": [
+      "csmonitor_46bdb23e",
+      "japantimes_34609068",
       "aljazeera_a0ea7440",
-      "bangkokpost_923fa6de",
-      "csmonitor_95c14075",
-      "aljazeera_bb831d99"
+      "bangkokpost_923fa6de"
     ]
   },
   "categoryIndex": {
     "News": [
+      "snopes_1c1fb927",
+      "fullfact_664f7ee1",
       "ap_4665fceb",
       "npr_4205a3a2",
       "pbs_c620eba2",
@@ -16032,11 +16034,11 @@
       "npr_c9721ab8",
       "snopes_daed3c79",
       "snopes_21cdbfde",
-      "pbs_3514fbc2",
-      "pbs_9bafc0b0",
-      "ap_4186ae77"
+      "pbs_3514fbc2"
     ],
     "World": [
+      "csmonitor_95c14075",
+      "france24_1156d763",
       "bangkokpost_923fa6de",
       "aljazeera_bb831d99",
       "smh_df854611",
@@ -16044,9 +16046,7 @@
       "csmonitor_b2e93d0a",
       "straitstimes_8a3c3e7c",
       "irishtimes_fdaa55d3",
-      "france24_51c66a17",
-      "guardian_2f4d5ba2",
-      "afp_792794b0"
+      "france24_51c66a17"
     ],
     "Politics": [
       "bbc_6ec0c0e1",
@@ -16085,6 +16085,7 @@
       "googlenews_4abd78fd"
     ],
     "Science": [
+      "nasa_94875d57",
       "bbc_999078b7",
       "conversation_7b8520c6",
       "npr_9fb9d91f",
@@ -16093,8 +16094,7 @@
       "guardian_c77e49b1",
       "berkeleyuniv_925f53f5",
       "conversation_47c00ebc",
-      "conversation_d7240965",
-      "bbc_e34bd557"
+      "conversation_d7240965"
     ],
     "Business": [
       "googlenews_804db985",
@@ -16109,7 +16109,7 @@
       "googlenews_1a54340b"
     ]
   },
-  "breaking": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
+  "breaking": "Brazil's Flavio Bolsonaro beats polls in presidential vote, faces Lula in runoff",
   "events": [
     {
       "title": "Safeguards 'build a moat' around US AI firms, prevent open-source models from ad",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "Government wrong to claim over 14.5 million children used free bus scheme",
     "Somalia President: Houthis \u2018not in a position\u2019 to bring Yemen peace",
-    "The American Sign Museum is an illuminating trip through time",
-    "OPEC+ agrees to keep November oil output targets steady - Reuters"
+    "Government wrong to claim over 14.5 million children used free bus scheme",
+    "Brazil's Flavio Bolsonaro beats polls in presidential vote, faces Lula in runoff",
+    "A first look aboard the shinkansen\u2019s new Supreme Class"
   ]
 }
