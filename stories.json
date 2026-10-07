@@ -1,105 +1,5 @@
 {
   "stories": {
-    "bbc_86ca2d0c": {
-      "id": "bbc_86ca2d0c",
-      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "category": "World",
-      "source": "bbc",
-      "time": "2026-08-26T01:44:17",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg",
-      "content": "China has criticized new U.S. sanctions on Iran and its trading partners as illegal.\u202f[1]\n\nThe United States has warned that countries that continue to do business with Tehran risk isolation, a move that could affect global oil markets and diplomatic ties.\u202f[2]\n\nThe U.S. announced a set of sanctions aimed at Iran and its commercial allies, and China responded by labeling the measures illegal. The U.S. has threatened to isolate nations that continue to do business with Tehran.\u202f[2] Iran, which sells a large share of its oil to China, is a key beneficiary of the trade.\u202f[3]\n\nSanctions have long been a tool in U.S. foreign policy to influence Iran's political and economic actions.\n\nIran has historically been a major exporter of crude oil, and China has been one of its largest importers. The relationship has been a cornerstone of Iran's economy.\n\nU.S. sanctions typically restrict financial transactions, shipping, and investment, and are enforced through the Treasury Department's Office of Foreign Assets Control.\n\nThe U.S. government, Iranian businesses, Chinese importers, and other trading partners are directly impacted by the new measures. The threat of isolation could pressure countries to cut ties with Iran.\n\nFor Iran, the sanctions could reduce revenue from oil exports, especially to China. For China, the sanctions may disrupt supply chains and diplomatic relations.\n\nThe U.S. move could strain U.S.-China relations and complicate negotiations on other issues. It may also push Iran to seek alternative markets or strengthen ties with other nations.\n\nThe U.S. is expected to enforce the sanctions through its regulatory agencies, while China may pursue diplomatic channels to counter the measures. The outcome will depend on how other nations respond to the isolation threat.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/clyl8965j5go#0"
-    },
-    "abcau_77105165": {
-      "id": "abcau_77105165",
-      "title": "Older Australians 'digitally excluded' as everyday services move online - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "category": "World",
-      "source": "abcau",
-      "time": "2026-08-26T01:45:22",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28232%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27632%27%20cy%3D%27294%27%20r%3D%27140%27%20fill%3D%27hsl%28272%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Older Australians are being left behind as everyday services shift online, a trend that could deepen existing inequalities in the country.\u202f[1]\n\nThe move to digital platforms for health appointments, government benefits, and everyday transactions threatens to widen gaps in access for seniors, potentially undermining their independence and well\u2011being.\n\nThe trend of moving services online has accelerated, and older Australians are disproportionately affected.\u202f[1] The report does not specify the extent of digital exclusion, the particular services that have gone online, or the reasons why seniors are struggling to keep pace.\n\nDigital exclusion refers to disparities in access to technology and the skills needed to use it.\u202fIt is a well\u2011documented phenomenon that can limit individuals\u2019 ability to participate fully in society.\n\nAustralia\u2019s population is aging rapidly.\u202fMany older adults still rely on in\u2011person services for health care, banking, and government assistance, and the shift to online systems could reduce their options.\n\nThe primary stakeholders are older Australians, government agencies that deliver public services, and private providers that offer digital platforms.\u202fAll parties have a stake in ensuring that seniors can access the services they need.\n\nWithout reliable digital access, seniors may face difficulties in scheduling medical appointments, paying bills, or applying for benefits.\u202fThe lack of specific data in the report means the full scope of these challenges remains unclear.\n\nThe shift to digital services could exacerbate social isolation and economic vulnerability among seniors, especially those without reliable internet or digital literacy.\u202fThis potential outcome is a concern for policymakers and community advocates alike.\n\nPolicymakers are expected to review digital inclusion strategies in the coming months, and service providers may adjust their delivery models to accommodate non\u2011digital users.\u202fThe next steps will determine how effectively the country can bridge the digital divide for its older population.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "ABC News (Australia)",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVdWRXAtZW01LTBFQ2R0aVlHcWRNejNJVzFKWENZVVlBNG01VGFkUzZQRzJsQllkb2ZlQnN5SlJLV3NQdU9uQkJSRVBJRWoyVVk5Z090ZklLX3p5S2hqNzJId29acGJGLVQySko1ZEJVdV9EUGYzUGNHSW9vX3JnUUVSSFQxUnVpSndRcjhmR3hOY1BWQWxsajc2NXJLZUZuSTg5UW9Xa1pRYnVWMkx2QQ?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVdWRXAtZW01LTBFQ2R0aVlHcWRNejNJVzFKWENZVVlBNG01VGFkUzZQRzJsQllkb2ZlQnN5SlJLV3NQdU9uQkJSRVBJRWoyVVk5Z090ZklLX3p5S2hqNzJId29acGJGLVQySko1ZEJVdV9EUGYzUGNHSW9vX3JnUUVSSFQxUnVpSndRcjhmR3hOY1BWQWxsajc2NXJLZUZuSTg5UW9Xa1pRYnVWMkx2QQ?oc=5",
-      "guid": "CBMisAFBVV95cUxQbVdWRXAtZW01LTBFQ2R0aVlHcWRNejNJVzFKWENZVVlBNG01VGFkUzZQRzJsQllkb2ZlQnN5SlJLV3NQdU9uQkJSRVBJRWoyVVk5Z090ZklLX3p5S2hqNzJId29acGJGLVQySko1ZEJVdV9EUGYzUGNHSW9vX3JnUUVSSFQxUnVpSndRcjhmR3hOY1BWQWxsajc2NXJLZUZuSTg5UW9Xa1pRYnVWMkx2QQ"
-    },
-    "guardian_c5da55b9": {
-      "id": "guardian_c5da55b9",
-      "title": "Community-maxxing: gen Z are done with doomscrolling \u2013 and ready to socialise",
-      "category": "Health",
-      "source": "guardian",
-      "time": "2026-08-26T01:46:43",
-      "read": "3 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/553f8655acf0d4c395cccb8cf976de7cf6c632b4/577_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=0a7c1df1bfa06089fd145c11e13dbfb8",
-      "content": "A recent study has found that many Gen\u202fZ and young adults are moving away from endless scrolling and toward active participation in their local communities, a trend the researchers call \u201ccommunity\u2011maxxing.\u201d\u00b9\n\nThe shift matters because social isolation has been linked to higher rates of depression, anxiety and other mental\u2011health problems among young people. By turning to community engagement, this generation may be seeking healthier ways to connect and find purpose.\n\nThe research shows that young adults often feel isolated, yet they are embracing \u201cgrandma hobbies\u201d such as knitting, gardening, cooking and other traditionally domestic crafts, and simultaneously expressing a desire to get involved with the places they live and to be good neighbours.\u00b9\n\nThe term \u201ccommunity\u2011maxxing\u201d is a recent portmanteau that blends \u201ccommunity\u201d with \u201cmaximizing,\u201d suggesting a deliberate effort to extract the most social value from one\u2019s surroundings.\u00b9\n\nHuman beings have always been social creatures, forming groups for safety, resource sharing and cultural transmission. This long\u2011standing need for belonging is reflected in the modern trend of community\u2011maxxing.\n\nThe digital age has amplified isolation for many, as people spend more time online than in face\u2011to\u2011face interactions. The study\u2019s findings suggest a counter\u2011movement in which young adults are seeking to balance screen time with real\u2011world connections.\n\n\u201cGrandma hobbies\u201d refers to activities that were once largely associated with older generations, such as knitting, crocheting, gardening, baking, and other hands\u2011on crafts. These pursuits are gaining popularity among younger people as a way to slow down, learn new skills and create tangible products.\n\nExamples of these hobbies include starting a community garden, hosting a knitting circle, or organizing a neighborhood bake\u2011sale. Such activities provide both a creative outlet and an opportunity to meet neighbors and build local networks.\n\nCommunity\u2011maxxing differs from other youth trends like \u201cdoomscrolling\u201d or \u201cdigital detox\u201d by focusing on proactive engagement rather than avoidance. While some young people reduce screen time, community\u2011maxxing encourages them to replace passive consumption with active participation in local life.\n\nThe potential benefits of this trend are manifold. Regular interaction with neighbors can foster a sense of belonging, improve mental\u2011health outcomes, and strengthen social cohesion. It can also stimulate local economies through the sale of homemade goods and the use of shared spaces.\n\nStakeholders include young adults themselves, local governments, community\u2011based organizations, mental\u2011health professionals and businesses that rely on neighborhood patronage. Each group may see different advantages or challenges in supporting community\u2011maxxing initiatives.\n\nFor local economies, increased community engagement can boost demand for local services, encourage the growth of small\u2011scale enterprises, and create new opportunities for volunteer\u2011based projects that generate economic activity.\n\nFrom a mental\u2011health perspective, the act of contributing to a community can provide a sense of purpose, reduce feelings of loneliness, and improve overall well\u2011being. These outcomes align with evidence that social support is a key protective factor against mental\u2011health disorders.\n\nPolicy makers may consider how to facilitate community\u2011maxxing by investing in public spaces, supporting neighborhood\u2011level programs, and creating incentives for local volunteering. Digital platforms could also play a role by highlighting community events and connecting residents with local initiatives.\n\nIn the coming months, researchers will likely publish more detailed findings on the demographics, motivations and outcomes of community\u2011maxxing. Local governments and community groups may announce new programs aimed at encouraging young adults to participate, and digital platforms may roll out features that promote neighborhood engagement.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/society/2026/aug/25/community-maxxing-gen-z-are-done-with-doomscrolling-and-ready-to-socialise"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/society/2026/aug/25/community-maxxing-gen-z-are-done-with-doomscrolling-and-ready-to-socialise",
-      "guid": "https://www.theguardian.com/society/2026/aug/25/community-maxxing-gen-z-are-done-with-doomscrolling-and-ready-to-socialise"
-    },
-    "bangkokpost_679f30b9": {
-      "id": "bangkokpost_679f30b9",
-      "title": "Thai rock star Nene Royal reaches America\u2019s Got Talent final with Golden Buzzer",
-      "category": "World",
-      "source": "bangkokpost",
-      "time": "2026-08-26T06:58:05",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://static.bangkokpost.com/media/content/20260826/c1_3308274_700.jpg",
-      "content": "Nene Royal, a Thai rock star, has made history by reaching the Grand Final of America\u2019s Got Talent after a high\u2011energy performance in the Live Show round that earned her a Golden Buzzer from the judges.\u202f[1]\n\nThe achievement is significant because it marks the first time a performer from Thailand has advanced to the final stage of the long\u2011running U.S. competition, underscoring the show\u2019s growing international reach and the increasing visibility of Southeast Asian talent on mainstream American television.\n\nDuring the Live Show episode, Royal delivered a dynamic set that showcased her vocal range and stage presence. The judges were so impressed that they pressed the Golden Buzzer, a special button that instantly propels a contestant to the next round regardless of the other judges\u2019 votes.\u202f[1]\n\nAmerica\u2019s Got Talent is a televised talent competition that invites performers of all ages and disciplines to audition before a panel of celebrity judges. The show culminates in a Grand Final where finalists compete for a cash prize and national exposure.\n\nThe Golden Buzzer was introduced in the show\u2019s later seasons as a way for judges to highlight acts they believe deserve a second chance. When pressed, the act bypasses the usual voting process and moves directly to the next stage, often creating memorable moments for viewers.\n\nRoyal\u2019s advancement brings attention to the Thai music scene, which has historically been underrepresented in Western media. Her success may inspire other Thai artists to pursue international platforms and encourage producers to scout talent beyond traditional markets.\n\nThe judges\u2019 decision also reflects the broader trend of talent shows embracing diverse cultural expressions. By awarding the Golden Buzzer to a rock performer from Thailand, the panel demonstrated openness to non\u2011Western styles and a willingness to celebrate global artistry.\n\nFans of the show will now watch Royal compete in the Grand Final, where she will face other high\u2011profile acts for the chance to win the competition\u2019s top prize. The upcoming episode is expected to draw a large audience, and Royal\u2019s presence may boost viewership among Thai and Southeast Asian viewers.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Bangkok Post",
-          "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3308274/thai-rock-star-nene-royal-reaches-americas-got-talent-final-with-golden-buzzer"
-        }
-      ],
-      "original_url": "https://www.bangkokpost.com/life/arts-and-entertainment/3308274/thai-rock-star-nene-royal-reaches-americas-got-talent-final-with-golden-buzzer",
-      "guid": ""
-    },
-    "cna_84dfd32e": {
-      "id": "cna_84dfd32e",
-      "title": "Air India seeks US$1.5 billion from owners SIA, Tata as losses mount: Sources - CNA",
-      "category": "World",
-      "source": "cna",
-      "time": "2026-08-26T06:58:29",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%2821%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27141%27%20cy%3D%27122%27%20r%3D%27140%27%20fill%3D%27hsl%2861%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Air India has formally requested a payment of US$1.5\u202fbillion from its owners, Singapore Airlines and the Tata Group, as the airline\u2019s losses continue to grow.1\n\nThe claim underscores the severity of Air India\u2019s financial woes and raises questions about the future of India\u2019s flag carrier, its employees, and the broader airline market.1\n\nAccording to a report by CNA, Air India has filed a demand for US$1.5\u202fbillion, citing mounting losses that have eroded the airline\u2019s balance sheet. The request is directed at Singapore Airlines and the Tata Group, the two entities that now hold ownership stakes in the carrier.1\n\nAir India was a state\u2011owned airline until its acquisition by the Tata Group in 2022. Singapore Airlines, a major global carrier headquartered in Singapore, had previously held a stake in the airline before the takeover. The Tata Group, an Indian conglomerate with diverse business interests, now owns the airline through its holding company.\n\nThe airline\u2019s financial performance has deteriorated over recent years, a trend that accelerated during the COVID\u201119 pandemic. High operating costs, reduced passenger demand, and the need for extensive fleet upgrades have contributed to a series of losses that have mounted in the post\u2011pandemic period.\n\nSingapore Airlines is known for its strong financial footing and reputation for service excellence. Its involvement in Air India\u2019s ownership structure reflects a strategic partnership aimed at expanding its presence in the Indian market.\n\nThe Tata Group, through its various subsidiaries, has a long history of investing in transportation and infrastructure projects. Its acquisition of Air India was part of a broader strategy to strengthen its presence in the aviation sector.\n\nThe claim has implications for a range of stakeholders. Employees of Air India face uncertainty as the airline seeks additional capital to shore up its finances. Investors and creditors are also watching closely, as the outcome could affect the airline\u2019s creditworthiness and future investment prospects.\n\nPassengers who rely on Air India\u2019s domestic and international routes may experience disruptions if the airline\u2019s financial position does not improve. The airline\u2019s network is a critical component of India\u2019s connectivity, and any operational instability could have wider economic repercussions.\n\nSingapore Airlines and the Tata Group could face significant financial exposure if the claim is upheld. The owners may also confront reputational risks associated with a public dispute over capital contributions.\n\nIf the claim succeeds, the injection of US$1.5\u202fbillion could provide a much\u2011needed boost to Air India\u2019s liquidity, potentially allowing the airline to address debt obligations and invest in fleet modernization. However, the legal process could also lead to protracted negotiations and further uncertainty.\n\nThe case highlights the challenges inherent in airline ownership transitions, particularly when multiple stakeholders are involved. Clear financial arrangements and mutual commitments are essential to ensure the long\u2011term viability of such carriers.\n\nThe next steps in the dispute remain unclear. Legal proceedings, negotiations, and the owners\u2019 willingness to contribute will determine the outcome. No definitive timeline or resolution date has been announced at this time.1",
-      "sources": [
-        {
-          "n": 1,
-          "label": "CNA (Singapore)",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWJXZUs3SnphUDc1NDk5MjJkQVA0VDJoUm82UzMzcFV5cVdNUklYbC1MVFlGMlVjR0cwNWxWaTM1VTZXeFFtMU91R19yQ0t2dUdNSWU5T3BBRk1RTHgwNV9jTVJ3R3dvXzJHM0I5M2ZteEVhSnpKd0RIOG44c3E3M3NNdmVHTlhKNDI2bWRfVmZtcWFxTmJwMw?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWJXZUs3SnphUDc1NDk5MjJkQVA0VDJoUm82UzMzcFV5cVdNUklYbC1MVFlGMlVjR0cwNWxWaTM1VTZXeFFtMU91R19yQ0t2dUdNSWU5T3BBRk1RTHgwNV9jTVJ3R3dvXzJHM0I5M2ZteEVhSnpKd0RIOG44c3E3M3NNdmVHTlhKNDI2bWRfVmZtcWFxTmJwMw?oc=5",
-      "guid": "CBMimAFBVV95cUxOSWJXZUs3SnphUDc1NDk5MjJkQVA0VDJoUm82UzMzcFV5cVdNUklYbC1MVFlGMlVjR0cwNWxWaTM1VTZXeFFtMU91R19yQ0t2dUdNSWU5T3BBRk1RTHgwNV9jTVJ3R3dvXzJHM0I5M2ZteEVhSnpKd0RIOG44c3E3M3NNdmVHTlhKNDI2bWRfVmZtcWFxTmJwMw"
-    },
     "googlenews_bf3d2ae0": {
       "id": "googlenews_bf3d2ae0",
       "title": "After 8-year-old died of brain-eating amoeba, here's who is most at risk - USA Today",
@@ -15999,28 +15899,128 @@
       ],
       "original_url": "https://www.theguardian.com/society/2026/oct/06/cancer-rates-rising-more-quickly-among-younger-people-international-study-finds",
       "guid": "https://www.theguardian.com/society/2026/oct/06/cancer-rates-rising-more-quickly-among-younger-people-international-study-finds"
+    },
+    "snopes_3c1e0c06": {
+      "id": "snopes_3c1e0c06",
+      "title": "Did Trump say he has an IQ of 1,775?",
+      "category": "News",
+      "source": "snopes",
+      "time": "2026-10-07T05:24:52",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/10/trump_iq_1775.png",
+      "content": "A claim has circulated that former President Donald\u202fJ.\u202fTrump said he has an IQ of 1,775, a figure that would dwarf any known intelligence\u2011quotient record. The president\u2019s actual IQ score has never been publicly disclosed, and no credible source has confirmed the claim. A score of 1,775 would far exceed the highest IQs that have been documented in modern history. [1]\n\nThe allegation matters because it touches on the public\u2019s perception of a former president\u2019s intellectual capacity and the broader issue of misinformation in the political sphere. If unverified claims about extraordinary intelligence circulate, they can influence how voters evaluate a candidate\u2019s competence and how the media frames political discourse. [1]\n\nThe claim first appeared on social\u2011media platforms and was subsequently picked up by a handful of news outlets. No official statement from Trump or his spokespersons has addressed the assertion, and no reputable IQ testing organization has reported a score for the former president. The lack of corroboration means the claim remains unverified. [1]\n\nIQ tests are standardized assessments designed to measure a range of cognitive abilities, including reasoning, problem solving, and memory. Scores are typically scaled so that the average adult score is 100, with a standard deviation of 15. Scores above 130 are considered above average, while scores above 160 are rare and often associated with exceptional intellectual ability. [2]\n\nThe world record for the highest documented IQ is generally considered to be in the low 200s, held by individuals such as Marilyn vos Savant and Christopher Michael Langan. Scores in the 1,700 range are not only beyond the upper limits of current testing instruments but also exceed the theoretical maximum that most psychometricians accept for human intelligence. [3]\n\nThe primary stakeholders in this situation are the American public, who rely on accurate information to make informed political choices, and the media, which has a responsibility to verify claims before publishing. Political opponents may also use the claim to question Trump\u2019s credibility, while supporters might dismiss it as a partisan attack. [1]\n\nThe spread of an unverified IQ claim can have broader implications for public trust in journalism and in the political process. If readers accept such extraordinary assertions without scrutiny, it may erode confidence in reputable sources and contribute to a climate of skepticism toward verified facts. [1]\n\nLooking ahead, fact\u2011checking organizations and intelligence\u2011testing experts will likely continue to monitor the claim for any new evidence. The next concrete step will be whether a credible source\u2014such as a former test administrator or a reputable psychological association\u2014provides documentation of Trump\u2019s IQ score. Until such evidence emerges, the claim remains unsubstantiated. [1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Snopes",
+          "url": "https://www.snopes.com/fact-check/trump-iq-1775/"
+        }
+      ],
+      "original_url": "https://www.snopes.com/fact-check/trump-iq-1775/",
+      "guid": "https://www.snopes.com/fact-check/trump-iq-1775/"
+    },
+    "guardian_72b95ed2": {
+      "id": "guardian_72b95ed2",
+      "title": "Proportion of people in Great Britain vaping who never smoked doubles in four years",
+      "category": "Health",
+      "source": "guardian",
+      "time": "2026-10-07T05:25:02",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/247c0a9044ac9cd48766465bdd26e8f8372c0e18/361_0_4470_3578/master/4470.jpg?width=140&quality=85&auto=format&fit=max&s=71649f2b548bb2510b69330ee5c305d6",
+      "content": "In 2025, more than 1\u202fmillion adults in Great Britain vape despite never having been regular smokers, a figure that has nearly doubled in four years, according to Office for National Statistics data. [1]\n\nThe rise in vaping among non\u2011smokers raises concerns about nicotine addiction and the potential for a new generation of users to develop smoking habits, prompting public\u2011health experts to call for closer scrutiny of the industry and its marketing practices. [1]\n\nThe Office for National Statistics (ONS) reported that 5.4\u202fmillion people aged 16 and older in England, Scotland and Wales used e\u2011cigarettes either daily or occasionally in 2025, representing 9.9\u202f% of that age group. [1]\n\nVaping was most common among the 25\u2011to\u201134\u2011year\u2011old cohort, with 16.4\u202f% of that group reporting e\u2011cigarette use. [1]\n\nThe proportion of people who vape but have never been regular smokers has nearly doubled over the past four years, rising from around 500,000 in 2021 to more than 1\u202fmillion in 2025. [1]\n\nE\u2011cigarettes deliver nicotine through a vaporised liquid, and were introduced in the UK in 2010 as a potential harm\u2011reduction tool for smokers.\n\nThe ONS collects data on vaping habits through annual health surveys that ask respondents about their use of e\u2011cigarettes and other nicotine products.\n\nPrevious ONS releases have shown a steady increase in overall vaping prevalence since 2014, but the recent jump among never\u2011smokers marks a shift in the demographic profile of users.\n\nPublic\u2011health experts have described the rise in non\u2011smoker vaping as concerning, citing the risk of nicotine dependence and the possibility that vaping could serve as a gateway to conventional cigarette use. [1]\n\nNicotine exposure from e\u2011cigarettes can affect brain development in young adults and may increase the likelihood of future tobacco use, according to research cited by health authorities.\n\nThe data suggest that regulators may need to reassess the current framework governing e\u2011cigarette marketing, flavour availability, and age\u2011restriction enforcement to curb uptake among non\u2011smokers. [1]\n\nPolicymakers are expected to review the forthcoming ONS report later this year, and the Department of Health and Social Care may announce new restrictions on flavored e\u2011cigarettes or tighter age verification measures in the coming months.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/oct/06/proportion-of-people-in-great-britain-vaping-who-never-smoked-doubles-in-four-years"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/society/2026/oct/06/proportion-of-people-in-great-britain-vaping-who-never-smoked-doubles-in-four-years",
+      "guid": "https://www.theguardian.com/society/2026/oct/06/proportion-of-people-in-great-britain-vaping-who-never-smoked-doubles-in-four-years"
+    },
+    "afp_baca0727": {
+      "id": "afp_baca0727",
+      "title": "Rochester Electronics Launches Localized E-Commerce Experiences Across Key Global Markets - AFP.com",
+      "category": "World",
+      "source": "afp",
+      "time": "2026-10-07T05:25:20",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28273%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27233%27%20cy%3D%27334%27%20r%3D%27140%27%20fill%3D%27hsl%28313%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Rochester Electronics announced the launch of localized e\u2011commerce experiences across key global markets.\u202f[1]\n\nThe company\u2019s move is aimed at tailoring its online shopping platform to the specific needs of customers in different regions, potentially boosting sales and improving customer satisfaction. It is a development that matters to consumers, the retailer\u2019s own sales teams, and its network of local partners.\n\nIn a press release, Rochester Electronics said it will roll out new website features that automatically adjust language, currency, and payment options for each market. The announcement highlighted the company\u2019s intention to provide a more seamless shopping experience for shoppers in its major international markets.\n\nE\u2011commerce localization involves customizing a retailer\u2019s digital storefront to match local preferences and regulations. This can include translating product descriptions, displaying prices in local currency, offering region\u2011specific payment methods, and ensuring compliance with local consumer protection and data\u2011privacy laws.\n\nThe practice has become standard among global retailers seeking to compete in diverse markets. By providing a shopping experience that feels native to each customer, companies can reduce friction and increase conversion rates.\n\nCustomers in the targeted markets will see the site in their native language and be able to pay with locally popular methods such as Alipay in China or PayPal in the United States. These changes are expected to make the checkout process smoother and more familiar to shoppers.\n\nLocal distributors and logistics partners may also benefit from the rollout, as a more localized platform can streamline order processing and reduce shipping errors. The company will need to coordinate closely with these partners to ensure that inventory, shipping, and customer service are aligned with the new online experience.\n\nRegulatory compliance will be a key consideration. The company must navigate varying data\u2011protection rules, such as the EU\u2019s General Data Protection Regulation, and local consumer\u2011rights legislation in each market. Failure to meet these requirements could lead to fines or restrictions on sales.\n\nThe launch positions Rochester Electronics to compete more effectively against other global players that already offer fully localized e\u2011commerce sites. However, the increased operational complexity may strain the company\u2019s technical and support teams.\n\nSuccess will likely be measured by key performance indicators such as conversion rates, average order value, and customer satisfaction scores. The company will probably monitor these metrics closely in the weeks following the rollout.\n\nIn the coming weeks, Rochester Electronics is expected to release more detailed information about the specific markets and features included in the localized experience. Analysts will also be watching for early performance data to gauge the impact of the rollout.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "AFP",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95aU5HNGxRdVFLZE5PcEE0LTBfZVFhTld6dlgyeTVwM0xmblV4SUlSajN5NTljcTV0MjdmMEkyb0gzdjJFSVJGeTlMUQ?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95aU5HNGxRdVFLZE5PcEE0LTBfZVFhTld6dlgyeTVwM0xmblV4SUlSajN5NTljcTV0MjdmMEkyb0gzdjJFSVJGeTlMUQ?oc=5",
+      "guid": "CBMiS0FVX3lxTE95aU5HNGxRdVFLZE5PcEE0LTBfZVFhTld6dlgyeTVwM0xmblV4SUlSajN5NTljcTV0MjdmMEkyb0gzdjJFSVJGeTlMUQ"
+    },
+    "guardian_f58402c9": {
+      "id": "guardian_f58402c9",
+      "title": "Badenoch denies plan for \u2018British Iron Dome\u2019 \u2013 after Tories use phrase in press release",
+      "category": "Politics",
+      "source": "guardian",
+      "time": "2026-10-07T05:25:58",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/e22a3307566c7be4de91bf4e4793404ab40e7f76/1374_188_5460_4368/master/5460.jpg?width=140&quality=85&auto=format&fit=max&s=d4084b045002b2e929e60a4871269877",
+      "content": "Kemi Badenoch, the leader of the Conservative Party, has denied that the party\u2019s new air\u2011defence proposal has been likened to Israel\u2019s Iron Dome, after the phrase appeared in a party press release and a newspaper article. She clarified that the system, called \u201cBritannia Shield,\u201d is not comparable to the missile\u2011defence network used in Israel, which is designed to counter short\u2011range attacks. The clarification follows criticism that the party\u2019s messaging may have misrepresented the nature of the proposed system.\u202f[1]\n\nThe statement comes as the Conservatives continue to promote their defence strategy amid questions about its feasibility and cost. Badenoch also reiterated that the party is \u201cnot out of the woods\u201d and would prefer another general election to forming a coalition with the Reform Party. The remarks were made in a public briefing that aimed to address concerns over the party\u2019s communication style.\u202f[1]\n\nIn the press release, the term \u201cBritish Iron Dome\u201d was used to describe the proposed \u201cBritannia Shield\u201d system. A subsequent newspaper article echoed the comparison, prompting Badenoch to issue a clarification. She stated that the system would not be comparable to Israel\u2019s Iron Dome, which is primarily designed to intercept short\u2011range rockets.\u202f[1]\n\nIron Dome is a missile\u2011defence system developed by Israel to intercept short\u2011range rockets and artillery shells. It has been deployed in several conflicts and is considered a key component of Israel\u2019s air\u2011defence strategy. The Conservative Party\u2019s \u201cBritannia Shield\u201d is a separate proposal aimed at enhancing the United Kingdom\u2019s national defence capabilities.\u202f[1]\n\nThe Conservative Party\u2019s defence proposals have attracted scrutiny from opposition parties and defence experts. Critics have questioned the technical feasibility, budgetary implications, and strategic necessity of the \u201cBritannia Shield\u201d system. The use of the term \u201cIron Dome\u201d in party materials raised concerns that the party might be overstating the system\u2019s capabilities.\u202f[1]\n\nKey stakeholders in this issue include the Conservative Party leadership, the UK Ministry of Defence, potential coalition partners such as the Reform Party, and the general public. The party\u2019s messaging strategy is closely watched by political analysts and voters who assess the credibility of its policy proposals.\u202f[1]\n\nBadenoch\u2019s clarification may influence public perception of the party\u2019s defence policy and its communication practices. By distancing the \u201cBritannia Shield\u201d from the Iron Dome, the party seeks to avoid allegations of exaggeration or misinformation. The remarks also reinforce the party\u2019s stance on coalition politics, signalling a preference for a single\u2011party government over a partnership with Reform.\u202f[1]\n\nThe incident underscores the importance of precise language in political communication. Misleading or ambiguous terminology can erode trust and fuel criticism from opponents and the media. It also highlights the broader challenge for parties to balance persuasive messaging with factual accuracy.\u202f[1]\n\nObservers will watch for the Conservative Party\u2019s next steps, including detailed specifications of the \u201cBritannia Shield\u201d system, parliamentary debates on defence spending, and any developments in coalition negotiations. The party\u2019s forthcoming statements will determine whether it can maintain credibility while advancing its defence agenda.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release",
+      "guid": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release"
+    },
+    "nasa_0209bba9": {
+      "id": "nasa_0209bba9",
+      "title": "APOD: 2026 October 7 \u2013 Supernova Remnant Pa 30",
+      "category": "Science",
+      "source": "nasa",
+      "time": "2026-10-07T05:26:44",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/noirlab2624a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "content": "On October\u202f7,\u202f2026, the Astronomy Picture of the Day (APOD) showcased an image of the supernova remnant Pa\u202f30.\u202f[1]\n\nThe selection draws attention to the remnants of stellar explosions and the ongoing study of such objects by astronomers worldwide.\u202f[1]\n\nThe APOD page for that date displays a photograph or composite image of Pa\u202f30, accompanied by a brief explanation written by a professional astronomer.\u202f[1] The image is part of APOD\u2019s archive, which offers a searchable index, calendar, RSS feed, and educational resources.\u202f[1]\n\nAPOD is a long\u2011running project that publishes a daily image of the universe, chosen by a curator and explained by an astronomer.\u202f[1] It serves both the public and the scientific community by providing accessible visual content.\n\nWhen a massive star ends its life in a supernova, it ejects material that expands into the surrounding interstellar medium, forming a remnant that can be observed across multiple wavelengths. The remnant Pa\u202f30 is one such object, though the APOD entry does not provide further details.\u202f[1]\n\nAmateur astronomers, educators, and students often consult APOD for inspiration and learning. Professional astronomers may also use APOD images as a quick reference or outreach tool.\n\nBy featuring Pa\u202f30, APOD highlights the diversity of supernova remnants and encourages interest in the lifecycle of stars.\u202f[1] The brief explanation helps readers understand the significance of the image without requiring specialized knowledge.\u202f[1]\n\nThe APOD selection underscores the importance of public engagement in astronomy and the role of visual media in conveying complex scientific concepts. It also reflects the ongoing cataloging of supernova remnants by observatories and surveys.\n\nThe APOD archive continues to update daily, and users can explore the Pa\u202f30 image through the search function or calendar. Future APOD entries may provide additional context or highlight other remnants.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/"
+        }
+      ],
+      "original_url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
+      "guid": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/"
     }
   },
   "featured": {
-    "hero": "marketwatch_4af18c13",
+    "hero": "snopes_3c1e0c06",
     "stack": [
-      "guardian_bbeba34b",
-      "cjr_79cbcd27",
-      "guardian_4161f5a9"
+      "guardian_72b95ed2",
+      "afp_baca0727",
+      "guardian_f58402c9"
     ],
     "latest": [
+      "guardian_f58402c9",
+      "afp_baca0727",
+      "guardian_72b95ed2",
+      "marketwatch_4af18c13",
       "guardian_bbeba34b",
-      "cjr_79cbcd27",
-      "guardian_4161f5a9",
-      "aljazeera_c0e1c366",
-      "cna_0d836213",
-      "googlenews_be26f89e"
+      "cjr_79cbcd27"
     ],
     "world": [
+      "afp_baca0727",
       "cna_0d836213",
       "aljazeera_c0e1c366",
-      "guardian_4161f5a9",
-      "bangkokpost_d570d0be"
+      "guardian_4161f5a9"
     ]
   },
   "categoryIndex": {
@@ -16037,16 +16037,16 @@
       "pbs_c620eba2"
     ],
     "World": [
+      "guardian_4161f5a9",
+      "aljazeera_c0e1c366",
+      "cna_0d836213",
       "bangkokpost_d570d0be",
       "abcau_cf2098bd",
       "reuters_b7389701",
       "csmonitor_46bdb23e",
       "dw_7fb96f51",
       "japantimes_34609068",
-      "aljazeera_a0ea7440",
-      "csmonitor_95c14075",
-      "france24_1156d763",
-      "bangkokpost_923fa6de"
+      "aljazeera_a0ea7440"
     ],
     "Politics": [
       "bbc_6ec0c0e1",
@@ -16073,6 +16073,7 @@
       "googlenews_067f8ade"
     ],
     "Health": [
+      "googlenews_be26f89e",
       "bbc_ff425c1c",
       "guardian_4a7b78e3",
       "googlenews_7625666a",
@@ -16081,10 +16082,10 @@
       "googlenews_f38b38fb",
       "guardian_323d4fa1",
       "googlenews_42632b45",
-      "bbc_89fbc4b1",
-      "guardian_a0ebe0e6"
+      "bbc_89fbc4b1"
     ],
     "Science": [
+      "nasa_0209bba9",
       "conversation_bfbbac0b",
       "guardian_4b22e143",
       "bbc_040e7a98",
@@ -16093,8 +16094,7 @@
       "conversation_7b8520c6",
       "npr_9fb9d91f",
       "berkeleyuniv_c9750b18",
-      "npr_7a0fdbff",
-      "guardian_c77e49b1"
+      "npr_7a0fdbff"
     ],
     "Business": [
       "googlenews_9868fb79",
@@ -16109,8 +16109,13 @@
       "googlenews_019afad1"
     ]
   },
-  "breaking": "Palestinians Stream Back to Northern Gaza on Foot",
+  "breaking": "Rochester Electronics Launches Localized E-Commerce Experiences Across Key Global Markets - AFP.com",
   "events": [
+    {
+      "title": "Rochester Electronics Launches Localized E-Commerce Experiences Across Key Globa",
+      "date": "2026-10-07",
+      "source": "Verum News"
+    },
     {
       "title": "Ukraine launches major drone attack on Russia\u2019s Moscow region, killing two",
       "date": "2026-10-06",
@@ -16123,9 +16128,9 @@
     }
   ],
   "mostRead": [
-    "Optogenetics wins the Nobel \u2013 one neuroscience breakthrough in a line of technol",
+    "Did Trump say he has an IQ of 1,775?",
     "\u2018I\u2019m a Twenty-Five-Year-Old Who Just Bought My Local Newspaper\u2019",
-    "Cancer rates rising more quickly among younger people, international research fi",
-    "Palestinians Stream Back to Northern Gaza on Foot"
+    "Proportion of people in Great Britain vaping who never smoked doubles in four ye",
+    "Optogenetics wins the Nobel \u2013 one neuroscience breakthrough in a line of technol"
   ]
 }
