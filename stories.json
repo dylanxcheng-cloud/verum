@@ -1,105 +1,5 @@
 {
   "stories": {
-    "dw_79c1301c": {
-      "id": "dw_79c1301c",
-      "title": "Moscow confirms visit of CIA Director John Ratcliffe",
-      "category": "World",
-      "source": "dw",
-      "time": "2026-08-26T13:05:46",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://static.dw.com/image/78509208_6.jpg",
-      "content": "The Russian government confirmed that CIA Director John\u202fRatcliffe visited Moscow and met with Russian intelligence counterparts.\u202f[1] He did not meet President Vladimir\u202fPutin during his trip.\u202f[1] According to the Russian government, Ratcliffe arrived in Moscow and held talks with Russian intelligence officials.\u202f[1]\n\nThe visit is significant because it marks a rare direct contact between U.S. and Russian intelligence leadership amid ongoing tensions over security and cyber issues.\n\nJohn\u202fRatcliffe, appointed by President Biden in 2021, has been overseeing U.S. intelligence operations. The CIA, as the United States\u2019 primary foreign intelligence agency, is responsible for collecting and analyzing information that informs national security decisions.\n\nThe Russian government did not specify which Russian agencies were involved, but the term \u201ccounterparts\u201d implies senior officials from the Federal Security Service (FSB) or the Foreign Intelligence Service (SVR). These agencies are the primary Russian counterparts to the CIA in domestic and foreign intelligence matters.\n\nHistorically, the CIA and Russian intelligence agencies have maintained limited direct communication, often through backchannels or informal contacts. Formal meetings between the heads of the two agencies are infrequent, reflecting the broader diplomatic distance between the two countries.\n\nThe U.S.\u2013Russia relationship has been strained over issues such as election interference, cyber attacks, and geopolitical conflicts. These tensions have made any direct dialogue between intelligence leaders noteworthy.\n\nStakeholders in the meeting include the CIA, Russian intelligence agencies, the U.S. and Russian governments, and the broader international community. Any exchange of information or policy positions could influence bilateral security arrangements and regional stability.\n\nThe meeting may provide a channel for de\u2011escalation or coordination on security matters, but the lack of a meeting with President Putin suggests limited diplomatic reach. The absence of a high\u2011level political encounter indicates that the discussion was confined to intelligence circles.\n\nThe visit could signal a willingness to keep lines of communication open, but it also reflects the constraints imposed by current political tensions. Maintaining dialogue at the intelligence level may help prevent misunderstandings while avoiding direct political confrontation.\n\nObservers will look for any statements from the CIA or Russian officials about the outcomes of the talks, and whether future meetings will include higher\u2011level political leaders. The content of the discussions remains undisclosed, so analysts will monitor subsequent press releases and policy announcements.\n\nThe next steps remain unclear, and the U.S. and Russian governments have not announced further plans.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Deutsche Welle",
-          "url": "https://www.dw.com/en/moscow-confirms-visit-of-cia-director-john-ratcliffe/a-78508645?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "original_url": "https://www.dw.com/en/moscow-confirms-visit-of-cia-director-john-ratcliffe/a-78508645?maca=en-rss-en-all-1573-rdf",
-      "guid": "https://www.dw.com/en/moscow-confirms-visit-of-cia-director-john-ratcliffe/a-78508645?maca=en-rss-en-all-1573-rdf"
-    },
-    "guardian_e0707e6b": {
-      "id": "guardian_e0707e6b",
-      "title": "Why do some Labour MPs want electoral reform and will it happen?",
-      "category": "Politics",
-      "source": "guardian",
-      "time": "2026-08-26T13:06:52",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/5ffe1ecc9b9154ff758748bfba920fa462eb4e8f/965_352_4857_3886/master/4857.jpg?width=140&quality=85&auto=format&fit=max&s=499f57d39f2612c8d1d7dcc436887b03",
-      "content": "Nearly 100 Labour MPs have called for a commission to replace first\u2011past\u2011the\u2011post, putting pressure on party leader Andy Burnham to act, even though the issue is not included in the party\u2019s 2024 manifesto. [1]\n\nThe push for electoral reform reflects a growing debate within Labour about how best to represent voters and could influence the party\u2019s strategy for the next general election. [1]\n\nIn a recent parliamentary motion, almost 100 Labour MPs signed a letter urging the establishment of a commission to decide on a route to replace the first\u2011past\u2011the\u2011post voting system. [1] The motion was tabled by a group of MPs who argue that first\u2011past\u2011the\u2011post often produces disproportional results. [1] The request comes as the party prepares for the next general election, and the leadership has not yet committed to any reform. [1]\n\nFirst\u2011past\u2011the\u2011post is the current voting system used in UK general elections, awarding seats to the candidate with the most votes in each constituency.\n\nElectoral reform proposals range from proportional representation to alternative voting methods such as the alternative vote or the single transferable vote.\n\nLabour\u2019s 2024 manifesto does not contain any reference to changing the voting system, focusing instead on economic and social policy.\n\nThe MPs supporting the commission are seeking a route to replace first\u2011past\u2011the\u2011post.\n\nThe outcome of the motion remains uncertain, and the party\u2019s response will shape the next phase of the debate on electoral reform.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/aug/25/why-labour-mps-electoral-reform-will-it-happen"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/politics/2026/aug/25/why-labour-mps-electoral-reform-will-it-happen",
-      "guid": "https://www.theguardian.com/politics/2026/aug/25/why-labour-mps-electoral-reform-will-it-happen"
-    },
-    "bbc_5b37efc3": {
-      "id": "bbc_5b37efc3",
-      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-      "category": "World",
-      "source": "bbc",
-      "time": "2026-08-26T19:52:40",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3829/live/3df24620-a166-11f1-a291-b542ee92de7c.jpg",
-      "content": "A fire that broke out in a Pakistani hospital ward killed 14 babies, and witnesses claim the ward door was locked, while hospital officials say it was manned by security guards to protect the infants. [1]\n\nThe incident has drawn attention to the tension between security measures and emergency access in healthcare settings, raising questions about whether hospitals can adequately safeguard patients while ensuring rapid evacuation during crises. [1]\n\nAccording to reports, the blaze erupted in a neonatal ward, and the deaths of 14 infants were confirmed by hospital staff. Witnesses who were present at the time of the fire say the ward door was locked, preventing staff and emergency responders from entering quickly. [1] The hospital, in its statement to the BBC, maintains that the door was not locked but was manned by security guards, who were present to protect the babies. [1]\n\nThe hospital\u2019s explanation suggests that the security personnel were stationed at the entrance to prevent unauthorized entry, a common practice in many facilities to safeguard vulnerable patients. [1] Witnesses, however, contend that the locked door impeded timely access, potentially contributing to the loss of life. [1]\n\nHospitals routinely employ security guards to monitor patient safety, especially in wards housing high\u2011risk or vulnerable populations. These guards are typically trained to allow authorized staff and emergency personnel to pass while deterring trespassing. [1] In emergencies, protocols usually require that all barriers be removed or unlocked immediately to facilitate evacuation and medical intervention. [1]\n\nFire safety in hospitals is governed by a combination of national regulations and international best practices, which emphasize clear exit routes, functional fire alarms, and sprinkler systems. Compliance with these standards is critical, particularly in neonatal units where patients cannot evacuate on their own. [1] In many countries, hospitals are required to conduct regular fire drills and maintain accessible emergency exits. [1]\n\nPakistan\u2019s healthcare infrastructure has faced scrutiny over the years for gaps in safety compliance, including fire protection. Regulatory oversight can be uneven, and hospitals sometimes lack the resources to fully implement recommended safety measures. [1] The incident underscores the need for stringent enforcement of fire safety standards across the country\u2019s medical facilities. [1]\n\nThe families of the deceased infants are the most directly affected, experiencing profound loss and grief. They may also seek legal recourse or compensation, depending on the outcome of investigations into the hospital\u2019s safety practices. [1] Hospital staff, including nurses and doctors who worked during the fire, face emotional trauma and potential scrutiny over their response to the emergency. [1] Security personnel, whose presence was cited by the hospital, may also be called to account for their role in the incident. [1] Government health authorities will likely be involved in reviewing the hospital\u2019s compliance with safety regulations. [1]\n\nThe incident raises broader implications for how hospitals balance security and emergency access. If security protocols inadvertently hinder evacuation, reforms may be necessary to ensure that safeguards do not become barriers during critical moments. [1] Investigations may prompt a reassessment of fire safety training, emergency exit design, and the role of security staff in medical settings. [1]\n\nAuthorities are expected to launch a formal inquiry into the fire, examining the hospital\u2019s safety procedures, the actions of security personnel, and the circumstances that led to the locked door claim. The hospital has pledged to cooperate with investigators and to review its protocols. [1] Key deadlines for the investigation and any subsequent regulatory actions remain to be announced, but stakeholders anticipate that the findings will influence policy changes aimed at preventing similar tragedies in the future. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/czdz13elezlo#0"
-    },
-    "bbc_cd2fd03d": {
-      "id": "bbc_cd2fd03d",
-      "title": "Burnham refuses to rule out tax rises in autumn Budget",
-      "category": "Politics",
-      "source": "bbc",
-      "time": "2026-08-26T19:53:07",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3751/live/52c34ac0-a00f-11f1-a0ad-6fe9db05b013.jpg",
-      "content": "Burnham said he would not rule out tax rises in the upcoming autumn Budget.\u202f[1] The comment came as experts warned that he and Chancellor John\u202fHealey will have little room to manoeuvre in their first Budget.\u202f[1] The statement signals that the government may need to adjust revenue\u2011raising measures to meet fiscal objectives.\n\nThe remark was made during a press briefing ahead of the autumn Budget, a key event in which the government outlines its plans for taxation and public spending.\u202f[1] Burnham\u2019s comment suggests that the Treasury may consider increasing taxes on income, sales, or other levies to shore up the fiscal balance. The timing of the statement\u2014just before the Budget is presented\u2014highlights the urgency of the fiscal situation.\n\nExperts in finance and economics noted that the fiscal position leaves limited flexibility for the new leadership.\u202f[1] They emphasized that the Budget will be Burnham\u2019s first as leader and Healey\u2019s first as Chancellor, a combination that may constrain policy options. The experts\u2019 assessment points to a constrained fiscal environment that could limit the scope of spending or tax cuts.\n\nIn many jurisdictions, the Budget is the primary tool for setting revenue and expenditure. It is typically presented in the autumn and outlines tax policy, spending priorities, and fiscal projections. The Budget process involves detailed analysis of revenue streams, expenditure commitments, and debt dynamics. (General context.)\n\nThe Chancellor\u2019s role is to manage the Treasury and present the Budget to Parliament. John\u202fHealey has recently taken the position, bringing a new perspective to fiscal management. (General context.)\n\nTax rises would affect a broad range of stakeholders. Individuals would face higher taxes on income, consumption, or property, while small businesses could see increased payroll or corporate tax liabilities. The overall impact would depend on the specific tax instruments chosen. (General context.)\n\nBusinesses, particularly those with tight profit margins, may experience higher costs if payroll or corporate taxes are increased. The potential for reduced investment or hiring could follow if businesses adjust to the new tax burden. (General context.)\n\nAnalysts suggest that limited fiscal space could constrain spending on public services. The need to raise revenue may lead to targeted tax increases, potentially focusing on higher\u2011income earners or specific consumption categories. This approach could balance the need for revenue with concerns about equity and economic growth. (Analysis.)\n\nObservers will watch the final Budget documents, released in the autumn, for details on tax proposals and spending plans. Key questions include the extent of any tax increases, the sectors targeted, and the projected impact on the economy. The Budget will also reveal how the government intends to address any fiscal deficits or debt obligations. (What to watch next.)",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cj06818jgzlo#0"
-    },
-    "csmonitor_da9c5ede": {
-      "id": "csmonitor_da9c5ede",
-      "title": "From patron to partner: Syria\u2019s new relationship with Russia",
-      "category": "World",
-      "source": "csmonitor",
-      "time": "2026-08-26T19:53:46",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://images.csmonitor.com/csm/2026/08/0826_OSYRIARUSSIA_CREMLIN.jpg?alias=standard_900x600",
-      "content": "Syria\u2019s relationship with Russia has moved from one of dependence to one of partnership. \nThe Syrian government, which for many years relied heavily on support from Russia just to stay in power, now enjoys a very different relationship with Moscow.\u202f[1]\n\nThe shift matters because it signals a potential change in how Syria will conduct its foreign policy and manage its internal security. A more balanced relationship could affect the balance of power in the Middle East, alter the calculus of regional actors, and influence the prospects for a negotiated settlement to the Syrian conflict.\n\nIn recent diplomatic exchanges, Damascus has begun to engage Russia on a broader set of issues beyond military aid. While the details of the new arrangement are not fully disclosed, the change is evident in the tone of official statements and the increased frequency of high\u2011level visits between the two capitals.\u202f[1]\n\nHistorically, Russia has been a key patron of the Syrian regime, providing military equipment, political backing at the United Nations, and economic assistance that helped the government survive the civil war that began in 2011. The relationship was largely one\u2011sided, with Damascus depending on Moscow to counter opposition forces and to secure its hold on power.\n\nNow, the partnership appears to be more reciprocal. Syrian officials have begun to seek Russian expertise in areas such as reconstruction, economic diversification, and diplomatic outreach. Russia, meanwhile, is looking to strengthen its influence in the region by positioning itself as a mediator and a provider of comprehensive support rather than merely a military ally.\n\nThe primary stakeholders are the Syrian government, which seeks to consolidate its authority and rebuild the country; Russia, which aims to maintain a foothold in the Middle East; and the international community, which watches for any shifts that could impact regional stability. Opposition groups and neighboring states will also be attentive to how the new dynamics affect the balance of power and the prospects for a political settlement.\n\nIf the partnership deepens, Syria may gain greater autonomy in its domestic affairs while still benefiting from Russian support. Conversely, a closer alignment could entrench Russia\u2019s influence, potentially limiting Syria\u2019s ability to diversify its international partnerships. The long\u2011term implications will depend on how both sides navigate the evolving geopolitical landscape.\n\nObservers should watch for upcoming diplomatic meetings between Syrian and Russian officials, any new agreements on economic or security cooperation, and the reactions of other regional actors such as Turkey, Iran, and the United States. These developments will clarify whether the relationship has truly evolved into a partnership or remains a strategic alliance with underlying dependencies.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Christian Science Monitor",
-          "url": "https://www.csmonitor.com/World/Middle-East/2026/0826/russia-syria-military-bases-moscow-middle-east?icid=rss"
-        }
-      ],
-      "original_url": "https://www.csmonitor.com/World/Middle-East/2026/0826/russia-syria-military-bases-moscow-middle-east?icid=rss",
-      "guid": "05e9bd20631fbd4e9826880fd27439b3"
-    },
     "fullfact_90d030e2": {
       "id": "fullfact_90d030e2",
       "title": "Bexley Council did not send letter advising residents to keep daughters inside",
@@ -15999,32 +15899,133 @@
       ],
       "original_url": "https://www.nature.com/articles/d41586-026-03132-w",
       "guid": "https://www.nature.com/articles/d41586-026-03132-w"
+    },
+    "ap_423d217e": {
+      "id": "ap_423d217e",
+      "title": "DNC sues Trump administration, alleging taxpayer-funded ads violate propaganda law - AP News",
+      "category": "News",
+      "source": "ap",
+      "time": "2026-10-07T22:57:27",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Associated_Press_logo_2012.svg/120px-Associated_Press_logo_2012.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "The Democratic National Committee has filed a lawsuit against the Trump administration, alleging that taxpayer\u2011funded advertisements violate a federal propaganda law. [1]\n\nThe suit underscores a long\u2011standing dispute over the use of public money for partisan messaging, a central issue in the broader debate over election integrity and the role of government in political communication.\n\nThe complaint, brought by the DNC, claims that the Trump administration used taxpayer money to run political ads that contravene a federal propaganda law. [1]\n\nThe Democratic National Committee is the governing body of the Democratic Party, coordinating campaign strategy and fundraising. The Trump administration refers to the executive branch of the federal government under former President Donald Trump. Federal propaganda laws prohibit the use of public funds for partisan political persuasion.\n\nThe lawsuit involves the DNC, the Trump administration, and the American public. Its outcome could shape how public funds are employed in future political campaigns.\n\nIf the court rules in favor of the DNC, it could establish a precedent limiting the use of taxpayer money for partisan messaging.\n\nThe case will proceed through the federal court system, with potential hearings and rulings expected in the coming months.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT1ZYckFSQkR0bVpVSkNEOEhWUmxhTXplS1ZsZ0huNkRfLXVldlNwLTVFNUJBZGVPNGdsbjRBVFJNSHpZamk0Yk1TQm5Eelp5MWVuMmEwVmJNRktHVXFYdEdfMVpyNTJtV0ZIVnZYM1V5SXBRWF9qR2ltNGlUYms4YUtXUlR3bEN2TncxLUxEc1IwLUMzU0RRejdoVFR4aTlvVW1vNlVIOA?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT1ZYckFSQkR0bVpVSkNEOEhWUmxhTXplS1ZsZ0huNkRfLXVldlNwLTVFNUJBZGVPNGdsbjRBVFJNSHpZamk0Yk1TQm5Eelp5MWVuMmEwVmJNRktHVXFYdEdfMVpyNTJtV0ZIVnZYM1V5SXBRWF9qR2ltNGlUYms4YUtXUlR3bEN2TncxLUxEc1IwLUMzU0RRejdoVFR4aTlvVW1vNlVIOA?oc=5",
+      "guid": "CBMipwFBVV95cUxPT1ZYckFSQkR0bVpVSkNEOEhWUmxhTXplS1ZsZ0huNkRfLXVldlNwLTVFNUJBZGVPNGdsbjRBVFJNSHpZamk0Yk1TQm5Eelp5MWVuMmEwVmJNRktHVXFYdEdfMVpyNTJtV0ZIVnZYM1V5SXBRWF9qR2ltNGlUYms4YUtXUlR3bEN2TncxLUxEc1IwLUMzU0RRejdoVFR4aTlvVW1vNlVIOA"
+    },
+    "ap_07315cea": {
+      "id": "ap_07315cea",
+      "title": "Tropical Storm Isaias is forecast to strike the US Gulf Coast as a hurricane - AP News",
+      "category": "News",
+      "source": "ap",
+      "time": "2026-10-07T22:58:45",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Isaias_2020-08-03_1815Z.jpg/3840px-Isaias_2020-08-03_1815Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "Tropical Storm Isaias is forecast to strike the US Gulf Coast as a hurricane. The National Hurricane Center\u2019s latest outlook indicates that the system, currently classified as a tropical storm, will strengthen to hurricane strength before making landfall along the Gulf Coast. The forecast calls for significant wind and storm\u2011surge impacts in the region that could affect coastal communities, infrastructure, and emergency services. [1]\n\nThe potential for a hurricane on the Gulf Coast is a serious concern for residents and local governments alike. The area has a long history of hurricane damage, from the devastation of Hurricane Katrina in 2005 to the more recent impacts of Hurricane Harvey in 2017. A hurricane of Isaias\u2019 projected strength could bring high winds, heavy rainfall, and storm surge that threaten homes, businesses, and critical facilities. The forecast underscores the need for preparedness, including evacuation plans, securing property, and ensuring that emergency supplies are available.\n\nThe storm\u2019s current status as a tropical storm means it has sustained winds of at least 39 miles per hour but less than 74 miles per hour. The forecasted intensification to hurricane strength\u2014defined as sustained winds of 74 miles per hour or higher\u2014suggests that Isaias will reach Category\u202f1 or higher on the Saffir\u2013Simpson scale before landfall. The timing and exact path remain uncertain, but the outlook indicates a likely approach to the Gulf Coast in the coming days.\n\nTropical storms form over warm ocean waters, drawing energy from the heat of the sea. As they move over the Gulf of Mexico, they can tap into additional warmth and moisture, which can cause them to strengthen rapidly. The Gulf\u2019s shallow waters and warm temperatures often provide favorable conditions for intensification, a factor that has contributed to many of the region\u2019s most damaging hurricanes.\n\nThe Gulf Coast\u2019s vulnerability to hurricanes is compounded by its dense population, extensive coastline, and critical infrastructure such as oil refineries, ports, and power plants. Historically, hurricanes have caused widespread power outages, flooding, and economic disruption. The region\u2019s emergency management agencies routinely conduct drills and coordinate with federal agencies to mitigate the impacts of such storms.\n\nLocal residents, businesses, and public agencies are the primary stakeholders in this scenario. Evacuation orders, if issued, would affect thousands of people, while the potential for flooding and wind damage could disrupt supply chains and local economies. Emergency services must prepare for increased demand for shelters, medical care, and disaster response resources.\n\nThe implications of Isaias becoming a hurricane are far-reaching. Even a Category\u202f1 hurricane can produce wind speeds that damage roofs, uproot trees, and cause power outages. Heavy rainfall can lead to flash flooding, especially in low\u2011lying coastal areas. Storm surge can inundate coastal communities, potentially causing significant property damage and posing a threat to life. The economic cost could be substantial, affecting insurance claims, business operations, and public spending on recovery efforts.\n\nWhat to watch next is the evolving forecast from the National Hurricane Center. Updates will provide more precise information on the storm\u2019s intensity, track, and timing. Residents and officials should monitor official advisories, heed evacuation orders if issued, and prepare for potential disruptions to transportation, utilities, and essential services. The next few days will be critical in determining the exact impact of Isaias on the Gulf Coast.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEhBWXUtdkhWTUo1bUV3ZUxIZWtVbGlVa1lmbjMwVmJBaF9XMnZER2V5WnRMaGRSejBNNUYzWExKSHV1SUNLSFdXbXNaQTlwbEdlN2tmdWxwUGNOdG5sNzB3OHNDbTEteDFTeVV1SFN3ZG4wUzFqNHktWU1mZ2QzeUJ5Zzk4Q2hJam5BQTJDempteVBBRGFyNFF4UQ?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEhBWXUtdkhWTUo1bUV3ZUxIZWtVbGlVa1lmbjMwVmJBaF9XMnZER2V5WnRMaGRSejBNNUYzWExKSHV1SUNLSFdXbXNaQTlwbEdlN2tmdWxwUGNOdG5sNzB3OHNDbTEteDFTeVV1SFN3ZG4wUzFqNHktWU1mZ2QzeUJ5Zzk4Q2hJam5BQTJDempteVBBRGFyNFF4UQ?oc=5",
+      "guid": "CBMimwFBVV95cUxQOEhBWXUtdkhWTUo1bUV3ZUxIZWtVbGlVa1lmbjMwVmJBaF9XMnZER2V5WnRMaGRSejBNNUYzWExKSHV1SUNLSFdXbXNaQTlwbEdlN2tmdWxwUGNOdG5sNzB3OHNDbTEteDFTeVV1SFN3ZG4wUzFqNHktWU1mZ2QzeUJ5Zzk4Q2hJam5BQTJDempteVBBRGFyNFF4UQ"
+    },
+    "bbc_1b5e7e3f": {
+      "id": "bbc_1b5e7e3f",
+      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+      "category": "World",
+      "source": "bbc",
+      "time": "2026-10-07T22:58:58",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d466/live/028c9160-c28d-11f1-81d9-d568e8babc26.jpg",
+      "content": "On 7\u202fOctober\u202f2026, Israel held a series of memorial events to honor those who died in the Hamas\u2011led attack that began the Gaza war three years earlier.\u202f[1]\n\nThe commemorations marked the third anniversary of a day that reshaped the region\u2019s security landscape and underscored the enduring human cost of the conflict.\u202f[1]\n\nAcross the country, ceremonies were organized in cities and towns, bringing together families of victims, survivors, and community leaders.\u202f[1]\n\nSpeakers at the events included Israeli officials and representatives of the families affected by the 7\u202fOctober assault, while prayers and moments of silence were observed to remember the lives lost.\u202f[1]\n\nThe 7\u202fOctober attack was a surprise offensive carried out by Hamas against Israeli targets, which triggered a full\u2011scale war in Gaza.\u202f[1]\n\nThe ensuing Gaza war has been described as devastating, with widespread destruction and significant casualties on both sides.\u202f[1]\n\nIsrael\u2019s tradition of commemorating national tragedies is reflected in the scale and solemnity of the memorials held on this anniversary.\u202f[1]\n\nThe events also served as a reminder to policymakers and the international community of the ongoing conflict and its humanitarian implications.\u202f[1]\n\nIsraeli citizens, especially those who lost loved ones, were directly affected by the attack and the subsequent war, and the memorials provided a space for collective mourning.\u202f[1]\n\nThe Gaza population continues to suffer from the war\u2019s consequences, and the memorials highlighted the broader humanitarian crisis that persists.\u202f[1]\n\nThe memorials underscore the enduring trauma that the 7\u202fOctober attack has inflicted on Israeli society and the need for a lasting resolution to the conflict.\u202f[1]\n\nThey also emphasize the importance of remembrance in shaping public memory and influencing future policy decisions.\u202f[1]\n\nLooking ahead, the next anniversary will fall on 7\u202fOctober\u202f2027, and Israeli authorities are expected to plan further commemorations.\u202f[1]\n\nThe trajectory of the Gaza war remains uncertain, and international diplomatic efforts to address the conflict continue to evolve.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo#0"
+    },
+    "straitstimes_2c050601": {
+      "id": "straitstimes_2c050601",
+      "title": "Lebanon's Hezbollah gets $200 million from Iran to help displaced, sources say - The Straits Times",
+      "category": "World",
+      "source": "straitstimes",
+      "time": "2026-10-07T22:59:29",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/89/The_Straits_Times_%28January_20%2C_2026%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "Hezbollah has reportedly received $200\u202fmillion from Iran to help displaced persons, according to a report in The Straits Times. [1]\n\nThe funding could influence Lebanon's humanitarian response and the balance of power between the militia and the state.\n\nThe Straits Times article cites unnamed sources that say the Iranian government transferred the money to Hezbollah, which plans to use it for displaced communities.\n\nHezbollah is a Lebanese Shia militia and political party that has received long\u2011term support from Iran.\n\nIran has historically provided financial and military assistance to Hezbollah as part of its regional strategy.\n\nLebanon has seen an increase in displaced residents due to the Gaza conflict and internal instability.\n\nHezbollah stands to strengthen its role in Lebanon's political and security landscape.\n\nThe displaced population may benefit from the additional resources, though the distribution mechanisms remain unclear.\n\nThe Lebanese government may need to coordinate with Hezbollah to manage the aid, raising questions about state control over humanitarian efforts.\n\nThe influx of funds could help address urgent needs but also consolidates Hezbollah's influence over aid distribution.\n\nThe move may draw scrutiny from international actors concerned about Iran's role in Lebanon.\n\nLebanese authorities and humanitarian agencies will likely announce how the money will be allocated, and international observers will monitor the flow of funds.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDY4T1hiTUt2Y0FZTjlKLU1XQWpJdGRGUG9MdndnYVQyN1YtZ2xNUlBCTEVEUHN4Y09NQjlqRVJORWt6RVY3ZHVSQnJ6ODdoUS1tamJ6WjF2eDQ3dlVHZWIzdzNsX2RzWkRhRWpiVGJsUFhsdmhEenJObHhDMWx3eFVHRXdqRjhSV2xPWFZZdWxXdm1rc180akI0OXVGWldRb3NkMDdNSjh2MEotdmxpVkgxWnZZSW53WVllS2tYbw?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDY4T1hiTUt2Y0FZTjlKLU1XQWpJdGRGUG9MdndnYVQyN1YtZ2xNUlBCTEVEUHN4Y09NQjlqRVJORWt6RVY3ZHVSQnJ6ODdoUS1tamJ6WjF2eDQ3dlVHZWIzdzNsX2RzWkRhRWpiVGJsUFhsdmhEenJObHhDMWx3eFVHRXdqRjhSV2xPWFZZdWxXdm1rc180akI0OXVGWldRb3NkMDdNSjh2MEotdmxpVkgxWnZZSW53WVllS2tYbw?oc=5",
+      "guid": "CBMivwFBVV95cUxQUDY4T1hiTUt2Y0FZTjlKLU1XQWpJdGRGUG9MdndnYVQyN1YtZ2xNUlBCTEVEUHN4Y09NQjlqRVJORWt6RVY3ZHVSQnJ6ODdoUS1tamJ6WjF2eDQ3dlVHZWIzdzNsX2RzWkRhRWpiVGJsUFhsdmhEenJObHhDMWx3eFVHRXdqRjhSV2xPWFZZdWxXdm1rc180akI0OXVGWldRb3NkMDdNSjh2MEotdmxpVkgxWnZZSW53WVllS2tYbw"
+    },
+    "japantimes_d2ebbbc3": {
+      "id": "japantimes_d2ebbbc3",
+      "title": "Nomura Asset Management shifts focus to longer-term returns",
+      "category": "World",
+      "source": "japantimes",
+      "time": "2026-10-07T23:00:15",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/07/567411.jpg",
+      "content": "Nomura Asset Management has announced a strategic shift to prioritize longer\u2011term returns, marking a significant change in its investment approach. [1]\n\nThe move signals the firm\u2019s intent to align its capabilities with those of leading global asset managers, potentially reshaping its product offerings and client expectations. [1]\n\nThe asset manager, recognized as Japan\u2019s largest in the sector, said the new focus will guide its portfolio construction and risk\u2011management practices, aiming to deliver sustainable performance over extended horizons. [1]\n\nAsset\u2011management firms traditionally balance short\u2011 and long\u2011term objectives, but recent market dynamics have prompted many to reevaluate their strategies. Longer\u2011term investing can involve a broader asset allocation, deeper fundamental analysis, and a willingness to endure short\u2011term volatility.\n\nClients of Nomura Asset Management, including institutional investors and high\u2011net\u2011worth individuals, may see changes in fund mandates and fee structures. The shift could also influence the broader Japanese investment landscape as other domestic managers observe the move.\n\nAligning with global peers may enhance Nomura\u2019s competitiveness in attracting international capital and improving risk\u2011adjusted returns. However, the transition may require adjustments in internal processes and client communication.\n\nThe firm will likely roll out new investment products and update its disclosures over the coming months, while monitoring client feedback and market performance to refine its long\u2011term strategy.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/07/nomura-longer-term-returns/"
+        }
+      ],
+      "original_url": "https://www.japantimes.co.jp/business/2026/10/07/nomura-longer-term-returns/",
+      "guid": "https://www.japantimes.co.jp/article/647515/"
     }
   },
   "featured": {
-    "hero": "npr_5620ffbf",
+    "hero": "ap_423d217e",
     "stack": [
-      "reuters_16d9aa14",
-      "bbc_559c452e",
-      "irishtimes_4fa1ce84"
+      "ap_07315cea",
+      "bbc_1b5e7e3f",
+      "straitstimes_2c050601"
     ],
     "latest": [
+      "straitstimes_2c050601",
+      "bbc_1b5e7e3f",
+      "ap_07315cea",
+      "npr_5620ffbf",
       "irishtimes_4fa1ce84",
-      "bbc_559c452e",
-      "reuters_16d9aa14",
-      "snopes_3c1e0c06",
-      "guardian_f58402c9",
-      "afp_baca0727"
+      "bbc_559c452e"
     ],
     "world": [
-      "reuters_16d9aa14",
-      "irishtimes_4fa1ce84",
-      "afp_baca0727",
-      "cna_0d836213"
+      "bbc_1b5e7e3f",
+      "straitstimes_2c050601",
+      "japantimes_d2ebbbc3",
+      "reuters_16d9aa14"
     ]
   },
   "categoryIndex": {
     "News": [
+      "snopes_3c1e0c06",
       "cjr_79cbcd27",
       "fullfact_8366bd88",
       "npr_24040064",
@@ -16033,22 +16034,22 @@
       "cjr_6674ac74",
       "snopes_1c1fb927",
       "fullfact_664f7ee1",
-      "ap_4665fceb",
-      "npr_4205a3a2"
+      "ap_4665fceb"
     ],
     "World": [
+      "japantimes_d2ebbbc3",
+      "reuters_16d9aa14",
+      "afp_baca0727",
       "guardian_4161f5a9",
       "aljazeera_c0e1c366",
       "cna_0d836213",
       "bangkokpost_d570d0be",
       "abcau_cf2098bd",
       "reuters_b7389701",
-      "csmonitor_46bdb23e",
-      "dw_7fb96f51",
-      "japantimes_34609068",
-      "aljazeera_a0ea7440"
+      "csmonitor_46bdb23e"
     ],
     "Politics": [
+      "guardian_f58402c9",
       "bbc_6ec0c0e1",
       "guardian_5ffe2ef2",
       "guardian_5aa27fc3",
@@ -16057,8 +16058,7 @@
       "bbc_f3e39619",
       "guardian_fa09d438",
       "bbc_9184c85c",
-      "bbc_5e4edf53",
-      "guardian_a6b4c094"
+      "bbc_5e4edf53"
     ],
     "Sports": [
       "googlenews_ce1f0b44",
@@ -16109,7 +16109,7 @@
       "googlenews_c2df5a76"
     ]
   },
-  "breaking": "India steel ministry unlikely to seek new curbs on cheap imports, government source says - Reuters",
+  "breaking": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
   "events": [
     {
       "title": "Rochester Electronics Launches Localized E-Commerce Experiences Across Key Globa",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
     "\u2018I\u2019m a Twenty-Five-Year-Old Who Just Bought My Local Newspaper\u2019",
-    "India steel ministry unlikely to seek new curbs on cheap imports, government sou",
-    "Did Trump say he has an IQ of 1,775?"
+    "Tropical Storm Isaias is forecast to strike the US Gulf Coast as a hurricane - A",
+    "DNC sues Trump administration, alleging taxpayer-funded ads violate propaganda l",
+    "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry"
   ]
 }
