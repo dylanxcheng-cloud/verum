@@ -1,105 +1,5 @@
 {
   "stories": {
-    "googlenews_bf3d2ae0": {
-      "id": "googlenews_bf3d2ae0",
-      "title": "After 8-year-old died of brain-eating amoeba, here's who is most at risk - USA Today",
-      "category": "Health",
-      "source": "googlenews",
-      "time": "2026-08-26T07:01:14",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28140%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27220%27%20cy%3D%2782%27%20r%3D%27140%27%20fill%3D%27hsl%28180%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "An eight\u2011year\u2011old girl from Louisiana has died after contracting a rare brain\u2011eating amoeba, a fatal infection that is almost unheard of in the United States. The child\u2019s death has prompted a community outpouring of support and a renewed focus on the risks posed by warm freshwater environments. [1]\n\nThe incident underscores how a seemingly innocuous activity\u2014swimming in a lake\u2014can expose children to a deadly pathogen. It also highlights the need for heightened public awareness about the signs of primary amoebic meningoencephalitis, the disease caused by the amoeba, and the importance of rapid medical intervention. [1]\n\nThe girl, who was eight years old, was reported to have died after a battle with the infection. Authorities say she likely contracted the amoeba while swimming in a lake in Louisiana, where the organism was found in warm freshwater. The community rallied around her family, with local residents and officials expressing grief and offering support. [1]\n\nThe infection, caused by the amoeba *Naegleria fowleri*, is extremely rare in the United States, with only a handful of cases each year. It thrives in warm, stagnant water and can enter the body through the nose, traveling to the brain and causing rapid, often fatal, inflammation. [1]\n\nSymptoms of the disease typically begin with severe headache, fever, nausea, and vomiting, progressing to stiff neck, confusion, and seizures within days. Because the illness advances quickly, early recognition and treatment are critical, yet the prognosis remains poor once symptoms appear. [1]\n\nThe child\u2019s family, local health officials, and community members are the primary stakeholders in this tragedy. The family is coping with the loss while seeking answers about how the infection occurred, while public health authorities are tasked with investigating the source and preventing future cases. [1]\n\nThe impact extends beyond the immediate family. The community\u2019s response\u2014rallying for the child and mourning her loss\u2014reflects a collective concern about the safety of local water bodies and the adequacy of public health messaging regarding rare infections. [1]\n\nPublic health officials are now examining the lake\u2019s water quality and temperature, as well as any recent environmental changes that might have increased the amoeba\u2019s presence. They are also reviewing guidelines for swimming in warm freshwater and considering whether additional advisories or monitoring are warranted. [1]\n\nThe case serves as a reminder that even in regions with low incidence rates, rare pathogens can pose serious risks, especially to children who are more likely to engage in water activities. It also illustrates the importance of community vigilance and the need for clear, evidence\u2011based communication from health agencies. [1]\n\nIn the coming weeks, investigators will likely release more detailed findings about the lake\u2019s conditions and the circumstances surrounding the infection. Health authorities may issue updated recommendations for swimming and nasal hygiene, and the community will continue to support the family as they navigate the aftermath of this loss. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWx1alZncnljdXhqN0FrWW9tM1F5bkZBMDE3NElMZW43X1lZdzlWZFAxMGUzYS1SWEZVdzhvSEVZMkhOVVY0bC1nU1o0STVySjNLS0VFVjV3dTNUel9HOXZfR190bWRVWmw4WlYzbTlqOV9GMWpKYklxWmxjVVNGWmpLSHVWSWhxazdCNmoyYklYNnlSMG51OExNWm9PQlpIWWVaeEN3WUtzZ1FjRktJ?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWx1alZncnljdXhqN0FrWW9tM1F5bkZBMDE3NElMZW43X1lZdzlWZFAxMGUzYS1SWEZVdzhvSEVZMkhOVVY0bC1nU1o0STVySjNLS0VFVjV3dTNUel9HOXZfR190bWRVWmw4WlYzbTlqOV9GMWpKYklxWmxjVVNGWmpLSHVWSWhxazdCNmoyYklYNnlSMG51OExNWm9PQlpIWWVaeEN3WUtzZ1FjRktJ?oc=5",
-      "guid": "CBMirwFBVV95cUxPQWx1alZncnljdXhqN0FrWW9tM1F5bkZBMDE3NElMZW43X1lZdzlWZFAxMGUzYS1SWEZVdzhvSEVZMkhOVVY0bC1nU1o0STVySjNLS0VFVjV3dTNUel9HOXZfR190bWRVWmw4WlYzbTlqOV9GMWpKYklxWmxjVVNGWmpLSHVWSWhxazdCNmoyYklYNnlSMG51OExNWm9PQlpIWWVaeEN3WUtzZ1FjRktJ"
-    },
-    "nature_3ceec40d": {
-      "id": "nature_3ceec40d",
-      "title": "South Africa\u2019s \u2018registration law\u2019 for scientists could be a template for the world \u2014 if the nation gets it right",
-      "category": "Science",
-      "source": "nature",
-      "time": "2026-08-26T13:03:26",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02568-4/d41586-026-02568-4_53165716.jpg",
-      "content": "South Africa is drafting a registration law for scientists that could set a global example if clarified.[1]\n\nThe law aims to protect public and environment.[1] However, the draft is unclear.[1]\n\nThe draft law was released to the public.[1] It would require certain scientists to register with a professional body.[1] The current version lacks clarity.[1]\n\nProfessional registration is common in fields such as medicine, law, and engineering.\n\nThe proposal comes amid growing concerns about irresponsible research and environmental harm.\n\nScientists, professional bodies, government officials, and environmental groups are all stakeholders.\n\nPotential benefits include increased accountability and public trust. Potential risks involve bureaucratic burdens and possible stifling of innovation.\n\nIf adopted, the law could influence other nations and set a precedent for regulating scientific practice.\n\nUpcoming parliamentary debates and revisions will determine the law\u2019s final form.\n\nThe law may require amendments to existing regulations governing research.\n\nKey challenges include ensuring clarity, effective enforcement, and defining the scope of registration.\n\nThe law\u2019s success will hinge on clear language and active engagement from the scientific community.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Nature",
-          "url": "https://www.nature.com/articles/d41586-026-02568-4"
-        }
-      ],
-      "original_url": "https://www.nature.com/articles/d41586-026-02568-4",
-      "guid": "https://www.nature.com/articles/d41586-026-02568-4"
-    },
-    "abcau_34b3bfad": {
-      "id": "abcau_34b3bfad",
-      "title": "'Unfortunate kick in the guts' as inflation data increases RBA rate hike risk - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "category": "World",
-      "source": "abcau",
-      "time": "2026-08-26T13:03:59",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28188%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27188%27%20cy%3D%27188%27%20r%3D%27140%27%20fill%3D%27hsl%28228%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Inflation data has raised the likelihood of a Reserve Bank of Australia (RBA) rate hike, according to an ABC News article titled \u201cUnfortunate kick in the guts\u201d that reports the data has increased the risk of a tightening move by the central bank.[1]\n\nThe prospect of higher borrowing costs is a key concern for Australians, as it can affect mortgage repayments, consumer credit, and business investment. A rate hike would also influence the Australian dollar, bond yields, and the broader financial markets.\n\nThe ABC piece notes that recent inflation figures have nudged the RBA\u2019s assessment toward a potential rate increase, though it does not provide specific numbers or a timeline for a decision.[1]\n\nThe RBA is responsible for setting the country\u2019s cash rate, which serves as a benchmark for interest rates across the economy. Its primary mandate is to maintain price stability, targeting an inflation rate of 2\u20113% over the medium term.\n\nWhen inflation rises above the target range, the RBA may raise the cash rate to cool spending and curb price pressures. Conversely, if inflation falls below the target, it may lower rates to stimulate growth. The central bank\u2019s decisions are guided by a range of economic indicators, including employment, wage growth, and external trade conditions.\n\nHigher rates would increase the cost of borrowing for households, potentially slowing the housing market and reducing consumer spending. Mortgage rates, which are closely tied to the cash rate, could rise, making home ownership more expensive for many Australians.\n\nBusinesses would face higher financing costs, which could dampen investment in new projects or expansion plans. Small and medium enterprises, in particular, may find it more difficult to secure affordable credit, potentially affecting employment and productivity.\n\nFinancial markets would likely react to a rate hike by adjusting bond yields and equity valuations. A stronger Australian dollar could also emerge, impacting exporters and the tourism sector.\n\nStakeholders most directly affected include consumers with variable\u2011rate loans, lenders who adjust interest margins, and investors who track the RBA\u2019s policy stance. The broader economy, too, will feel the ripple effects of any change in monetary policy.\n\nIf the RBA follows through with a rate increase, the Australian economy could experience a slowdown in growth as higher borrowing costs temper demand. Housing activity may decline, and consumer confidence could waver, especially in regions heavily reliant on property investment.\n\nThe next key event to watch is the RBA\u2019s upcoming policy meeting, where the central bank will review the latest economic data and decide whether to adjust the cash rate. Market participants and policymakers will also be attentive to subsequent inflation releases, which will further inform the RBA\u2019s outlook.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "ABC News (Australia)",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNV81dGt3OTVIeGg1Y0VoU25XY1U4YlVqYXgyODVDNmFiX1paNFdPZmo5c2RuZnpXMDJYOHA4MlhJbEhicGJCZXFUWE4wS1c0d3RxQnF3cGJIS1c4ZU40R2ZIZ1RQdkZhTTBxNlpUa1FnMGw5U0tWX0FuRjNtWEVQUURpU1d0VlFzT0VRV2FMa25XZE9WODBrLWxCT2dPdTNL?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNV81dGt3OTVIeGg1Y0VoU25XY1U4YlVqYXgyODVDNmFiX1paNFdPZmo5c2RuZnpXMDJYOHA4MlhJbEhicGJCZXFUWE4wS1c0d3RxQnF3cGJIS1c4ZU40R2ZIZ1RQdkZhTTBxNlpUa1FnMGw5U0tWX0FuRjNtWEVQUURpU1d0VlFzT0VRV2FMa25XZE9WODBrLWxCT2dPdTNL?oc=5",
-      "guid": "CBMioAFBVV95cUxQNV81dGt3OTVIeGg1Y0VoU25XY1U4YlVqYXgyODVDNmFiX1paNFdPZmo5c2RuZnpXMDJYOHA4MlhJbEhicGJCZXFUWE4wS1c0d3RxQnF3cGJIS1c4ZU40R2ZIZ1RQdkZhTTBxNlpUa1FnMGw5U0tWX0FuRjNtWEVQUURpU1d0VlFzT0VRV2FMa25XZE9WODBrLWxCT2dPdTNL"
-    },
-    "afp_052462be": {
-      "id": "afp_052462be",
-      "title": "Xsolla President Chris Hewish Debuts \u201cDurable Advantage\u201d at Gamescom 2026 - afp.com",
-      "category": "World",
-      "source": "afp",
-      "time": "2026-08-26T13:04:39",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%2881%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27641%27%20cy%3D%2785%27%20r%3D%27140%27%20fill%3D%27hsl%28121%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Xsolla President Chris Hewish introduced a new initiative called \u201cDurable Advantage\u201d during the 2026 Gamescom event.\u202f[1]\n\nThe announcement signals Xsolla\u2019s ongoing efforts to expand its suite of services for game developers, a move that could influence the competitive dynamics of the gaming commerce sector.\u202f[1]\n\nAt Gamescom 2026, a major gaming trade show in Germany, Chris Hewish presented Durable Advantage to an audience of industry professionals. The announcement was reported by AFP.\u202f[1] No further details about the initiative were disclosed in the coverage.\u202f[1]\n\nXsolla is a global platform that provides payment processing, distribution, and marketing solutions to video\u2011game developers. The company has grown since its founding in 2008. Gamescom is the world\u2019s largest trade fair for interactive entertainment, attracting developers, publishers, and hardware makers each year.\n\nGame developers who use Xsolla\u2019s services may be the primary audience for Durable Advantage. The potential benefits or changes to existing workflows remain unclear, as the AFP report does not elaborate on the features or pricing of the new offering.\u202f[1]\n\nWhile the specifics are not yet known, the launch of Durable Advantage could represent a strategic push by Xsolla to differentiate itself in a crowded market. If the initiative delivers new capabilities, it may alter how developers monetize and distribute their games.\u202f[1]\n\nXsolla is expected to provide more information on Durable Advantage in the coming weeks, possibly through product demos or press releases. Industry observers will likely track the rollout and any subsequent updates at future trade events.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "AFP",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMjR3VlZySDY1RUcxcGhqVkxwN2lmeGEtVnVnQkxfUFcwOWJuMXJJWnlHZWN6OW5HaFZPSmVydlRhZXNrN2tVTF93Ni1JdW5JRjgwRlg0em5lN3h0NlBycVV5ZkdRdE95ZUNEaWZSMlVhVVdUTU9Nd3I0am5ZQjhmU2JkUk9lbURoVjdfMklfYkxJZ3M4MGh5Zk5UdXZPQQ?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMjR3VlZySDY1RUcxcGhqVkxwN2lmeGEtVnVnQkxfUFcwOWJuMXJJWnlHZWN6OW5HaFZPSmVydlRhZXNrN2tVTF93Ni1JdW5JRjgwRlg0em5lN3h0NlBycVV5ZkdRdE95ZUNEaWZSMlVhVVdUTU9Nd3I0am5ZQjhmU2JkUk9lbURoVjdfMklfYkxJZ3M4MGh5Zk5UdXZPQQ?oc=5",
-      "guid": "CBMingFBVV95cUxPMjR3VlZySDY1RUcxcGhqVkxwN2lmeGEtVnVnQkxfUFcwOWJuMXJJWnlHZWN6OW5HaFZPSmVydlRhZXNrN2tVTF93Ni1JdW5JRjgwRlg0em5lN3h0NlBycVV5ZkdRdE95ZUNEaWZSMlVhVVdUTU9Nd3I0am5ZQjhmU2JkUk9lbURoVjdfMklfYkxJZ3M4MGh5Zk5UdXZPQQ"
-    },
-    "npr_e734f83a": {
-      "id": "npr_e734f83a",
-      "title": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
-      "category": "Science",
-      "source": "npr",
-      "time": "2026-08-26T13:05:05",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+234/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2F96%2Fb993f4854a1ab5727846de168081%2Fspokane-fires-260814-0642.jpg",
-      "content": "Most evacuees from a recent wildfire in Spokane have been allowed to return to their homes, but authorities warn the area remains a hazardous material zone. [1] The decision to let residents back into neighborhoods close to burn zones comes amid ongoing concerns about airborne toxins and contaminated debris, raising questions about public safety and emergency response protocols. [1]\n\nThe wildfire forced the evacuation of several neighborhoods in Spokane. [1] After weeks of containment, officials cleared most residents to return. [1] The return is limited to homes near burn zones, where smoke and ash have deposited chemicals from the fire. [1] Residents are advised to take precautions. [1]\n\nWildfires can release a range of toxic substances, including particulate matter, polycyclic aromatic hydrocarbons, and heavy metals, which can linger in ash and soil.\n\nHazardous material (hazmat) designations are used by emergency agencies to indicate areas where chemical exposures pose a risk to health.\n\nSpokane has experienced several significant wildfires in recent years, prompting the development of evacuation and containment protocols.\n\nResidents who returned face health risks from inhalation of fine particles and potential skin contact with contaminated ash.\n\nLocal health departments and environmental agencies are monitoring air quality and soil contamination to assess risk levels.\n\nThe hazmat status suggests that cleanup and monitoring will continue, potentially delaying full restoration of normalcy for affected communities.\n\nThe hazmat designation indicates that authorities will likely continue monitoring and cleanup efforts, but the reporting does not specify when or how the status may change.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "NPR",
-          "url": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation"
-        }
-      ],
-      "original_url": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
-      "guid": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation"
-    },
     "dw_79c1301c": {
       "id": "dw_79c1301c",
       "title": "Moscow confirms visit of CIA Director John Ratcliffe",
@@ -15999,32 +15899,133 @@
       ],
       "original_url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
       "guid": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/"
+    },
+    "npr_5620ffbf": {
+      "id": "npr_5620ffbf",
+      "title": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
+      "category": "Science",
+      "source": "npr",
+      "time": "2026-10-07T13:03:59",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7680x4320+0+400/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F29%2Ffd%2F9336bb2d466fa157fb66cc2cdaf2%2Fap26280356127391.jpg",
+      "content": "Henri B. Kagan and Kenso Soai were announced as recipients of the Nobel Prize in Chemistry on Wednesday, recognized for their discovery of non\u2011linear effects and autocatalysis in asymmetric organic synthesis.[1]\n\nThe award, one of the most prestigious recognitions in the scientific community, highlights the significance of their work in developing new methods for producing chiral molecules, which are essential in pharmaceuticals and materials science.\n\nThe Royal Swedish Academy of Sciences, which administers the Nobel Prizes, announced the decision during its annual announcement ceremony held in Stockholm.\n\nKagan, a professor at the University of California, Berkeley, and Soai, a researcher at the University of Tokyo, had independently investigated how small changes in reaction conditions could lead to large differences in the enantiomeric excess of a product.\n\nTheir research demonstrated that certain autocatalytic reactions could amplify an initial chiral bias, producing a pronounced non\u2011linear relationship between catalyst concentration and product chirality.\n\nAsymmetric synthesis is a branch of organic chemistry that focuses on creating molecules with a specific spatial arrangement of atoms, known as chirality. Chiral molecules often exhibit distinct biological activities, making them valuable in drug development.\n\nAutocatalysis refers to a process in which a chemical reaction produces a product that, in turn, accelerates its own formation. When applied to asymmetric synthesis, autocatalysis can lead to self\u2011reinforcing chiral amplification.\n\nNon\u2011linear effects in this context describe how small variations in catalyst or substrate concentration can produce disproportionately large changes in the enantiomeric excess of the final product.\n\nThe discovery has implications for the pharmaceutical industry, where the synthesis of enantiomerically pure compounds is critical for drug efficacy and safety.\n\nAcademic researchers in organic chemistry and related fields will likely build upon Kagan and Soai's findings to design more efficient and selective synthetic routes.\n\nBy revealing a fundamental mechanism for chiral amplification, the work opens new avenues for creating complex molecules with high stereochemical fidelity, potentially reducing the need for costly chiral auxiliaries or catalysts.\n\nThe Nobel Committee will present the laureates with their medals and diplomas at the December ceremony in Stockholm, and the recipients will likely discuss their future research directions in the coming months.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NPR",
+          "url": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry"
+        }
+      ],
+      "original_url": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
+      "guid": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry"
+    },
+    "reuters_16d9aa14": {
+      "id": "reuters_16d9aa14",
+      "title": "India steel ministry unlikely to seek new curbs on cheap imports, government source says - Reuters",
+      "category": "World",
+      "source": "reuters",
+      "time": "2026-10-07T13:04:37",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/960px-Flag_of_India.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "India\u2019s steel ministry is unlikely to impose new restrictions on cheap imports, a government source said.\u202f[1] The statement came amid ongoing discussions about how best to manage the country\u2019s large volume of imported steel, which has long been a point of contention between domestic producers and importers.\n\nThe decision matters because India is one of the world\u2019s largest consumers of steel, and the balance between protecting local industry and keeping construction and manufacturing costs low is a key policy lever. Import policy changes can ripple through the supply chain, affecting prices for everything from building materials to automobiles.\n\nAccording to the source, the ministry is not planning to seek additional curbs on inexpensive imports.\u202f[1] The comment was made in the context of recent debates over whether to tighten tariffs or impose quotas to shield domestic producers from foreign competition.\n\nIndia\u2019s steel sector has historically relied on a mix of domestic production and imports to meet demand. The government has used tariffs, quotas, and licensing requirements to regulate the flow of steel into the country. These tools are often referred to as \u201ccurbs\u201d when they are intended to limit the volume or price of imported goods.\n\nFor domestic steel manufacturers, fewer import restrictions could mean stiffer competition from foreign producers who can offer lower prices. Importers, on the other hand, stand to benefit from cheaper raw materials, potentially lowering costs for downstream industries such as construction, automotive, and appliances.\n\nThe steel industry is a cornerstone of India\u2019s infrastructure and manufacturing ambitions. It supplies the raw material needed for roads, bridges, buildings, and a host of consumer goods. Policy shifts that affect the cost and availability of steel can therefore have wide\u2011ranging economic implications.\n\nIf the ministry does not introduce new curbs, domestic producers may need to adjust their strategies, perhaps by improving efficiency or targeting niche markets. Conversely, lower import costs could help keep construction and manufacturing expenses down, supporting broader economic growth.\n\nThe decision also reflects a broader trade policy stance that seeks to balance domestic industry protection with commitments to international trade rules. India is a member of the World Trade Organization, and any significant changes to import policy could invite scrutiny or trade disputes.\n\nIndustry stakeholders will likely keep a close eye on the ministry\u2019s next moves. While the current stance suggests no immediate tightening, the government may still review existing import regulations or adjust tariff rates in response to market conditions.\n\nThe Ministry of Steel, which oversees policy formulation for the sector, will probably continue to engage with industry associations and other stakeholders to gauge the impact of current import flows. Global steel prices, which have fluctuated in recent years, also play a role in shaping domestic policy decisions.\n\nThe government source did not elaborate on the reasons behind the ministry\u2019s position, but it may signal a preference for maintaining open trade channels and avoiding potential conflicts with trading partners. The outcome of this policy direction will be closely watched by both domestic producers and importers, as well as by policymakers monitoring India\u2019s trade commitments.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbVM5SVFJWk41SU9qSk1pdTFPNWhrVWQ5SDE5TlJPMTFnNnFjb0JvMmVQcUdvdExOT2lZMVBEd3ludEtDYkRKazR0akRRUHJSRkxTQzBmWlNzcFNjOEJLVzdURjU1eW1ESFFiREJzckQ1el84YU1INjN5Q19QZGcydExGOFJKS1ZjbjhaUklpd21YMzhJRldPSUNFX1JGa0U3Nm1Rc2xxLVltcmpfdEZKWWRsZ2V6MWlmNzA5dGJwVWUydw?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbVM5SVFJWk41SU9qSk1pdTFPNWhrVWQ5SDE5TlJPMTFnNnFjb0JvMmVQcUdvdExOT2lZMVBEd3ludEtDYkRKazR0akRRUHJSRkxTQzBmWlNzcFNjOEJLVzdURjU1eW1ESFFiREJzckQ1el84YU1INjN5Q19QZGcydExGOFJKS1ZjbjhaUklpd21YMzhJRldPSUNFX1JGa0U3Nm1Rc2xxLVltcmpfdEZKWWRsZ2V6MWlmNzA5dGJwVWUydw?oc=5",
+      "guid": "CBMiwgFBVV95cUxNbVM5SVFJWk41SU9qSk1pdTFPNWhrVWQ5SDE5TlJPMTFnNnFjb0JvMmVQcUdvdExOT2lZMVBEd3ludEtDYkRKazR0akRRUHJSRkxTQzBmWlNzcFNjOEJLVzdURjU1eW1ESFFiREJzckQ1el84YU1INjN5Q19QZGcydExGOFJKS1ZjbjhaUklpd21YMzhJRldPSUNFX1JGa0U3Nm1Rc2xxLVltcmpfdEZKWWRsZ2V6MWlmNzA5dGJwVWUydw"
+    },
+    "bbc_559c452e": {
+      "id": "bbc_559c452e",
+      "title": "New global guidelines warn against obesity drugs for children under 10",
+      "category": "Health",
+      "source": "bbc",
+      "time": "2026-10-07T13:04:41",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce3e/live/7abbef90-c199-11f1-8fa2-19a1e9b6288f.jpg",
+      "content": "The World Health Organization has issued new global guidelines that advise against the use of obesity drugs in children under 10, urging instead a focus on healthy eating and exercise rather than medicines such as weight\u2011loss injections.[1]\n\nThe warning comes amid growing concern that the rapid rise in childhood obesity may be driving an increased demand for pharmacological interventions, many of which lack robust evidence of safety and efficacy in young children. By steering clinicians and parents toward non\u2011pharmacologic approaches, the guidelines aim to curb the potential for adverse health outcomes associated with early drug exposure.\n\nIn the guidelines, WHO explicitly states that obesity drugs should not be prescribed to children younger than 10 years old. The agency stresses that prevention and management of childhood obesity should prioritize dietary changes, increased physical activity, and behavioral support over medication.\n\nWHO\u2019s guidance follows a long history of efforts to address the global obesity epidemic. The organization has previously issued recommendations on nutrition, physical activity, and the regulation of food marketing to children. These earlier documents have highlighted the importance of early intervention and the role of public health policies in shaping healthy environments.\n\nThe development of the new guidelines involved a systematic review of the scientific literature, consultations with pediatric endocrinologists, nutritionists, and public health experts, and a deliberative process that weighed the benefits and risks of pharmacotherapy in young children. The resulting recommendations reflect a consensus that the evidence base for weight\u2011loss drugs in this age group is insufficient and that the potential harms outweigh the benefits.\n\nPediatricians, family physicians, and dietitians are among the primary stakeholders who will need to adjust their clinical practice in light of the new recommendations. Parents and caregivers, who often seek quick fixes for their children\u2019s weight problems, may also need to be educated about the risks of early drug use and the value of lifestyle interventions. Health ministries and policymakers will likely use the guidelines to shape national obesity prevention strategies and to allocate resources toward community\u2011based programs.\n\nPharmaceutical companies that develop weight\u2011loss medications may face reduced market access for pediatric indications, prompting a shift in research and development priorities. Conversely, organizations that fund and promote lifestyle\u2011based interventions may see increased support and funding as a result of the guidelines.\n\nThe guidelines signal a broader shift in the treatment paradigm for childhood obesity, moving away from a medicalized model toward a public\u2011health\u2011oriented approach. This transition will require investment in school\u2011based nutrition programs, community recreation facilities, and training for healthcare providers in behavioral counseling.\n\nImplementation of the guidelines will likely involve a phased approach, with national health authorities adapting the recommendations to local contexts. Monitoring systems will be essential to track changes in prescription patterns, obesity prevalence, and health outcomes among children.\n\nHealth ministries are expected to release updated national policies within the next 12 to 18 months, incorporating WHO\u2019s recommendations into clinical guidelines, insurance coverage decisions, and public health campaigns. The effectiveness of these measures will be evaluated through ongoing surveillance of childhood obesity rates and related health indicators.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crvg904yw397o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/crvg904yw397o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/crvg904yw397o#0"
+    },
+    "irishtimes_4fa1ce84": {
+      "id": "irishtimes_4fa1ce84",
+      "title": "Man (22) charged with two counts of murder over Edenderry house fire",
+      "category": "World",
+      "source": "irishtimes",
+      "time": "2026-10-07T13:04:54",
+      "read": "3 min read",
+      "mode": "compact",
+      "image": "https://www.irishtimes.com/resizer/v2/MQ5FECCQLNEWTPKUPWHIEQMAEU.jpg?auth=4b595a18641999376333024bdfd3d70405043b43fa4a2dd7e60a25efbaceed05&smart=true&width=630&height=350",
+      "content": "Michael Dunne, 22, has been charged with two counts of murder following a house fire in Edenderry that killed a four\u2011year\u2011old boy and a 60\u2011year\u2011old woman.\u202f[1] The charges were filed after authorities linked the blaze to Dunne, who lives in County Kildare.\u202f[1] Victims identified as Tadhg Farrell, 4, and Mary Holt, 60, were found dead in the residence on December\u202f6th.\u202f[1] The incident, described as a house fire, prompted a swift investigation by local law enforcement.\u202f[1]\n\nThe case underscores the tragic loss of life in a domestic blaze and the seriousness of the accusations against a young man.\u202f[1] It highlights the potential for accidental or intentional fires to result in fatal outcomes, especially when children or elderly residents are present.\u202f[1]\n\nOn December\u202f6th, a fire erupted in a home in Edenderry, County Offaly.\u202f[1] The blaze caused the deaths of Tadhg Farrell, a four\u2011year\u2011old, and Mary Holt, a 60\u2011year\u2011old.\u202f[1] Following the incident, the Garda S\u00edoch\u00e1na, Ireland\u2019s national police service, began an investigation that led to the arrest of Michael Dunne, 22, who is a resident of County Kildare.\u202f[1] Dunne was formally charged with murder in connection with the fire.\u202f[1]\n\nIn Ireland, murder charges are brought when evidence suggests that an individual intentionally caused another person\u2019s death.\u202f[1] A house fire can result from accidental ignition, arson, or negligence, and investigations typically examine fire patterns, witness statements, and forensic evidence to determine cause and responsibility.\u202f[1] The legal process requires the prosecution to prove beyond a reasonable doubt that the accused intentionally caused the victims\u2019 deaths.\u202f[1]\n\nThe families of Farrell and Holt face profound grief, while the local community in Edenderry is shaken by the loss of a child and an elderly resident.\u202f[1] The case also raises concerns about fire safety and the responsibilities of homeowners, especially in older dwellings that may lack modern safety features.\u202f[1]\n\nIf convicted, Dunne could face severe penalties, reflecting the gravity of taking two lives.\u202f[1] The case may prompt reviews of fire safety regulations and emergency response protocols in the area, as authorities seek to prevent similar tragedies.\u202f[1]\n\nEdenderry is a market town in County Offaly, located on the River Shannon.\u202f[1] County Kildare, where Dunne resides, is a neighboring county in the east of Ireland, known for its rural communities and horse breeding.\u202f[1] The Garda S\u00edoch\u00e1na typically leads investigations into violent crimes, collecting evidence and interviewing witnesses before charges are filed.\u202f[1]\n\nIn murder cases, the prosecution must prove beyond reasonable doubt that the accused intentionally caused the victim\u2019s death, while the defense may argue lack of intent or alternative causes.\u202f[1] The legal process in Ireland involves an initial hearing, where charges are read and bail may be considered, followed by a trial before a judge and jury.\u202f[1] The families of the victims may seek compensation through civil claims, which can run parallel to criminal proceedings.\u202f[1]\n\nThe case may also prompt local authorities to review fire safety measures, such as smoke detectors and emergency exits, to prevent future tragedies.\u202f[1] The community\u2019s response may include vigils, memorials, and calls for stricter enforcement of fire safety codes.\u202f[1] The outcome of the case will be closely watched by those concerned with public safety and the justice system.\u202f[1]\n\nAs the investigation continues, authorities will likely release updates on the status of the case and any new evidence.\u202f[1] The next court hearing is expected to be scheduled once the prosecution completes its evidence review, but no specific date has been announced.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/courts/2026/10/07/man-22-charged-with-two-counts-of-murder-over-edenderry-house-fire/"
+        }
+      ],
+      "original_url": "https://www.irishtimes.com/crime-law/courts/2026/10/07/man-22-charged-with-two-counts-of-murder-over-edenderry-house-fire/",
+      "guid": "https://www.irishtimes.com/crime-law/courts/2026/10/07/man-22-charged-with-two-counts-of-murder-over-edenderry-house-fire/"
+    },
+    "nature_ab726099": {
+      "id": "nature_ab726099",
+      "title": "Can your brain grow new neurons? How researchers are solving a century-old puzzle",
+      "category": "Science",
+      "source": "nature",
+      "time": "2026-10-07T13:05:36",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03132-w/d41586-026-03132-w_53780932.jpg",
+      "content": "Scientists have long debated whether the adult human brain can generate new neurons, a question that has implications for brain plasticity and disease [1]. The latest Nature article revisits the debate and asks how much evidence is needed to settle it [1].\n\nThe question matters to neuroscientists, clinicians, and patients with neurodegenerative disorders, because confirming adult neurogenesis could open new therapeutic avenues [1].\n\nThe Nature article, published online 07\u202fOct\u202f2026, doi:10.1038/d41586-026-03132-w, reviews the evidence for and against adult neurogenesis in humans, and discusses the standards of proof required [1].\n\nIt highlights the historical context: early studies in the 1950s and 1960s suggested adult neurogenesis, but subsequent work produced conflicting results.\n\nThe article examines the methodological challenges that have plagued the field, such as distinguishing new neurons from existing ones and the limitations of postmortem tissue analysis [1].\n\nAdult neurogenesis is well established in certain brain regions of many mammals, notably the hippocampus and olfactory bulb.\n\nIn humans, the evidence has been sparse and controversial, with some studies reporting new neurons in the hippocampus and others finding none.\n\nThe article argues that the threshold for evidence should be stringent, requiring replication across multiple techniques and independent laboratories [1].\n\nNeuroscientists rely on robust evidence to guide research priorities; clinicians consider neurogenesis as a potential target for treating depression, Alzheimer\u2019s, and stroke.\n\nThe debate also influences funding agencies, which must decide whether to invest in neurogenesis research.\n\nIf adult neurogenesis is confirmed, it would reshape our understanding of brain plasticity and suggest that the adult brain retains a capacity for repair.\n\nConversely, if the evidence remains inconclusive, it may redirect focus toward other mechanisms of cognitive resilience.\n\nResearchers are developing new imaging and molecular techniques that could provide definitive evidence; the next few years will see whether these methods can resolve the debate.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Nature",
+          "url": "https://www.nature.com/articles/d41586-026-03132-w"
+        }
+      ],
+      "original_url": "https://www.nature.com/articles/d41586-026-03132-w",
+      "guid": "https://www.nature.com/articles/d41586-026-03132-w"
     }
   },
   "featured": {
-    "hero": "snopes_3c1e0c06",
+    "hero": "npr_5620ffbf",
     "stack": [
-      "guardian_72b95ed2",
-      "afp_baca0727",
-      "guardian_f58402c9"
+      "reuters_16d9aa14",
+      "bbc_559c452e",
+      "irishtimes_4fa1ce84"
     ],
     "latest": [
+      "irishtimes_4fa1ce84",
+      "bbc_559c452e",
+      "reuters_16d9aa14",
+      "snopes_3c1e0c06",
       "guardian_f58402c9",
-      "afp_baca0727",
-      "guardian_72b95ed2",
-      "marketwatch_4af18c13",
-      "guardian_bbeba34b",
-      "cjr_79cbcd27"
+      "afp_baca0727"
     ],
     "world": [
+      "reuters_16d9aa14",
+      "irishtimes_4fa1ce84",
       "afp_baca0727",
-      "cna_0d836213",
-      "aljazeera_c0e1c366",
-      "guardian_4161f5a9"
+      "cna_0d836213"
     ]
   },
   "categoryIndex": {
     "News": [
+      "cjr_79cbcd27",
       "fullfact_8366bd88",
       "npr_24040064",
       "cjr_49445b21",
@@ -16033,8 +16034,7 @@
       "snopes_1c1fb927",
       "fullfact_664f7ee1",
       "ap_4665fceb",
-      "npr_4205a3a2",
-      "pbs_c620eba2"
+      "npr_4205a3a2"
     ],
     "World": [
       "guardian_4161f5a9",
@@ -16073,6 +16073,7 @@
       "googlenews_067f8ade"
     ],
     "Health": [
+      "guardian_72b95ed2",
       "googlenews_be26f89e",
       "bbc_ff425c1c",
       "guardian_4a7b78e3",
@@ -16081,10 +16082,11 @@
       "guardian_96bb1924",
       "googlenews_f38b38fb",
       "guardian_323d4fa1",
-      "googlenews_42632b45",
-      "bbc_89fbc4b1"
+      "googlenews_42632b45"
     ],
     "Science": [
+      "nature_ab726099",
+      "guardian_bbeba34b",
       "nasa_0209bba9",
       "conversation_bfbbac0b",
       "guardian_4b22e143",
@@ -16092,11 +16094,10 @@
       "nasa_94875d57",
       "bbc_999078b7",
       "conversation_7b8520c6",
-      "npr_9fb9d91f",
-      "berkeleyuniv_c9750b18",
-      "npr_7a0fdbff"
+      "npr_9fb9d91f"
     ],
     "Business": [
+      "marketwatch_4af18c13",
       "googlenews_9868fb79",
       "googlenews_d5f103a3",
       "googlenews_804db985",
@@ -16105,11 +16106,10 @@
       "googlenews_7f398431",
       "googlenews_fa5a4f42",
       "googlenews_4f786e48",
-      "googlenews_c2df5a76",
-      "googlenews_019afad1"
+      "googlenews_c2df5a76"
     ]
   },
-  "breaking": "Rochester Electronics Launches Localized E-Commerce Experiences Across Key Global Markets - AFP.com",
+  "breaking": "India steel ministry unlikely to seek new curbs on cheap imports, government source says - Reuters",
   "events": [
     {
       "title": "Rochester Electronics Launches Localized E-Commerce Experiences Across Key Globa",
@@ -16120,17 +16120,12 @@
       "title": "Ukraine launches major drone attack on Russia\u2019s Moscow region, killing two",
       "date": "2026-10-06",
       "source": "Verum News"
-    },
-    {
-      "title": "Safeguards 'build a moat' around US AI firms, prevent open-source models from ad",
-      "date": "2026-09-29",
-      "source": "Verum News"
     }
   ],
   "mostRead": [
-    "Did Trump say he has an IQ of 1,775?",
+    "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
     "\u2018I\u2019m a Twenty-Five-Year-Old Who Just Bought My Local Newspaper\u2019",
-    "Proportion of people in Great Britain vaping who never smoked doubles in four ye",
-    "Optogenetics wins the Nobel \u2013 one neuroscience breakthrough in a line of technol"
+    "India steel ministry unlikely to seek new curbs on cheap imports, government sou",
+    "Did Trump say he has an IQ of 1,775?"
   ]
 }
