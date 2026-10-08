@@ -1,125 +1,5 @@
 {
   "stories": {
-    "fullfact_90d030e2": {
-      "id": "fullfact_90d030e2",
-      "title": "Bexley Council did not send letter advising residents to keep daughters inside",
-      "category": "News",
-      "source": "fullfact",
-      "time": "2026-08-26T19:54:03",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://fullfact.org/media/images/Bexley_Civic_Offices_1_1.97f0856b.fill-1200x630.jpg",
-      "content": "Bexley Council has denied that it sent a letter to residents advising them to keep daughters inside because of asylum seekers moving into the borough[1]. Rumors that such a letter had been sent circulated online[1].\n\nThe dispute matters because it touches on local governance, community safety, and the treatment of asylum seekers.\n\nThe council issued a statement saying it did not send any letter to residents about asylum seekers moving in[1].\n\nBexley Council is the local authority responsible for services such as housing, education, and public safety in the London borough of Bexley.\n\nAsylum seekers are individuals who apply for protection in the United Kingdom after fleeing persecution or danger in their home countries.\n\nLocal councils sometimes send letters to residents to inform them of changes in services, safety concerns, or community events.\n\nResidents of Bexley, asylum seekers, and local government officials are the main stakeholders in this situation.\n\nThe council's denial may help restore trust in local governance, but the incident highlights the need for clear communication about sensitive issues.\n\nThe council may issue further statements or clarify its communication policies in the coming weeks.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Full Fact",
-          "url": "https://fullfact.org/immigration/bexley-council-fake-letter-asylum-seekers/"
-        }
-      ],
-      "original_url": "https://fullfact.org/immigration/bexley-council-fake-letter-asylum-seekers/",
-      "guid": "https://fullfact.org/immigration/bexley-council-fake-letter-asylum-seekers/"
-    },
-    "guardian_55abf2b3": {
-      "id": "guardian_55abf2b3",
-      "title": "Flight attendant\u2019s breast cancer was occupational disease, court rules",
-      "category": "Health",
-      "source": "guardian",
-      "time": "2026-08-26T19:55:25",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/6f9ec77e54a208da8018d200a60b928b1162e035/411_0_3827_3061/master/3827.jpg?width=140&quality=85&auto=format&fit=max&s=57b5f5e7552a0d4c6c76c2d339d3e56e",
-      "content": "A French court has ruled that breast cancer suffered by former Air\u202fFrance flight attendant Sophie\u202fLainault was an occupational disease, a first for the country\u2019s aviation sector. [1]\n\nThe decision, which acknowledges the health risks of long\u2011haul flight duty and exposure to second\u2011hand smoke, could open the door for other flight attendants to seek compensation for illnesses linked to their work. [1]\n\nSophie\u202fLainault, who spent more than 12\u202f600 hours on duty for Air\u202fFrance, was diagnosed with breast cancer after a prolonged period of night\u2011shift service. [1] Her lawyer, supported by the CFDT trade union, argued that the cumulative exposure to passive smoking and the demands of nocturnal flights contributed to the disease. [1] A French court accepted these arguments and officially classified her cancer as an occupational disease. [1]\n\nThe ruling marks the first time a French court has recognized a flight attendant\u2019s illness as work\u2011related within the aviation industry. [1] The decision was based on evidence that Lainault frequently worked at night and was exposed to second\u2011hand smoke in the cabin. [1] The court\u2019s judgment also noted that the airline\u2019s duty\u2011time regulations and cabin environment may have played a role in her condition. [1]\n\nOccupational disease status in France confers specific benefits, including medical coverage and financial compensation, and requires a proven causal link between the work environment and the illness. In the aviation sector, workers have historically faced challenges in proving such links due to the unique nature of flight duty, including irregular hours and exposure to various environmental factors.\n\nPassive smoking, or second\u2011hand smoke, has long been recognized as a carcinogen, and exposure in confined spaces such as aircraft cabins has been a concern for cabin crew. Night\u2011shift work has also been associated with increased cancer risk, partly due to circadian rhythm disruption.\n\nAir\u202fFrance and other airlines may need to reassess cabin crew health protocols and duty\u2011time policies in light of this ruling. The airline industry could face increased legal scrutiny and potential compensation claims from other crew members.\n\nFlight attendants, represented by unions such as CFDT, may see this case as a precedent for pursuing occupational disease recognition for other conditions, such as respiratory illnesses or mental health disorders linked to long\u2011haul duty. The ruling could also influence insurance coverage and workplace safety standards within the industry.\n\nIf the court\u2019s decision is upheld, it could set a legal benchmark for occupational health claims in aviation, prompting airlines to implement stricter controls on cabin smoke exposure and to monitor crew health more closely. It may also encourage other European jurisdictions to consider similar recognitions, given the cross\u2011border nature of airline operations.\n\nThe case highlights the broader issue of occupational health for flight crew, who often work irregular hours and are exposed to environmental hazards that may not be fully addressed by current regulations.\n\nThe outcome of any appeal by Air\u202fFrance or the French labor authorities will be closely watched, as will the potential for other flight attendants to file similar claims. The next steps include the court\u2019s decision on whether to allow an appeal and the possible legislative response to strengthen occupational disease protections for aviation workers.\n\nIndustry stakeholders will also monitor whether airlines adopt new policies to reduce cabin smoke exposure and improve night\u2011shift scheduling to mitigate health risks.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/society/2026/aug/26/flight-attendant-breast-cancer-occupational-disease"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/society/2026/aug/26/flight-attendant-breast-cancer-occupational-disease",
-      "guid": "https://www.theguardian.com/society/2026/aug/26/flight-attendant-breast-cancer-occupational-disease"
-    },
-    "smh_998a41b6": {
-      "id": "smh_998a41b6",
-      "title": "Roosters downgrade deal with long-time sponsor amid Scots College scandal - SMH.com.au",
-      "category": "World",
-      "source": "smh",
-      "time": "2026-08-26T19:56:42",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%2816%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27616%27%20cy%3D%27152%27%20r%3D%27140%27%20fill%3D%27hsl%2856%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "The Sydney Roosters rugby league club has downgraded its partnership with a long\u2011time sponsor following a scandal at Scots College.\u202f[1]\n\nThe decision comes as the club seeks to distance itself from controversy, and it may affect the sponsor\u2019s visibility and the club\u2019s commercial strategy.\u202f[1]\n\nIn a statement the Roosters announced the downgrade, reducing the sponsor\u2019s branding and benefits. The move follows revelations about a scandal at Scots College.\u202f[1]\n\nThe sponsor had been associated with the club for several years, providing financial support and brand exposure.\u202f[1]\n\nThe scandal at Scots College has raised concerns about the sponsor\u2019s association with the club, prompting the downgrade.\u202f[1]\n\nThe Roosters are a professional rugby league club in the National Rugby League, and sponsorship deals are a key revenue source.\n\nSponsorship downgrades are a common response when clubs want to protect their brand image.\n\nThe sponsor may see reduced exposure and fewer benefits; the club may lose revenue; fans may react.\n\nThe downgrade may signal a shift in the club\u2019s commercial policy and could influence other sponsors.\n\nThe club may face scrutiny over its handling of the situation; the sponsor may reassess its partnership.\n\nThe club will likely announce a revised sponsorship strategy; the sponsor may decide whether to continue; the scandal at Scots College may unfold further.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Sydney Morning Herald",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXhnaEhTZER3UTFxeXlMWUluRHRacGVmTEYzRjQzWHV3WkZrUDdEYldid3ZyaEtUN0haTzE0RHVxNlk4c1c5S0ZtVW1BMXA5cVhiclo2ampmVFh0My1PRHplR19JUFlZZlB1YVFxVlkyd2lxZk95Z3NPX21WdTQwZ0FmSWdsd3RrQXVHRUtiemhhdXRZd1k0WlhfajlOVEtXMGtTZnN5T2ZoMk5aSFgwNlFidFRrNHg5ajhtbEd3?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXhnaEhTZER3UTFxeXlMWUluRHRacGVmTEYzRjQzWHV3WkZrUDdEYldid3ZyaEtUN0haTzE0RHVxNlk4c1c5S0ZtVW1BMXA5cVhiclo2ampmVFh0My1PRHplR19JUFlZZlB1YVFxVlkyd2lxZk95Z3NPX21WdTQwZ0FmSWdsd3RrQXVHRUtiemhhdXRZd1k0WlhfajlOVEtXMGtTZnN5T2ZoMk5aSFgwNlFidFRrNHg5ajhtbEd3?oc=5",
-      "guid": "CBMivgFBVV95cUxOdXhnaEhTZER3UTFxeXlMWUluRHRacGVmTEYzRjQzWHV3WkZrUDdEYldid3ZyaEtUN0haTzE0RHVxNlk4c1c5S0ZtVW1BMXA5cVhiclo2ampmVFh0My1PRHplR19JUFlZZlB1YVFxVlkyd2lxZk95Z3NPX21WdTQwZ0FmSWdsd3RrQXVHRUtiemhhdXRZd1k0WlhfajlOVEtXMGtTZnN5T2ZoMk5aSFgwNlFidFRrNHg5ajhtbEd3"
-    },
-    "conversation_f5010c04": {
-      "id": "conversation_f5010c04",
-      "title": "FDA approves breakthrough pancreatic cancer drug \u2013 an oncologist explains how daraxonrasib nearly doubles survival",
-      "category": "Science",
-      "source": "conversation",
-      "time": "2026-08-27T08:41:20",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://images.theconversation.com/files/756352/original/file-20260826-50-i3i6eu.jpg?ixlib=rb-4.1.1&amp;rect=0%2C128%2C2276%2C1138&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "content": "FDA has approved daraxonrasib, a new drug that nearly doubles survival in patients with advanced pancreatic cancer. [1][2]\n\nThe approval offers hope for a disease in which about 97\u202f% of patients die within five years. [3] Researchers have identified a target mechanism that makes these tumors so deadly, and the drug blocks it. [4]\n\nOn Thursday, the FDA granted approval for daraxonrasib, marking the first new therapy for advanced pancreatic cancer in several years. [1]\n\nPancreatic cancer is one of the most lethal cancers, often diagnosed at an advanced stage when treatment options are limited.\n\nThe disease\u2019s aggressiveness is partly due to a signaling pathway that allows tumor cells to evade death.\n\nResearchers have identified a target mechanism that allows tumor cells to evade death, and daraxonrasib blocks it. [4]\n\nOncologist Dr. X explained that the drug\u2019s ability to nearly double survival represents a significant advance over existing therapies. [2] He noted that the improvement is unprecedented in this field.\n\nPatients and families who have faced limited treatment options now have a new therapeutic option.\n\nPharmaceutical companies invested in the drug\u2019s development may see increased interest in similar targets.\n\nThe drug will be available through oncology centers, and insurers will need to determine coverage policies.\n\nThe approval may prompt further research into combination therapies that include daraxonrasib.\n\nThe approval signals progress in targeting hard\u2011to\u2011treat cancers and may shift the standard of care for advanced pancreatic cancer.\n\nClinicians will monitor real\u2011world outcomes, and the FDA will track post\u2011marketing safety data.\n\nQuestions remain about the drug\u2019s cost, accessibility, and long\u2011term benefits.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Conversation",
-          "url": "https://theconversation.com/fda-approves-breakthrough-pancreatic-cancer-drug-an-oncologist-explains-how-daraxonrasib-nearly-doubles-survival-290596"
-        }
-      ],
-      "original_url": "https://theconversation.com/fda-approves-breakthrough-pancreatic-cancer-drug-an-oncologist-explains-how-daraxonrasib-nearly-doubles-survival-290596",
-      "guid": "tag:theconversation.com,2011:article/290596"
-    },
-    "guardian_545ecce8": {
-      "id": "guardian_545ecce8",
-      "title": "Forty children reported missing from UK asylum hotels still not found",
-      "category": "Politics",
-      "source": "guardian",
-      "time": "2026-08-27T08:41:24",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/4f43acf7142461ab9f6a3db64d783c39b18e2518/3019_263_2494_1996/master/2494.jpg?width=140&quality=85&auto=format&fit=max&s=acb9f594943613115459bf74ae27120c",
-      "content": "Forty children who disappeared from hotels housing asylum seekers in the United Kingdom remain missing, a parliamentary report found.\u202f[1]\n\nThe committee\u2019s concerns underscore failures in the social care system for young adults and raise serious questions about the safety of asylum seekers, prompting calls for ministerial accountability.\u202f[1]\n\nThe joint committee on human rights released a report Thursday, noting that 472 individuals were missing from hotels that host asylum seekers, most of whom have now been located, but 40 children remain missing.\u202f[1] Two of those missing are believed to still be under 18.\u202f[1]\n\nThe report also notes that the missing children were part of a broader set of missing persons in the social care system.\u202f[1]\n\nAsylum seekers in the UK are sometimes housed in hotels while their claims are processed.\n\nThe joint committee on human rights is a parliamentary body that examines human rights issues in the UK, including the treatment of asylum seekers.\n\nThe committee\u2019s report indicates that the system has failed to adequately track and locate missing individuals, especially young adults.\u202f[1]\n\nThe missing children and their families, the broader community of asylum seekers, the hotel operators, the government ministries responsible for immigration and social care, and MPs and peers who are calling for answers are all stakeholders.\u202f[1]\n\nMinisters are facing pressure from MPs and peers to explain what steps are being taken to locate the missing children.\u202f[1] The report calls for urgent action to prevent further disappearances.\u202f[1]\n\nThe failure to locate missing children raises questions about the adequacy of monitoring and safeguarding measures in asylum hotels.\u202f[1] It also highlights broader concerns about the treatment of young adults in the social care system.\u202f[1]\n\nThe report may prompt further scrutiny of hotel operators and the government\u2019s handling of asylum seekers.\n\nThe next parliamentary session is expected to include questions to ministers about the missing children, and the government may announce new protocols or investigations.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/uk-news/2026/aug/27/forty-children-reported-missing-uk-asylum-hotels-2023-still-not-found"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/uk-news/2026/aug/27/forty-children-reported-missing-uk-asylum-hotels-2023-still-not-found",
-      "guid": "https://www.theguardian.com/uk-news/2026/aug/27/forty-children-reported-missing-uk-asylum-hotels-2023-still-not-found"
-    },
-    "guardian_44b19b5f": {
-      "id": "guardian_44b19b5f",
-      "title": "UK urged to help free British-Egyptian \u2018arrested in Cairo over sister\u2019s activism\u2019",
-      "category": "Politics",
-      "source": "guardian",
-      "time": "2026-08-27T08:42:06",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/f2e6a194394010105f06276f338d9d2f5de55c2c/1_0_2559_2047/master/2559.jpg?width=140&quality=85&auto=format&fit=max&s=ac3bdd0e2e3630f9bc3283e2623934c1",
-      "content": "The United Kingdom has been urged to help free a British\u2011Egyptian woman who was arrested in Cairo over her sister's political activism. [1]\n\nThe case has drawn attention to the broader pattern of repression in Egypt and the role of foreign governments in protecting their citizens abroad.\n\nEman el\u2011Shazly is a 45\u2011year\u2011old woman based in Birmingham. [1] She was arrested on 16 August while visiting Egypt. [1]\n\nHer lawyers claim that the arrest was intended to silence her sister, Mona, a critic of the Egyptian government on a UK\u2011based YouTube channel. [1]\n\nThe UK Foreign Office has been asked to intervene to secure her release. [1]\n\nEgypt's current regime, led by President Abdel Fattah el\u2011Sisi, has a documented history of cracking down on dissent.\n\nThe UK Foreign Office is responsible for diplomatic relations with Egypt and for safeguarding British nationals overseas.\n\nStakeholders include Eman el\u2011Shazly, her sister Mona, the UK government, and Egyptian authorities.\n\nThe arrest could strain UK\u2011Egypt relations and raise concerns about human rights and the protection of dual nationals.\n\nPossible responses from the UK include diplomatic engagement, public statements, or consideration of sanctions.\n\nThe next steps will likely involve the UK Foreign Office reviewing the case and determining whether to raise the matter with Egyptian officials.\n\nThe situation underscores the challenges faced by activists and their families in authoritarian contexts.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
-      "guid": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism"
-    },
     "googlenews_a8d40883": {
       "id": "googlenews_a8d40883",
       "title": "A newborn baby was one of Pa.\u2019s two measles-related deaths, state says as RFK questions whether they were \u2018fabricated\u2019 - Inquirer.com",
@@ -15999,32 +15879,153 @@
       ],
       "original_url": "https://www.japantimes.co.jp/business/2026/10/07/nomura-longer-term-returns/",
       "guid": "https://www.japantimes.co.jp/article/647515/"
+    },
+    "guardian_9e57b76f": {
+      "id": "guardian_9e57b76f",
+      "title": "Gene therapy can partly restore sight in blind people, researchers reveal",
+      "category": "Health",
+      "source": "guardian",
+      "time": "2026-10-08T05:33:39",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/c36c22b816f11f7487167cc6945a910be979691f/64_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=3707286dc63c13d53e21a0c67b899bb1",
+      "content": "Gene therapy using optogenetics can partly restore sight in blind people, researchers say.\u202f[1]\n\nThis finding offers a new avenue for treating blindness, leveraging Nobel prize\u2011winning science and demonstrating safety.\u202f[1]\n\nIn a recent study, researchers reported that optogenetic therapy is safe and can partially restore vision in individuals who are blind.\u202f[1]\n\nThe therapy works by using light to activate or inhibit nerve cells, a technique that was central to the work that earned the 2026 Nobel Prize in Physiology or Medicine.\u202f[1]\n\nThe approach is known as optogenetic therapy, a form of gene therapy that introduces light\u2011sensitive proteins into retinal cells.\u202f[1]\n\nOptogenetics, first developed in the early 2000s, allows precise control of neuronal activity with light. The technique has been applied in neuroscience to map circuits and now to vision restoration.\n\nGene therapy, which delivers genetic material to cells, has been used to treat inherited retinal diseases such as Leber congenital amaurosis.\n\nThe Nobel Prize in 2026 recognized the foundational discoveries that made optogenetics possible, highlighting its transformative potential across biology and medicine.\n\nBlind patients and their families stand to benefit from a treatment that could restore partial sight. Ophthalmologists and vision scientists are closely monitoring the therapy\u2019s progress.\n\nBiotech companies developing optogenetic therapies are also interested, as the technology could open new markets for retinal gene therapies.\n\nRegulatory agencies will need to evaluate the safety data presented by the researchers before approving larger trials.\n\nIf the therapy\u2019s safety profile holds in larger populations, it could become a viable option for patients with end\u2011stage retinal degeneration who have no other treatments.\n\nHowever, the extent of visual improvement remains to be fully quantified, and long\u2011term durability of the effect is unknown.\n\nThe available reporting does not specify what the next steps will be.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/oct/07/gene-therapy-can-partly-restore-sight-in-blind-people-researchers-reveal"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/society/2026/oct/07/gene-therapy-can-partly-restore-sight-in-blind-people-researchers-reveal",
+      "guid": "https://www.theguardian.com/society/2026/oct/07/gene-therapy-can-partly-restore-sight-in-blind-people-researchers-reveal"
+    },
+    "guardian_b4f775f0": {
+      "id": "guardian_b4f775f0",
+      "title": "The generation raised on sugar rations \u2013 and what their health reveals 70 years later",
+      "category": "Science",
+      "source": "guardian",
+      "time": "2026-10-08T05:33:43",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/afb1d92ab75c8612d226af77908059ae6edf3836/31_0_3384_2709/master/3384.jpg?width=140&quality=85&auto=format&fit=max&s=71ed31cde09d04bfd320ae2c5aaed43f",
+      "content": "Research published this week suggests that the amount of sugar a child receives during the first 1,000 days of life can leave a lasting imprint on health, influencing blood pressure and the pace of ageing later in life. The study, which follows a generation that grew up under wartime sugar rationing, points to a decades\u2011long legacy of early nutrition that may reshape how public\u2011health guidelines are set for children today. [1]\n\nThe findings matter because they connect a historical period of scarcity with contemporary health outcomes, raising questions about whether current sugar consumption limits for infants and toddlers are adequate. If early sugar exposure truly affects long\u2011term cardiovascular risk, the implications extend to policy makers, nutritionists, and parents who must decide how much sweetener to introduce in a child\u2019s diet. [1]\n\nAfter World War\u202fII, Britain still faced shortages of many foods, including sugar. Adults were allowed only about three tablespoons (roughly 40\u202fg) of sugar a day, a portion that had to be shared between tea, baking and desserts. Children were restricted to less than a tablespoon, and babies and very young children were expected to have little or no added sugar. [1]\n\nIn 1953, the government began to ease these restrictions. Sweets and chocolate were lifted from the ration list in February, followed by sugar itself in September. By the second half of 1954, average sugar consumption had almost doubled, marking a rapid shift from scarcity to abundance. [1]\n\nThose born during the rationing era are now in their seventies and eighties. Their health records, examined in the new study, show patterns of higher blood pressure and accelerated biological ageing that correlate with the early sugar exposure they experienced in infancy and early childhood. [1]\n\nThe research indicates that sugar intake during the first 1,000 days\u2014a period from conception to about two years of age\u2014may influence long\u2011term health outcomes. The study specifically links early sugar exposure to later blood pressure levels and markers of ageing. [1]\n\nThe first 1,000 days concept is widely used in public\u2011health research to highlight how nutrition in early life can set the trajectory for",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing",
+      "guid": "https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing"
+    },
+    "straitstimes_1cd15ee5": {
+      "id": "straitstimes_1cd15ee5",
+      "title": "Suspect behind South Korea bank hacks may be 26-year-old in China: Crowdstrike - The Straits Times",
+      "category": "World",
+      "source": "straitstimes",
+      "time": "2026-10-08T05:33:57",
+      "read": "3 min read",
+      "mode": "compact",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/960px-Flag_of_South_Korea.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "A cybersecurity firm has identified a possible suspect in a series of bank hacks that targeted South Korean financial institutions. Crowdstrike, a U.S.-based security company, says the individual behind the attacks may be a 26\u2011year\u2011old resident of China. The firm\u2019s assessment was reported by The Straits Times.\u202f[1]\n\nThe identification of a specific individual raises the stakes for South Korea\u2019s banking sector and for international efforts to curb cybercrime. If the suspect is confirmed, it could prompt stricter cross\u2011border cooperation, new regulatory measures, and a reassessment of the threat posed by state\u2011aligned or state\u2011sponsored actors operating from China. The case also illustrates how private security firms increasingly play a central role in attributing cyber incidents that would otherwise remain anonymous.\u202f[1]\n\nCrowdstrike\u2019s analysis points to a single individual as the likely source of the attacks. The suspect is described as 26 years old and currently living in China. The company\u2019s report, released to the press, does not disclose the suspect\u2019s name, the exact nature of the hacks, or the specific banks that were compromised.\u202f[1]\n\nThe South Korean bank hacks themselves are not detailed in the available reporting. The Straits Times article does not list the dates of the incidents, the methods used, or the amount of money involved. It simply notes that the attacks were significant enough to attract the attention of a major cybersecurity vendor.\u202f[1]\n\nCrowdstrike is known for its threat\u2011intelligence services and for providing incident\u2011response support to governments and corporations worldwide. The firm\u2019s public statements about cyber incidents are typically based on forensic analysis of malware, command\u2011and\u2011control traffic, and other digital footprints. In this case, the company\u2019s attribution to a single suspect suggests a high level of confidence in its technical evidence.\u202f[1]\n\nSouth Korea has experienced a series of cyberattacks on its financial institutions in recent years, prompting the government to strengthen its cyber\u2011defense posture. The country\u2019s banking sector is a critical part of its economy, and breaches can erode public trust and disrupt financial services.\u202f[1]\n\nChina has long been cited by international law\u2011enforcement agencies as a source of cybercriminal activity. While the Chinese government denies state sponsorship of such attacks, several high\u2011profile cases have linked Chinese nationals to sophisticated hacking operations that target foreign banks and corporations.\u202f[1]\n\nThe primary stakeholders in this case are the South Korean banks that were targeted, their customers, and the regulatory bodies overseeing financial security. The banks face reputational risk and potential financial losses, while customers may experience concerns about the safety of their deposits. Regulators may need to review existing safeguards and coordinate with international partners.\u202f[1]\n\nCybersecurity firms and law\u2011enforcement agencies are also affected. The attribution by Crowdstrike could influence the investigative direction of South Korean authorities and international partners, potentially leading to joint operations or information sharing. The case underscores the growing importance of private sector intelligence in national security contexts.\u202f[1]\n\nIf the suspect is formally identified and charged, the legal implications could involve extradition proceedings between South Korea and China. The process would require cooperation between the two governments, and it could set a precedent for handling cross\u2011border cybercrime cases involving individuals residing in jurisdictions with complex diplomatic relations.\u202f[1]\n\nThe broader implications include potential diplomatic friction, as accusations of state\u2011backed cyber operations can strain relations. Additionally, the incident may prompt South Korea to tighten its cyber\u2011security regulations, possibly requiring banks to adopt more stringent monitoring and incident\u2011response protocols.\u202f[1]\n\nObservers should watch for official statements from South Korean law\u2011enforcement agencies, any public confirmation of the suspect\u2019s identity, and updates on extradition negotiations. The outcome will likely influence future policy decisions on cyber\u2011crime jurisdiction and international cooperation.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX21JOHV6R3A3OEluM0xwQTVkZWE0N1RDTWZWZ0RvRThlbXJ2SHFlVk1NaXVZTVl1M1I2RXh0bFNoblFhUVloMWhDdnFIVFFHcUN5NlJGMHBSdGR4U3A3WjNxUTZIQ05vOTVEOXhadFh5SEpGUEFZYi1obmI2X2JPVUhBa2pGeUx6R1RPb2hSX1dva2tUWHFPLThPQTVBWWJvbnF1ZnBDdnctSWRVVGZKanc4OGg2RVRjSUdtSm1jXzNIamVteHVBazVEY3JKUQ?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX21JOHV6R3A3OEluM0xwQTVkZWE0N1RDTWZWZ0RvRThlbXJ2SHFlVk1NaXVZTVl1M1I2RXh0bFNoblFhUVloMWhDdnFIVFFHcUN5NlJGMHBSdGR4U3A3WjNxUTZIQ05vOTVEOXhadFh5SEpGUEFZYi1obmI2X2JPVUhBa2pGeUx6R1RPb2hSX1dva2tUWHFPLThPQTVBWWJvbnF1ZnBDdnctSWRVVGZKanc4OGg2RVRjSUdtSm1jXzNIamVteHVBazVEY3JKUQ?oc=5",
+      "guid": "CBMizgFBVV95cUxPX21JOHV6R3A3OEluM0xwQTVkZWE0N1RDTWZWZ0RvRThlbXJ2SHFlVk1NaXVZTVl1M1I2RXh0bFNoblFhUVloMWhDdnFIVFFHcUN5NlJGMHBSdGR4U3A3WjNxUTZIQ05vOTVEOXhadFh5SEpGUEFZYi1obmI2X2JPVUhBa2pGeUx6R1RPb2hSX1dva2tUWHFPLThPQTVBWWJvbnF1ZnBDdnctSWRVVGZKanc4OGg2RVRjSUdtSm1jXzNIamVteHVBazVEY3JKUQ"
+    },
+    "aljazeera_e2a61150": {
+      "id": "aljazeera_e2a61150",
+      "title": "Protesters in Colombia rally against ties with Israel",
+      "category": "World",
+      "source": "aljazeera",
+      "time": "2026-10-08T05:34:32",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac71e247ba8-1791434276.jpg?resize=1920%2C1440",
+      "content": "Hundreds of Colombians marched in Bogot\u00e1 on Thursday to protest Israel\u2019s ties amid the ongoing conflict in Gaza, calling the violence a genocide that demands international action.\u00b9 The demonstration, which drew a sizable crowd to the city\u2019s streets, was part of a broader wave of public dissent that has emerged across Latin America in response to the Gaza war.\u00b2\n\nThe protest highlights growing criticism of Colombia\u2019s foreign policy toward Israel and reflects a wider debate over the country\u2019s diplomatic stance in the Middle East. The demonstrators demanded that Bogot\u00e1 sever ties with Israel and support a cease\u2011fire in Gaza, arguing that the Colombian government\u2019s current position fails to address the humanitarian crisis.\u00b3\n\nOn the day of the rally, participants gathered in front of the Ministry of Foreign Affairs and the National Palace, holding signs that read \u201cEnd the Genocide in Gaza\u201d and \u201cColombia for Peace.\u201d The crowd included students, activists, and members of civil society groups who organized the event through local networks. The protest was organized by a coalition of NGOs and student unions that have historically mobilized on issues of international justice.\u2074\n\nThe Gaza conflict, which intensified in 2023 after an escalation between Israel and Hamas, has drawn widespread condemnation from governments and international organizations. The United Nations has repeatedly called for an end to hostilities and for the protection of civilians in the region.\u2075\n\nColombia maintains formal diplomatic relations with Israel and has historically supported Israel in international forums, including the United Nations. The country\u2019s foreign policy has often balanced its ties with Israel against its commitments to human rights and regional stability.\u2076\n\nStreet protests have long been a feature of Colombian political life. Student unions, labor unions, and civil society organizations routinely organize demonstrations to influence public policy and hold the government accountable. The recent rally in Bogot\u00e1 follows a tradition of civic engagement that has shaped the country\u2019s democratic processes.\u2077\n\nThe demonstrators, the Colombian government, and the broader international community are the primary stakeholders in this event. While the protest focused on the Gaza conflict, it also raises questions about Colombia\u2019s role in international diplomacy and its obligations to human rights.\u2078\n\nThe demonstration may influence public opinion and pressure policymakers to reconsider Colombia\u2019s stance on Israel. If the protest gains traction, it could prompt a review of diplomatic ties and lead to increased scrutiny of the country\u2019s foreign policy decisions.\u2079\n\nThe protest signals a shift in public sentiment that could affect Colombia\u2019s diplomatic relations with Israel and other allies. It also underscores the potential for civil society to shape foreign policy through public pressure and advocacy.\u00b9\u2070\n\nIn the coming weeks, the Colombian government is expected to respond to the protest, possibly issuing statements or adjusting its diplomatic approach. Further demonstrations may also occur as the international community continues to monitor the Gaza conflict.\u00b9\u00b9\n\nThe rally in Bogot\u00e1 illustrates how the Gaza war has resonated beyond the Middle East, mobilizing citizens worldwide to demand accountability and peace. It demonstrates the power of collective action in influencing foreign policy and highlights the ongoing global debate over the humanitarian crisis in Gaza.\u00b9\u00b2",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/8/protesters-in-colombia-rally-against-ties-with-israel?traffic_source=rss"
+        }
+      ],
+      "original_url": "https://www.aljazeera.com/news/2026/10/8/protesters-in-colombia-rally-against-ties-with-israel?traffic_source=rss",
+      "guid": "https://www.aljazeera.com/?t=1791434077"
+    },
+    "csmonitor_06b5978b": {
+      "id": "csmonitor_06b5978b",
+      "title": "Who built Saudi Arabia\u2019s \u2018Stonehenge\u2019 and why? \u2018The men\u2019 aren\u2019t saying.",
+      "category": "World",
+      "source": "csmonitor",
+      "time": "2026-10-08T05:34:35",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://images.csmonitor.com/csm/2026/08/0818_OSAUDISTONEHENGE_lede.jpg?alias=standard_900x600",
+      "content": "The ancient columns of Al\u2011Rajajil, long ignored by Saudi authorities, have recently drawn attention as a pre\u2011Islamic monument that has been likened to England\u2019s Stonehenge.\u202f[1]\n\nThe site\u2019s mysterious origins and purpose raise questions about the region\u2019s pre\u2011Islamic past and the extent of archaeological work in Saudi Arabia.\u202f[1]\n\nThe columns, located in the Al\u2011Rajajil area of Saudi Arabia, were described by a recent visitor as a series of ancient stone pillars that stand in a field. The site has been largely overlooked by the Saudi government, but local scholars have begun to view it as part of the area\u2019s rich pre\u2011Islamic heritage.\u202f[1]\n\nThe visitor noted that the stones remain largely unexplained, with no clear evidence of who built them or why. The lack of documentation leaves the site open to speculation.\u202f[1]\n\nPre\u2011Islamic Arabia was home to a variety of cultures that left behind stone structures, rock art, and burial sites. The Al\u2011Rajajil columns fit into this broader pattern of ancient stonework, though their specific function remains unclear.\u202f[1]\n\nThe comparison to Stonehenge stems from the columns\u2019 arrangement and the sense of mystery they evoke. However, no definitive link has been established between the two sites.\u202f[1]\n\nSaudi Arabia\u2019s cultural heritage authorities have historically prioritized more recent sites, which may explain the neglect of Al\u2011Rajajil. Local historians and archaeologists see the columns as a valuable window into pre\u2011Islamic life.\u202f[1]\n\nThe site\u2019s neglect has limited research, but the growing interest could spur future archaeological investigations and tourism.\u202f[1]\n\nThe lack of information about the columns highlights a broader gap in the documentation of pre\u2011Islamic sites in the region. It also raises questions about how Saudi Arabia prioritizes its archaeological heritage.\u202f[1]\n\nResearchers are planning to conduct more systematic surveys of the Al\u2011Rajajil area, and the Saudi Ministry of Culture may consider designating the site as a protected heritage location. The next few years will determine whether the columns receive the attention they deserve.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Christian Science Monitor",
+          "url": "https://www.csmonitor.com/World/Middle-East/2026/1007/saudi-stonehenge-ancient-mystery-rajajil?icid=rss"
+        }
+      ],
+      "original_url": "https://www.csmonitor.com/World/Middle-East/2026/1007/saudi-stonehenge-ancient-mystery-rajajil?icid=rss",
+      "guid": "852ee786b5532c7ed9d3d37b6cd3c8f3"
+    },
+    "aljazeera_85abd022": {
+      "id": "aljazeera_85abd022",
+      "title": "Signage at UK consulate in East Jerusalem removed as Israel\u2019s deadline over",
+      "category": "World",
+      "source": "aljazeera",
+      "time": "2026-10-08T05:35:53",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac71dfa-1791434234.jpg?resize=1920%2C1440",
+      "content": "Signage at the UK consulate in East Jerusalem was removed on Thursday, marking the 30th day since Israel's foreign minister ordered its closure. [1]\n\nThe removal signals a significant shift in diplomatic engagement between the United Kingdom and Israel, raising questions about the future of consular services for UK citizens in the region.\n\nThe directive was issued 30 days ago by Israel's foreign minister, and the consulate's signage was taken down in a visible act that suggests the mission has ceased operations.\n\nConsulates are diplomatic outposts that provide assistance to citizens abroad, issue visas, and promote bilateral relations.\n\nEast Jerusalem, captured by Israel in 1967, is considered by the international community to be occupied territory, though Israel claims it as part of its capital.\n\nUK citizens who reside or travel in East Jerusalem may now face difficulties accessing consular assistance, while the UK government must decide how to respond to the closure.\n\nIsrael's decision reflects its broader policy of limiting foreign diplomatic presence in areas it considers integral to its sovereignty.\n\nThe closure could strain UK-Israel relations, potentially prompting diplomatic protests or a reassessment of the UK's diplomatic footprint in the region.\n\nIt also underscores the broader geopolitical contest over Jerusalem, with implications for peace negotiations and international law.\n\nThe UK government is expected to issue a formal statement in the coming days, and the next step will be to determine whether the consulate can be reopened or if alternative arrangements will be made for UK nationals.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss"
+        }
+      ],
+      "original_url": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
+      "guid": "https://www.aljazeera.com/?t=1791433785"
     }
   },
   "featured": {
-    "hero": "ap_423d217e",
+    "hero": "guardian_9e57b76f",
     "stack": [
-      "ap_07315cea",
-      "bbc_1b5e7e3f",
-      "straitstimes_2c050601"
+      "guardian_b4f775f0",
+      "straitstimes_1cd15ee5",
+      "aljazeera_e2a61150"
     ],
     "latest": [
+      "aljazeera_e2a61150",
+      "straitstimes_1cd15ee5",
+      "guardian_b4f775f0",
+      "ap_423d217e",
       "straitstimes_2c050601",
-      "bbc_1b5e7e3f",
-      "ap_07315cea",
-      "npr_5620ffbf",
-      "irishtimes_4fa1ce84",
-      "bbc_559c452e"
+      "bbc_1b5e7e3f"
     ],
     "world": [
-      "bbc_1b5e7e3f",
-      "straitstimes_2c050601",
-      "japantimes_d2ebbbc3",
-      "reuters_16d9aa14"
+      "straitstimes_1cd15ee5",
+      "aljazeera_e2a61150",
+      "csmonitor_06b5978b",
+      "aljazeera_85abd022"
     ]
   },
   "categoryIndex": {
     "News": [
+      "ap_07315cea",
       "snopes_3c1e0c06",
       "cjr_79cbcd27",
       "fullfact_8366bd88",
@@ -16033,20 +16034,19 @@
       "cjr_3d999ecd",
       "cjr_6674ac74",
       "snopes_1c1fb927",
-      "fullfact_664f7ee1",
-      "ap_4665fceb"
+      "fullfact_664f7ee1"
     ],
     "World": [
+      "aljazeera_85abd022",
+      "csmonitor_06b5978b",
+      "irishtimes_4fa1ce84",
       "japantimes_d2ebbbc3",
       "reuters_16d9aa14",
       "afp_baca0727",
       "guardian_4161f5a9",
       "aljazeera_c0e1c366",
       "cna_0d836213",
-      "bangkokpost_d570d0be",
-      "abcau_cf2098bd",
-      "reuters_b7389701",
-      "csmonitor_46bdb23e"
+      "bangkokpost_d570d0be"
     ],
     "Politics": [
       "guardian_f58402c9",
@@ -16073,6 +16073,7 @@
       "googlenews_067f8ade"
     ],
     "Health": [
+      "bbc_559c452e",
       "guardian_72b95ed2",
       "googlenews_be26f89e",
       "bbc_ff425c1c",
@@ -16081,10 +16082,10 @@
       "guardian_dd9095ed",
       "guardian_96bb1924",
       "googlenews_f38b38fb",
-      "guardian_323d4fa1",
-      "googlenews_42632b45"
+      "guardian_323d4fa1"
     ],
     "Science": [
+      "npr_5620ffbf",
       "nature_ab726099",
       "guardian_bbeba34b",
       "nasa_0209bba9",
@@ -16093,8 +16094,7 @@
       "bbc_040e7a98",
       "nasa_94875d57",
       "bbc_999078b7",
-      "conversation_7b8520c6",
-      "npr_9fb9d91f"
+      "conversation_7b8520c6"
     ],
     "Business": [
       "marketwatch_4af18c13",
@@ -16109,7 +16109,7 @@
       "googlenews_c2df5a76"
     ]
   },
-  "breaking": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+  "breaking": "Suspect behind South Korea bank hacks may be 26-year-old in China: Crowdstrike - The Straits Times",
   "events": [
     {
       "title": "Rochester Electronics Launches Localized E-Commerce Experiences Across Key Globa",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
+    "Gene therapy can partly restore sight in blind people, researchers reveal",
+    "The generation raised on sugar rations \u2013 and what their health reveals 70 years ",
     "\u2018I\u2019m a Twenty-Five-Year-Old Who Just Bought My Local Newspaper\u2019",
-    "Tropical Storm Isaias is forecast to strike the US Gulf Coast as a hurricane - A",
-    "DNC sues Trump administration, alleging taxpayer-funded ads violate propaganda l",
-    "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry"
+    "Tropical Storm Isaias is forecast to strike the US Gulf Coast as a hurricane - A"
   ]
 }
