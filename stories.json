@@ -1,125 +1,5 @@
 {
   "stories": {
-    "googlenews_be7b75ed": {
-      "id": "googlenews_be7b75ed",
-      "title": "RFK Jr. goes full anti-vaccine bananas over two measles deaths\u2014one was a newborn - Ars Technica",
-      "category": "Health",
-      "source": "googlenews",
-      "time": "2026-08-27T22:09:00",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28169%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27289%27%20cy%3D%27241%27%20r%3D%27140%27%20fill%3D%27hsl%28209%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Two measles deaths in Pennsylvania, one of them a newborn, have brought the state\u2019s ongoing outbreak into sharp focus and reignited a public debate over vaccination. The fatalities, both among unvaccinated individuals, underscore the risks that remain when people decline the measles\u2011mumps\u2011rubella (MMR) vaccine.\n\nThe deaths have amplified concerns about the public\u2011health impact of vaccine hesitancy and have intensified the clash between vaccine critics and advocates, most notably between former U.S. Attorney General Robert F. Kennedy Jr. and public\u2011health officials.\n\nPennsylvania health authorities confirmed that two people died from measles, both of whom had not received the MMR vaccine. One of the victims was a newborn, the other an older child or adult, and both were unvaccinated. The state\u2019s measles outbreak continues to spread across several counties.\n\nIn response, the Philadelphia School District announced that it would host a vaccination clinic to encourage immunization among students and staff. The clinic is part of a broader effort to curb the outbreak in schools, where close contact can facilitate rapid transmission.\n\nRFK Jr. publicly criticized the deaths, labeling them as preventable and using the incident to argue against the safety and efficacy of vaccines. His remarks have intensified an ongoing clash with state health officials, including Shapiro, who has defended the vaccination program.\n\nThe two deaths highlight the consequences of refusing the MMR vaccine, a disease that is highly contagious and preventable through routine childhood immunization.\n\nMeasles is a viral illness that spreads through respiratory droplets and can cause severe complications, especially in infants and immunocompromised individuals. The MMR vaccine, introduced in the 1970s, has dramatically reduced measles incidence worldwide.\n\nIn recent years, vaccine hesitancy has risen in the United States, fueled by misinformation and mistrust of medical institutions. This trend has led to outbreaks in communities with low vaccination coverage.\n\nPennsylvania\u2019s health department has reported a surge in measles cases, prompting the state to issue alerts and coordinate with local health agencies to contain the spread.\n\nPublic health officials, school districts, parents, and vaccine critics are all stakeholders in this situation. Their perspectives shape policy decisions, school vaccination requirements, and community outreach efforts.\n\nThe Philadelphia School District\u2019s vaccination clinic aims to increase coverage among students, thereby reducing the risk of future outbreaks and protecting vulnerable populations.\n\nRFK Jr. and Shapiro represent opposing viewpoints on vaccine policy. While RFK Jr. questions vaccine safety and promotes alternative health narratives, Shapiro and other officials advocate for evidence\u2011based immunization strategies to protect public health.\n\nThe deaths serve as a stark reminder of the dangers posed by vaccine refusal and may influence public perception and policy regarding mandatory immunization.\n\nThe public dispute between RFK Jr. and Shapiro could affect trust in vaccination programs, potentially shaping future compliance rates and the effectiveness of public\u2011health campaigns.\n\nState officials will likely continue monitoring measles cases and may expand vaccination efforts, including additional school\u2011based clinics and outreach initiatives. Upcoming deadlines for vaccine mandates in schools and potential legislative actions remain key points to watch in the coming weeks.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1d2ZzNTRGdFRk9JQkh0T0lXT1J0YXdpaUk3THdYZXBHMTg2VFh3YTZkWFJETXVhczl5elZoaXdoa3U5cTFtMURESVR4S0xTYmtfY2RhaG5JdmZ3X0F0Rk9WNTVKM2JkbHhYdzBwcndkQ2RFR28tYUpMT29iV2VqQzZ2cnhjMjQ0MEVmUWVlaW5mdUpwcUxHS2VzWHdXaUMxZW5PQ3NRbVYzalBtNGJhV0plbVk1bEVJYW04?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1d2ZzNTRGdFRk9JQkh0T0lXT1J0YXdpaUk3THdYZXBHMTg2VFh3YTZkWFJETXVhczl5elZoaXdoa3U5cTFtMURESVR4S0xTYmtfY2RhaG5JdmZ3X0F0Rk9WNTVKM2JkbHhYdzBwcndkQ2RFR28tYUpMT29iV2VqQzZ2cnhjMjQ0MEVmUWVlaW5mdUpwcUxHS2VzWHdXaUMxZW5PQ3NRbVYzalBtNGJhV0plbVk1bEVJYW04?oc=5",
-      "guid": "CBMiuwFBVV95cUxOT1d2ZzNTRGdFRk9JQkh0T0lXT1J0YXdpaUk3THdYZXBHMTg2VFh3YTZkWFJETXVhczl5elZoaXdoa3U5cTFtMURESVR4S0xTYmtfY2RhaG5JdmZ3X0F0Rk9WNTVKM2JkbHhYdzBwcndkQ2RFR28tYUpMT29iV2VqQzZ2cnhjMjQ0MEVmUWVlaW5mdUpwcUxHS2VzWHdXaUMxZW5PQ3NRbVYzalBtNGJhV0plbVk1bEVJYW04"
-    },
-    "googlenews_95b2d725": {
-      "id": "googlenews_95b2d725",
-      "title": "PSG to face Barcelona, Man City and Villa in Champions League as draw made - Al Jazeera",
-      "category": "Sports",
-      "source": "googlenews",
-      "time": "2026-08-27T22:09:41",
-      "read": "3 min read",
-      "mode": "long",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28262%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27582%27%20cy%3D%27237%27%20r%3D%27140%27%20fill%3D%27hsl%28302%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Paris Saint\u2011Germain will compete against Barcelona, Manchester City and Aston\u202fVilla in the group stage of next season\u2019s UEFA Champions League, the club\u2019s opponents were revealed when the draw was held by UEFA officials and reported by Al\u202fJazeera.\u202f[1]\n\nThe pairing places PSG in a \u201cgroup of death\u201d that includes three clubs with deep squads and a history of European success, raising the stakes for the French side as it seeks to add a continental title to its growing trophy cabinet. The draw also sets the stage for high\u2011profile clashes for other clubs, such as Bayern\u202fMunich and Borussia\u202fDortmund facing Arsenal, and Arsenal\u2019s own tie against Real\u202fMadrid, while Manchester\u202fUnited will meet Bayern\u202fMunich.\u202f[1]\n\nUEFA conducted the draw in a ceremony that followed the standard procedure of drawing clubs from the 36 teams that qualified for the group stage. The event was broadcast and reported by Al\u202fJazeera, which confirmed the matchups for the first round of group fixtures.\u202f[1]\n\nIn addition to PSG\u2019s group, the draw also revealed that Bayern\u202fMunich and Borussia\u202fDortmund would be drawn together in the same group, a pairing that has drawn particular attention because both clubs have historically performed strongly in Europe. Arsenal\u2019s group will include Real\u202fMadrid, while Manchester\u202fUnited\u2019s group will feature Bayern\u202fMunich. These pairings were all announced in the same draw ceremony.\u202f[1]\n\nThe Champions League group stage is the first phase of the competition, where 32 teams are divided into eight groups of four. Each team plays the others in its group twice, once at home and once away, with the top two clubs advancing to the knockout rounds. The draw is a random process that respects seeding rules based on club coefficients and domestic league performance.\u202f[1]\n\nParis Saint\u2011Germain entered the competition as the reigning French champions, having secured the Ligue\u202f1 title in the 2023\u201124 season. Barcelona, a club with a storied European pedigree, and Manchester\u202fCity, who have been consistent contenders in recent years, both bring strong squads to the group. Aston\u202fVilla, a club that has recently returned to the Premier League, adds an element of unpredictability to the group.\u202f[1]\n\nThe clubs involved will face significant pressure from fans, sponsors and the media, all of whom are keen to see their teams succeed on the continental stage. The draw\u2019s outcome will influence pre\u2011season preparations, transfer market activity and tactical planning, as each club must assess the strengths and weaknesses of its group opponents.\u202f[1]\n\nFor players and coaching staff, the draw sets the competitive landscape for the next few months. Managers will need to balance domestic league commitments with the demands of the Champions League, while players will have to adapt to different styles of play and travel schedules. The high quality of the opposition in PSG\u2019s group means that squad depth and injury management will be critical.\u202f[1]\n\nFinancially, the Champions League offers substantial revenue from broadcasting rights, matchday income and prize money. Advancing beyond the group stage can significantly boost a club\u2019s earnings, making the draw\u2019s implications far beyond sporting prestige. Clubs that perform well also attract higher sponsorship deals and increased global exposure.\u202f[1]\n\nThe draw\u2019s outcome suggests that PSG will face a challenging path to the knockout rounds, with Barcelona and Manchester\u202fCity both possessing strong attacking and defensive capabilities. The presence of Aston\u202fVilla adds a potential upset factor, as the club has shown resilience in recent seasons. The group\u2019s competitiveness could influence how PSG approaches each fixture, potentially prioritizing certain matches over others.\u202f[1]\n\nOther clubs in the draw will also be watching closely. Bayern\u202fMunich\u2019s pairing with Borussia\u202fDortmund could lead to a tightly contested group, while Arsenal\u2019s match against Real\u202fMadrid presents a classic clash of styles that could shape the group\u2019s standings. Manchester\u202fUnited\u2019s encounter with Bayern\u202fMunich will test the English club\u2019s depth and tactical flexibility.\u202f[1]\n\nLooking ahead, the next step for all clubs is to prepare for the opening group matches, which are scheduled to begin in early September. UEFA will release the full fixture list shortly after the draw, allowing teams to plan travel, training camps and tactical rehearsals. Fans and analysts will also be watching the early results to gauge the relative strength of each group.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamt4LW84S3lRc2V3QkIyVUNWaldRYkpVTnVFc3h2SVMwOVpHbzl3MEF4Z2tVeU0tWF9veUlxUEpBZW84dloyR1lIRWExQ3ppX2lWRGN5TW11eUJqVjN1a2t3a1BNWXdBNTYzYnZSWkU4WWVnenptcTBmVEdLbWpVTnFHQXVISndDTUZkLTVPbWgydk1aQ0NDUHQwREZsTk50d1ItczlqWFRZLXVhMDFxZ0duVUpDTWvSAbwBQVVfeXFMTS1UUE93alB6d3dtSXdLUmpqTTlvSHJaR1JldUZzYnYzcy1MRlpteVRmMTI4OTZRaHFQblBReDdISjZfcDdLTElPYXd2VlhCcWp5U3Ewd2RMdFh5WmtLQUctUzlGdl9qMVNyNUVpWTV1T0pUNW5UckdXVzFOdlB4Q3Rwd1dqUEJtUWp5aVY5TGNZcHpvNE9ubEw4MTJ2bzd6czYwMzFOVFN2VmhibmVWaVRhek1SLUd3MHRnWDI?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamt4LW84S3lRc2V3QkIyVUNWaldRYkpVTnVFc3h2SVMwOVpHbzl3MEF4Z2tVeU0tWF9veUlxUEpBZW84dloyR1lIRWExQ3ppX2lWRGN5TW11eUJqVjN1a2t3a1BNWXdBNTYzYnZSWkU4WWVnenptcTBmVEdLbWpVTnFHQXVISndDTUZkLTVPbWgydk1aQ0NDUHQwREZsTk50d1ItczlqWFRZLXVhMDFxZ0duVUpDTWvSAbwBQVVfeXFMTS1UUE93alB6d3dtSXdLUmpqTTlvSHJaR1JldUZzYnYzcy1MRlpteVRmMTI4OTZRaHFQblBReDdISjZfcDdLTElPYXd2VlhCcWp5U3Ewd2RMdFh5WmtLQUctUzlGdl9qMVNyNUVpWTV1T0pUNW5UckdXVzFOdlB4Q3Rwd1dqUEJtUWp5aVY5TGNZcHpvNE9ubEw4MTJ2bzd6czYwMzFOVFN2VmhibmVWaVRhek1SLUd3MHRnWDI?oc=5",
-      "guid": "CBMitwFBVV95cUxPamt4LW84S3lRc2V3QkIyVUNWaldRYkpVTnVFc3h2SVMwOVpHbzl3MEF4Z2tVeU0tWF9veUlxUEpBZW84dloyR1lIRWExQ3ppX2lWRGN5TW11eUJqVjN1a2t3a1BNWXdBNTYzYnZSWkU4WWVnenptcTBmVEdLbWpVTnFHQXVISndDTUZkLTVPbWgydk1aQ0NDUHQwREZsTk50d1ItczlqWFRZLXVhMDFxZ0duVUpDTWvSAbwBQVVfeXFMTS1UUE93alB6d3dtSXdLUmpqTTlvSHJaR1JldUZzYnYzcy1MRlpteVRmMTI4OTZRaHFQblBReDdISjZfcDdLTElPYXd2VlhCcWp5U3Ewd2RMdFh5WmtLQUctUzlGdl9qMVNyNUVpWTV1T0pUNW5UckdXVzFOdlB4Q3Rwd1dqUEJtUWp5aVY5TGNZcHpvNE9ubEw4MTJ2bzd6czYwMzFOVFN2VmhibmVWaVRhek1SLUd3MHRnWDI"
-    },
-    "straitstimes_ef0a0d35": {
-      "id": "straitstimes_ef0a0d35",
-      "title": "SCDF NSman is driver arrested for driving under influence of drugs on BKE - The Straits Times",
-      "category": "World",
-      "source": "straitstimes",
-      "time": "2026-08-27T22:10:09",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28299%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27539%27%20cy%3D%27312%27%20r%3D%27140%27%20fill%3D%27hsl%28339%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "An SCDF National Service man was arrested for driving under the influence of drugs on the Bukit Timah Expressway (BKE).\u202f[1] The incident was reported by the Straits Times, which noted that police had taken the volunteer into custody after detecting signs of drug impairment while the vehicle was on the expressway. The report did not disclose the driver\u2019s name, the exact time of the arrest, or the specific drugs involved.\n\nThe arrest underscores Singapore\u2019s strict enforcement of road\u2011safety laws and highlights the responsibilities that come with being a volunteer firefighter. It also brings attention to the conduct of National Service men who serve in the Singapore Civil Defence Force (SCDF), an organization that relies on volunteers to provide emergency services across the country.\n\nThe SCDF is a volunteer arm of the Singapore Armed Forces that trains men and women in firefighting, rescue operations, and basic medical care. National Service men who join the SCDF are required to maintain a high standard of conduct, both on duty and off duty, because they represent the organization in the community. The BKE, a major arterial route that connects the central business district with the western suburbs, is a frequent site for traffic enforcement operations.\n\nDriving under the influence of drugs is a serious offence under Singapore\u2019s Road Traffic Act. The law imposes strict penalties, including fines, disqualification from driving, and possible imprisonment, to deter impaired driving and protect public safety. The SCDF\u2019s volunteer programme includes training on legal responsibilities and the importance of maintaining sobriety while operating vehicles.\n\nThe incident may prompt the SCDF to review its volunteer conduct policies and reinforce training on legal compliance. It may also lead to increased scrutiny of volunteer drivers and a review of the organization\u2019s monitoring procedures. For the public, the case serves as a reminder that drug\u2011impaired driving remains a grave risk on Singapore\u2019s roads.\n\nWhile the investigation is ongoing, the SCDF and the police have not released further details. The case is expected to be processed through the criminal justice system, where the driver could face penalties under the Road Traffic Act. Stakeholders will be watching for any official statements from the SCDF, the Ministry of Defence, and the police regarding disciplinary actions or policy changes that may follow.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSDl1Q0EwVk1xRmJOWmtTSFp4NGZMc0tWa21sUzJOcVlXSThtcGpRSzlhclQ2WDBNUFdtekVVMXdYM0MtdmpmLTlhU0lkenUxWkoteUQ2Z3pYRllrZDZKaWNYR0FKY3RZSkxSNGR4aG5YdWNFa3Y5V3R2SmFyWUdVZGxqSlpFbG5ocTJfR0pBbUtjM0FwNUNhN3Jrbk1hbU5HZ0Y1QXpoQkRWeTQyamtlOTd1dzU5YmRfM0Z4dVhSMThZOXM?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSDl1Q0EwVk1xRmJOWmtTSFp4NGZMc0tWa21sUzJOcVlXSThtcGpRSzlhclQ2WDBNUFdtekVVMXdYM0MtdmpmLTlhU0lkenUxWkoteUQ2Z3pYRllrZDZKaWNYR0FKY3RZSkxSNGR4aG5YdWNFa3Y5V3R2SmFyWUdVZGxqSlpFbG5ocTJfR0pBbUtjM0FwNUNhN3Jrbk1hbU5HZ0Y1QXpoQkRWeTQyamtlOTd1dzU5YmRfM0Z4dVhSMThZOXM?oc=5",
-      "guid": "CBMiwwFBVV95cUxOSDl1Q0EwVk1xRmJOWmtTSFp4NGZMc0tWa21sUzJOcVlXSThtcGpRSzlhclQ2WDBNUFdtekVVMXdYM0MtdmpmLTlhU0lkenUxWkoteUQ2Z3pYRllrZDZKaWNYR0FKY3RZSkxSNGR4aG5YdWNFa3Y5V3R2SmFyWUdVZGxqSlpFbG5ocTJfR0pBbUtjM0FwNUNhN3Jrbk1hbU5HZ0Y1QXpoQkRWeTQyamtlOTd1dzU5YmRfM0Z4dVhSMThZOXM"
-    },
-    "economist_d442bd0e": {
-      "id": "economist_d442bd0e",
-      "title": "As his presidency flounders, Trump is more dangerous than ever",
-      "category": "World",
-      "source": "economist",
-      "time": "2026-08-27T22:11:03",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28124%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27604%27%20cy%3D%27350%27%20r%3D%27140%27%20fill%3D%27hsl%28164%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "The article titled \u201cAs his presidency flounders, Trump is more dangerous than ever\u201d portrays former President Donald\u202fJ.\u202fTrump as a leader whose influence is waning yet whose threat level is rising. The headline and accompanying summary claim that Trump will defend his dominance \u201clike an ageing silverback gorilla.\u201d[1]\n\nThe piece frames the situation as a warning to the American public and to political observers: a president who, despite a declining mandate, continues to act with the same combative energy as a senior male gorilla defending his territory. The metaphor suggests that Trump\u2019s defensive posture may intensify rather than diminish as his term progresses.\n\nThe article\u2019s content is limited to the headline and the brief summary. It does not provide additional details, dates, or direct quotations. The summary itself states, \u201cForget lame ducks. America\u2019s president will defend his dominance like an ageing silverback gorilla.\u201d[1]\n\nIn political parlance, a \u201clame duck\u201d refers to an elected official whose power is diminishing, often because a successor is already in place. The use of this term signals that the author views Trump\u2019s presidency as entering a period of reduced influence.\n\nA silverback gorilla is the dominant male in a gorilla troop, known for its protective and sometimes aggressive behavior toward intruders. By comparing Trump to an ageing silverback, the article implies that he will continue to assert control and resist challenges, even as his authority erodes.\n\nThe article suggests that Trump\u2019s actions, as described, could affect the broader political climate and the public\u2019s perception of presidential conduct. It implies that his defensive stance may have implications for governance, policy debates, and the stability of democratic norms.\n\nThe metaphorical framing invites readers to consider the potential for heightened conflict or resistance from a president who feels his position is under threat. While the article does not quantify risks, it signals a concern that Trump\u2019s behavior could become more unpredictable.\n\nNo specific future events or deadlines are mentioned in the article. Readers interested in the trajectory of Trump\u2019s presidency may look to subsequent commentary or official statements for further insight.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Economist",
-          "url": "https://www.economist.com/international/2026/08/25/as-his-presidency-flounders-trump-is-more-dangerous-than-ever"
-        }
-      ],
-      "original_url": "https://www.economist.com/international/2026/08/25/as-his-presidency-flounders-trump-is-more-dangerous-than-ever",
-      "guid": "78af8ee5-7ebd-48a3-b9c6-245c7ef07a24"
-    },
-    "npr_8057f42f": {
-      "id": "npr_8057f42f",
-      "title": "Can't stop fixating on the way you look? These 4 mental exercises may help",
-      "category": "News",
-      "source": "npr",
-      "time": "2026-08-28T10:53:20",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F24%2Fcd%2F5055196944e2ac0875e3aed5fc61%2Fbbfbf740-3213-455c-aed1-ca266cc90619.jpg",
-      "content": "A new article offers four mental exercises to help people stop obsessing over their appearance. [1]\n\nThe piece addresses the growing concern that many people spend too much mental energy on self\u2011image, and it provides practical techniques to redirect attention. [1]\n\nWritten by psychologist Diana\u202fHill, the article explains that fixating on looks can be exhausting and suggests four specific exercises to ground oneself. [1] It describes how these exercises can help reduce intrusive thoughts about body image. [1]\n\nBody image concerns are common, especially among adolescents and young adults, and can contribute to anxiety and depression.\n\nPsychologists often recommend mindfulness and cognitive\u2011behavioral strategies to manage negative self\u2011talk.\n\nIndividuals who struggle with body image may find the exercises useful, while mental\u2011health professionals might incorporate them into therapy.\n\nThe article does not mention any specific demographic, but the techniques are presented as broadly applicable.\n\nIf widely adopted, such exercises could reduce the burden of body\u2011image anxiety, but the article does not provide evidence of efficacy.\n\nThe piece highlights the importance of self\u2011care and mental\u2011health resources for those dealing with appearance\u2011related stress.\n\nReaders are encouraged to try the exercises and observe any changes in their thought patterns; future research may evaluate their effectiveness.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "NPR",
-          "url": "https://www.npr.org/2026/08/28/nx-s1-5946751/cant-stop-fixating-on-the-way-you-look-these-4-mental-exercises-may-help"
-        }
-      ],
-      "original_url": "https://www.npr.org/2026/08/28/nx-s1-5946751/cant-stop-fixating-on-the-way-you-look-these-4-mental-exercises-may-help",
-      "guid": "https://www.npr.org/2026/08/28/nx-s1-5946751/cant-stop-fixating-on-the-way-you-look-these-4-mental-exercises-may-help"
-    },
-    "nature_2fa826ad": {
-      "id": "nature_2fa826ad",
-      "title": "Mysteries of the deep and AI friendship: Books in brief",
-      "category": "Science",
-      "source": "nature",
-      "time": "2026-08-28T10:54:08",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02725-9/d41586-026-02725-9_53030048.jpg",
-      "content": "Andrew Robinson\u2019s review of five recent science books appeared in Nature under the headline \u201cMysteries of the deep and AI friendship: Books in brief.\u201d[1] The piece, published online on 28\u202fAugust\u202f2026, offers a concise overview of each title and situates them within current scientific conversations.[1]\n\nThe review\u2019s title signals that the books cover two of the most compelling frontiers in contemporary science: the uncharted depths of the ocean and the evolving relationship between humans and artificial intelligence. Readers are given a snapshot of how these works approach complex topics in an accessible way.[1]\n\nOn 28\u202fAugust\u202f2026, Nature made the review available through its online platform, and the article can be accessed via the DOI 10.1038/d41586-026-02725-9. The review lists five books, each accompanied by a brief synopsis and an assessment of its contribution to the field.[1] While the specific titles and authors are not named in the source summary, the review\u2019s structure follows Nature\u2019s customary \u201cBooks in brief\u201d format, which typically includes a short paragraph on each book\u2019s premise, its key arguments, and its relevance to ongoing scientific debates.\n\nNature\u2019s \u201cBooks in brief\u201d series has long served as a bridge between scholarly publishing and the broader public. The series aims to highlight noteworthy recent publications, offering readers a quick yet informed guide to new literature. By presenting a curated selection, the series helps scientists, students, and general readers navigate the expanding landscape of science books.\n\nThe review\u2019s concise format\u2014often a paragraph per book\u2014provides a snapshot that balances depth with brevity. It typically includes the author\u2019s main thesis, the book\u2019s methodological approach, and an evaluation of its strengths and limitations. This approach aligns with Nature\u2019s broader editorial mission to promote clear, evidence\u2011based communication.\n\nStakeholders most directly affected by the review include the authors and publishers of the five books, who may experience increased visibility and sales as a result of the endorsement. Librarians and academic institutions also benefit, as the review offers a vetted recommendation that can inform acquisition decisions. For readers, the review serves as a trusted source of guidance, helping them select books that align with their interests and intellectual curiosity.\n\nThe review\u2019s focus on deep\u2011sea mysteries and AI friendship underscores the interdisciplinary nature of modern science. By highlighting works that span marine biology, oceanography, computer science, and ethics, the piece reflects a growing trend toward cross\u2011disciplinary scholarship. It also illustrates how complex scientific topics are being packaged for a general audience, thereby expanding public engagement with science.\n\nLooking ahead, readers can access the full review through the DOI link provided by Nature. Future issues of the journal are expected to continue the \u201cBooks in brief\u201d series, offering further insights into emerging science literature and continuing to serve as a reliable resource for those seeking to stay informed about the latest developments in scientific publishing.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Nature",
-          "url": "https://www.nature.com/articles/d41586-026-02725-9"
-        }
-      ],
-      "original_url": "https://www.nature.com/articles/d41586-026-02725-9",
-      "guid": "https://www.nature.com/articles/d41586-026-02725-9"
-    },
     "abcau_3bdadb00": {
       "id": "abcau_3bdadb00",
       "title": "First H5N1 bird flu detection confirmed in Australian dolphin - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
@@ -15999,32 +15879,153 @@
       ],
       "original_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVZ6OTdhWTZlWUJFbTdTSHZOeG1lZEV3UEc2RDdhOVNqYjFWcTFwWUU5Qlk0RU5nTGlTMi1Tc1N5N3ktTGFiYUJUeWtod1lMbHJQQjcxMElFRjZHTlJtd0hlT2V5c0xVS2xqTkdsczJ2cG96NWlsMDEyZjc1TXAyUnhnTVd2RnVPQ1pHM3VXazc?oc=5",
       "guid": "CBMikAFBVV95cUxNNVZ6OTdhWTZlWUJFbTdTSHZOeG1lZEV3UEc2RDdhOVNqYjFWcTFwWUU5Qlk0RU5nTGlTMi1Tc1N5N3ktTGFiYUJUeWtod1lMbHJQQjcxMElFRjZHTlJtd0hlT2V5c0xVS2xqTkdsczJ2cG96NWlsMDEyZjc1TXAyUnhnTVd2RnVPQ1pHM3VXazc"
+    },
+    "berkeleyuniv_9cdeec51": {
+      "id": "berkeleyuniv_9cdeec51",
+      "title": "Watch: How UC Berkeley\u2019s Space Sciences Laboratory leads NASA missions like ESCAPADE",
+      "category": "Science",
+      "source": "berkeleyuniv",
+      "time": "2026-10-08T23:10:26",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://news.berkeley.edu/wp-content/uploads/2026/10/Born-at-Berkeley-space-1080-1024x585.jpg",
+      "content": "Perched high in the hills above campus, UC\u202fBerkeley\u2019s Space Sciences Laboratory (SSL) is one of only two university\u2011based centers in the United States that can manage the full life cycle of a satellite mission, from design through launch and operations, and it currently leads NASA missions such as ESCAPADE.[1]\n\nThe laboratory\u2019s unique capability places it at the forefront of space research and provides students and researchers with rare opportunities to participate in real\u2011world missions, while also strengthening the partnership between academia and the National Aeronautics and Space Administration.[1]\n\nThe SSL\u2019s involvement in NASA\u2019s ESCAPADE mission demonstrates its role in overseeing the mission from concept through launch and beyond, illustrating the laboratory\u2019s capacity to manage all stages of a satellite project.[1]\n\nA satellite life cycle typically includes mission definition, system design, component fabrication, integration and testing, launch vehicle selection, launch, in\u2011orbit operations, and eventual decommissioning. Managing all these stages requires specialized facilities, expertise, and coordination across multiple disciplines.\n\nThe SSL is located high in the hills above campus.[1]\n\nStudents at UC\u202fBerkeley gain hands\u2011on experience working on NASA missions, which can enhance their career prospects in aerospace and related fields. Researchers benefit from access to unique data sets and the ability to test new technologies in space.\n\nNASA benefits from the SSL\u2019s expertise and the university\u2019s capacity to rapidly prototype and test components, potentially reducing mission costs and timelines.\n\nThe SSL\u2019s dual role as an academic institution and a mission manager positions it as a bridge between theoretical research and practical application, potentially accelerating the development of new space technologies.\n\nThe presence of only two such centers in the country underscores the strategic importance of the SSL, as it can attract funding, talent, and collaborations that might otherwise be directed elsewhere.\n\nWhile the source does not detail upcoming missions, the SSL is expected to continue its involvement in NASA projects, and students and researchers should monitor the laboratory\u2019s announcements for new opportunities.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "UC Berkeley News",
+          "url": "https://news.berkeley.edu/2026/10/08/watch-how-uc-berkeleys-space-sciences-laboratory-leads-nasa-missions-like-escapade/"
+        }
+      ],
+      "original_url": "https://news.berkeley.edu/2026/10/08/watch-how-uc-berkeleys-space-sciences-laboratory-leads-nasa-missions-like-escapade/",
+      "guid": "https://news.berkeley.edu/?p=142333"
+    },
+    "abcau_a8cfac1f": {
+      "id": "abcau_a8cfac1f",
+      "title": "Woman and child found dead in car in dam - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "category": "World",
+      "source": "abcau",
+      "time": "2026-10-08T23:10:28",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Woman_at_Lover%27s_Bridge_Tanjung_Sepat_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "A woman and child were found dead in a car inside a dam, according to a report by ABC News.\u202f[1]\n\nThe incident, which has shocked local communities, underscores the potential dangers associated with dam safety and vehicle accidents.\n\nABC News reported that the bodies were discovered in a vehicle located within the confines of a dam. The report did not provide details about the identity of the individuals, the exact location of the dam, or the circumstances that led to the tragedy.\n\nDams are large structures built to hold back water for purposes such as hydroelectric power, irrigation, and flood control. They are engineered to manage water flow and protect downstream areas from flooding.\n\nVehicles are sometimes used in maintenance or recreational activities near dams, but strict safety protocols are typically in place to prevent accidents. These protocols often include restrictions on vehicle access, mandatory safety briefings, and the use of protective barriers.\n\nThe families of the deceased are likely to be deeply affected, and local authorities may need to investigate the incident. The event may also prompt a review of safety measures at dams and vehicle access policies.\n\nWhile the cause of the deaths remains unknown, the event highlights the importance of stringent safety practices around water infrastructure. It also raises questions about how vehicle access is regulated in sensitive areas.\n\nInvestigations by local authorities and the Australian Broadcasting Corporation are expected to provide further details as they become available.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "ABC News (Australia)",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUpUOXhLMnBEVVB1TGlpWHktOGlMMWR0eFdIQndIcVZFUHlMSVAzdnZ6T1RaanE2V1NvZFA3cDBOZHNOVDFwY3BraWlkY2FTb2F1WVJLaS1VOUFWbzFJeXBNd29PWEhPNGhMR1JlMEkwWkRiUzlDTjdkRHpfeld5UjZ3TExkLU9BSkNVNHJqdDZQYXlPTmY5Wg?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUpUOXhLMnBEVVB1TGlpWHktOGlMMWR0eFdIQndIcVZFUHlMSVAzdnZ6T1RaanE2V1NvZFA3cDBOZHNOVDFwY3BraWlkY2FTb2F1WVJLaS1VOUFWbzFJeXBNd29PWEhPNGhMR1JlMEkwWkRiUzlDTjdkRHpfeld5UjZ3TExkLU9BSkNVNHJqdDZQYXlPTmY5Wg?oc=5",
+      "guid": "CBMimAFBVV95cUxNRUpUOXhLMnBEVVB1TGlpWHktOGlMMWR0eFdIQndIcVZFUHlMSVAzdnZ6T1RaanE2V1NvZFA3cDBOZHNOVDFwY3BraWlkY2FTb2F1WVJLaS1VOUFWbzFJeXBNd29PWEhPNGhMR1JlMEkwWkRiUzlDTjdkRHpfeld5UjZ3TExkLU9BSkNVNHJqdDZQYXlPTmY5Wg"
+    },
+    "japantimes_daf0cb01": {
+      "id": "japantimes_daf0cb01",
+      "title": "Adrian Bianco championed Japan\u2019s underground culture",
+      "category": "World",
+      "source": "japantimes",
+      "time": "2026-10-08T23:10:32",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/09/567631.jpeg",
+      "content": "Adrian Bianco, 40, founder of Sabukaru[1], died in August[1]; he championed Japan's underground culture[1].\n\nHis death marks the loss of a key figure who bridged local underground scenes with international attention, impacting artists, fans, and industry stakeholders.\n\nBianco, who founded Sabukaru[1], was known for championing Japan's underground culture[1]. He died at 40 in August[1]. Sabukaru connected underground culture and emerging talent across Asia with global audiences[1].\n\nJapan's underground culture has long been a fertile ground for experimental art, music, and fashion, often operating outside mainstream channels.\n\nSabukaru was a platform that facilitated the exchange of creative work and exposure for emerging artists across Asia, enabling them to reach audiences beyond their local scenes[1].\n\nArtists who were featured on Sabukaru gained access to international fans and industry professionals, while audiences worldwide were introduced to new sounds and styles.\n\nThe platform also served as a networking hub for producers, promoters, and cultural curators, fostering collaborations that crossed national borders.\n\nThe loss of Bianco may slow the momentum of underground talent reaching global markets, and the future of Sabukaru will depend on how its community chooses to carry on his vision.\n\nObservers should note any announcements regarding the succession of Sabukaru's leadership, upcoming events, or new initiatives that aim to preserve Bianco's legacy.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/culture/2026/10/09/entertainment-news/adrian-bianco-obituary-sabukaru/"
+        }
+      ],
+      "original_url": "https://www.japantimes.co.jp/culture/2026/10/09/entertainment-news/adrian-bianco-obituary-sabukaru/",
+      "guid": "https://www.japantimes.co.jp/article/647571/"
+    },
+    "straitstimes_9c682bef": {
+      "id": "straitstimes_9c682bef",
+      "title": "Witkoff, Kushner to meet Ukrainians in Miami on Friday, says US source - The Straits Times",
+      "category": "World",
+      "source": "straitstimes",
+      "time": "2026-10-08T23:10:43",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/89/The_Straits_Times_%28January_20%2C_2026%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "Former U.S. diplomat Witkoff and former senior advisor Kushner are set to meet with Ukrainian officials in Miami on Friday, according to a U.S. source.\u202f[1]\n\nThe meeting underscores the United States\u2019 ongoing engagement with Ukraine amid the country\u2019s continued security challenges. It also highlights Miami\u2019s role as a venue for diplomatic outreach, offering a neutral setting for discussions between U.S. figures and Ukrainian representatives.\u202f[1]\n\nThe event is scheduled for Friday, with Witkoff and Kushner expected to sit down with a delegation of Ukrainian officials. The details of the agenda have not been released, but the gathering is anticipated to address matters of mutual interest between the United States and Ukraine.\u202f[1]\n\nMiami has a history of hosting diplomatic events, serving as a convenient location for U.S. officials to meet with foreign dignitaries outside the traditional corridors of Washington, D.C. The city\u2019s international community and infrastructure make it a practical choice for such meetings.\n\nUkraine has been a focal point of U.S. foreign policy for several years, especially in light of the ongoing conflict in the eastern part of the country and the broader geopolitical tensions in the region. U.S. officials have frequently engaged with Ukrainian leaders to discuss security assistance, economic reforms, and democratic governance.\n\nThe stakeholders in this meeting include Ukrainian officials who may seek continued U.S. support, U.S. policymakers who monitor the effectiveness of diplomatic outreach, and the broader international community that observes U.S. engagement with Ukraine. The outcome of the meeting could influence perceptions of U.S. commitment to Ukraine\u2019s stability.\n\nWhile the specifics of the discussion remain undisclosed, the gathering could signal a continued U.S. willingness to support Ukraine through diplomatic channels. It may also serve as a platform for exchanging perspectives on security, economic cooperation, and regional stability.\n\nObservers will likely watch for any statements released after the meeting, as well as any subsequent policy announcements or aid packages that might be announced in the coming days. The next steps will clarify whether the meeting leads to concrete actions or further diplomatic initiatives.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTkhBVmJhQ19Cd1ZZZ0VlXzNfbDM3UGdsRGJQMnNIUTQwZElzQmlxQjY1LWxkWnRZZFNxWXdPakpES004N0xnZWphRnNSZWxVekhVR1N4cTVrTHd6LTV4X0F3UWFCaHVvbGI2OXlxYktmSmJQbUlVc2pJRmpQTXJycVlDNVUzX0NXSWhESzZ4b2l1bkZSejg4aTBuMVNiUGlCVjJhcUpMYlZuenFXWGstdF9aelN2RTJFc2ZJR1R3?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTkhBVmJhQ19Cd1ZZZ0VlXzNfbDM3UGdsRGJQMnNIUTQwZElzQmlxQjY1LWxkWnRZZFNxWXdPakpES004N0xnZWphRnNSZWxVekhVR1N4cTVrTHd6LTV4X0F3UWFCaHVvbGI2OXlxYktmSmJQbUlVc2pJRmpQTXJycVlDNVUzX0NXSWhESzZ4b2l1bkZSejg4aTBuMVNiUGlCVjJhcUpMYlZuenFXWGstdF9aelN2RTJFc2ZJR1R3?oc=5",
+      "guid": "CBMivgFBVV95cUxOTkhBVmJhQ19Cd1ZZZ0VlXzNfbDM3UGdsRGJQMnNIUTQwZElzQmlxQjY1LWxkWnRZZFNxWXdPakpES004N0xnZWphRnNSZWxVekhVR1N4cTVrTHd6LTV4X0F3UWFCaHVvbGI2OXlxYktmSmJQbUlVc2pJRmpQTXJycVlDNVUzX0NXSWhESzZ4b2l1bkZSejg4aTBuMVNiUGlCVjJhcUpMYlZuenFXWGstdF9aelN2RTJFc2ZJR1R3"
+    },
+    "fullfact_4dd87078": {
+      "id": "fullfact_4dd87078",
+      "title": "Old video of Israeli basketball player on plane shared with false claims it shows Flydubai attack aftermath",
+      "category": "News",
+      "source": "fullfact",
+      "time": "2026-10-08T23:11:17",
+      "read": "3 min read",
+      "mode": "compact",
+      "image": "https://fullfact.org/media/images/sevcan-alkan-TfS5ECFCRa4-unsplash.443ca5bd.fill-1200x630.png",
+      "content": "An old video of an Israeli basketball player aboard a commercial flight has been circulated online with false claims that it shows the aftermath of a recent Flydubai attack on a Dubai\u2011to\u2011Tel Aviv flight. The footage, which has been available for more than a year, depicts the athlete seated in a cabin and is unrelated to the incident that drew international attention. The misattribution has been used to spread misinformation about the attack\u2019s circumstances and the identities of those involved.\n\nThe false narrative emerged after the video was shared on social media platforms, where users added captions suggesting it captured the chaos following the alleged attack. The claims were not supported by any credible evidence, and the video\u2019s original context\u2014an ordinary passenger flight\u2014has no connection to the event that occurred on the Dubai\u2011to\u2011Tel Aviv route. The misrepresentation has fueled confusion among viewers and contributed to the broader problem of viral misinformation surrounding aviation incidents.\n\nThe footage in question was posted online more than a year ago, long before the Flydubai incident. It shows a young Israeli basketball player seated in a standard economy cabin, with no visible signs of distress or emergency. The video was later re\u2011uploaded by users who added misleading captions and hashtags linking it to the attack. The original uploader\u2019s identity and the date of the initial post remain unclear, but the content itself is unrelated to the recent flight.\n\nFlydubai, a low\u2011cost airline based in Dubai, has faced scrutiny following an incident on a flight to Tel Aviv that involved an alleged attack. While details of the event have been reported by news outlets, no footage of the aftermath has been released publicly. The misattributed video does not depict any of the scenes described in official reports, nor does it show any of the passengers or crew involved in the incident.\n\nThe spread of the false video illustrates how quickly misinformation can propagate on social media. When users share content without verifying its source or context, they can inadvertently amplify rumors. In this case, the video\u2019s mislabeling has led some viewers to believe it offers visual confirmation of the attack, potentially skewing public perception of the event\u2019s severity and the airline\u2019s safety record.\n\nStakeholders affected by the misinformation include the airline, passengers, and the broader public. Flydubai\u2019s reputation could be further damaged by the circulation of unrelated footage that suggests a more chaotic or dangerous situation than actually occurred. Passengers may experience increased anxiety about flying, while the airline\u2019s operational and financial interests could be impacted by negative sentiment. The athlete featured in the video, whose identity is not publicly disclosed, may also face unwanted attention or mischaracterization.\n\nThe incident underscores the importance of fact\u2011checking before sharing content that could influence public opinion about safety and security. While the video itself is harmless, its misrepresentation can contribute to a climate of mistrust and uncertainty around air travel. Authorities and media outlets must continue to provide clear, accurate information to counteract such false narratives.\n\nThe next step for those monitoring the situation is to track how the video continues to circulate and whether any official statements from Flydubai or aviation regulators address the misinformation. The airline has not yet issued a formal response to the specific claims about the video, and no new footage has been released that could clarify the incident\u2019s details. Observers should remain alert to further developments that may either confirm or dispel the false narrative.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Full Fact",
+          "url": "https://fullfact.org/world/old-video-israel-basketball-player-shared-flydubai-incident/"
+        }
+      ],
+      "original_url": "https://fullfact.org/world/old-video-israel-basketball-player-shared-flydubai-incident/",
+      "guid": "https://fullfact.org/world/old-video-israel-basketball-player-shared-flydubai-incident/"
+    },
+    "guardian_e956016b": {
+      "id": "guardian_e956016b",
+      "title": "Racial and religious hate crimes at record high in England and Wales, data shows",
+      "category": "Health",
+      "source": "guardian",
+      "time": "2026-10-08T23:11:43",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/f808d6d9f49661e91e36235f2fd417691b7b342f/1433_638_5836_4671/master/5836.jpg?width=140&quality=85&auto=format&fit=max&s=ec26ea8856d53dbfc7f7b5f98de8e022",
+      "content": "Police data released by the Home Office shows that racially and religiously motivated offences in England and Wales reached a record high in the year ending March\u202f2026, with 146,825 incidents reported, a 7\u202f% increase from the previous year\u202f[1].\n\nThe spike is most pronounced in attacks against Muslims and Jews, with offences targeting Muslims rising 15\u202f% and antisemitic incidents up 10\u202f%, underscoring a growing climate of intolerance that threatens community safety and social cohesion\u202f[1].\n\nThe Home Office\u2019s annual hate\u2011crime statistics, compiled from police reports across England and Wales, recorded 146,825 hate crimes in the year ending March\u202f2026, up 7\u202f% from the previous year\u202f[1].\n\nOffences aimed at Muslims increased to 5,132, up 15\u202f% from 4,479 in the previous year\u202f[1].\n\nAntisemitic hate crimes rose to 3,162, a 10\u202f% increase from 2,874 recorded in the prior year\u202f[1].\n\nThe summary does not provide figures for other categories of racially or religiously motivated offences, leaving the full scope of the rise unclear\u202f[1].\n\nThe government\u2019s main partner in tackling Islamophobia has warned that attacks on mosques are becoming more severe\u202f[1].\n\nHate crime is defined by UK law as an offence motivated by the victim\u2019s race, religion, sexual orientation, or other protected characteristic. Police officers record such incidents when they are reported by victims or observed during investigations.\n\nPrevious years have seen fluctuating levels of hate crime, with a general upward trend in recent years, but the 2026 figures represent the highest recorded total to date\u202f[1].\n\nThe Home Office aggregates data from local police forces, which submit monthly reports on hate\u2011crime incidents. The figures are then published annually in a statistical release.\n\nMuslim and Jewish communities, law enforcement agencies, and civil society organisations are directly affected by the rise in hate crimes.\n\nIncreased hate crime can lead to heightened fear, reduced participation in public life, and strain on community relations.\n\nPolicymakers must balance resource allocation for policing with broader social initiatives, while political actors debate the effectiveness of current anti\u2011hate legislation.\n\nThe data suggests a need for targeted interventions, including community outreach, enhanced police training, and potential legislative amendments to address the specific rise in anti\u2011Muslim and antisemitic offences.\n\nThe Home Office is expected to release the next set of hate\u2011crime statistics in the coming months, and lawmakers may consider new measures to curb the rising trend.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/oct/08/racial-and-religious-hate-crimes-at-record-high-in-england-and-wales-data-shows"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/society/2026/oct/08/racial-and-religious-hate-crimes-at-record-high-in-england-and-wales-data-shows",
+      "guid": "https://www.theguardian.com/society/2026/oct/08/racial-and-religious-hate-crimes-at-record-high-in-england-and-wales-data-shows"
     }
   },
   "featured": {
-    "hero": "csmonitor_ea27d80a",
+    "hero": "berkeleyuniv_9cdeec51",
     "stack": [
-      "abcau_425df9e0",
-      "aljazeera_2b3e9121",
-      "bangkokpost_69fd593e"
+      "abcau_a8cfac1f",
+      "japantimes_daf0cb01",
+      "straitstimes_9c682bef"
     ],
     "latest": [
+      "straitstimes_9c682bef",
+      "japantimes_daf0cb01",
+      "abcau_a8cfac1f",
+      "csmonitor_ea27d80a",
       "bangkokpost_69fd593e",
-      "aljazeera_2b3e9121",
-      "abcau_425df9e0",
-      "guardian_9e57b76f",
-      "aljazeera_e2a61150",
-      "straitstimes_1cd15ee5"
+      "aljazeera_2b3e9121"
     ],
     "world": [
-      "csmonitor_ea27d80a",
-      "abcau_425df9e0",
-      "aljazeera_2b3e9121",
-      "bangkokpost_69fd593e"
+      "abcau_a8cfac1f",
+      "japantimes_daf0cb01",
+      "straitstimes_9c682bef",
+      "csmonitor_ea27d80a"
     ]
   },
   "categoryIndex": {
     "News": [
+      "fullfact_4dd87078",
       "ap_aadc463a",
       "ap_423d217e",
       "ap_07315cea",
@@ -16033,20 +16034,19 @@
       "fullfact_8366bd88",
       "npr_24040064",
       "cjr_49445b21",
-      "cjr_3d999ecd",
-      "cjr_6674ac74"
+      "cjr_3d999ecd"
     ],
     "World": [
+      "abcau_425df9e0",
+      "aljazeera_e2a61150",
+      "straitstimes_1cd15ee5",
       "straitstimes_2c050601",
       "bbc_1b5e7e3f",
       "aljazeera_85abd022",
       "csmonitor_06b5978b",
       "irishtimes_4fa1ce84",
       "japantimes_d2ebbbc3",
-      "reuters_16d9aa14",
-      "afp_baca0727",
-      "guardian_4161f5a9",
-      "aljazeera_c0e1c366"
+      "reuters_16d9aa14"
     ],
     "Politics": [
       "guardian_f58402c9",
@@ -16073,6 +16073,8 @@
       "googlenews_067f8ade"
     ],
     "Health": [
+      "guardian_e956016b",
+      "guardian_9e57b76f",
       "bbc_559c452e",
       "guardian_72b95ed2",
       "googlenews_be26f89e",
@@ -16080,9 +16082,7 @@
       "guardian_4a7b78e3",
       "googlenews_7625666a",
       "guardian_dd9095ed",
-      "guardian_96bb1924",
-      "googlenews_f38b38fb",
-      "guardian_323d4fa1"
+      "guardian_96bb1924"
     ],
     "Science": [
       "guardian_b4f775f0",
@@ -16109,7 +16109,7 @@
       "googlenews_c2df5a76"
     ]
   },
-  "breaking": "Redistricting that cracked Memphis raises questions about the meaning of representation",
+  "breaking": "Woman and child found dead in car in dam - ABC News & Headlines \u2013 Australian Broadcasting Corporatio",
   "events": [
     {
       "title": "Rochester Electronics Launches Localized E-Commerce Experiences Across Key Globa",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "The generation raised on sugar rations \u2013 and what their health reveals 70 years ",
     "Aged care waitlist deaths jump amid funding backlog for 100,000 - ABC News & Hea",
-    "Gene therapy can partly restore sight in blind people, researchers reveal",
-    "Redistricting that cracked Memphis raises questions about the meaning of represe"
+    "The generation raised on sugar rations \u2013 and what their health reveals 70 years ",
+    "Woman and child found dead in car in dam - ABC News & Headlines \u2013 Australian Bro",
+    "Watch: How UC Berkeley\u2019s Space Sciences Laboratory leads NASA missions like ESCA"
   ]
 }
