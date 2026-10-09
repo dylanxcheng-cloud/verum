@@ -1,125 +1,5 @@
 {
   "stories": {
-    "abcau_3bdadb00": {
-      "id": "abcau_3bdadb00",
-      "title": "First H5N1 bird flu detection confirmed in Australian dolphin - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "category": "World",
-      "source": "abcau",
-      "time": "2026-08-28T10:56:08",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%2876%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27356%27%20cy%3D%27149%27%20r%3D%27140%27%20fill%3D%27hsl%28116%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "The first confirmed detection of the highly pathogenic H5N1 avian influenza virus in an Australian dolphin has been reported, marking a rare instance of the virus crossing from birds to a marine mammal in the region.[1]\n\nThis finding raises concerns for marine wildlife health and for the broader public\u2011health community, as H5N1 has a history of sporadic infections in mammals and can pose a zoonotic risk.\n\nABC News reported that the detection was confirmed by laboratory testing, though the story does not disclose the dolphin\u2019s species, the location of the find, or the circumstances that led to the sample being collected. The available reporting does not specify the date or place of the detection.[2]\n\nH5N1 is a subtype of influenza A that primarily infects birds, causing severe disease and high mortality in poultry and wild waterfowl. The virus is known for its ability to jump species, with documented cases in humans, pigs, dogs, cats, and a handful of other mammals.\n\nIn mammals, H5N1 infections are usually rare and often result from close contact with infected birds or contaminated environments. The virus can cause respiratory illness, neurological signs, and death, and has occasionally been transmitted to humans, leading to severe disease.\n\nThe detection in a dolphin is unprecedented in Australia and suggests that the virus may have reached marine ecosystems through unknown routes, such as contaminated water, migratory birds, or other vectors. This possibility underscores the need to understand how avian influenza can persist and spread in aquatic environments.\n\nMarine biologists, conservation groups, and public\u2011health officials are the primary stakeholders. The health of dolphin populations is vital for ecological balance and for the tourism and fishing industries that depend on healthy marine ecosystems. Any outbreak in marine mammals could have cascading effects on biodiversity and economic interests.\n\nFor the dolphins themselves, infection could lead to respiratory distress, neurological symptoms, or death, though the severity in marine mammals remains poorly understood. Human handlers, such as researchers and rescue workers, could also be at risk if the virus is transmissible to people.\n\nThe incident highlights the importance of enhanced surveillance of marine mammals for influenza viruses, particularly in regions where bird and marine populations overlap. Researchers will likely investigate the source of the infection, potential transmission pathways, and whether other marine mammals are affected.\n\nOngoing investigations will determine whether this case represents an isolated event or the beginning of a broader pattern. Monitoring of dolphin populations and other marine mammals, coupled with laboratory studies, will be essential to assess the risk and guide any necessary public\u2011health or conservation responses.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "ABC News (Australia)",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUJfS1FwbHhWMHdudWpJR3Zwd0NzV2RjV2c5Mm0wQ2dEWjZyU0RKU1gwbDNQLTBTUmlLNEhzOEVlT0R1UzF2UEYxV1NQLW02WlE4eG55R1F6QWs1eG5JQUJibW1NRXNodVBXNDR4cDlvdmZyTW9vdFpLSzduRUREUWFVdFBXQXVvOXAwVUd2RFUxMkZ3Snc?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUJfS1FwbHhWMHdudWpJR3Zwd0NzV2RjV2c5Mm0wQ2dEWjZyU0RKU1gwbDNQLTBTUmlLNEhzOEVlT0R1UzF2UEYxV1NQLW02WlE4eG55R1F6QWs1eG5JQUJibW1NRXNodVBXNDR4cDlvdmZyTW9vdFpLSzduRUREUWFVdFBXQXVvOXAwVUd2RFUxMkZ3Snc?oc=5",
-      "guid": "CBMilgFBVV95cUxNaUJfS1FwbHhWMHdudWpJR3Zwd0NzV2RjV2c5Mm0wQ2dEWjZyU0RKU1gwbDNQLTBTUmlLNEhzOEVlT0R1UzF2UEYxV1NQLW02WlE4eG55R1F6QWs1eG5JQUJibW1NRXNodVBXNDR4cDlvdmZyTW9vdFpLSzduRUREUWFVdFBXQXVvOXAwVUd2RFUxMkZ3Snc"
-    },
-    "dw_b6f70189": {
-      "id": "dw_b6f70189",
-      "title": "US judge rules Pentagon's blacklisting of Anthropic unlawful",
-      "category": "World",
-      "source": "dw",
-      "time": "2026-08-28T10:57:32",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://static.dw.com/image/77592246_6.jpg",
-      "content": "A U.S. judge declared the Pentagon\u2019s blacklisting of AI firm Anthropic unlawful.\u202f[1]\n\nThe decision challenges the Department of Defense\u2019s use of a supply\u2011chain risk list to restrict companies that refuse to allow unrestricted military use of their technology. It has implications for the defense industry and the broader debate over national\u2011security claims.\n\nThe Pentagon had placed Anthropic on its supply\u2011chain risk list after the company declined to permit unrestricted use of its AI models by the military. The federal judge found that the blacklisting was unlawful.\u202f[1]\n\nThe judge\u2019s ruling included a statement that \u201cempty invocation of national security is not a blank check\u201d to punish critics. The judge emphasized that national\u2011security claims must be substantiated and cannot be used as a tool to silence dissent.\u202f[1]\n\nThe Pentagon maintains a list of companies considered supply\u2011chain risks. The list is used to identify firms whose products or services could pose a security threat if they were compromised or misused. The list can affect a company\u2019s eligibility for defense contracts.\n\nAnthropic is an AI startup that develops large\u2011language models.\n\nThe blacklisting followed the company\u2019s refusal to allow the Pentagon to use its models without restrictions. The Pentagon had cited national\u2011security concerns as the basis for the blacklisting.\n\nThe decision affects Anthropic, the Pentagon, defense contractors, and the broader AI industry. For Anthropic, the ruling restores its ability to bid on defense contracts. For the Pentagon, it signals a need to justify its supply\u2011chain risk assessments more rigorously.\n\nThe ruling also raises questions about how national\u2011security claims are used in procurement decisions. It suggests that companies may be able to resist blanket restrictions if they can demonstrate that their technology is not a threat.\n\nThe decision may prompt the Pentagon to review its supply\u2011chain risk list and the criteria used to place companies on it. It could also influence how other defense agencies handle companies that refuse to comply with military requests.\n\nThe Pentagon may appeal the ruling or revise its list. Anthropic will likely seek to re\u2011engage with defense procurement processes. The case may be cited in future disputes over national\u2011security claims in procurement.\n\nThe ruling may set a legal precedent limiting the Pentagon\u2019s ability to blacklist companies without clear evidence of a supply\u2011chain risk. It underscores the judiciary\u2019s role in checking executive overreach in national\u2011security matters.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Deutsche Welle",
-          "url": "https://www.dw.com/en/us-judge-rules-pentagon-s-blacklisting-of-anthropic-unlawful/a-78542307?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "original_url": "https://www.dw.com/en/us-judge-rules-pentagon-s-blacklisting-of-anthropic-unlawful/a-78542307?maca=en-rss-en-all-1573-rdf",
-      "guid": "https://www.dw.com/en/us-judge-rules-pentagon-s-blacklisting-of-anthropic-unlawful/a-78542307?maca=en-rss-en-all-1573-rdf"
-    },
-    "economist_b72b38c1": {
-      "id": "economist_b72b38c1",
-      "title": "AI is changing religion and religions are trying to change AI",
-      "category": "World",
-      "source": "economist",
-      "time": "2026-08-28T10:58:03",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%2836%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27516%27%20cy%3D%27159%27%20r%3D%27140%27%20fill%3D%27hsl%2876%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "AI chatbots are increasingly being discussed as a possible new source of religious guidance, raising questions about whether they will replace the counsel of imams, priests and other faith leaders or simply help them reach more followers.\u00b9 The debate centers on the role of artificial intelligence in spiritual life and the ways in which religious communities might adapt to or resist these technological changes.\u00b2\n\nThe issue matters because it touches on how people seek moral and theological advice, how religious institutions maintain authority, and how technology can influence personal faith. If chatbots become a trusted source of spiritual support, they could reshape the relationship between believers and their clergy, affecting everything from daily prayer to major life decisions.\n\nAccording to the report, the core question is whether chatbots will supplant the advice of imams and priests or help them spread the word.\u00b9 The article does not provide details on specific projects, pilot programs, or statements from religious leaders, so the extent of current experimentation remains unclear.\n\nChatbots are computer programs that use natural\u2011language processing to simulate conversation with human users. They can answer questions, provide information, and even offer emotional support. In other domains, such as customer service and education, chatbots have become common tools for delivering consistent, on\u2011demand assistance. The idea of applying similar technology to religious guidance is a natural extension of this trend, though it raises unique ethical and doctrinal questions.\n\nReligious leaders have historically served as interpreters of sacred texts, mediators of community values, and sources of personal counsel. Their authority is built on tradition, personal experience, and a perceived spiritual connection that many believers trust. Introducing an algorithmic voice into this space could challenge those established norms, prompting both enthusiasm for increased accessibility and concern over the loss of human nuance.\n\nThe stakeholders in this emerging field include faith communities, clergy, technology developers, and regulatory bodies. For congregants, the promise of instant answers may be appealing, especially in regions where clergy are scarce. For religious leaders, the technology could be a tool for outreach, but it also poses risks of misinterpretation or doctrinal drift if the chatbot\u2019s responses are not carefully vetted. Developers must grapple with designing systems that respect theological sensitivities while remaining user\u2011friendly.\n\nPotential benefits include broader access to spiritual resources, especially for younger or geographically isolated individuals. However, there are also risks: overreliance on automated advice could erode the personal relationships that many find essential to their faith, and errors in interpretation could spread misinformation. The balance between convenience and authenticity will likely be a central point of contention.\n\nWhat to watch next includes any formal trials of faith\u2011specific chatbots, statements from major religious institutions about their stance on AI, and any emerging guidelines from tech regulators on the use of AI in sensitive personal domains. The outcome of these developments will shape whether chatbots become a supplementary tool or a transformative force in religious practice.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Economist",
-          "url": "https://www.economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai"
-        }
-      ],
-      "original_url": "https://www.economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
-      "guid": "f156e482-3257-413a-9f49-430357440dac"
-    },
-    "ap_b4f7ac75": {
-      "id": "ap_b4f7ac75",
-      "title": "The bond market prepares for a hike to interest rates, while US stocks drift lower - AP News",
-      "category": "News",
-      "source": "ap",
-      "time": "2026-08-28T22:04:30",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28234%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27234%27%20cy%3D%27264%27%20r%3D%27140%27%20fill%3D%27hsl%28274%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "The bond market is bracing for a rise in interest rates, while U.S. stocks have slipped in recent trading sessions. The shift signals that investors are adjusting expectations for borrowing costs and corporate earnings.\n\nThe move matters because higher rates can tighten credit, slow investment, and alter the balance between fixed\u2011income and equity assets. For households, it could mean higher mortgage and loan rates, while businesses may face steeper financing costs.\n\nAccording to AP News, the bond market is preparing for a hike to interest rates, and U.S. stocks drift lower.\u202f[1]\n\nBond markets reflect expectations about future interest rates set by the Federal Reserve and other central banks. When investors anticipate a rate increase, bond prices typically fall and yields rise, as the fixed coupon payments become less attractive relative to new, higher\u2011yielding issues.\n\nEquity markets, on the other hand, are sensitive to the cost of capital and the present value of future earnings. A rise in rates can reduce the present value of corporate profits and dampen investor enthusiasm, leading to downward pressure on stock prices.\n\nThe primary stakeholders are investors, who must decide how to allocate capital between bonds and stocks; borrowers, who may face higher interest payments; and policymakers, who monitor market reactions to guide monetary policy.\n\nIf rates do rise, borrowing costs for consumers and businesses could climb, potentially slowing economic growth and affecting corporate profitability. Bond yields would likely increase, making fixed\u2011income securities more attractive relative to equities.\n\nThe market\u2019s reaction will be closely watched as it may foreshadow the Federal Reserve\u2019s next policy move. Investors and analysts will look for signals from the Fed\u2019s statements and minutes, as well as economic data releases, to gauge whether the anticipated rate hike materializes.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0JWTC1aei1PWXBXLVdLb0kyX1JQaGtTXy1hX3M1UmNtWFRTZHB6blRtakpDOUUwSW1kRDZVTmlhaHRBMjNTbkR4TTQxczQzZWUycHNIR1R1UEtTS2VLQkRMQ1ppVks4YzJ0Qzh3b1RQdi1NYWxmbjFFLUVlMHFMdjgzX0NUQjVZY0ZsbTBfR2NIZw?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0JWTC1aei1PWXBXLVdLb0kyX1JQaGtTXy1hX3M1UmNtWFRTZHB6blRtakpDOUUwSW1kRDZVTmlhaHRBMjNTbkR4TTQxczQzZWUycHNIR1R1UEtTS2VLQkRMQ1ppVks4YzJ0Qzh3b1RQdi1NYWxmbjFFLUVlMHFMdjgzX0NUQjVZY0ZsbTBfR2NIZw?oc=5",
-      "guid": "CBMikgFBVV95cUxNR0JWTC1aei1PWXBXLVdLb0kyX1JQaGtTXy1hX3M1UmNtWFRTZHB6blRtakpDOUUwSW1kRDZVTmlhaHRBMjNTbkR4TTQxczQzZWUycHNIR1R1UEtTS2VLQkRMQ1ppVks4YzJ0Qzh3b1RQdi1NYWxmbjFFLUVlMHFMdjgzX0NUQjVZY0ZsbTBfR2NIZw"
-    },
-    "irishtimes_24a00b79": {
-      "id": "irishtimes_24a00b79",
-      "title": "Wrong-way motorway driving could be detected by AI",
-      "category": "World",
-      "source": "irishtimes",
-      "time": "2026-08-28T22:04:53",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://www.irishtimes.com/resizer/v2/5RI6OS6WDNFHTWLBEHI42P24SY.jpg?auth=1afad9397134b04b534ed33d4bd7e6f7eba80708d1e72acce3564fc16a970995&smart=true&width=630&height=350",
-      "content": "New legislation will allow artificial\u2011intelligence systems to spot vehicles driving the wrong way on motorways, and offenders will face stricter penalties. The move was announced after a fatal crash on the M9 motorway, prompting lawmakers to seek stronger enforcement tools. [1]\n\nThe change is significant because wrong\u2011way driving is a major cause of serious motorway accidents. By enabling real\u2011time detection, authorities hope to deter drivers from taking the wrong lane and to reduce the number of collisions that result from such violations. [1]\n\nThe government\u2019s announcement came in a policy briefing that outlined the new legal framework. It states that AI\u2011based monitoring will be deployed on major motorways, and that the penalties for wrong\u2011way driving will be increased to reflect the heightened risk to public safety. [1]\n\nThe M9 incident, which prompted the legislation, involved a vehicle traveling against the flow of traffic. The collision that ensued caused multiple injuries and highlighted the dangers of this type of offence. The available reporting does not specify the exact number of casualties. [1]\n\nWrong\u2011way driving occurs when a vehicle moves in the direction opposite to the designated traffic flow on a motorway. It is illegal in most jurisdictions and can lead to head\u2011on collisions, which are often fatal. The new law reinforces the existing prohibition by adding harsher penalties.\n\nArtificial\u2011intelligence detection relies on cameras and sensors that capture video and sensor data from the roadway. Machine\u2011learning algorithms analyze this data to identify vehicles that are traveling in the wrong direction. The system can flag incidents in real time, allowing authorities to respond more quickly.\n\nThe AI algorithms used in the system are trained to recognize lane markings, vehicle orientation, and speed patterns that indicate a wrong\u2011way approach. Once a violation is detected, the system can automatically generate a citation or alert law\u2011enforcement officers.\n\nUnder the new regulations, motorways will be required to install AI\u2011enabled cameras or sensors. The legislation also sets out guidelines for how the data will be stored, accessed, and deleted, aiming to balance enforcement needs with privacy concerns.\n\nMotorists will be directly affected by the stricter enforcement, as they may receive higher fines or other penalties for wrong\u2011way driving. Law\u2011enforcement agencies will use the AI system to identify offenders more efficiently. Insurance companies may adjust premiums or coverage terms for drivers who are caught violating the new rules.\n\nThe use of AI surveillance raises privacy questions, as the technology involves continuous monitoring of road users. Stakeholders have expressed concerns about how long the data will be retained and who will have access to it.\n\nFrom a safety perspective, the legislation aims to reduce the number of wrong\u2011way incidents and the severity of the accidents they cause. By making detection faster and penalties harsher, the law seeks to change driver behaviour and improve overall motorway safety.\n\nThe new framework could set a precedent for broader AI applications in traffic enforcement. It may also prompt legal challenges regarding due process, the admissibility of AI\u2011generated evidence, and the rights of drivers to contest citations.\n\nIn the coming months, the government is expected to release a detailed implementation timeline, including pilot projects on selected motorways. Stakeholder consultations will likely address technical, legal, and privacy issues, and the next steps will involve finalizing guidelines for data handling and enforcement procedures.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Irish Times",
-          "url": "https://www.irishtimes.com/ireland/2026/08/28/tougher-penalties-for-aggravated-and-wrong-way-dangerous-driving-are-proposed/"
-        }
-      ],
-      "original_url": "https://www.irishtimes.com/ireland/2026/08/28/tougher-penalties-for-aggravated-and-wrong-way-dangerous-driving-are-proposed/",
-      "guid": "https://www.irishtimes.com/ireland/2026/08/28/tougher-penalties-for-aggravated-and-wrong-way-dangerous-driving-are-proposed/"
-    },
-    "googlenews_f8513ca9": {
-      "id": "googlenews_f8513ca9",
-      "title": "College football odds, picks, predictions for Week 0, 2026: Computer backs Virginia, New Mexico State - CBS Sports",
-      "category": "Sports",
-      "source": "googlenews",
-      "time": "2026-08-28T22:05:13",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28283%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27203%27%20cy%3D%27140%27%20r%3D%27140%27%20fill%3D%27hsl%28323%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Computer models back Virginia and New Mexico State for Week\u202f0 2026 games.\u202f[1]\n\nThe early games set the tone for the season and influence betting markets.\u202f[1]\n\nIn the Week\u202f0 Saturday preview, the Atlantic Coast Conference (ACC) opens with four matchups, including UNC vs\u202fTCU and NC\u202fState vs\u202fVirginia.\u202f[1]\n\nThe computer models also highlight two underdogs as attractive bets for Week\u202f0.\u202f[1]\n\nESPN Presto\u2019s picks emphasize conference clashes as the starting point of the season.\u202f[1]\n\nYahoo Sports preview notes the ACC kickoff with four Week\u202f0 matchups.\u202f[1]\n\nWTOP News reports on the same schedule.\u202f[1]\n\nWeek\u202f0 games are played before the regular season begins and often feature teams from different conferences.\n\nHow computer models work: They analyze historical performance, player statistics, and coaching changes to generate odds.\n\nStakeholders: Bettors, teams, and fans are all impacted by early\u2011season odds and outcomes.\n\nImpact on teams: Early wins can boost rankings and recruiting prospects.\n\nImpact on betting: Early odds can shape betting volume and line movement for the rest of the season.\n\nImplications: Virginia\u2019s strong defense and New\u202fMexico State\u2019s offensive capabilities could carry them to early victories, setting momentum.\n\nImplications: The UNC vs\u202fTCU matchup offers a chance for UNC to seek revenge, while the NC\u202fState vs\u202fVirginia game could ignite ACC rivalry narratives.\n\nWhat to watch next: The Week\u202f1 matchups will follow, with betting lines likely to shift as more information becomes available.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXNaUFVCUUVJNzZ0N3J0WDJqY0NYZUM3RkNubGNnN29RSl9DNmVmZGcxOGJFaEJsSG1KelFucHhKMUlIVWxpVm9LczVodTlDRmp6Z3AyY0VLNHFWQXFJM2lLZmgwY0RMcXlhRjdXUi1PNVY4NFZIMncxamVFMXBtZUM2LWo2VTlrandPNm4zREVoTDlhS0dZWmVEVWZSTnRXeDNMREVqQ1ltZk03S3Vv?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXNaUFVCUUVJNzZ0N3J0WDJqY0NYZUM3RkNubGNnN29RSl9DNmVmZGcxOGJFaEJsSG1KelFucHhKMUlIVWxpVm9LczVodTlDRmp6Z3AyY0VLNHFWQXFJM2lLZmgwY0RMcXlhRjdXUi1PNVY4NFZIMncxamVFMXBtZUM2LWo2VTlrandPNm4zREVoTDlhS0dZWmVEVWZSTnRXeDNMREVqQ1ltZk03S3Vv?oc=5",
-      "guid": "CBMirwFBVV95cUxQZXNaUFVCUUVJNzZ0N3J0WDJqY0NYZUM3RkNubGNnN29RSl9DNmVmZGcxOGJFaEJsSG1KelFucHhKMUlIVWxpVm9LczVodTlDRmp6Z3AyY0VLNHFWQXFJM2lLZmgwY0RMcXlhRjdXUi1PNVY4NFZIMncxamVFMXBtZUM2LWo2VTlrandPNm4zREVoTDlhS0dZWmVEVWZSTnRXeDNMREVqQ1ltZk03S3Vv"
-    },
     "france24_d5e4caeb": {
       "id": "france24_d5e4caeb",
       "title": "Israel army carries out rare West Bank air strike, killing 'three terrorists'",
@@ -15999,28 +15879,148 @@
       ],
       "original_url": "https://www.theguardian.com/society/2026/oct/08/racial-and-religious-hate-crimes-at-record-high-in-england-and-wales-data-shows",
       "guid": "https://www.theguardian.com/society/2026/oct/08/racial-and-religious-hate-crimes-at-record-high-in-england-and-wales-data-shows"
+    },
+    "fullfact_4a8078c2": {
+      "id": "fullfact_4a8078c2",
+      "title": "The Conservatives - not Labour - extended the Energy Profits Levy to 2028",
+      "category": "News",
+      "source": "fullfact",
+      "time": "2026-10-09T05:37:39",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://fullfact.org/media/images/Official_portrait_of_Kemi_Badenoc.85df67a0.fill-1200x630.jpg",
+      "content": "The Conservative government has extended the Energy Profits Levy to 2028 and 2029, a move that contradicts claims in a Labour party booklet that Labour had made the extensions.\u202f[1]\n\nThe levy, which taxes profits from the UK\u2019s oil and gas industry, will continue to generate revenue for the government and affect the sector\u2019s financial planning.\u202f[1]\n\nKemi Badenoch, a senior Conservative MP, released a new party booklet that states Labour extended the levy to 2028 and 2029. However, the Conservative government actually enacted the 2028 extension and announced the 2029 extension.\u202f[1]\n\nThe booklet\u2019s claim suggests a narrative that Labour is responsible for the levy\u2019s continuation, but the timeline shows the Conservative government took the initiative.\u202f[1]\n\nThe Energy Profits Levy applies to profits generated by energy companies operating in the UK and is intended to contribute to the national budget.\n\nEnergy companies face increased tax obligations, while the government expects the levy to generate significant revenue. The extension may influence investment decisions in the sector.\n\nLabour\u2019s claim that it extended the levy could be part of a broader strategy to portray the Conservatives as overreaching in energy taxation. The Conservative government\u2019s announcement, however, indicates a policy continuity.\n\nThe extension could affect the UK\u2019s energy pricing and the balance between fossil fuel revenue and renewable investment. Analysts note that the levy\u2019s future will remain a political battleground.\n\nParliament will debate the final details of the 2029 extension, and energy companies will assess the impact on their financial planning. The next budget cycle will also consider the levy\u2019s role.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Full Fact",
+          "url": "https://fullfact.org/economy/kemi-badenoch-energy-profits-levy/"
+        }
+      ],
+      "original_url": "https://fullfact.org/economy/kemi-badenoch-energy-profits-levy/",
+      "guid": "https://fullfact.org/economy/kemi-badenoch-energy-profits-levy/"
+    },
+    "bbc_37d481c9": {
+      "id": "bbc_37d481c9",
+      "title": "Why are more roofs not made of solar tiles?",
+      "category": "Science",
+      "source": "bbc",
+      "time": "2026-10-09T05:37:42",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f9/live/5f873b90-b0ea-11f1-8d94-cf0ec84c39cd.jpg",
+      "content": "Solar tiles, once hailed as a stylish alternative to conventional panels, have failed to gain widespread traction.\u202f[1]\n\nThe limited uptake raises questions for homeowners, manufacturers, and the renewable\u2011energy sector about market readiness and consumer priorities.\u202f[1]\n\nThe article notes that solar tiles were promoted as an attractive alternative to solar panels, but they have not taken off.\u202f[1] No specific data on adoption rates or cost is provided.\u202f[1]\n\nSolar tiles are designed to blend with roofing materials, offering a discreet aesthetic while generating electricity. They differ from panels in installation and performance characteristics.\n\nThe solar industry has historically relied on rooftop panels due to lower cost and proven efficiency. Solar tiles entered the market as a niche product aimed at consumers seeking a more integrated look.\n\nHomeowners face a choice between conventional panels and tiles, weighing factors such as cost, durability, and visual appeal. Manufacturers and installers must adapt to a product that may require specialized skills.\n\nThe article's lack of detail on why tiles have not taken off limits the ability to assess whether the technology is inherently flawed or simply premature. Analysts suggest that market adoption may hinge on price parity and performance data.\n\nThe article does not indicate upcoming regulatory changes, incentives, or product developments that could influence adoption. Stakeholders will likely monitor cost trends and consumer feedback for signals of a shift.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo#0"
+    },
+    "csmonitor_60f2c03c": {
+      "id": "csmonitor_60f2c03c",
+      "title": "Blue skies for blue-collar work",
+      "category": "World",
+      "source": "csmonitor",
+      "time": "2026-10-09T05:37:46",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://images.csmonitor.com/csm/2026/10/1220383_1_worldskills_standard.jpg?alias=standard_900x600",
+      "content": "A longstanding stigma that deters young people from pursuing skilled trades is reportedly easing as more nations recognize the essential role of craftsmanship in the modern economy.\u202f[1]\n\nThe shift could reshape labor markets, influence educational priorities, and affect the supply of skilled workers in sectors that are critical to infrastructure and manufacturing.\n\nThe observation comes from a recent analysis that highlights changing attitudes toward trades such as plumbing, electrical work, and carpentry. The analysis suggests that the stigma is melting and that more countries appreciate the need for crafts in today\u2019s economy.\n\nThe report points to a growing recognition that skilled trades are integral to economic resilience, especially in the face of supply chain disruptions and a shift toward sustainable construction.\n\nSkilled trades encompass a wide range of occupations that require specialized training and on\u2011the\u2011job experience. Historically, these roles have been undervalued compared to white\u2011collar professions, leading to a perception that they are less prestigious or less lucrative.\n\nIn recent years, several governments have introduced apprenticeship programs and incentives to attract youth to these fields. These initiatives aim to address shortages in critical sectors such as construction, renewable energy, and infrastructure maintenance.\n\nThe shift in perception is also tied to broader economic trends. As economies move toward automation and digital services, the demand for hands\u2011on expertise in building, repairing, and maintaining physical assets remains high.\n\nYoung workers stand to benefit from a broader range of career options that offer stable wages and opportunities for advancement.\n\nEmployers in construction, manufacturing, and utilities are likely to see an expanded talent pool, potentially reducing labor shortages and driving productivity gains.\n\nPolicymakers may adjust funding priorities, expanding support for vocational education and training programs to meet the evolving labor market demands.\n\nIf the trend continues, the long\u2011term labor market could shift toward a more balanced mix of skilled and unskilled roles, reducing the reliance on low\u2011wage, low\u2011skill jobs.\n\nHowever, the extent to which the stigma will fully dissipate remains uncertain, as cultural attitudes and economic incentives vary across regions.\n\nKey developments to monitor include the rollout of new apprenticeship schemes, changes in educational curricula, and the impact of these initiatives on enrollment figures for vocational programs over the next few years.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Christian Science Monitor",
+          "url": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/1008/Blue-skies-for-blue-collar-work?icid=rss"
+        }
+      ],
+      "original_url": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/1008/Blue-skies-for-blue-collar-work?icid=rss",
+      "guid": "f1a7387ba33802af8fca6d8377a9a545"
+    },
+    "snopes_2649d4ea": {
+      "id": "snopes_2649d4ea",
+      "title": "Russian lab worker reportedly died of pneumonic plague. Here's what we know",
+      "category": "News",
+      "source": "snopes",
+      "time": "2026-10-09T05:38:12",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/10/did_a_russian_lab_worker_die_of_unknown_infection_releasing_deadly_pneumonic_plague_heres_what_we_know.png",
+      "content": "Reports have surfaced that a laboratory worker in Russia may have died from pneumonic plague, a rare and highly contagious disease. The U.S. Department of State has acknowledged the reports and is monitoring the situation. [1]\n\nThe incident, if confirmed, would raise concerns about laboratory safety and the potential for a public health emergency. It also underscores the importance of international cooperation in tracking and responding to outbreaks of dangerous pathogens.\n\nAccording to the headline, a worker at a Russian laboratory was reportedly killed by pneumonic plague. The U.S. Department of State spokesperson said the department is aware of the reports and is monitoring the situation. [1] No further details have been released by U.S. officials. The available reporting does not specify the laboratory\u2019s name, the worker\u2019s identity, or the circumstances of the infection.\n\nPneumonic plague is a severe form of plague that affects the lungs and can spread from person to person through airborne droplets. Historically, it has caused outbreaks with high mortality rates before the advent of antibiotics.\n\nLaboratories that handle dangerous pathogens are subject to strict biosafety protocols. In Russia, the Russian Ministry of Health and the Russian Academy of Sciences oversee laboratory safety standards.\n\nThe primary stakeholders include the affected laboratory, its staff, and the Russian public health system. Internationally, the incident could prompt reviews of biosafety practices in other countries.\n\nThe U.S. Department of State monitors foreign health incidents as part of its public diplomacy and national security interests. The agency\u2019s statement indicates an ongoing assessment of any potential risk to U.S. interests or to global health.\n\nIf the reports are accurate, the incident could signal a lapse in laboratory safety or an unexpected outbreak of a rare pathogen. It may also prompt calls for increased transparency and cooperation between Russia and the international community on biosafety matters.\n\nThe U.S. Department of State is monitoring the situation, and further information may emerge from Russian authorities or international health agencies. The next steps will likely involve verification of the incident, assessment of containment measures, and potential coordination with the World Health Organization.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Snopes",
+          "url": "https://www.snopes.com/news/2026/10/05/russia-lab-worker-pneumonic-plague/"
+        }
+      ],
+      "original_url": "https://www.snopes.com/news/2026/10/05/russia-lab-worker-pneumonic-plague/",
+      "guid": "https://www.snopes.com/news/2026/10/05/russia-lab-worker-pneumonic-plague/"
+    },
+    "bangkokpost_1a16def9": {
+      "id": "bangkokpost_1a16def9",
+      "title": "Abhisit urges probe into BMA project",
+      "category": "World",
+      "source": "bangkokpost",
+      "time": "2026-10-09T05:38:34",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://static.bangkokpost.com/media/content/20261009/c1_3333853_261009065058_700.jpg",
+      "content": "Abhisit Vejjajiva, a senior Democrat leader, has called for an investigation into the Bangkok Metropolitan Administration\u2019s decision to cancel the Khu Bon retention pond project after land purchases by parties allegedly linked to City Hall.\u202f[1]\u202f[1]\u202f[1]\u202f[1]\n\nThe cancellation of a planned flood\u2011control basin in Bangkok has sparked accusations of political interference and raised questions about the integrity of the city\u2019s infrastructure planning. The call for a probe comes amid growing public concern over the potential impact on flood risk in the Khu Bon district.\n\nAbhisit, speaking at a press conference in Bangkok, urged a formal probe into the circumstances surrounding the BMA\u2019s decision, citing the recent land acquisitions by entities that the opposition claims have ties to City Hall officials.\u202f[1]\u202f[1]\u202f[1]\u202f[1]\n\nRetention ponds are engineered basins that temporarily hold excess stormwater, reducing the risk of flooding in urban areas.\n\nThe Khu Bon project was originally proposed to address recurrent flooding in the Khu Bon district, a low\u2011lying area that has experienced significant water damage during monsoon seasons.\n\nThe BMA, as the governing authority for Bangkok, oversees land use, infrastructure development, and public works projects, and its decisions are subject to public scrutiny and legal review.\n\nLocal residents and businesses in the Khu Bon area have expressed concern that the cancellation could leave the district vulnerable to future flooding, potentially impacting property values and livelihoods.\n\nPolitical analysts note that the allegations of land purchases by parties linked to City Hall raise questions about possible conflicts of interest and the influence of political patronage on municipal projects.\n\nThe Democrat party, of which Abhisit is a senior figure, has long criticized the BMA for alleged mismanagement and lack of transparency in its project approvals.\n\nIf a formal investigation is launched, it could involve the Office of the Ombudsman, the Thai Constitutional Court, or the National Anti\u2011Corruption Commission, all of which have jurisdiction over public officials and procurement processes.\n\nThe outcome of any inquiry could affect future infrastructure projects in Bangkok, potentially prompting stricter oversight and reforms in the city\u2019s procurement and planning procedures.\n\nThe BMA is expected to respond to the call for a probe, and parliamentary committees may schedule hearings to examine the cancellation. The timeline for any investigative proceedings remains unclear, but the issue is likely to remain in the public eye for the coming weeks.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Bangkok Post",
+          "url": "https://www.bangkokpost.com/thailand/politics/3333853/abhisit-urges-probe-into-bma-project"
+        }
+      ],
+      "original_url": "https://www.bangkokpost.com/thailand/politics/3333853/abhisit-urges-probe-into-bma-project",
+      "guid": ""
+    },
+    "cna_2302cae7": {
+      "id": "cna_2302cae7",
+      "title": "OpenAI's September annualized revenue nears $50 billion, less than previously indicated, source says - CNA",
+      "category": "World",
+      "source": "cna",
+      "time": "2026-10-09T05:39:01",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28313%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27193%27%20cy%3D%27139%27%20r%3D%27140%27%20fill%3D%27hsl%28353%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "OpenAI\u2019s September annualized revenue is close to $50\u202fbillion, a figure that falls short of earlier estimates.\u202f[1]\n\nThe number matters because it offers a snapshot of the company\u2019s commercial performance and shapes investor expectations about its future growth.\u202f[1]\n\nAccording to the latest reporting, the revenue figure is derived from the company\u2019s performance in September and is expressed on an annualized basis.\u202f[1]\n\nOpenAI was founded in 2015 as a non\u2011profit research organization and later created a for\u2011profit subsidiary to commercialize its artificial\u2011intelligence technologies.\n\nThe firm generates income through several channels, including subscription fees for its ChatGPT Plus service, licensing agreements with enterprise customers, and partnerships with cloud\u2011service providers.\n\nAnnualized revenue is a metric that estimates yearly earnings by multiplying a single month\u2019s revenue by twelve, giving analysts a quick view of growth trends.\n\nPrior public estimates had suggested a higher annualized figure, but the most recent data indicates a slightly lower value.\n\nEmployees, investors, and customers all use these metrics to assess the company\u2019s financial health and strategic direction.\n\nThe broader artificial\u2011intelligence sector watches OpenAI\u2019s performance closely, as it often sets benchmarks for competitors and investors alike.\n\nA lower\u2011than\u2011expected revenue figure could temper valuation expectations and influence future funding decisions for the company and its peers.\n\nIn addition, heightened regulatory scrutiny of AI firms may prompt regulators to examine OpenAI\u2019s revenue sources, data usage, and compliance practices.\n\nStakeholders will likely focus on the company\u2019s next earnings release, updates on product expansion, and any announcements that clarify its commercial strategy.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "CNA (Singapore)",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYl83NUVSald2X0NsZUM2Mmtid19OTWtqQ05KV0l6QVlkRE02WXc1bV9XLTk2aWFWLUJSOG1IelpVRm9KNzc4NWxOOHI3V180eGdjb2lHYVpBTTkzalI2VXJWclVaR3poNDJRaFctV2FNbjBpaUlrdEVhbHp5eFlSMkNyQzJMcW5rUWgxeGxaRF9RdGRHWmVOTE5wM2Fqc1o3dVQ1Mko0Y1FqS0tLMzJZRmJZRnpkSXVVb1FlQ3dxaFhkMGt5cEN5c2dJeHlwank5bTBXa3AwQQ?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYl83NUVSald2X0NsZUM2Mmtid19OTWtqQ05KV0l6QVlkRE02WXc1bV9XLTk2aWFWLUJSOG1IelpVRm9KNzc4NWxOOHI3V180eGdjb2lHYVpBTTkzalI2VXJWclVaR3poNDJRaFctV2FNbjBpaUlrdEVhbHp5eFlSMkNyQzJMcW5rUWgxeGxaRF9RdGRHWmVOTE5wM2Fqc1o3dVQ1Mko0Y1FqS0tLMzJZRmJZRnpkSXVVb1FlQ3dxaFhkMGt5cEN5c2dJeHlwank5bTBXa3AwQQ?oc=5",
+      "guid": "CBMi1wFBVV95cUxPYl83NUVSald2X0NsZUM2Mmtid19OTWtqQ05KV0l6QVlkRE02WXc1bV9XLTk2aWFWLUJSOG1IelpVRm9KNzc4NWxOOHI3V180eGdjb2lHYVpBTTkzalI2VXJWclVaR3poNDJRaFctV2FNbjBpaUlrdEVhbHp5eFlSMkNyQzJMcW5rUWgxeGxaRF9RdGRHWmVOTE5wM2Fqc1o3dVQ1Mko0Y1FqS0tLMzJZRmJZRnpkSXVVb1FlQ3dxaFhkMGt5cEN5c2dJeHlwank5bTBXa3AwQQ"
     }
   },
   "featured": {
-    "hero": "berkeleyuniv_9cdeec51",
+    "hero": "fullfact_4a8078c2",
     "stack": [
-      "abcau_a8cfac1f",
-      "japantimes_daf0cb01",
-      "straitstimes_9c682bef"
+      "bbc_37d481c9",
+      "csmonitor_60f2c03c",
+      "snopes_2649d4ea"
     ],
     "latest": [
+      "snopes_2649d4ea",
+      "csmonitor_60f2c03c",
+      "bbc_37d481c9",
+      "berkeleyuniv_9cdeec51",
       "straitstimes_9c682bef",
-      "japantimes_daf0cb01",
-      "abcau_a8cfac1f",
-      "csmonitor_ea27d80a",
-      "bangkokpost_69fd593e",
-      "aljazeera_2b3e9121"
+      "japantimes_daf0cb01"
     ],
     "world": [
-      "abcau_a8cfac1f",
-      "japantimes_daf0cb01",
-      "straitstimes_9c682bef",
-      "csmonitor_ea27d80a"
+      "csmonitor_60f2c03c",
+      "bangkokpost_1a16def9",
+      "cna_2302cae7",
+      "abcau_a8cfac1f"
     ]
   },
   "categoryIndex": {
@@ -16037,16 +16037,16 @@
       "cjr_3d999ecd"
     ],
     "World": [
+      "cna_2302cae7",
+      "bangkokpost_1a16def9",
+      "abcau_a8cfac1f",
+      "csmonitor_ea27d80a",
+      "bangkokpost_69fd593e",
+      "aljazeera_2b3e9121",
       "abcau_425df9e0",
       "aljazeera_e2a61150",
       "straitstimes_1cd15ee5",
-      "straitstimes_2c050601",
-      "bbc_1b5e7e3f",
-      "aljazeera_85abd022",
-      "csmonitor_06b5978b",
-      "irishtimes_4fa1ce84",
-      "japantimes_d2ebbbc3",
-      "reuters_16d9aa14"
+      "straitstimes_2c050601"
     ],
     "Politics": [
       "guardian_f58402c9",
@@ -16109,7 +16109,7 @@
       "googlenews_c2df5a76"
     ]
   },
-  "breaking": "Woman and child found dead in car in dam - ABC News & Headlines \u2013 Australian Broadcasting Corporatio",
+  "breaking": "Blue skies for blue-collar work",
   "events": [
     {
       "title": "Rochester Electronics Launches Localized E-Commerce Experiences Across Key Globa",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "Aged care waitlist deaths jump amid funding backlog for 100,000 - ABC News & Hea",
     "The generation raised on sugar rations \u2013 and what their health reveals 70 years ",
-    "Woman and child found dead in car in dam - ABC News & Headlines \u2013 Australian Bro",
-    "Watch: How UC Berkeley\u2019s Space Sciences Laboratory leads NASA missions like ESCA"
+    "Aged care waitlist deaths jump amid funding backlog for 100,000 - ABC News & Hea",
+    "The Conservatives - not Labour - extended the Energy Profits Levy to 2028",
+    "Why are more roofs not made of solar tiles?"
   ]
 }
