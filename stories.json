@@ -1,105 +1,5 @@
 {
   "stories": {
-    "bbc_6b204d3e": {
-      "id": "bbc_6b204d3e",
-      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
-      "category": "Science",
-      "source": "bbc",
-      "time": "2026-08-31T22:43:51",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/206f/live/de2a7590-a48b-11f1-b109-879e35c24276.jpg",
-      "content": "NASA launched a powerful new space telescope.\u202f[1] The launch marks the beginning of a multi\u2011year mission.\u202f[1] The mission will create a new map of the universe.\u202f[1] It will also help scientists learn more about dark energy and dark matter.\u202f[1]\n\nThe launch marks a significant step in cosmology, offering new data to test theories about the universe\u2019s expansion and the unseen mass that shapes its structure.\n\nNASA launched the telescope, which has now entered orbit and begun its primary science operations.\u202f[1] The spacecraft is equipped with instruments designed to capture light from distant objects.\n\nThe mission will create a new map of the universe, providing a detailed view of the distribution of galaxies and other celestial structures.\u202f[1]\n\nBy observing the faint glow of distant galaxies, the telescope will help scientists learn more about dark energy, the force driving the accelerating expansion of space, and dark matter, the invisible mass that influences gravitational dynamics.\u202f[1]\n\nSpace telescopes have historically expanded our view of the cosmos. The Hubble Space Telescope, launched in 1990, revolutionized astronomy by providing high\u2011resolution images beyond Earth\u2019s atmosphere.\n\nThe new telescope builds on that legacy, incorporating advanced detectors and a larger aperture to gather more light and resolve finer details than previous missions.\n\nDark energy and dark matter are two of the",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo#0"
-    },
-    "googlenews_54bf970a": {
-      "id": "googlenews_54bf970a",
-      "title": "FTC Sues Amazon, Alleging It Deceived Advertisers and Drove Up Prices - WSJ",
-      "category": "Business",
-      "source": "googlenews",
-      "time": "2026-08-31T22:44:27",
-      "read": "3 min read",
-      "mode": "long",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28239%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27199%27%20cy%3D%27219%27%20r%3D%27140%27%20fill%3D%27hsl%28279%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "The Federal Trade Commission, joined by 22 state attorneys general, filed a lawsuit against Amazon alleging that the company deceived advertisers and drove up advertising costs through a secret surcharge scheme that the firm has not disclosed to its clients. The complaint claims Amazon added hidden fees that increased the price of its advertising services by an estimated $20\u202fbillion.\u202f[1]\n\nThe suit matters because Amazon\u2019s advertising platform is a major source of revenue for the retailer and a key channel for brands worldwide. If the allegations are proven, the company could face significant penalties and be forced to overhaul its pricing practices, potentially reshaping how digital ads are sold on the platform.\u202f[1]\n\nThe lawsuit was filed in a federal court by the FTC and the 22 states, charging that Amazon \u201csecretly inflated ad prices\u201d by adding undisclosed surcharges to the cost of advertising on its marketplace.\u202f[1]\n\nAccording to the complaint, Amazon\u2019s ad pricing model was opaque, and the surcharges were not disclosed to advertisers in any contractual or public documentation. The surcharges were allegedly applied to a wide range of ad products, including sponsored product listings and display ads.\u202f[1]\n\nThe FTC\u2019s complaint further alleges that the cumulative effect of these hidden fees amounted to roughly $20\u202fbillion in excess costs paid by advertisers over the past several years.\u202f[1]\n\nAmazon\u2019s advertising business has grown rapidly, becoming one of the largest digital ad platforms in the United States. Advertisers use Amazon\u2019s tools to target shoppers directly on the retailer\u2019s site and across its network of partner sites.\u202f[2]\n\nAmazon\u2019s ad pricing typically involves a bidding system where advertisers pay per click or per impression. The platform\u2019s pricing is determined by a combination of factors, including product category, competition, and time of day.\u202f[3]\n\nThe FTC\u2019s mandate includes protecting consumers from deceptive and unfair business practices. In addition to consumer protection, the FTC also enforces antitrust laws that prevent companies from engaging in conduct that harms competition.\u202f[4]\n\nThe primary stakeholders in this case are the advertisers who have paid the alleged surcharges, Amazon as the defendant, and the 22 states that joined the lawsuit. Advertisers could seek restitution for the hidden fees, while Amazon faces the threat of substantial fines and mandatory changes to its pricing disclosures.\u202f[1]\n\nIf the court finds Amazon liable, the company could be required to refund advertisers, provide clearer pricing information, and possibly pay damages to the states and the federal government. The outcome could also prompt other platforms to review their own pricing practices to avoid similar litigation.\u202f[1]\n\nThe lawsuit raises broader questions about transparency in digital advertising. A ruling against Amazon could establish a legal precedent that forces major ad platforms to disclose all fees and surcharges, potentially increasing competition and reducing costs for advertisers.\u202f[1]\n\nThe case may also influence regulatory scrutiny of other tech giants that offer advertising services, as lawmakers and regulators look for ways to ensure fair pricing and prevent deceptive practices in the rapidly evolving digital marketplace.\u202f[1]\n\nKey next steps include the court\u2019s scheduling of initial hearings, the parties\u2019 exchange of discovery documents, and any settlement negotiations that may arise before a trial. The FTC and the states will likely seek a comprehensive remedy that includes both monetary relief and changes to Amazon\u2019s business practices.\u202f[1]\n\nThe lawsuit represents a significant test of Amazon\u2019s advertising business model and could have lasting implications for the digital advertising industry as a whole. Whether the court sides with the regulators or the retailer remains to be seen, but the case will undoubtedly be closely watched by advertisers, competitors, and policymakers alike.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTdfSlBMRDYwWko4RjVDVEZCdWNDM3Zvdi11MWlTSlVxZjcwZDViYWJxMUUzSXR5QmQ2a0p2dHJTY3dpMlVaWmlGUThOS0EwNmlXaU9IWS1zb2lLdjlTUUVQb0RHNGZOWnptVm5OZFNneTFjNWY0c0xHekR3OXJFY2VLb0F2ZV9ubUtHZHBkTXR0LWJO?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTdfSlBMRDYwWko4RjVDVEZCdWNDM3Zvdi11MWlTSlVxZjcwZDViYWJxMUUzSXR5QmQ2a0p2dHJTY3dpMlVaWmlGUThOS0EwNmlXaU9IWS1zb2lLdjlTUUVQb0RHNGZOWnptVm5OZFNneTFjNWY0c0xHekR3OXJFY2VLb0F2ZV9ubUtHZHBkTXR0LWJO?oc=5",
-      "guid": "CBMilAFBVV95cUxQVTdfSlBMRDYwWko4RjVDVEZCdWNDM3Zvdi11MWlTSlVxZjcwZDViYWJxMUUzSXR5QmQ2a0p2dHJTY3dpMlVaWmlGUThOS0EwNmlXaU9IWS1zb2lLdjlTUUVQb0RHNGZOWnptVm5OZFNneTFjNWY0c0xHekR3OXJFY2VLb0F2ZV9ubUtHZHBkTXR0LWJO"
-    },
-    "pbs_bc6e60b5": {
-      "id": "pbs_bc6e60b5",
-      "title": "Colombia's president says soldiers killed a key dissident leader",
-      "category": "News",
-      "source": "pbs",
-      "time": "2026-08-31T22:46:29",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-26T204150Z_1600463300_RC2G6NAM24ID_RTRMADP_3_COLOMBIA-POLITICS-1024x683.jpg",
-      "content": "Colombia\u2019s president announced that soldiers have killed a key dissident leader, a development the government described as a \u201ccrushing blow\u201d to a faction it says is headed by a man who goes by the name \u201cIv\u00e1n\u202fMordisco.\u201d[1]\n\nThe statement was made in a brief press briefing, in which the president emphasized that the death of the individual, known in the movement as \u201cFelipe\u201d or \u201cArcadio,\u201d would significantly weaken the dissident group\u2019s operational capacity.[1]\n\nThe president\u2019s remarks came after reports that military forces had engaged the dissident faction in a confrontation that resulted in the death of the individual. The government\u2019s description of the event frames it as a decisive victory over a group that has been described as a splinter of larger armed movements in the country.[1]\n\nColombia has a long history of armed conflict involving state forces and various insurgent or dissident groups. Over the past decades, the government has pursued a strategy of military operations aimed at dismantling armed factions that challenge its authority. This approach has been a central element of Colombia\u2019s broader security policy.\n\nIn the context of these operations, soldiers are typically deployed to conduct raids, surveillance, and targeted strikes against suspected members of dissident groups. The use of military force is intended to disrupt the groups\u2019 command structures and reduce their capacity to carry out attacks.\n\nThe primary stakeholders in this development are the Colombian government, the dissident faction led by Iv\u00e1n\u202fMordisco, and the civilian population that lives in areas where such groups operate. The government\u2019s claim suggests a shift in the balance of power that could alter the security dynamics in affected regions.\n\nIf the death of the key leader indeed weakens the faction, it could lead to a temporary reduction in violence. However, the removal of a central figure can also provoke retaliation or a splintering of the group, potentially leading to new, unpredictable threats.\n\nThe broader implication of this event is that it may influence the trajectory of Colombia\u2019s ongoing peace and security negotiations. A weakened dissident faction could reduce pressure on the government to negotiate, but it could also create a vacuum that other armed actors might fill.\n\nObservers will be looking for official follow\u2011up statements from the military regarding the operation, as well as any investigations into the circumstances of the death. The next few days will also be crucial for monitoring potential responses from the dissident faction and assessing the immediate impact on local security.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/world/colombias-president-says-soldiers-killed-a-key-dissident-leader"
-        }
-      ],
-      "original_url": "https://www.pbs.org/newshour/world/colombias-president-says-soldiers-killed-a-key-dissident-leader",
-      "guid": "https://www.pbs.org/newshour/world/colombias-president-says-soldiers-killed-a-key-dissident-leader"
-    },
-    "guardian_6527e794": {
-      "id": "guardian_6527e794",
-      "title": "More public control is the way to grow UK economy, Burnham to tell MPs",
-      "category": "Politics",
-      "source": "guardian",
-      "time": "2026-09-01T04:36:14",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/effe6ce89e6c3e3b06fc6116276ed6f5938147e5/669_322_3840_3071/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=47a2fda14ab3588b0ced67d94893ac0f",
-      "content": "Burnham will address the House of Commons on Tuesday to announce a plan to bring more essential services back into public control, arguing it is the only way to improve growth and tackle the cost of living.\u202f[1]\n\nThe speech comes six weeks after Burnham became prime minister and follows a summer recess in which he announced a range of policies. MPs have been calling for electoral reform, and Burnham's focus on public control signals a shift in the government's approach to economic policy.\u202f[1]\n\nOn Tuesday, Burnham will speak from the frontbench, the first time a prime minister has done so in 16 years. He will outline his pledge to return services such as transport, utilities, and health to public ownership, claiming this will boost growth.\u202f[1]\n\nHe will also address the cost\u2011of\u2011living crisis, saying that public control can help reduce prices and improve service quality.\u202f[1]\n\nThe speech will be followed by a series of policy proposals that were announced over the summer recess, which will now be formally presented to MPs for debate.\u202f[1]\n\nPublic control refers to ownership and management of services by the state rather than private firms. Historically, many UK services were nationalised after World War\u202fII but have since been privatised or operated under public\u2011private partnerships.\n\nElectoral reform has been a long\u2011standing demand in the UK, with MPs and the public arguing that the first\u2011past\u2011the\u2011post system can produce unrepresentative outcomes.\n\nThe UK economy has faced inflationary pressures and a high cost of living, prompting governments to seek measures that can increase affordability and competitiveness.\n\nThe proposal will affect a range of sectors, from utilities to public transport, and could alter the balance of power between the state and private investors. Workers in public\u2011owned enterprises may see changes in employment conditions.\u202f[1]\n\nConsumers could benefit from lower prices if public control reduces profit motives, but critics warn that state ownership can lead to inefficiencies and higher taxes.\u202f[1]\n\nIf Burnham's plan gains parliamentary support, it could signal a broader shift toward state\u2011led economic management, potentially influencing future policy debates on privatisation and public investment.\u202f[1]\n\nMPs will debate the proposals in the coming weeks, with a vote expected before the end of the parliamentary session. The outcome will determine whether the government can move forward with its public control agenda.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/aug/31/andy-burnham-commons-more-public-ownership-only-way-to-grow-uk-economy"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/politics/2026/aug/31/andy-burnham-commons-more-public-ownership-only-way-to-grow-uk-economy",
-      "guid": "https://www.theguardian.com/politics/2026/aug/31/andy-burnham-commons-more-public-ownership-only-way-to-grow-uk-economy"
-    },
-    "googlenews_7125e5f4": {
-      "id": "googlenews_7125e5f4",
-      "title": "Novak Djokovic Pukes And Crumbles At The U.S. Open - Defector",
-      "category": "Sports",
-      "source": "googlenews",
-      "time": "2026-09-01T04:38:57",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28276%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27436%27%20cy%3D%27239%27%20r%3D%27140%27%20fill%3D%27hsl%28316%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Novak Djokovic was eliminated in the first round of the U.S. Open after a dramatic collapse that saw him vomit, crumble on the court, and break down in tears, losing to Mariano\u202fNavone in a surprise upset.\u202f[1]\n\nThe defeat is significant because Djokovic is one of the sport\u2019s most decorated players, having won multiple Grand Slam titles and held the world No.\u202f1 ranking for a record\u2011breaking period. His early exit raises immediate questions about his physical condition and future competitiveness.\u202f[1]\n\nDuring the match, Djokovic\u2019s performance deteriorated sharply. He reportedly vomited on the court, struggled to maintain his usual level of play, and ultimately lost the contest to Navone. The loss was accompanied by visible distress, with Djokovic breaking down in tears after the final point.\u202f[1]\n\nDjokovic\u2019s career has been defined by resilience and consistency. He has captured 24 Grand Slam titles, including multiple U.S. Open victories, and has been a dominant force on the ATP Tour for over a decade. His reputation for fighting back from setbacks has made his first\u2011round exit all the more unexpected.\n\nHealth concerns surrounding Djokovic have been a recurring theme in recent coverage. While the source notes that his condition is a matter of concern, it does not provide details on the specific medical issues or the underlying cause of his symptoms. The available reporting does not specify the exact nature of his health problems.\u202f[1]\n\nThe U.S. Open, held annually in New York City, is one of tennis\u2019s four Grand Slam tournaments and a key event in the ATP calendar. Players who perform well here can earn significant ranking points and prize money, making early exits costly for top competitors.\n\nDjokovic\u2019s loss will likely affect his ATP ranking, as the points he earned from previous deep runs in Grand Slams will not be defended. A first\u2011round exit means a substantial drop in points, potentially altering his seeding in upcoming tournaments.\n\nFans and the broader tennis community reacted with surprise and concern. Djokovic\u2019s reputation for enduring grueling matches and bouncing back from adversity made his collapse a stark reminder of the physical demands of the sport.\n\nLooking ahead, Djokovic\u2019s medical team and the ATP may consider a temporary withdrawal from competition to address his health. The tennis world will be watching for any official statements regarding his fitness and potential return to the tour.\n\nIn the coming weeks, observers should monitor Djokovic\u2019s next scheduled appearances, any medical updates released by his team, and the official ATP rankings to gauge the full impact of this unexpected defeat.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03blRQclZzMmtQU0ZJTnFJcGJabzdMUWZwaldXeVFjbThiRHhsV0o4YTJKaEdfNExvVHRwVjdxX0tTa0VBdFlUTFY4Sk45NHI3Z0JLQk1TTWpSWG5pd1ZTQUVnWU5WZkZiUFhVQ0t3ZzAtZlA1VThublBB?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03blRQclZzMmtQU0ZJTnFJcGJabzdMUWZwaldXeVFjbThiRHhsV0o4YTJKaEdfNExvVHRwVjdxX0tTa0VBdFlUTFY4Sk45NHI3Z0JLQk1TTWpSWG5pd1ZTQUVnWU5WZkZiUFhVQ0t3ZzAtZlA1VThublBB?oc=5",
-      "guid": "CBMiekFVX3lxTE03blRQclZzMmtQU0ZJTnFJcGJabzdMUWZwaldXeVFjbThiRHhsV0o4YTJKaEdfNExvVHRwVjdxX0tTa0VBdFlUTFY4Sk45NHI3Z0JLQk1TTWpSWG5pd1ZTQUVnWU5WZkZiUFhVQ0t3ZzAtZlA1VThublBB"
-    },
     "aljazeera_2a0e5236": {
       "id": "aljazeera_2a0e5236",
       "title": "US brings back Russia\u2019s Siluanov to G20 finance talks, angering Europe",
@@ -15999,42 +15899,142 @@
       ],
       "original_url": "https://www.theguardian.com/society/2026/oct/11/flu-season-early-rise-september-england-vaccination-jab-ukhsa",
       "guid": "https://www.theguardian.com/society/2026/oct/11/flu-season-early-rise-september-england-vaccination-jab-ukhsa"
+    },
+    "aljazeera_0e81ebf6": {
+      "id": "aljazeera_0e81ebf6",
+      "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico\u2019s coast",
+      "category": "World",
+      "source": "aljazeera",
+      "time": "2026-10-13T00:27:03",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acd4f16-1791840022.jpg?resize=1920%2C1440",
+      "content": "Two deaths were reported after Hurricane\u202fSimon and Storm\u202fRachel battered Mexico\u2019s coast, according to the latest reports from the National Hurricane Center.\u202f[1]\n\nThe incident highlights the severity of the current Pacific hurricane season, which has been marked by record\u2011breaking intensity.\u202f[1] The storms have struck communities along the coast, prompting emergency responses and raising concerns about the resilience of coastal infrastructure.\n\nHurricane\u202fSimon made landfall on Mexico\u2019s western coastline, where it caused two fatalities.\u202f[1] In addition, Storm\u202fRachel struck the same region, adding to the damage and disruption caused by the season\u2019s powerful systems.\u202f[1] The two storms are part of a series of deadly tropical cyclones that have affected the region this year.\n\nThe season has seen record\u2011breaking intensity, with a high number of storms reaching hurricane strength and causing significant damage.\u202f[1] The storms have impacted areas from Hawaii to Mexico, underscoring the broad geographic reach of the Pacific basin\u2019s activity.\u202f[1]\n\nHurricanes form over warm ocean waters when moist air rises, cools, and condenses into clouds and rain. The resulting low\u2011pressure system can intensify into a tropical cyclone, producing strong winds, heavy rainfall, and storm surge that threaten coastal communities.\u202f(General context)\n\nThe Pacific hurricane season typically runs from May to November, with peak activity in August and September. During this period, the eastern Pacific off the coast of Central America and Mexico is the most active basin for tropical cyclones.\u202f(General context)\n\nRecord\u2011breaking intensity refers to the number of storms, their maximum sustained winds, central pressure, and the extent of damage they inflict. In recent years, the Pacific basin has produced an unusually high number of intense hurricanes, prompting scientists to examine potential links to climate change.\u202f(General context)\n\nThe Pacific basin includes the eastern Pacific, where storms often form off the coast of Central America and Mexico. These systems can travel westward toward the Hawaiian Islands or eastward toward the Mexican coast, depending on steering currents in the atmosphere.\u202f(General context)\n\nCoastal residents, fishermen, and local businesses are directly impacted by the storms, as high winds and flooding can damage homes, disrupt livelihoods, and threaten safety.\u202f(General context)\n\nEmergency services and local governments must respond to the damage and coordinate relief efforts, including search and rescue operations, medical assistance, and the restoration of utilities.\u202f(General context)\n\nThe tourism industry may suffer due to disruptions and safety concerns, as travelers often avoid destinations that have recently experienced severe weather events.\u202f(General context)\n\nThe pattern of intense storms may signal broader climate trends, but the article does not provide specific evidence linking these events to global warming.\u202f(Analysis)\n\nThe deaths highlight the need for improved preparedness and early warning systems, especially in vulnerable coastal communities that may lack adequate infrastructure to withstand powerful hurricanes.\u202f(Analysis)\n\nAuthorities will likely assess damage, conduct search and rescue operations, and issue advisories for any remaining storms in the season.\u202f(General context)\n\nAs the season concludes, meteorologists and policymakers will review the year\u2019s performance, identify lessons learned, and consider adjustments to forecasting, emergency planning, and infrastructure resilience.\u202f(General context)",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss"
+        }
+      ],
+      "original_url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
+      "guid": "https://www.aljazeera.com/?t=1791836393"
+    },
+    "berkeleyuniv_ddd101c3": {
+      "id": "berkeleyuniv_ddd101c3",
+      "title": "Two winners of the 2026 Nobel Prize in economics have deep ties to UC Berkeley",
+      "category": "Science",
+      "source": "berkeleyuniv",
+      "time": "2026-10-13T00:27:07",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://news.berkeley.edu/wp-content/uploads/2026/10/Economics-Nobel-1024x585.jpg",
+      "content": "Two scholars with ties to UC\u202fBerkeley have been awarded the 2026 Nobel Prize in Economics.\u202f[1]\n\nThe award underscores the department\u2019s influence and highlights the careers of Robert\u202fE.\u202fHall and Michael\u202fWoodford.\u202f[1]\n\nThe Nobel Committee announced the winners in 2026, naming Hall and Woodford as recipients of the prize.\u202f[1]\n\nHall, a 1964 graduate of Berkeley, had joined the faculty in the early 1960s and contributed to the department during his early career.\u202f[1]\n\nWoodford, who served as a visiting scholar at Berkeley during the 2025\u201126 academic year, also received the award.\u202f[1]\n\nThe department celebrated the wins with a ceremony on campus, inviting faculty, students, and alumni to honor the achievements.\u202f[1]\n\nThe announcement was first reported by Berkeley\u202fNews.\u202f[1]\n\nThe Nobel Prize in Economics is awarded annually by the Royal Swedish Academy of Sciences to individuals who have made significant contributions to the field.\n\nThe award is one of the most prestigious recognitions in economics, often reflecting groundbreaking research that has shaped economic theory and policy.\n\nUC\u202fBerkeley\u2019s economics department has a long history of producing influential scholars, including several Nobel laureates, and is known for its rigorous research and teaching.\n\nHall\u2019s early work at Berkeley helped establish his reputation in macroeconomic theory, while Woodford\u2019s time as a visiting scholar provided a platform for his research on monetary policy.\n\nFaculty, students, alumni, and the broader economics community are stakeholders in the department\u2019s success, and the Nobel wins reinforce the department\u2019s standing.\n\nThe recognition may attract increased funding, support for research initiatives, and interest from prospective students and faculty.\n\nThe wins also highlight the importance of academic collaboration and the role of visiting scholars in advancing research.\n\nThe Nobel Committee will release detailed citations for the laureates later in the year, and the department may host additional events to celebrate the achievements.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "UC Berkeley News",
+          "url": "https://news.berkeley.edu/2026/10/12/two-winners-of-the-2026-nobel-prize-in-economics-have-deep-ties-to-uc-berkeley/"
+        }
+      ],
+      "original_url": "https://news.berkeley.edu/2026/10/12/two-winners-of-the-2026-nobel-prize-in-economics-have-deep-ties-to-uc-berkeley/",
+      "guid": "https://news.berkeley.edu/?p=142448"
+    },
+    "bbc_32d1bbfe": {
+      "id": "bbc_32d1bbfe",
+      "title": "Autism, ADHD and mental health review: What you need to know",
+      "category": "Health",
+      "source": "bbc",
+      "time": "2026-10-13T00:27:18",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4041/live/d819d250-c3d4-11f1-95ba-dba767ffba7e.png",
+      "content": "A recent review of autism, ADHD and mental health has identified key lessons for the NHS, welfare, education and employment sectors.\n\nThe findings are significant because these four pillars of public service are the primary avenues through which people with neurodevelopmental and mental\u2011health conditions receive support, care and opportunities.\n\nThe review, which was published by the Department of Health and Social Care, examined how autism, ADHD and mental\u2011health conditions intersect and how existing services address those needs. It highlighted lessons for the NHS, welfare, education and employment systems. [1]\n\nAutism and ADHD are neurodevelopmental conditions that frequently co\u2011occur with mental\u2011health disorders. The NHS is the main provider of medical and psychological care, welfare agencies administer benefits and support, schools deliver education, and employers offer work opportunities. These sectors routinely interact with individuals who have autism, ADHD or mental\u2011health challenges.\n\nKey stakeholders include NHS clinicians, patients and carers, welfare officers, teachers and school administrators, employers and policy makers. Each group has a role in delivering or shaping the support that people with these conditions receive.\n\nThe review\u2019s recommendations could influence how resources are allocated, how services are coordinated and how eligibility criteria are applied across the NHS, welfare, education and employment sectors.\n\nPotential implications include the development of more integrated care pathways, clearer guidance on benefit eligibility, enhanced educational accommodations and workplace adjustments. These changes could improve continuity of care and reduce the fragmentation that many people with autism, ADHD and mental\u2011health conditions experience.\n\nThe next steps will likely involve a government response, consultations with stakeholders, and the drafting of policy proposals. The timeline for any reforms will depend on the outcomes of these consultations and the prioritisation of the identified lessons.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo#0"
+    },
+    "abcau_8c68b766": {
+      "id": "abcau_8c68b766",
+      "title": "EDs 'not adequately equipped' for aging population, report says - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "category": "World",
+      "source": "abcau",
+      "time": "2026-10-13T00:28:35",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28238%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27238%27%20cy%3D%27274%27%20r%3D%27140%27%20fill%3D%27hsl%28278%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Emergency departments across Australia are not adequately equipped to serve an aging population, a new report released by ABC News & Headlines has warned.\u202f[1] The article highlights gaps in equipment, staffing and protocols that could compromise care for older patients who increasingly rely on emergency services.\u202f[1]\n\nThe issue matters because the proportion of Australians aged 65 and older is rising sharply.\u202fOlder patients often present with multiple chronic conditions, frailty and complex medication regimens, making their emergency care needs distinct from those of younger patients.\u202fIf EDs lack the resources or expertise to address these challenges, outcomes such as morbidity, mortality and readmission rates could worsen.\u202f[1]\n\nAccording to the report, many EDs are still structured around the fast\u2011track model of acute care, with triage, rapid assessment and immediate treatment as the priority.\u202fHowever, the report notes that this model does not always accommodate the slower, more nuanced assessment required for geriatric patients, nor does it provide specialized equipment such as low\u2011height beds or fall\u2011prevention devices.\u202f[1] It also points out that staff training in geriatric assessment and medication management is often insufficient, and that protocols for delirium screening and pain management are not consistently applied.\n\nAustralia\u2019s demographic shift has been well documented: the number of people aged 65 and older is projected to double by 2030, and the proportion of the population over 80 is expected to rise significantly.\u202fThis trend places additional pressure on emergency services, which already face high patient volumes and limited resources.\u202fThe aging population will therefore demand more tailored emergency care solutions. (General context)\n\nEmergency departments are designed to handle sudden, life\u2011threatening conditions such as heart attacks, strokes and severe injuries.\u202fThey typically employ rapid triage systems, point\u2011of\u2011care diagnostics and immediate interventions.\u202fWhile this approach works well for many acute cases, older patients may present with atypical symptoms, require comprehensive medication reviews, and need careful monitoring for complications such as falls or delirium.\u202fThe report suggests that the current ED infrastructure and workflow are not fully aligned with these needs. (General context)\n\nKey stakeholders include older patients and their families, ED clinicians, hospital administrators, health insurers and government health agencies.\u202fPatients may experience longer wait times, misdiagnosis or inadequate pain control.\u202fClinicians may face increased workload and risk of burnout, while hospitals may encounter higher costs from complications and readmissions.\u202fThe report implies that these challenges could strain the broader health system. (General context)\n\nAddressing the identified gaps will likely require a multifaceted approach.\u202fPotential solutions include investing in geriatric training for ED staff, acquiring specialized equipment, and redesigning ED workflows to incorporate comprehensive geriatric assessment protocols.\u202fThe report underscores that without such changes, the health system may struggle to meet the evolving needs of an older population. (General context)\n\nHealth authorities and policymakers may use the report\u2019s findings to review current emergency care policies, allocate additional funding for geriatric services, and pilot specialized ED models that focus on older adults.\u202fThe report may also prompt further research into best practices for geriatric emergency care and the development of national guidelines. (General context)",
+      "sources": [
+        {
+          "n": 1,
+          "label": "ABC News (Australia)",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNREhNS0t3TGJUcGtQNDNfcS1VUENIdDg0TDYxY1YzM0RlazJFblJYUXI0Z1p4ZE90RG1iaUJMS0NQMUM3bzBpc0U1Y3N6dnNXMVRYVTA0UFljenJSQnN3SnVSbHQ1NUZyTldGc3J4a2lEUkFyRFRJTmdER1pjMmFmUDNNVzRfUVVGbEc2eThSdzQ5RVU0NWlFNDBJWGl3dDA?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNREhNS0t3TGJUcGtQNDNfcS1VUENIdDg0TDYxY1YzM0RlazJFblJYUXI0Z1p4ZE90RG1iaUJMS0NQMUM3bzBpc0U1Y3N6dnNXMVRYVTA0UFljenJSQnN3SnVSbHQ1NUZyTldGc3J4a2lEUkFyRFRJTmdER1pjMmFmUDNNVzRfUVVGbEc2eThSdzQ5RVU0NWlFNDBJWGl3dDA?oc=5",
+      "guid": "CBMinwFBVV95cUxNREhNS0t3TGJUcGtQNDNfcS1VUENIdDg0TDYxY1YzM0RlazJFblJYUXI0Z1p4ZE90RG1iaUJMS0NQMUM3bzBpc0U1Y3N6dnNXMVRYVTA0UFljenJSQnN3SnVSbHQ1NUZyTldGc3J4a2lEUkFyRFRJTmdER1pjMmFmUDNNVzRfUVVGbEc2eThSdzQ5RVU0NWlFNDBJWGl3dDA"
+    },
+    "snopes_e5d99a87": {
+      "id": "snopes_e5d99a87",
+      "title": "Did Denzel Washington say he's 'never met anyone braver, smarter' than Trump?",
+      "category": "News",
+      "source": "snopes",
+      "time": "2026-10-13T00:28:50",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/10/denzel_washington_trump_rating.jpg",
+      "content": "The viral statement \u201cnever met anyone braver, smarter than Trump\u201d has been linked to actor Denzel Washington, actor Matthew McConaughey, and musician Mick Jagger, according to online posts that have circulated widely.\u202f[1]\n\nThe claim has drawn attention because it connects three high\u2011profile public figures to a remark that praises former President Donald Trump, raising questions about its authenticity and the potential influence on public discourse.\u202f[1]\n\nThe quote first appeared in posts that asserted Washington had spoken it, and later posts attached the same words to McConaughey and Jagger. No primary source, recording, or reputable publication has confirmed that any of the three ever made the statement, and the posts have been shared extensively on social media platforms.\u202f[1]\n\nWashington is best known for his work in films such as *Training Day* and *Glory*. McConaughey gained acclaim for movies like *Dallas Buyers Club*, and Jagger is the lead singer of the Rolling Stones. None of these figures are typically associated with political commentary of this nature.\u202f[General knowledge]\n\nMisattribution of quotes is common on the internet, especially when a statement aligns with a public figure\u2019s perceived stance. Fact\u2011checking organizations frequently find that many viral quotes lack verifiable sources.\u202f[General knowledge]\n\nThe individuals named in the attribution could face scrutiny from fans and the media if the quote is proven false. Political commentators might use the claim to support arguments about Trump\u2019s influence, and the public could be misled about the views of these celebrities.\u202f[1]\n\nThe spread of unverified statements can contribute to misinformation, potentially affecting public opinion and the reputations of the individuals involved.\u202f[General knowledge]\n\nIf the quote is indeed false, it illustrates the ease with which misinformation can spread and the importance of verifying sources before sharing. If it is true, it would represent an unusual public endorsement of Trump by these figures.\u202f[1]\n\nThe situation underscores the role of social media in amplifying unverified claims and the need for media literacy among consumers of online content.\u202f[General knowledge]\n\nInvestigations by fact\u2011checking outlets and statements from the individuals or their representatives will determine whether the quote was ever made. The next few weeks will see whether any credible evidence emerges.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Snopes",
+          "url": "https://www.snopes.com/fact-check/trump-denzel-washington-quote/"
+        }
+      ],
+      "original_url": "https://www.snopes.com/fact-check/trump-denzel-washington-quote/",
+      "guid": "https://www.snopes.com/fact-check/trump-denzel-washington-quote/"
     }
   },
   "featured": {
-    "hero": "nature_742e8119",
+    "hero": "aljazeera_0e81ebf6",
     "stack": [
-      "npr_03af7b7e",
-      "france24_fd782eb4",
-      "pbs_736c96dd"
+      "berkeleyuniv_ddd101c3",
+      "bbc_32d1bbfe",
+      "abcau_8c68b766"
     ],
     "latest": [
+      "abcau_8c68b766",
+      "bbc_32d1bbfe",
+      "berkeleyuniv_ddd101c3",
+      "nature_742e8119",
       "pbs_736c96dd",
-      "france24_fd782eb4",
-      "npr_03af7b7e",
-      "berkeleyuniv_51b989ba",
-      "nasa_dccae35e",
-      "snopes_b53c2328"
+      "france24_fd782eb4"
     ],
     "world": [
+      "aljazeera_0e81ebf6",
+      "abcau_8c68b766",
       "france24_fd782eb4",
-      "reuters_bf80e8f3",
-      "dw_cadf661f",
-      "straitstimes_8f798e6c"
+      "reuters_bf80e8f3"
     ]
   },
   "categoryIndex": {
     "News": [
+      "snopes_e5d99a87",
+      "npr_03af7b7e",
+      "snopes_b53c2328",
       "ap_4789c5a4",
       "pbs_73a327f1",
       "cjr_1e5f5925",
       "fullfact_4fd4a358",
       "fullfact_d50852bd",
       "pbs_457ae738",
-      "cjr_98b0f18d",
-      "snopes_01d2003c",
-      "fullfact_4a8078c2",
-      "snopes_2649d4ea"
+      "cjr_98b0f18d"
     ],
     "World": [
       "straitstimes_8f798e6c",
@@ -16085,6 +16085,8 @@
       "googlenews_be26f89e"
     ],
     "Science": [
+      "berkeleyuniv_51b989ba",
+      "nasa_dccae35e",
       "bbc_21702973",
       "npr_f2bad171",
       "npr_319730de",
@@ -16092,9 +16094,7 @@
       "guardian_1aa0090f",
       "nasa_0e7c9af4",
       "berkeleyuniv_a83c29ee",
-      "conversation_58190e9b",
-      "bbc_37d481c9",
-      "berkeleyuniv_9cdeec51"
+      "conversation_58190e9b"
     ],
     "Business": [
       "googlenews_820e63fa",
@@ -16109,7 +16109,7 @@
       "googlenews_fa5a4f42"
     ]
   },
-  "breaking": "2026 Paris Motor Show: Western carmakers face steep competition from Chinese rivals",
+  "breaking": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico\u2019s coast",
   "events": [
     {
       "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new l",
@@ -16120,17 +16120,12 @@
       "title": "Rochester Electronics Launches Localized E-Commerce Experiences Across Key Globa",
       "date": "2026-10-07",
       "source": "Verum News"
-    },
-    {
-      "title": "Ukraine launches major drone attack on Russia\u2019s Moscow region, killing two",
-      "date": "2026-10-06",
-      "source": "Verum News"
     }
   ],
   "mostRead": [
+    "Two winners of the 2026 Nobel Prize in economics have deep ties to UC Berkeley",
+    "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico\u2019s coast",
     "New campuswide project confronts the legacy of U.S. nuclear bombing in the Marsh",
-    "Award-winning microscopy image disqualified over AI use",
-    "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new l",
-    "Six senators call for Trump administration to 'immediately reverse course' on Ru"
+    "Award-winning microscopy image disqualified over AI use"
   ]
 }
