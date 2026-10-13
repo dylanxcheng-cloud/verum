@@ -1,125 +1,5 @@
 {
   "stories": {
-    "cna_5b284588": {
-      "id": "cna_5b284588",
-      "title": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says - channelnewsasia.com",
-      "category": "World",
-      "source": "cna",
-      "time": "2026-09-01T11:30:27",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%2868%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27188%27%20cy%3D%27168%27%20r%3D%27140%27%20fill%3D%27hsl%28108%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Anthropic has entered into a $35\u202fbillion cloud agreement with Nvidia\u2011backed Lambda, according to Channel News Asia. [1]\n\nThe deal marks a significant investment in AI infrastructure, underscoring the growing trend of large language\u2011model developers partnering with specialized cloud providers. It could reshape the competitive dynamics among firms that rely on massive GPU resources for training and inference.\n\nThe announcement, reported by Channel News Asia, states that Anthropic will commit $35\u202fbillion to use Lambda\u2019s cloud services. The source notes that Lambda is backed by Nvidia, a leading manufacturer of graphics processing units. No further details on the terms of the agreement have been disclosed.\n\nAnthropic, founded in 2020 by former OpenAI employees, has developed the Claude series of large language models. The company has sought cloud partners to support the intense compute demands of training and deploying its models.\n\nLambda positions itself as a cloud platform that leverages Nvidia GPUs to deliver high\u2011performance AI workloads. Nvidia\u2019s backing provides access to cutting\u2011edge hardware and software stacks that are critical for large\u2011scale machine learning.\n\nAnthropic stands to gain scalable GPU resources and a dedicated partner for its compute needs. Lambda, in turn, secures a high\u2011profile client and a substantial capital infusion. Nvidia benefits from strengthening its ecosystem by supporting AI developers through Lambda.\n\nThe partnership may influence other AI firms seeking cloud partners, potentially prompting competitive offers and affecting pricing and availability of GPU\u2011based cloud services.\n\nAnalysts suggest that the collaboration could accelerate Anthropic\u2019s model development and deployment, reflecting a broader trend of AI companies aligning with specialized cloud providers to meet compute demands.\n\nThe agreement may also prompt Nvidia to further invest in Lambda or expand its cloud offerings, reinforcing Nvidia\u2019s strategy to dominate the AI hardware market.\n\nStakeholders will watch for details on the implementation timeline, service levels, and how Anthropic\u2019s models will integrate with Lambda\u2019s infrastructure. The next public disclosure may come from either company in the coming months.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "CNA (Singapore)",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMlN2by1QYTZ5VGVhSGNTajlrQjVsd0ZWRGM4VVQ4aGJZUklSQTltVDRjcjFVbkdZZnFIZzEwbzVmUUJnUGU3NTZ0MkJUZm5zdTV1ZGw4T0l2LS1kQnJHcGRxSHBSbDVTMUVSREp4aUVvaVZYM2ZPYTBLUXVmXzdhZXE2LVRseFBCOVNDNU1RX0JRWDZVdjQ1VlRkcDBaOXd2RGJ1ekdhQUNfOHAxckx2aDdabVlOT0JwZWRr?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMlN2by1QYTZ5VGVhSGNTajlrQjVsd0ZWRGM4VVQ4aGJZUklSQTltVDRjcjFVbkdZZnFIZzEwbzVmUUJnUGU3NTZ0MkJUZm5zdTV1ZGw4T0l2LS1kQnJHcGRxSHBSbDVTMUVSREp4aUVvaVZYM2ZPYTBLUXVmXzdhZXE2LVRseFBCOVNDNU1RX0JRWDZVdjQ1VlRkcDBaOXd2RGJ1ekdhQUNfOHAxckx2aDdabVlOT0JwZWRr?oc=5",
-      "guid": "CBMiuwFBVV95cUxPMlN2by1QYTZ5VGVhSGNTajlrQjVsd0ZWRGM4VVQ4aGJZUklSQTltVDRjcjFVbkdZZnFIZzEwbzVmUUJnUGU3NTZ0MkJUZm5zdTV1ZGw4T0l2LS1kQnJHcGRxSHBSbDVTMUVSREp4aUVvaVZYM2ZPYTBLUXVmXzdhZXE2LVRseFBCOVNDNU1RX0JRWDZVdjQ1VlRkcDBaOXd2RGJ1ekdhQUNfOHAxckx2aDdabVlOT0JwZWRr"
-    },
-    "googlenews_dbbef120": {
-      "id": "googlenews_dbbef120",
-      "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
-      "category": "Sports",
-      "source": "googlenews",
-      "time": "2026-09-01T16:24:31",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28126%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27606%27%20cy%3D%27160%27%20r%3D%27140%27%20fill%3D%27hsl%28166%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "The transfer deadline day coverage by The Athletic and The New York Times provides live updates on clubs such as Manchester United, Arsenal, Liverpool, Real Madrid, and Manchester City, with Balogun expected to be among the movers.[1]\n\nThis coverage matters because it offers fans and analysts real\u2011time information on the final day of Europe's top leagues, where clubs finalize signings that can shape their season.[1]\n\nThe article, titled \u201cThe Transfer DealSheet,\u201d aggregates rumors, confirmed deals, and ongoing negotiations as the deadline approaches. It highlights that Balogun is a likely target for transfer activity.[1]\n\nTransfer deadline day is the last day clubs can register new players before the window closes. It is a high\u2011pressure period for clubs, agents, and players.\n\nThe coverage draws on multiple sources, including ESPN, WRAL, and BBC, to provide a comprehensive view of the market.[1]\n\nClubs like Manchester United, Arsenal, Liverpool, Real Madrid, and Manchester City are central to the narrative, as their transfer activity can influence league standings and fan expectations.[1]\n\nFans rely on timely updates to gauge the likelihood of their club signing a desired player, while analysts use the data to predict team performance.\n\nWhile the article does not confirm any deals, the anticipation of Balogun's move suggests a potential shift in the defensive lineup for one of the clubs involved.[1]\n\nThe deadline will close at the end of the day, after which clubs will announce final signings; readers should monitor the live updates for confirmation of Balogun's transfer and other deals.[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUd4VVA5eHlnRmZnWnE0QzkwWVpIdEx3WTgxU3A5bE15emdLczN2YU5MTTIzdFZvTDNqS2NxYU5sd2QteHFvMXBkekNEUzFyNDZfX0UzMFFaaDdQMG13aGRBSTVsNFBhS1NVdUVsQlhITW1Ia1hzZ2xueTlka2hRUHZWT3NsQ2NudU11S1VFSGtKQnVpZUl3ZUhvZUFkZ2xTd3d4TktQOE1QT1dNT2tGSmd4a0ZlZzQ?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUd4VVA5eHlnRmZnWnE0QzkwWVpIdEx3WTgxU3A5bE15emdLczN2YU5MTTIzdFZvTDNqS2NxYU5sd2QteHFvMXBkekNEUzFyNDZfX0UzMFFaaDdQMG13aGRBSTVsNFBhS1NVdUVsQlhITW1Ia1hzZ2xueTlka2hRUHZWT3NsQ2NudU11S1VFSGtKQnVpZUl3ZUhvZUFkZ2xTd3d4TktQOE1QT1dNT2tGSmd4a0ZlZzQ?oc=5",
-      "guid": "CBMitwFBVV95cUxQTUd4VVA5eHlnRmZnWnE0QzkwWVpIdEx3WTgxU3A5bE15emdLczN2YU5MTTIzdFZvTDNqS2NxYU5sd2QteHFvMXBkekNEUzFyNDZfX0UzMFFaaDdQMG13aGRBSTVsNFBhS1NVdUVsQlhITW1Ia1hzZ2xueTlka2hRUHZWT3NsQ2NudU11S1VFSGtKQnVpZUl3ZUhvZUFkZ2xTd3d4TktQOE1QT1dNT2tGSmd4a0ZlZzQ"
-    },
-    "dw_c630bbe0": {
-      "id": "dw_c630bbe0",
-      "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
-      "category": "World",
-      "source": "dw",
-      "time": "2026-09-01T16:25:06",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://static.dw.com/image/78654542_6.jpg",
-      "content": "German investigators say an explosives\u2011laden drone targeted a Ukrainian cargo aircraft at Leipzig/Halle airport in early August, and the German government holds Russia responsible. [1] [2]\n\nThe incident underscores growing concerns about the safety of German airports amid the ongoing conflict between Russia and Ukraine, and it could prompt tighter security measures and diplomatic tensions. [1] [2]\n\nIn early August, investigators found evidence that a drone carrying explosives had been aimed at a Ukrainian cargo aircraft parked at Leipzig/Halle airport. [1] The drone was not reported to have struck the aircraft, but its presence raised alarms. [1]\n\nThe investigators\u2019 assessment indicates that the drone was deliberately targeting the aircraft, suggesting a malicious intent rather than a random malfunction. [1]\n\nThe German government, on Tuesday, announced that it holds Russia responsible for the drone attack. [2] This statement was made by the federal authorities in Berlin.\n\nLeipzig/Halle Airport is one of Germany\u2019s largest aviation hubs, handling both passenger and cargo traffic. It is located in the state of Saxony, about 70\u202fkilometers west of Leipzig.\n\nUkraine has been engaged in a conflict with Russia since 2014, and the war has seen the use of drones for surveillance and attacks.\n\nThe use of explosives\u2011laden drones in the conflict has raised international concerns about the potential for civilian casualties and infrastructure damage.\n\nInvestigations in Germany typically involve multiple agencies, including the Federal Police, the German Air Accident Investigation Agency, and the Federal Criminal Police Office.\n\nStakeholders: The incident affects German aviation authorities, airport operators, Ukrainian cargo companies, and the broader European aviation community, all of whom must consider the implications for security protocols.\n\nImpact: The event could lead to stricter screening of aircraft and cargo, increased surveillance of airspace, and heightened vigilance at German airports. It may also influence diplomatic relations between Germany and Russia.\n\nImplications: By attributing responsibility to Russia, Germany may face diplomatic pushback, potential sanctions, or further investigations into Russian involvement in attacks on German infrastructure. The statement may also prompt other European countries to reassess their security measures.\n\nWhat to watch next: German authorities are continuing their investigation, and further details are expected",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Deutsche Welle",
-          "url": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "original_url": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-rdf",
-      "guid": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-rdf"
-    },
-    "guardian_e330fced": {
-      "id": "guardian_e330fced",
-      "title": "Countries legally obliged to consider slavery reparations, says UN committee",
-      "category": "World",
-      "source": "guardian",
-      "time": "2026-09-01T16:26:27",
-      "read": "3 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/42e534eb55a03872252c74932fd0a349e4023749/358_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=e18f010fbf331195a820344b0a1d8d79",
-      "content": "A United Nations committee has issued new guidance that obliges member states to consider reparations for the transatlantic slave trade and to take other measures to address the enduring legacy of racial discrimination. The guidance, released by the Committee on the Elimination of Racial Discrimination (CERD) on Monday, states that these obligations arise from the 1965 Convention on the Elimination of All Forms of Racial Discrimination, a legally binding treaty, and not from the legal standards that existed when the slave trade took place. The committee further urges states to implement comprehensive measures to confront the legacy of racial discrimination. [1]\n\nThe ruling is significant because it clarifies the legal framework under which countries may pursue reparative actions related to slavery. By tying the obligation to a contemporary, binding international treaty, the guidance gives governments a clear legal basis to justify reparations programs and other remedial measures. It also signals that the UN sees the legacy of the slave trade as a continuing violation of human rights that must be addressed within the modern legal order. [1]\n\nOn Monday, CERD published a set of recommendations that explicitly link the legacy of the transatlantic slave trade to the obligations of states under the 1965 Convention. The committee noted that the Convention\u2019s provisions on racial discrimination apply to the historical injustices of slavery and that states must therefore take steps to remedy those injustices. The guidance calls for a range of actions, from public apologies and education reforms to financial compensation and institutional reforms aimed at dismantling systemic racism. [1]\n\nThe Committee on the Elimination of Racial Discrimination is one of the 15 independent UN treaty bodies that monitor the implementation of core human rights treaties. Its work includes reviewing state reports, issuing concluding observations, and providing guidance on how to meet treaty obligations. The 1965 Convention, adopted by the UN General Assembly, obliges states to eliminate racial discrimination in all its forms and to promote equality and non\u2011discrimination. [1]\n\nThe transatlantic slave trade, which spanned from the 15th to the 19th centuries, forcibly transported millions of Africans to the Americas and Europe, subjecting them to brutal conditions and long\u2011lasting social and economic harm. While the trade itself was abolished in the 19th century, its legacy continues to manifest in racial disparities, systemic discrimination, and intergenerational trauma. The new guidance frames these enduring effects as violations of the Convention\u2019s prohibition on racial discrimination. [1]\n\nReparations, in this context, refer to a range of measures designed to acknowledge past wrongs, provide compensation, and promote restorative justice. They can include financial payments, land restitution, scholarships, and public recognition of historical injustices. The guidance does not prescribe a specific reparations model but emphasizes that states must adopt comprehensive strategies tailored to their national contexts. [1]\n\nStakeholders in this development include governments, civil society organizations, scholars, and communities of African descent worldwide. Governments will need to assess how the guidance aligns with their domestic legal systems and policy priorities. Civil society groups advocating for reparations may use the guidance to strengthen their arguments for state action. Scholars will likely analyze how the guidance interacts with existing international human rights law and the jurisprudence on reparations. [1]\n\nThe impact of the guidance could be far\u2011reaching. Countries that have historically benefited from the slave trade may face renewed pressure to address the socioeconomic disparities that stem from that era. Conversely, nations that were primarily involved in the trade may be called upon to provide reparative measures to affected populations. The guidance also sets a precedent for linking historical injustices to contemporary treaty obligations, potentially influencing other areas of human rights law. [1]\n\nFrom an analytical perspective, the guidance represents a strategic use of the 1965 Convention to address a legacy that predates the treaty. By framing the slave trade as a continuing violation of racial discrimination, CERD expands the scope of the Convention\u2019s application. This move could encourage other treaty bodies to adopt similar approaches, thereby broadening the reach of international human rights law. However, the guidance stops short of mandating reparations, leaving the specifics to national discretion. [1]\n\nLooking ahead, the next steps will involve national governments reviewing the guidance and determining how to operationalize its recommendations. Some states may convene advisory panels, commission studies, or initiate legislative processes to design reparations programs. The UN may also monitor compliance through CERD\u2019s reporting mechanisms, potentially issuing further guidance or recommendations. The guidance\u2019s influence will become clearer as countries begin to respond and as civil society mobilizes around the issue. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
-      "guid": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee"
-    },
-    "csmonitor_a1a28f57": {
-      "id": "csmonitor_a1a28f57",
-      "title": "What widespread data center opposition shows us",
-      "category": "World",
-      "source": "csmonitor",
-      "time": "2026-09-01T16:26:29",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://images.csmonitor.com/csm/2026/08/0907_DUPFRONT_locomotive_springs.jpg?alias=standard_900x600",
-      "content": "Utah residents are opposing a proposed data\u2011center project that could become one of the planet\u2019s largest, a dispute that underscores a growing debate over how to define progress. [1]\n\nThe clash between developers and local communities highlights tensions between economic development and environmental or community concerns, and signals a shift in how progress is measured. [1]\n\nThe project, which has drawn criticism from residents and environmental groups, would house an enormous number of servers and consume vast amounts of electricity and water. [1] The facility\u2019s size would place it among the world\u2019s largest data centers, according to the information available. [1]\n\nData centers are critical infrastructure for the digital economy, storing and processing the vast amounts of information that power cloud services, streaming, and online commerce. They are typically built in locations that offer cheap, reliable power and robust telecommunications links. (General context.)\n\nIn Utah, the state\u2019s low power costs, abundant renewable resources, and strong regulatory framework have made it an attractive site for data\u2011center developers. (General context.)\n\nStakeholders in the debate include the developers seeking to build the facility, local governments weighing economic benefits against environmental impacts, residents concerned about resource use and community character, and environmental groups focused on energy consumption and carbon emissions. (General context.)\n\nThe opposition reflects a broader trend in which communities are demanding a clearer definition of progress that balances technological advancement with environmental stewardship and quality of life. (Analysis.)\n\nThe outcome of this dispute could influence future data\u2011center projects, prompting developers to adopt more transparent planning processes and consider community input more seriously. (Analysis.)\n\nKey next steps include upcoming public hearings, potential regulatory reviews, and the developers\u2019 responses to community concerns, all of which will shape the project\u2019s future trajectory. (Open question.)",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Christian Science Monitor",
-          "url": "https://www.csmonitor.com/Perspectives/From-the-Editors/2026/0901/data-center-opposition-utah?icid=rss"
-        }
-      ],
-      "original_url": "https://www.csmonitor.com/Perspectives/From-the-Editors/2026/0901/data-center-opposition-utah?icid=rss",
-      "guid": "fc2108e458c6d70bee44346ab62bf995"
-    },
-    "bbc_21ab71d7": {
-      "id": "bbc_21ab71d7",
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "category": "World",
-      "source": "bbc",
-      "time": "2026-09-01T16:27:09",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg",
-      "content": "Germany has accused Russia of orchestrating a drone attack at Leipzig Airport, where a drone carrying an explosive device was found near Ukrainian cargo planes on 4\u202fAugust.\u202f[1] The incident, uncovered by airport security, has prompted German authorities to publicly attribute the attack to Russian forces.\u202f[1]\n\nThe claim matters because Leipzig Airport is one of Europe\u2019s busiest cargo hubs, handling millions of tonnes of freight each year. The airport\u2019s proximity to Ukrainian cargo flights\u2014used by Ukraine to ship goods to the continent\u2014makes it a strategic target in the ongoing conflict. A drone strike in this setting signals a potential escalation of hostilities and raises concerns about the safety of civilian aviation infrastructure.\n\nOn 4\u202fAugust, airport security personnel discovered a small drone near a cluster of Ukrainian cargo aircraft parked in the apron. The drone was found to contain an explosive device, though the exact nature of the payload was not disclosed. German officials stated that the drone was \u201coperated by Russian forces\u201d and that the attack was part of a broader pattern of Russian drone activity in the region.\u202f[1]\n\nLeipzig Airport, located in Saxony, serves as a key logistics node for European freight, handling a wide range of goods from consumer products to industrial components. Its facilities include extensive cargo handling areas, warehouses, and a dedicated apron for large aircraft. The airport\u2019s strategic importance is amplified by its role as a transit point for Ukrainian cargo flights, which have increased in volume since the escalation of the war in 2022.\n\nThe use of drones in the conflict has become increasingly common, with both sides deploying unmanned aircraft to target infrastructure, supply lines, and military assets. Drones offer a low\u2011cost, low\u2011risk method of delivering explosives or surveillance payloads, and their small size allows them to evade conventional radar systems. In this context, the discovery of a drone near Ukrainian cargo planes underscores the blurred lines between military and civilian targets.\n\nGerman authorities\u2019 statement that Russia was behind the attack signals a formal accusation that could have diplomatic repercussions. While the German government has not released detailed evidence, the claim aligns with a broader pattern of Russian drone activity reported in other European airports. The incident has prompted a review of security protocols at Leipzig Airport, with airport operators reportedly increasing surveillance and tightening access to the apron.\n\nStakeholders in the incident include the German government, airport operators, Ukrainian cargo companies, and international aviation regulators such as the International Civil Aviation Organization (ICAO). Each party faces distinct concerns: German officials must balance national security with diplomatic relations; airport operators must ensure the safety of their facilities; Ukrainian cargo companies worry about disruptions to their supply chains; and international regulators must assess the broader implications for aviation security.\n\nThe immediate impact on cargo operations is uncertain, but heightened security measures could lead to delays and increased costs for airlines and freight forwarders. If the drone attack is confirmed as a deliberate act of sabotage, it could trigger a reassessment of risk assessments for airports handling Ukrainian cargo flights.\n\nGermany\u2019s accusation could strain diplomatic ties with Russia, potentially leading to retaliatory measures or further sanctions. The incident also adds to the growing list of incidents that could be used in international legal forums or by the United Nations to assess violations of international law.\n\nInvestigations into the drone\u2019s origin and the identity of its operators are ongoing. German authorities have requested cooperation from Ukrainian and international partners to trace the drone\u2019s flight path and determine its launch point. The outcome of these investigations will likely shape future security protocols and diplomatic engagements in the weeks ahead.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o#0"
-    },
     "straitstimes_14ac2e9a": {
       "id": "straitstimes_14ac2e9a",
       "title": "18 bus services to skip some city centre stops late on Sept 2 to 4 - Yahoo News Singapore",
@@ -15999,32 +15879,153 @@
       ],
       "original_url": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
       "guid": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates"
+    },
+    "cjr_8f27963d": {
+      "id": "cjr_8f27963d",
+      "title": "Democracy, Now",
+      "category": "News",
+      "source": "cjr",
+      "time": "2026-10-13T22:29:47",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://www.cjr.org/wp-content/uploads/2026/10/AP26272796308286-scaled.jpg",
+      "content": "Big Tech has spent years resisting accountability, and the federal government is now adopting similar evasion tactics, locking out the press and investigating news networks. [1]\n\nThe parallel between corporate and governmental strategies raises concerns about the erosion of democratic checks and balances, as both actors limit scrutiny of their actions. [1]\n\nIn recent weeks, the federal government has taken steps that mirror the tactics used by major technology firms, including restricting access for journalists and launching investigations into media outlets. [1]\n\nBig Tech companies have long faced criticism for opaque practices and influence over public discourse. Their resistance to external oversight has prompted calls for regulatory reform.\n\nThe press has historically served as a watchdog, holding both private and public actors accountable. Locking out reporters from platforms or investigating media organizations undermines that role.\n\nJournalists, media organizations, the public, and policymakers are all affected by these developments. The press\u2019s ability to report freely is essential for an informed citizenry.\n\nIf the government continues to restrict access and investigate media, it could chill reporting and reduce transparency. The public may face a narrower information environment.\n\nThe convergence of tech and government tactics could signal a shift toward a more controlled information ecosystem. This raises questions about the future of democratic accountability.\n\nObservers should monitor upcoming policy proposals, court challenges, and any legislative actions that address press access and media investigations. The timeline for these developments remains uncertain.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Columbia Journalism Review",
+          "url": "https://www.cjr.org/the_media_today/democracy-now-social-reckoning-big-tech-federal-government-accountability-evasion-tactics-white-house-press-pool-zuckerberg-trump-sorkin.php"
+        }
+      ],
+      "original_url": "https://www.cjr.org/the_media_today/democracy-now-social-reckoning-big-tech-federal-government-accountability-evasion-tactics-white-house-press-pool-zuckerberg-trump-sorkin.php",
+      "guid": "https://www.cjr.org/?p=123460"
+    },
+    "guardian_1997ffb6": {
+      "id": "guardian_1997ffb6",
+      "title": "UK high street bosses urge chancellor to cut cost of employing young people",
+      "category": "Politics",
+      "source": "guardian",
+      "time": "2026-10-13T22:29:53",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/daa7879a6ac6cde8a361bc2746f376f1123ccec8/520_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=5a2ee7c7011d536ada8871a3299cff5a",
+      "content": "Retailers and hospitality businesses met with Chancellor John\u202fHealey to urge a cut in the national insurance contributions threshold for young workers in his first budget, citing rising employer NIC costs that could make hiring young staff more expensive. [1]\n\nThe move comes as employers face higher NIC costs, which could make hiring young staff more expensive and affect the high street's ability to offer entry\u2011level jobs. [1]\n\nOn Tuesday morning, the chancellor attended the No\u202f11 event where retailers such as Tesco, Costa\u202fCoffee and the Co\u2011op presented their case, arguing that the rising NICs increase the cost of employing young people, who often earn below the threshold. [1]\n\nThe event also featured sector leaders including Stuart\u202fMachin, boss of Marks\u202f&\u202fSpencer, and Simon\u202fRoberts, chief executive of Sainsbury\u2019s, who highlighted the broader impact on the retail sector. [1]\n\nNational insurance contributions are a payroll tax that employers pay on employees' earnings above a certain threshold. The threshold determines the point at which NICs become payable.\n\nThe threshold has been a point of debate for years, with arguments that a higher threshold reduces the cost of hiring, especially for low\u2011wage workers.\n\nThe retailers expressed concern that higher NIC costs could affect hiring of young staff, who are a key part of the high street",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people",
+      "guid": "https://www.theguardian.com/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people"
+    },
+    "guardian_c79b8d31": {
+      "id": "guardian_c79b8d31",
+      "title": "Burnham to host Zelenskyy at No 10 in show of \u2018rock-solid\u2019 support",
+      "category": "Politics",
+      "source": "guardian",
+      "time": "2026-10-13T22:30:38",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/bd56f99f083394fc778ce997855ce42ce481d469/90_0_4419_3538/master/4419.jpg?width=140&quality=85&auto=format&fit=max&s=11a6fc48bb963bd08f55a1d3c161a3c6",
+      "content": "The United Kingdom will host Ukrainian President Volodymyr\u202fZelenskyy at Downing Street on Wednesday, a move that signals the UK\u2019s continued support for Kyiv amid the ongoing war in eastern Ukraine. The visit follows a series of diplomatic engagements that have highlighted the UK\u2019s commitment to the Ukrainian cause, especially after President Zelenskyy\u2019s recent difficulties with former U.S. President Donald\u202fTrump.\n\nThe event is significant because it underscores the UK\u2019s role as a key ally of Ukraine, offering both political backing and material assistance. By hosting the Ukrainian leader at the heart of British politics, the UK aims to reinforce its message of solidarity and to counter any perception that its support is waning.\n\nAndy\u202fBurnham will host President Zelenskyy at Downing Street on Wednesday, according to the UK government\u2019s announcement. The meeting is scheduled to take place in the Prime Minister\u2019s office, where the Ukrainian president will meet with senior UK officials and discuss the ongoing conflict. [1]\n\nDuring the visit, the UK prime minister is expected to deliver a statement to Zelenskyy and the Ukrainian delegation. The prime minister\u2019s message will emphasize the UK\u2019s unwavering support, with the official statement reading, \u201cWe are with you for as long as it takes.\u201d [1]\n\nThe Ukrainian president\u2019s difficulties with Donald\u202fTrump have been highlighted in recent reports, noting that Zelenskyy has faced challenges in securing U.S. political backing. The UK\u2019s hosting of Zelenskyy is seen as a contrast to the difficulties the Ukrainian leader has experienced with the former U.S. president. [1]\n\nThe UK has a long history of supporting Ukraine, particularly since the annexation of Crimea in 2014. The British government has provided military aid, economic assistance, and diplomatic support, and has imposed sanctions on Russian officials and entities linked to the conflict. This backdrop explains why the UK is keen to demonstrate its steadfastness to Kyiv.\n\nDowning Street has traditionally been a venue for high\u2011profile diplomatic visits, serving as a symbol of the UK\u2019s engagement with global leaders. Hosting President Zelenskyy at this location signals the UK\u2019s recognition of the gravity of the situation in Ukraine and its willingness to maintain a close relationship with the Ukrainian government.\n\nKey stakeholders in this development include the Ukrainian government, which seeks continued international backing; the UK government, which aims to solidify its role as a reliable ally; and the broader international community, which watches how major powers respond to the conflict.\n\nFor Ukraine, the visit could translate into increased political leverage and potentially more aid, as the UK has been a significant contributor to Ukraine\u2019s defense and humanitarian efforts. Ukrainian troops and civilians stand to benefit from any additional support that follows the diplomatic engagement.\n\nThe United States, European Union, and Russia are also stakeholders in this diplomatic calculus. The U.S. may view the UK\u2019s support as a counterbalance to any perceived shortcomings in its own engagement with Ukraine, while the EU may see it as a reinforcement of collective European solidarity. Russia, meanwhile, will likely interpret the visit as a continued Western challenge to its influence in the region.\n\nThe implications of the UK\u2019s hosting of President Zelenskyy include a strengthening of UK\u2011Ukraine ties and a clear diplomatic signal to Russia that the UK remains committed to Ukraine\u2019s sovereignty. It also highlights the UK\u2019s willingness to maintain a robust stance in the face of shifting U.S. political dynamics.\n\nLooking ahead, observers will watch for any subsequent aid packages or policy announcements that may follow the meeting. The UK\u2019s next steps will likely involve further discussions on military support, economic assistance, and diplomatic coordination with other allies to sustain pressure on Russia and to support Ukraine\u2019s resilience.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
+      "guid": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support"
+    },
+    "aljazeera_32571e01": {
+      "id": "aljazeera_32571e01",
+      "title": "US trial begins for Rwandan-American accused of role in genocide",
+      "category": "World",
+      "source": "aljazeera",
+      "time": "2026-10-13T22:30:49",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ace9dc702db2-1791925703.jpg?resize=1920%2C1440",
+      "content": "A federal court in the United States has opened a criminal trial against Eric\u202fNshimiye, a Rwandan\u2011American citizen, on charges that he participated in the 1994 Rwandan genocide\u202f[1]. The proceedings began this week, marking the first time a U.S. court has taken up a case involving alleged genocide crimes committed abroad\u202f[1].\n\nThe case is significant because it illustrates how the United States can exercise jurisdiction over alleged war\u2011crime perpetrators who are U.S. citizens, even when the alleged acts occurred outside its borders. It also underscores the broader effort to hold individuals accountable for the Rwandan genocide, a mass atrocity that killed an estimated 800,000 people in just 100 days\u202f[1].\n\nAccording to court filings, prosecutors allege that Nshimiye was involved in the planning and execution of killings during the genocide. Nshimiye himself has denied any wrongdoing, arguing that the evidence presented by the state is based on unreliable eyewitness testimony\u202f[1]. He has pleaded not guilty and has requested that the case be dismissed on the grounds that the evidence is insufficient.\n\nThe U.S. has long pursued legal avenues to prosecute genocide and other international crimes through its federal courts. Under the Genocide Convention Implementation Act of 1986, U.S. courts can try individuals who commit genocide, even if the acts occurred abroad, provided the defendant is a U.S. citizen or a national of a country that has signed the Convention\u202f[1]. This framework has been used in a handful of cases, including the prosecution of former Yugoslav officials and the trial of a former Rwandan military officer in 2014.\n\nStakeholders in the case include Nshimiye, who faces potential imprisonment if convicted; the families of genocide victims, who seek justice and closure; and the U.S. Department of Justice, which is responsible for enforcing international criminal law within the United States. The case also draws attention from international bodies such as the International Criminal Tribunal for Rwanda, which has already prosecuted several key figures in the genocide\u202f[1].\n\nIf the jury finds Nshimiye guilty, he could face a lengthy prison term, as U.S. statutes impose severe penalties for genocide. A conviction would also reinforce the principle that U.S. courts can serve as a venue for prosecuting crimes that have global implications, potentially encouraging other nations to pursue similar actions against perpetrators of mass atrocities\u202f[1].\n\nAt this stage, the trial is in its early phases. The defense has requested a preliminary hearing to challenge the admissibility of the eyewitness testimony, while the prosecution has indicated that it will present additional documentary evidence in the coming weeks\u202f[1]. The next major development will be the jury selection, scheduled for the end of next month, after which the trial will proceed with opening statements and evidence presentation.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/13/us-trial-begins-for-rwandan-american-accused-of-role-in-genocide?traffic_source=rss"
+        }
+      ],
+      "original_url": "https://www.aljazeera.com/news/2026/10/13/us-trial-begins-for-rwandan-american-accused-of-role-in-genocide?traffic_source=rss",
+      "guid": "https://www.aljazeera.com/?t=1791923722"
+    },
+    "cjr_2ef174b9": {
+      "id": "cjr_2ef174b9",
+      "title": "\u2018All They\u2019re Going to Hear Is Capitulation\u2019",
+      "category": "News",
+      "source": "cjr",
+      "time": "2026-10-13T22:31:50",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://www.cjr.org/wp-content/uploads/2026/10/npr-universities-hiott4.jpg",
+      "content": "The Trump administration\u2019s ideological attacks on public media and education have reached university\u2011based radio stations, where some stations are beginning to resist the pressure.\n\nThis development matters because university radio stations serve as training grounds for future journalists and as platforms for community voices; the administration\u2019s attacks threaten to stifle independent reporting and academic freedom.\n\nAccording to recent reporting, the administration has targeted public media outlets and educational institutions, and these efforts have converged on university radio stations. Some stations have begun to break free from the pressure, though the details of how they are doing so remain unclear. [1]\n\nUniversity\u2011based radio stations are typically student\u2011run, funded by a combination of student fees, grants, and sometimes university budgets. They provide a space for student journalists to develop skills and for the campus community to access local news and cultural programming.\n\nThe Trump administration has historically criticized public media, labeling outlets such as the Associated Press as \u201cfake news\u201d and promoting alternative narratives. This criticism has extended to educational institutions, where the administration has questioned the neutrality of university curricula and the integrity of academic research.\n\nThe convergence of these attacks at university radio stations reflects a broader strategy to influence media narratives at the grassroots level, where students and local audiences are often more receptive to alternative viewpoints.\n\nStudents, faculty, and listeners are directly affected by the administration\u2019s pressure. Students may face constraints on editorial freedom, while faculty advisors may encounter scrutiny over content. Listeners could experience a narrowing of perspectives if stations curtail independent programming.\n\nSome stations are breaking free, according to the reporting, by asserting editorial independence and seeking alternative funding sources. The specifics of these strategies are not yet fully disclosed, but the move signals a pushback against external influence. [1]\n\nIf university radio stations continue to resist, they could become a model for other student media outlets facing similar pressures. Conversely, sustained pressure could lead to a homogenization of campus media, reducing critical discourse. This dynamic underscores the tension between governmental influence and academic freedom.\n\nObservers should monitor how university radio stations navigate funding, editorial policy, and potential legal challenges in the coming months. The outcome may set a precedent for how student media respond to political pressure.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Columbia Journalism Review",
+          "url": "https://www.cjr.org/feature/all-theyre-going-to-hear-is-capitulation-trump-attacks-public-media-education-university-radio-stations-kut-npr-texas.php"
+        }
+      ],
+      "original_url": "https://www.cjr.org/feature/all-theyre-going-to-hear-is-capitulation-trump-attacks-public-media-education-university-radio-stations-kut-npr-texas.php",
+      "guid": "https://www.cjr.org/?p=123301"
+    },
+    "nasa_a1121852": {
+      "id": "nasa_a1121852",
+      "title": "Comparing Off-World Rover Driving Distances",
+      "category": "Science",
+      "source": "nasa",
+      "time": "2026-10-13T22:32:11",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26814/PIA26814.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+      "content": "An infographic released by NASA compares the distances driven by rovers on the Moon and Mars, highlighting the ongoing journeys of Perseverance and Curiosity as of October\u202f11,\u202f2026.\u202f[1]\n\nThe comparison underscores the longevity and productivity of Mars exploration missions and offers a visual benchmark for future rover deployments.\u202f[1]\n\nThe infographic lists the cumulative distances traveled by each rover, with Perseverance and Curiosity shown as still active and continuing to move across the Martian surface.\u202f[1] The distances for these two rovers are updated to October\u202f11,\u202f2026, reflecting their continued operation.\u202f[1]\n\nRovers are robotic vehicles designed to traverse extraterrestrial terrain and gather scientific data.\u202f[1] NASA has deployed several rovers on the Moon and Mars over the past decades.\u202f[1]\n\nThe primary stakeholders are the scientific community, mission planners, and the public, who rely on rover data to advance planetary science.\u202f[1] The infographic provides a tangible measure of mission success and informs decisions about future rover design and deployment.\u202f[1]\n\nThe continued movement of Perseverance and Curiosity suggests that their systems remain robust and that the missions are achieving their scientific objectives.\u202f[1] The comparison also highlights the relative distances covered by lunar rovers, offering insight into the challenges of surface mobility on different bodies.\u202f[1]\n\nMission teams will likely update the infographic as Perseverance and Curiosity continue to operate, and future rover missions may be benchmarked against these distances.\u202f[1] The next major update to the infographic is expected when new rovers land or when existing rovers reach significant milestones.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NASA",
+          "url": "https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/"
+        }
+      ],
+      "original_url": "https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/",
+      "guid": "https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/"
     }
   },
   "featured": {
-    "hero": "ap_c8ee0d65",
+    "hero": "cjr_8f27963d",
     "stack": [
-      "irishtimes_363ffc0a",
-      "bbc_63138963",
-      "bbc_711a28ee"
+      "guardian_1997ffb6",
+      "guardian_c79b8d31",
+      "aljazeera_32571e01"
     ],
     "latest": [
+      "aljazeera_32571e01",
+      "guardian_c79b8d31",
+      "guardian_1997ffb6",
+      "ap_c8ee0d65",
       "bbc_711a28ee",
-      "bbc_63138963",
-      "irishtimes_363ffc0a",
-      "aljazeera_0e81ebf6",
-      "abcau_8c68b766",
-      "bbc_32d1bbfe"
+      "bbc_63138963"
     ],
     "world": [
+      "aljazeera_32571e01",
       "irishtimes_363ffc0a",
       "aljazeera_0e81ebf6",
-      "abcau_8c68b766",
-      "france24_fd782eb4"
+      "abcau_8c68b766"
     ]
   },
   "categoryIndex": {
     "News": [
+      "cjr_2ef174b9",
       "pbs_736c96dd",
       "snopes_e5d99a87",
       "npr_03af7b7e",
@@ -16033,20 +16034,19 @@
       "pbs_73a327f1",
       "cjr_1e5f5925",
       "fullfact_4fd4a358",
-      "fullfact_d50852bd",
-      "pbs_457ae738"
+      "fullfact_d50852bd"
     ],
     "World": [
+      "irishtimes_363ffc0a",
+      "aljazeera_0e81ebf6",
+      "abcau_8c68b766",
       "france24_fd782eb4",
       "straitstimes_8f798e6c",
       "dw_cadf661f",
       "reuters_bf80e8f3",
       "irishtimes_2256e600",
       "cna_7539b728",
-      "guardian_ef421f03",
-      "straitstimes_f5f1d764",
-      "bangkokpost_88e51bd8",
-      "bbc_dcac73d7"
+      "guardian_ef421f03"
     ],
     "Politics": [
       "guardian_544bb9a6",
@@ -16073,6 +16073,7 @@
       "googlenews_81976c4c"
     ],
     "Health": [
+      "bbc_32d1bbfe",
       "guardian_708437b0",
       "googlenews_cc0f7f76",
       "bbc_bf3c9579",
@@ -16081,10 +16082,10 @@
       "guardian_e956016b",
       "guardian_9e57b76f",
       "bbc_559c452e",
-      "guardian_72b95ed2",
-      "googlenews_be26f89e"
+      "guardian_72b95ed2"
     ],
     "Science": [
+      "nasa_a1121852",
       "berkeleyuniv_ddd101c3",
       "nature_742e8119",
       "berkeleyuniv_51b989ba",
@@ -16093,8 +16094,7 @@
       "npr_f2bad171",
       "npr_319730de",
       "guardian_878978b0",
-      "guardian_1aa0090f",
-      "nasa_0e7c9af4"
+      "guardian_1aa0090f"
     ],
     "Business": [
       "googlenews_820e63fa",
@@ -16109,7 +16109,7 @@
       "googlenews_fa5a4f42"
     ]
   },
-  "breaking": "Waterford house fire: Garda\u00ed begin murder investigation as adults who died are named locally",
+  "breaking": "UK high street bosses urge chancellor to cut cost of employing young people",
   "events": [
     {
       "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new l",
@@ -16125,7 +16125,7 @@
   "mostRead": [
     "Waterford house fire: Garda\u00ed begin murder investigation as adults who died are n",
     "Two winners of the 2026 Nobel Prize in economics have deep ties to UC Berkeley",
-    "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico\u2019s coast",
-    "Trump says he is 'looking at' firing US envoy to Greece after mounting reports o"
+    "Democracy, Now",
+    "UK high street bosses urge chancellor to cut cost of employing young people"
   ]
 }
