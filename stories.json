@@ -1,105 +1,5 @@
 {
   "stories": {
-    "fullfact_aab1a1e7": {
-      "id": "fullfact_aab1a1e7",
-      "title": "Full Fact analysis shows AI chatbots spouting misinformation about AI-generated images, wars and royal fall outs",
-      "category": "News",
-      "source": "fullfact",
-      "time": "2026-09-01T20:55:19",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://fullfact.org/media/images/boliviainteligente-dwOcAJxSuD8-un.639cf22f.fill-1200x630.jpg",
-      "content": "Full Fact, the UK\u2011based independent fact\u2011checking charity, has released an analysis that finds several AI chatbots are spreading misinformation about AI\u2011generated images, wars and royal fall outs. The study shows that the models in question produced false or misleading answers when queried about fake content and circulating false claims, both before and after the analysis was published.\u00b9\n\nThe findings are significant because AI chatbots are increasingly used by the public, journalists and researchers to obtain quick answers on a wide range of topics. When these tools provide inaccurate information on sensitive subjects such as conflicts or royal affairs, they can shape public opinion and undermine trust in reliable sources. The issue also raises concerns for policymakers and regulators who are considering how to oversee the deployment of generative AI systems.\n\nFull Fact tested a range of popular AI models, asking them about known instances of fake content and widely circulated false claims. The models responded with misinformation in several instances, including claims about AI\u2011generated images that were later debunked, false narratives about ongoing wars, and unverified rumors concerning members of the British royal family. The analysis was conducted both before and after the article was written, confirming that the misinformation persisted over time.\u00b9\n\nAI chatbots such as ChatGPT, Gemini and others are trained on vast datasets that include both accurate and inaccurate information. While they can generate coherent and contextually relevant responses, they lack an inherent mechanism to verify facts against reliable sources. This limitation can lead to the propagation of falsehoods, especially when the input prompts involve contentious or rapidly evolving topics.\n\nThe rise of AI\u2011generated images and deepfakes has amplified concerns about misinformation. Full Fact\u2019s study specifically examined claims related to AI\u2011generated imagery, war reporting, and royal gossip\u2014areas that are frequently targeted by online hoaxes. By highlighting how chatbots can inadvertently repeat or amplify these false narratives, the analysis underscores the broader challenge of ensuring AI outputs are trustworthy.\n\nStakeholders most affected by these findings include everyday users who rely on chatbots for quick information, journalists who may incorporate AI\u2011generated content into their reporting, and fact\u2011checkers who must verify claims that surface online. The spread of misinformation can distort public debate, influence electoral outcomes, and erode confidence in democratic institutions.\n\nThe implications of the study suggest that AI developers need to implement stronger safeguards, such as better fact\u2011checking mechanisms and clearer disclosure of uncertainty. Regulators may also consider guidelines that require AI systems to provide source citations or flag potentially unreliable content. The findings point to a need for greater transparency in how AI models are trained and how they handle contested information.\n\nLooking ahead, Full Fact is likely to publish further guidance on how to evaluate AI\u2011generated responses. AI developers may respond by updating model training protocols or incorporating real\u2011time fact\u2011checking APIs. Continued monitoring of misinformation trends will be essential to assess whether these measures reduce the spread of false claims in the future.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Full Fact",
-          "url": "https://fullfact.org/technology/full-fact-analysis--ai-chatbots-misinformation/"
-        }
-      ],
-      "original_url": "https://fullfact.org/technology/full-fact-analysis--ai-chatbots-misinformation/",
-      "guid": "https://fullfact.org/technology/full-fact-analysis--ai-chatbots-misinformation/"
-    },
-    "bbc_ea18a2b3": {
-      "id": "bbc_ea18a2b3",
-      "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
-      "category": "World",
-      "source": "bbc",
-      "time": "2026-09-02T03:59:38",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
-      "content": "Iran has launched attacks on U.S. military bases in Iraq and Jordan after U.S. strikes killed four people at a wedding party, state media reported.\u202f[1]\n\nThe strikes represent a sharp escalation in U.S.\u2013Iran tensions and raise the possibility of broader regional fallout.\u202f[1]\n\nAccording to local Iranian state media, Iranian forces targeted U.S. installations in Iraq and Jordan.\u202f[1] The Jordanian Armed Forces confirmed the attacks.\u202f[1] The U.S. strikes that killed four people at a wedding party preceded the Iranian response.\u202f[1] The identity of the wedding party and the location are not detailed in the reports.\u202f[1]\n\nThe United States maintains a military presence in Iraq and Jordan as part of its regional strategy.\u202fThe U.S. has historically conducted airstrikes in Iran, and the recent wedding\u2011party strikes represent a new target.\u202f[1]\n\nIranian forces reportedly used missile or drone attacks to target U.S. bases.\u202f[1] The specific weapons used were not disclosed.\u202f[1] The Jordanian Armed Forces reported that the attacks were detected and responded.\u202f[1]\n\nU.S. military personnel stationed in Iraq and Jordan are directly affected.\u202f[1] Iranian military units involved in the attacks are also stakeholders.\u202f[1] The governments of Iraq and Jordan are impacted by the security situation.\u202f[1] The families of the four killed in the U.S. strikes are also affected.\u202f[1]\n\nThe attacks could lead to increased U.S. retaliation or a broader conflict.\u202f[1] They may also affect U.S.\u2013Iran diplomatic relations.\u202f[1] The attacks may influence regional security dynamics.\u202f[1]\n\nAnalysts suggest that Iran\u2019s retaliation signals a willingness to confront the U.S. militarily. The incident may heighten tensions in the Middle East.\n\nThe U.S. is expected to respond to the attacks, possibly with additional strikes or diplomatic measures. The next days may see further escalation or attempts at de\u2011escalation.\n\nThe U.S. presence in Iraq includes coalition forces supporting the Iraqi government against insurgent groups.\n\nJordan hosts a U.S. Air Force base that serves as a strategic hub for operations in the region.\n\nThe wedding\u2011party strike was unusual, targeting civilians rather than military or strategic sites.\n\nIran\u2019s decision to strike U.S. bases may be intended to send a message to the U.S. and its allies.\n\nThe Jordanian Armed Forces\u2019 confirmation indicates that the attacks were detected early and that the country is monitoring the situation closely.\n\nThe incident could prompt a review of U.S. force posture in Iraq and Jordan.\n\nRegional actors such as Saudi Arabia and Israel may adjust their own security calculations in response.\n\nThe United Nations and other international bodies may call for restraint.\n\nThe next days will determine whether the U.S. and Iran engage in further military actions or pursue diplomatic channels.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo#0"
-    },
-    "googlenews_f950b997": {
-      "id": "googlenews_f950b997",
-      "title": "A newborn and child reportedly died of measles; CDC isn\u2019t counting them - Ars Technica",
-      "category": "Health",
-      "source": "googlenews",
-      "time": "2026-09-02T03:59:43",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28258%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27338%27%20cy%3D%27137%27%20r%3D%27140%27%20fill%3D%27hsl%28298%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "A newborn and a child in Lancaster County, Pennsylvania, died of measles, yet the Centers for Disease Control and Prevention (CDC) has not added the deaths to its national measles database. The omission has sparked a dispute between vaccine critic Robert F. Kennedy\u202fJr. and Pennsylvania Governor Josh\u202fShapiro over how measles deaths are counted.\n\nThe controversy matters because the number of measles\u2011associated deaths informs public health policy, vaccine recommendations, and the allocation of resources to control outbreaks. Inaccurate counts could mislead officials and the public about the severity of measles in the United States.\n\nThe newborn, who was part of an Amish family, and a sibling died in Lancaster County in early 2024. The family spoke to a national reporter about the newborn\u2019s death, describing the tragedy and their concerns about how the deaths were recorded. The CDC has not added the two deaths to its measles database. [1][2][3]\n\nKennedy\u202fJr. has publicly challenged the CDC\u2019s methodology, arguing that the deaths should be counted as measles\u2011associated. Governor Shapiro has defended the CDC\u2019s approach, stating that the agency follows established criteria for reporting measles deaths. [4][5]\n\nThe CDC tracks measles deaths through a surveillance system that relies on reports from state health departments. A death is classified as measles\u2011associated only when a confirmed diagnosis is documented and evidence shows that measles contributed to the fatal outcome. [6][7]\n\nAccording to the CDC, the two Pennsylvania deaths did not meet the criteria for measles\u2011associated deaths because the required documentation was not available. The agency\u2019s guidelines specify that a confirmed laboratory result and a clear causal link to measles are necessary for inclusion in the national database. [8]\n\nThe Amish family expressed grief and frustration that the deaths were not recognized as measles\u2011related in official statistics. They emphasized the importance of accurate reporting for their community, which has historically maintained low vaccination rates. [9]\n\nThe dispute reflects broader tensions between vaccine advocates and opponents, particularly in communities where vaccine hesitancy remains high. These tensions often surface when public health data are contested or perceived as incomplete. [10]\n\nAccurate death counts are essential for assessing the true burden of measles, guiding outbreak response, and determining the need for additional vaccination campaigns. Miscounts can lead to underestimation of the disease\u2019s impact and misallocation of public health resources. [11]\n\nUnderreporting of measles deaths could influence vaccine policy decisions and erode public trust in health data. If deaths are omitted, the perceived risk of measles may appear lower, potentially affecting vaccination uptake. [12]\n\nThe CDC has explained its methodology and indicated that it remains open to reviewing cases that may have been misclassified. The agency has stated that it will consider additional evidence if it becomes available. [13]\n\nGovernor Shapiro has defended the CDC\u2019s approach, emphasizing the importance of accurate data for public health planning. He has urged that any concerns be addressed through established channels rather than public dispute. [14]\n\nMoving forward, the CDC may review its database and clarify its criteria for measles\u2011associated deaths. The dispute may be addressed in upcoming public health meetings and through formal communication between state and federal agencies. [15]\n\nThe case underscores the need for transparent reporting and clear communication between public health authorities and affected communities, ensuring that vital data accurately reflect the realities of measles outbreaks.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTFNra1pYdWlkUlZKYXVfaDFtOWFZam4wT25adDVyQ3Z6Q2Q3U1VZUjNwWC1CZEI2NVNfN1hZSHlURXlNMllTYVFodXZmVk9NOEJoV0JpUm1Rdkk3YVlaeDZXUENRVFdKcV9UanlLZmNVbTVhQnBseTdraG5Uekx6U09jdUM1QktTNzJRbDd0ekxnWG03YWVBa0RnWXE1NlJtM2pYWGczSDljeEpUSk1fM1REajRSdw?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTFNra1pYdWlkUlZKYXVfaDFtOWFZam4wT25adDVyQ3Z6Q2Q3U1VZUjNwWC1CZEI2NVNfN1hZSHlURXlNMllTYVFodXZmVk9NOEJoV0JpUm1Rdkk3YVlaeDZXUENRVFdKcV9UanlLZmNVbTVhQnBseTdraG5Uekx6U09jdUM1QktTNzJRbDd0ekxnWG03YWVBa0RnWXE1NlJtM2pYWGczSDljeEpUSk1fM1REajRSdw?oc=5",
-      "guid": "CBMitgFBVV95cUxPTFNra1pYdWlkUlZKYXVfaDFtOWFZam4wT25adDVyQ3Z6Q2Q3U1VZUjNwWC1CZEI2NVNfN1hZSHlURXlNMllTYVFodXZmVk9NOEJoV0JpUm1Rdkk3YVlaeDZXUENRVFdKcV9UanlLZmNVbTVhQnBseTdraG5Uekx6U09jdUM1QktTNzJRbDd0ekxnWG03YWVBa0RnWXE1NlJtM2pYWGczSDljeEpUSk1fM1REajRSdw"
-    },
-    "conversation_287b7707": {
-      "id": "conversation_287b7707",
-      "title": "What to do if your vote is challenged: Practical advice for midterm elections",
-      "category": "Science",
-      "source": "conversation",
-      "time": "2026-09-02T04:00:22",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://images.theconversation.com/files/756637/original/file-20260827-60-uedg3o.jpg?ixlib=rb-4.1.1&amp;rect=0%2C89%2C8192%2C4096&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "content": "On Election Day, voters can be told they are not registered or not eligible to vote, a scenario that can abruptly halt their civic participation. A civil rights lawyer has issued a practical guide to help voters understand and assert their rights to cast a ballot, especially in the context of upcoming midterm elections.\u202f[1]\n\nThe guide matters because voter disenfranchisement at polling places can stem from administrative errors, strict identification requirements, or outdated voter rolls. Knowing the correct procedures to challenge a denial can preserve a voter\u2019s opportunity to participate in the democratic process.\u202f[1]\n\nReleased ahead of the midterm elections, the guide addresses common situations where voters are denied the ballot. It explains how to verify registration status, request a provisional ballot, and seek assistance from election officials.\u202f[1]\n\nIt also details the legal framework that protects voter eligibility, citing the Voting Rights Act and state statutes that define citizenship, age, residency, and other eligibility criteria.\u202f[1]\n\nVoter registration is required in most states, and eligibility is determined by factors such as citizenship, age, residency, and, in some jurisdictions, criminal history.\u202f[general]\n\nHistorically, voter suppression tactics\u2014including strict ID laws and purging of voter rolls\u2014have led to frequent challenges at the polls.\u202f[general]\n\nThe civil rights lawyer who authored the guide has a background in cases involving voting rights violations, ensuring that the instructions align with procedural safeguards established by courts and legislation.\u202f[general]\n\nStakeholders in this issue include voters, election officials, civil rights organizations, and political parties, all of whom have an interest in maintaining fair access to the ballot.\u202f[general]\n\nBy providing clear, actionable steps, the guide can reduce the number of voters who are denied the right to vote due to administrative mistakes or misunderstandings.\u202f[1]\n\nIf voters follow the guide\u2019s recommendations, they may be better equipped to contest wrongful denial and to seek remedies, potentially influencing turnout and the overall integrity of the election.\u202f[analysis]\n\nThe guide will be distributed through community groups, online platforms, and voter education campaigns, and voters should be prepared to act promptly if their vote is challenged.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Conversation",
-          "url": "https://theconversation.com/what-to-do-if-your-vote-is-challenged-practical-advice-for-midterm-elections-290703"
-        }
-      ],
-      "original_url": "https://theconversation.com/what-to-do-if-your-vote-is-challenged-practical-advice-for-midterm-elections-290703",
-      "guid": "tag:theconversation.com,2011:article/290703"
-    },
-    "guardian_a312dd20": {
-      "id": "guardian_a312dd20",
-      "title": "Gaps in NHS end-of-life care \u2018denying ill children chance to die at home\u2019",
-      "category": "Health",
-      "source": "guardian",
-      "time": "2026-09-02T04:02:53",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/20be84d02f8b217d8b5179a5454389fc12125b85/44_283_855_684/master/855.jpg?width=140&quality=85&auto=format&fit=max&s=05208134526bffa5888ea0f2229aeb3a",
-      "content": "Campaigners have accused the National Health Service of failing to provide at\u2011home end\u2011of\u2011life care for seriously ill children in parts of England, forcing those who wish to die at home to do so in hospital instead. [1]\n\nThe gap in services has been described as a \u201ccruel postcode lottery,\u201d raising concerns about the NHS\u2019s legal duty to support children and their families at the end of life. [1]\n\nAccording to the campaigners, some local care boards are not meeting their statutory obligations to enable children to die at home. The failure has led to children who want to spend their final days at home being compelled to die in a hospital setting. [1]\n\nThe situation has been characterised as cruel, with campaigners pointing to the emotional and psychological toll on families who are denied the chance to be with their child in a familiar environment. [1]\n\nThe NHS is responsible for delivering comprehensive health services across England, including end\u2011of\u2011life support for children. The legal duty to facilitate at\u2011home death is part of a broader statutory framework that requires local authorities and NHS trusts to provide appropriate care.\n\nThe term \u201cpostcode lottery\u201d refers to the uneven distribution of services, where residents in some areas receive more support than others.\n\nNational legislation and policy frameworks mandate that local authorities and NHS trusts deliver end\u2011of\u2011life care that meets the needs of children and their families.\n\nChildren facing life\u2011limiting conditions, their families, local care boards, NHS trusts, and advocacy groups are all affected by the gaps in service.\n\nThe lack of at\u2011home care options places an additional burden on families, who may have to travel to hospitals or arrange overnight stays in medical facilities.\n\nThe situation also raises concerns about equity, as families in different regions experience varying levels of support.\n\nIf the legal duty is not met, there may be legal challenges or regulatory scrutiny of the care boards involved.\n\nThe campaigners\u2019 allegations could prompt a review of national guidelines and the allocation of resources to ensure consistent end\u2011of\u2011life care for children across England.\n\nThe NHS and local authorities may respond with policy statements or plans to address the gaps, and upcoming inquiries or consultations could shape future service provision.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/society/2026/sep/01/nhs-at-home-end-of-life-care-children-england"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/society/2026/sep/01/nhs-at-home-end-of-life-care-children-england",
-      "guid": "https://www.theguardian.com/society/2026/sep/01/nhs-at-home-end-of-life-care-children-england"
-    },
     "france24_b4889bff": {
       "id": "france24_b4889bff",
       "title": "Man accused of killing Charlie Kirk to face murder trial and possible death penalty",
@@ -15999,32 +15899,133 @@
       ],
       "original_url": "https://www.japantimes.co.jp/sports/2026/10/14/baseball/mlb/rays-guardians-game-2/",
       "guid": "https://www.japantimes.co.jp/article/647770/"
+    },
+    "nasa_47e6d941": {
+      "id": "nasa_47e6d941",
+      "title": "Hurricane Simon Lurks Off the Mexican Coast",
+      "category": "Science",
+      "source": "nasa",
+      "time": "2026-10-14T11:34:00",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/hurricanesimon_vir2_20261011_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "content": "Hurricane Simon remained offshore of the Mexican coast, yet it battered coastal areas with high winds and flooding, and produced remarkable rippling patterns in the upper atmosphere. [1]\n\nThe storm\u2019s proximity to populated coastal regions raised concerns for residents and emergency services, while the atmospheric phenomena attracted attention from scientists studying upper\u2011level wave patterns. [1]\n\nSimon, which did not make landfall, still generated strong winds that caused localized flooding along the shoreline. [1] Observers noted distinctive ripples in the upper atmosphere, a phenomenon that can indicate the interaction between the storm\u2019s circulation and the jet stream. [1]\n\nHurricanes form over warm tropical waters when moist air rises, creating a low\u2011pressure system that can intensify into a powerful cyclone.\n\nMeteorologists track such systems using satellite imagery, radar, and aircraft reconnaissance, issuing advisories that help communities prepare for potential impacts.\n\nCoastal communities in Mexico are vulnerable to wind damage and flooding from tropical cyclones.\n\nLocal authorities often advise residents to secure property and stay informed.\n\nThe upper\u2011atmosphere ripples observed during Simon\u2019s passage provide data that can improve models of how tropical cyclones interact with the mid\u2011level jet stream, potentially enhancing forecast accuracy.\n\nScientists are also interested in how such atmospheric waves might influence weather patterns over distant regions, including the United States and Central America.\n\nThe next steps include continued monitoring of Simon as it moves westward, assessment of any residual impacts on coastal infrastructure, and analysis of the atmospheric data collected.\n\nOfficials will likely update advisories as the storm\u2019s trajectory and intensity evolve, and researchers will publish preliminary findings on the upper\u2011level ripples in the coming weeks.\n\nWhile Simon did not make landfall, the event underscores the importance of preparedness for future storms, especially as climate models project a rise in the intensity of tropical cyclones.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/"
+        }
+      ],
+      "original_url": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
+      "guid": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/"
+    },
+    "fullfact_7e2e1c9e": {
+      "id": "fullfact_7e2e1c9e",
+      "title": "How does the employment rate under Labour compare to the Conservative years?",
+      "category": "News",
+      "source": "fullfact",
+      "time": "2026-10-14T11:34:35",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://fullfact.org/media/images/pat_mcfadden.1aa04adc.fill-1200x630.jpg",
+      "content": "Pat McFadden, the Work and Pensions Secretary, recently asserted that the current employment rate is higher than it has been in every year but one during Conservative\u2011led governments. Office for National Statistics (ONS) data shows that this claim is not accurate.\u202f[1]\n\nThe employment rate is a core measure of economic health, influencing policy decisions, public confidence and the political narrative around government performance. A misstatement about this indicator can shape perceptions of the administration\u2019s success and affect the credibility of its economic messaging.\n\nMcFadden\u2019s statement was made in a public context, with the Secretary suggesting that the present employment rate surpasses all but one of the figures recorded while the Conservatives were in power. The ONS, which compiles and publishes official statistics on employment, has confirmed that the current rate does not meet that description.\u202f[1]\n\nThe employment rate represents the proportion of the working\u2011age population that is employed. It is calculated from the Labour Force Survey, a monthly household survey that estimates employment, unemployment and inactivity. The ONS is the UK\u2019s official statistical agency, tasked with producing reliable, timely data for government, businesses and the public.\n\nDuring Conservative\u2011led governments, the employment rate has fluctuated, reflecting broader economic cycles, policy shifts and external shocks. The ONS provides a long\u2011term record of these changes, allowing comparisons across different administrations.\n\nKey stakeholders in this discussion include the government, which relies on employment statistics to justify policy choices; opposition parties, which scrutinise such data for political critique; and the public, whose livelihoods and expectations are tied to employment trends. Businesses and investors also monitor the employment rate as an indicator of labour market health and consumer confidence.\n\nIf the employment rate is overstated, it can lead to misplaced confidence in the economy, potentially influencing fiscal and monetary policy. Accurate data is essential for informed decision\u2011making and maintaining public trust in statistical reporting.\n\nThe discrepancy between McFadden\u2019s claim and the ONS data highlights the importance of evidence\u2011based communication in government. It also raises questions about how political messaging aligns with official statistics and the mechanisms in place to correct misinformation.\n\nIn the coming weeks, the ONS will release its next set of employment figures, which will provide a clearer picture of the current trend. The government may issue a statement to address the discrepancy, and parliamentary committees could examine the use of statistical data in political discourse.\n\nObservers will look for any adjustments to the narrative around employment performance, as well as potential policy responses that might be prompted by a more accurate assessment of the labour market.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Full Fact",
+          "url": "https://fullfact.org/economy/pat-mcfadden-employment-rate/"
+        }
+      ],
+      "original_url": "https://fullfact.org/economy/pat-mcfadden-employment-rate/",
+      "guid": "https://fullfact.org/economy/pat-mcfadden-employment-rate/"
+    },
+    "nasa_0897cf1d": {
+      "id": "nasa_0897cf1d",
+      "title": "APOD: 2026 October 14 \u2013 Mars and the Beehive Under an Aurora",
+      "category": "Science",
+      "source": "nasa",
+      "time": "2026-10-14T11:36:21",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/2026_10_10_PZ_Jesli\u010dky_01_1500px.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+      "content": "The Astronomy Picture of the Day (APOD) website posted an image on October\u202f14,\u202f2026 that captures Mars, the Beehive star cluster, an auroral curtain, and a horizon of trees near Lansj\u00e4rv, Sweden. The photograph shows the red planet in the foreground, the open cluster Messier\u202f44 (the Beehive) below it, a luminous aurora above, and a line of trees at the horizon. The observer was near Lansj\u00e4rv, a small locality in Sweden. The image was selected by the APOD editorial team for its striking composition and the coincidence of multiple astronomical features in a single frame. [1]\n\nThe alignment of these celestial and terrestrial elements is noteworthy because it offers a rare visual connection between the solar system and Earth's natural phenomena. The image demonstrates how planetary bodies, star clusters, and atmospheric displays can appear simultaneously in a single view, providing a tangible illustration of the scale and diversity of the night sky. [1]\n\nOn the day of its release, the APOD website highlighted the photograph as an example of how ordinary observers can witness extraordinary cosmic events. The image was chosen for its clarity and the way it juxtaposes the familiar landscape of Swedish trees with the distant glow of Mars and the shimmering aurora. The inclusion of the Beehive cluster adds a layer of depth, showing a group of stars that has been visible to humans for millennia. [1]\n\nAPOD is a NASA-hosted online gallery that showcases a different astronomical image each day, accompanied by a brief explanatory note. The platform serves both professional astronomers and the general public, providing accessible visual content that spans a wide range of topics from planetary science to cosmology. [no footnote]\n\nMars, the fourth planet from the Sun, has been the focus of numerous missions and studies. Its surface features, atmosphere, and potential for past life continue",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/"
+        }
+      ],
+      "original_url": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
+      "guid": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/"
+    },
+    "csmonitor_8c89ee30": {
+      "id": "csmonitor_8c89ee30",
+      "title": "As Houthi attacks undermine Saudi security, a cautious kingdom recalibrates",
+      "category": "World",
+      "source": "csmonitor",
+      "time": "2026-10-14T11:37:32",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://images.csmonitor.com/csm/2026/10/1013_OSAUDI_MOURNERS.jpg?alias=standard_900x600",
+      "content": "Weekend attacks by Yemen\u2019s Houthi militia have largely cut Saudi Arabia off from the world. [1]\n\nThe assaults have forced the kingdom, which has traditionally been cautious about foreign military assistance, to accept defensive aid from its allies as it ramps up its own strikes against the Houthis. [1]\n\nOver the weekend, Houthi forces launched a series of attacks that disrupted Saudi Arabia\u2019s communications and travel links, effectively isolating the country from external contacts. [1] The attacks prompted the Saudi government to seek defensive support from allied nations, marking a shift from its usual approach. [1] In response, Saudi forces have intensified their offensive operations targeting Houthi positions. [1]\n\nThe Houthi militia, a Shia\u2011led movement in Yemen, has been engaged in a protracted conflict with the Saudi\u2011led coalition since 2015. The coalition has conducted air and ground campaigns against Houthi\u2011held areas. Saudi Arabia has historically maintained a cautious stance toward accepting foreign military assistance, preferring to rely on its own capabilities.\n\nThe recent attacks represent a significant escalation, as they have disrupted Saudi Arabia\u2019s ability to maintain normal diplomatic and commercial ties. [1] The isolation has highlighted vulnerabilities in the kingdom\u2019s security infrastructure. [1]\n\nSaudi Arabia\u2019s government and military are directly affected, as the attacks threaten national security and operational readiness. [1] The kingdom\u2019s allies, including the United States and Gulf Cooperation Council members, are now providing defensive assistance, which may involve intelligence sharing, air defense systems, or logistical support. [1] The broader region, including neighboring Gulf states, may experience increased security concerns. [1]\n\nThe acceptance of defensive assistance signals a potential shift in Saudi Arabia\u2019s defense posture, possibly leading to greater reliance on external support in future conflicts. [1] It also underscores the growing threat posed by the Houthi militia to regional stability. [1]\n\nSaudi Arabia\u2019s next steps will likely involve coordinating with allies to strengthen air defense and counter\u2011missile capabilities. [1] The timeline for the deployment of defensive assets and the scale of the intensified strikes remain to be announced. [1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Christian Science Monitor",
+          "url": "https://www.csmonitor.com/World/Middle-East/2026/1013/saudi-security-houthi-airport-attacks-iran-yemen?icid=rss"
+        }
+      ],
+      "original_url": "https://www.csmonitor.com/World/Middle-East/2026/1013/saudi-security-houthi-airport-attacks-iran-yemen?icid=rss",
+      "guid": "0a5c4c947f7eafd03c16b6eda892a7cd"
+    },
+    "cna_6d126793": {
+      "id": "cna_6d126793",
+      "title": "Televisa, Fintech to take on America Movil with $2 billion purchase of AT&T's Mexican unit - CNA",
+      "category": "World",
+      "source": "cna",
+      "time": "2026-10-14T11:37:55",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Plaza_Carso_Mexico.jpg/3840px-Plaza_Carso_Mexico.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "Televisa and a fintech partner announced a $2\u202fbillion purchase of AT&T\u2019s Mexican unit, positioning them against America\u202fMovil.\u202f[1]\n\nThe deal signals a shift in Mexico\u2019s telecom landscape, as a media company and a fintech firm move into the sector, potentially challenging the dominance of America\u202fMovil.\u202f[1]\n\nOn an unspecified date, Televisa and a fintech partner disclosed their intent to acquire AT&T\u2019s Mexican unit for $2\u202fbillion.\u202f[1]\n\nThe acquisition would bring Televisa, traditionally a broadcaster, into the telecom market, while the fintech partner would provide digital payment and financial services expertise.\n\nThe deal would give the new entity a footprint in Mexico\u2019s mobile and broadband market, where America\u202fMovil holds a significant share.\n\nTelevisa, founded in 1951, has long been a dominant force in Mexican television and media.\n\nFintech companies have increasingly sought to diversify into telecom, leveraging digital infrastructure to offer integrated services.\n\nAT&T\u2019s Mexican unit is a telecom provider operating in Mexico.\n\nAmerica\u202fMovil, founded by Carlos\u202fSlim, is the largest telecom operator in Latin America and has a dominant presence in Mexico.\n\nThe acquisition would affect consumers, employees of AT&T\u2019s Mexican unit, and investors in Televisa and the fintech partner.\n\nThe deal could increase competition, potentially lowering prices and improving service quality for Mexican consumers.\n\nThe transaction may face regulatory scrutiny, as Mexican authorities oversee telecom mergers to protect competition.\n\nIf approved, the new entrant could leverage Televisa\u2019s content distribution network and the fintech partner\u2019s payment platform to offer bundled services.\n\nThe parties will need to secure regulatory approval and complete due diligence; the transaction is expected to close in the coming months, pending final agreements.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "CNA (Singapore)",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTUxKRlRZN04zelF5V0tTWjZrTXpXenBlUEc1ZGNvLUhzLV9YbW1EclNiV09BNHQtZmwwb0tDdlR6U0lXUldWb1loZWJnUzNoWnpFblVIajU2aEFwZHI5V0FScmctOEtiWWdpb3NoakJEX0RsWFpucktLOTQzeTVRdE9tazA2QQ?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTUxKRlRZN04zelF5V0tTWjZrTXpXenBlUEc1ZGNvLUhzLV9YbW1EclNiV09BNHQtZmwwb0tDdlR6U0lXUldWb1loZWJnUzNoWnpFblVIajU2aEFwZHI5V0FScmctOEtiWWdpb3NoakJEX0RsWFpucktLOTQzeTVRdE9tazA2QQ?oc=5",
+      "guid": "CBMihgFBVV95cUxOTUxKRlRZN04zelF5V0tTWjZrTXpXenBlUEc1ZGNvLUhzLV9YbW1EclNiV09BNHQtZmwwb0tDdlR6U0lXUldWb1loZWJnUzNoWnpFblVIajU2aEFwZHI5V0FScmctOEtiWWdpb3NoakJEX0RsWFpucktLOTQzeTVRdE9tazA2QQ"
     }
   },
   "featured": {
-    "hero": "bbc_328e723e",
+    "hero": "nasa_47e6d941",
     "stack": [
-      "reuters_1a12e7f4",
-      "bangkokpost_5cbad96f",
-      "abcau_7d816bf5"
+      "fullfact_7e2e1c9e",
+      "nasa_0897cf1d",
+      "csmonitor_8c89ee30"
     ],
     "latest": [
+      "csmonitor_8c89ee30",
+      "nasa_0897cf1d",
+      "fullfact_7e2e1c9e",
+      "bbc_328e723e",
       "abcau_7d816bf5",
-      "bangkokpost_5cbad96f",
-      "reuters_1a12e7f4",
-      "cjr_8f27963d",
-      "aljazeera_32571e01",
-      "guardian_c79b8d31"
+      "bangkokpost_5cbad96f"
     ],
     "world": [
+      "csmonitor_8c89ee30",
+      "cna_6d126793",
       "reuters_1a12e7f4",
-      "bangkokpost_5cbad96f",
-      "abcau_7d816bf5",
-      "japantimes_c3c8339c"
+      "bangkokpost_5cbad96f"
     ]
   },
   "categoryIndex": {
     "News": [
+      "cjr_8f27963d",
       "ap_c8ee0d65",
       "cjr_2ef174b9",
       "pbs_736c96dd",
@@ -16033,22 +16034,22 @@
       "snopes_b53c2328",
       "ap_4789c5a4",
       "pbs_73a327f1",
-      "cjr_1e5f5925",
-      "fullfact_4fd4a358"
+      "cjr_1e5f5925"
     ],
     "World": [
+      "cna_6d126793",
+      "reuters_1a12e7f4",
+      "aljazeera_32571e01",
       "japantimes_c3c8339c",
       "irishtimes_363ffc0a",
       "aljazeera_0e81ebf6",
       "abcau_8c68b766",
       "france24_fd782eb4",
       "straitstimes_8f798e6c",
-      "dw_cadf661f",
-      "reuters_bf80e8f3",
-      "irishtimes_2256e600",
-      "cna_7539b728"
+      "dw_cadf661f"
     ],
     "Politics": [
+      "guardian_c79b8d31",
       "guardian_1997ffb6",
       "bbc_63138963",
       "guardian_544bb9a6",
@@ -16057,8 +16058,7 @@
       "guardian_f58402c9",
       "bbc_6ec0c0e1",
       "guardian_5ffe2ef2",
-      "guardian_5aa27fc3",
-      "guardian_5d90d037"
+      "guardian_5aa27fc3"
     ],
     "Sports": [
       "googlenews_38cb9525",
@@ -16109,7 +16109,7 @@
       "googlenews_fa5a4f42"
     ]
   },
-  "breaking": "Exclusive-Galderma agrees to buy ZO Skin Health for around $1.5 billion, sources say By Reuters - In",
+  "breaking": "As Houthi attacks undermine Saudi security, a cautious kingdom recalibrates",
   "events": [
     {
       "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new l",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "Exclusive-Galderma agrees to buy ZO Skin Health for around $1.5 billion, sources",
+    "Hurricane Simon Lurks Off the Mexican Coast",
+    "How does the employment rate under Labour compare to the Conservative years?",
     "Waterford house fire: Garda\u00ed begin murder investigation as adults who died are n",
-    "Two winners of the 2026 Nobel Prize in economics have deep ties to UC Berkeley",
-    "Pictured: Winning entries for Wildlife Photographer of the Year 2026"
+    "Exclusive-Galderma agrees to buy ZO Skin Health for around $1.5 billion, sources"
   ]
 }
