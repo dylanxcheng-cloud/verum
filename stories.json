@@ -1,125 +1,5 @@
 {
   "stories": {
-    "bbc_27355323": {
-      "id": "bbc_27355323",
-      "title": "Watch: Astronauts set out on rare all-female spacewalk",
-      "category": "Science",
-      "source": "bbc",
-      "time": "2026-09-02T11:03:35",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1337/live/9bc87da0-a648-11f1-a291-b542ee92de7c.jpg",
-      "content": "For the sixth time in history, a team of two women completed a spacewalk outside the International Space Station.\u202f[1]\n\nThis rare all\u2011female extravehicular activity (EVA) underscores the growing participation of women in spaceflight and highlights the ongoing efforts to diversify the crews that maintain and expand the ISS.\u202f[1]\n\nThe EVA took place outside the ISS, where the two astronauts performed tasks that are typical of station maintenance and upgrades. The exact date, duration, and mission details were not disclosed in the available reporting.\u202f[1]\n\nSpacewalks, or EVAs, are conducted by astronauts wearing pressure suits to work outside the spacecraft. The ISS, a multinational laboratory in low\u2011Earth orbit, relies on regular EVAs for repairs and assembly.\n\nHistorically, only a handful of all\u2011female EVAs have been carried out, with the first occurring in 2003 and the most recent prior to this event in 2019.\n\nThe astronauts, the space agencies that trained them, and the scientific community that benefits from the ISS\u2019s research are all directly affected.\n\nThe event may inspire more women to pursue careers in STEM and could influence future crew selection policies.\n\nWhile the EVA itself is a routine maintenance activity, its all\u2011female composition may signal a shift toward greater gender parity in space operations.\n\nFuture missions may include more all\u2011female EVAs, and agencies may release further details about the crew and tasks.\n\nThe ISS has been continuously inhabited since 2000 and serves as a testbed for technologies that will support future deep\u2011space missions.\n\nEVAs on the ISS typically involve tasks such as replacing solar arrays, installing new equipment, and conducting scientific experiments outside the station.\n\nTraining for EVAs is rigorous, involving simulated spacewalks in neutral buoyancy pools and exposure to the harsh conditions of space.\n\nThe fact that this EVA was conducted by two women is a milestone that reflects the gradual increase in female participation in all aspects of space exploration.\n\nThe next steps will likely include official statements from the involved space agencies and a release of technical details about the EVA.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/c89jyxqvjq0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/videos/c89jyxqvjq0o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/videos/c89jyxqvjq0o#0"
-    },
-    "nature_bf93c7ac": {
-      "id": "nature_bf93c7ac",
-      "title": "Satellite images before Nepal disaster showed warning signs",
-      "category": "Science",
-      "source": "nature",
-      "time": "2026-09-02T11:04:01",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02746-4/d41586-026-02746-4_53198874.jpg",
-      "content": "Satellite images captured accelerated movement of a glacier\u2011rock mass in Nepal just days before it collapsed, triggering a deadly flash flood. [1]\n\nThe finding underscores the value of satellite monitoring for early detection of glacial hazards, which can inform risk mitigation in vulnerable mountain communities. [1]\n\nThe images, released online on 2\u202fSeptember\u202f2026 (doi:10.1038/d41586\u2011026\u201102746\u20114), show a glacier\u2011rock mass in the Himalayan region of Nepal accelerating in motion days before its sudden collapse. [1] The collapse unleashed a flash flood that killed many people and devastated downstream settlements. [1] The satellite data were captured before the event, providing a rare glimpse of the hazard\u2019s evolution. [1]\n\nGlaciers in the Himalayas are retreating rapidly due to rising temperatures, increasing the frequency of glacier\u2011related hazards such as rockfalls, debris flows, and glacial lake outburst floods. Satellite imaging offers high\u2011resolution, repeatable observations that can track changes in glacier mass and slope stability.\n\nThe accelerated movement observed in the images is consistent with known precursors to landslides and debris flows, where a sudden increase in velocity can signal imminent failure. In Nepal, such events have historically caused significant loss of life and infrastructure damage.\n\nLocal residents in the valley downstream of the glacier rely on the river for drinking water, irrigation, and transportation. The flash flood caused extensive casualties and disrupted livelihoods, prompting calls for improved hazard monitoring. National authorities have been working to enhance early warning systems, but resources and technical capacity remain limited.\n\nThe disaster highlighted gaps in real\u2011time monitoring and communication of glacial hazards. The satellite images now serve as evidence that the event could have been anticipated if the data had been routinely analyzed and acted upon.\n\nIntegrating satellite observations into operational early warning frameworks could reduce the risk to downstream communities. However, translating raw satellite data into actionable alerts requires local expertise, data sharing agreements, and investment in infrastructure.\n\nNe\u00adpal\u2019s disaster management agencies are reviewing the satellite dataset to refine monitoring protocols and explore more frequent satellite passes. International partners may support capacity building and technology transfer to strengthen local monitoring capabilities. The next major step will be to test the feasibility of automated detection algorithms that flag accelerated glacier\u2011rock movement in near real\u2011time.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Nature",
-          "url": "https://www.nature.com/articles/d41586-026-02746-4"
-        }
-      ],
-      "original_url": "https://www.nature.com/articles/d41586-026-02746-4",
-      "guid": "https://www.nature.com/articles/d41586-026-02746-4"
-    },
-    "bbc_9c68e54e": {
-      "id": "bbc_9c68e54e",
-      "title": "Children as young as six going to A&E in mental health crisis",
-      "category": "Health",
-      "source": "bbc",
-      "time": "2026-09-02T16:22:24",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7de/live/6e6b6300-a697-11f1-a291-b542ee92de7c.jpg",
-      "content": "Children as young as six are now being taken to Accident & Emergency (A&E) departments in the United Kingdom in the midst of mental health crises. [1]\n\nThe rise in emergency presentations among very young people signals a growing challenge for the National Health Service (NHS) and for families who must navigate an increasingly complex health\u2011care landscape.\n\nNHS emergency departments are reporting a surge in cases involving self\u2011harm, eating disorders and emotional distress among children and adolescents. [1] The trend includes children as young as six who are being brought to A&E for urgent mental\u2011health care. [1]\n\nA&E, the emergency department of NHS hospitals, serves as the first point of contact for acute medical and mental\u2011health emergencies. It is staffed by doctors, nurses and mental\u2011health specialists who assess and treat patients on a 24\u2011hour basis.\n\nThe NHS provides a range of mental\u2011health services for children and young people, from community teams and crisis lines to specialist inpatient care. These services are designed to offer early intervention and ongoing support for a variety of conditions.\n\nSelf\u2011harm, eating disorders and emotional distress are common mental\u2011health issues that can lead to emergency presentation when symptoms become severe or life\u2011threatening.\n\nFamilies of affected children are among the most directly impacted stakeholders, as they must coordinate care, manage uncertainty and often face financial and emotional strain. NHS staff, mental\u2011health professionals and policymakers also feel the effects of increased demand on emergency services.\n\nThe higher volume of young\u2011person presentations can strain A&E resources, potentially diverting attention and equipment from other urgent medical cases. This shift may affect overall hospital throughput and patient outcomes.\n\nThe trend suggests a growing unmet need for mental\u2011health support for children and adolescents, highlighting gaps in prevention, early detection and community care.\n\nIt may prompt reviews of mental\u2011health provision, resource allocation and early\u2011intervention strategies, as health authorities seek to address the underlying causes of the surge.\n\nThe NHS and health authorities are monitoring the situation closely, but specific policy responses or resource allocations have not yet been announced.\n\nFamilies and clinicians should remain vigilant, seeking help early for signs of self\u2011harm, eating disorders or emotional distress, and advocating for stronger preventive and support services.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo#0"
-    },
-    "guardian_95ea63e5": {
-      "id": "guardian_95ea63e5",
-      "title": "Andy Burnham pressed on borrowing costs and spending at first PMQs \u2013 UK politics live",
-      "category": "Politics",
-      "source": "guardian",
-      "time": "2026-09-02T16:23:38",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/f89dcc944b11e120270f68907c76b430c496ed95/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=4c48c1f90ccd3872c93d826ac7ca3c02",
-      "content": "Andy Burnham, the Labour Party\u2019s shadow finance minister, used the first Prime Minister\u2019s Questions of the new parliamentary session to press the government on borrowing costs and spending, a move that drew questions from Kemi Badenoch and other MPs amid speculation over the upcoming budget.\u202f[1]\n\nThe exchange was significant because PMQs are a high\u2011profile venue where ministers are held accountable for their policy positions.\u202f[1]\n\nDuring the session, Burnham was asked to clarify the Treasury\u2019s stance on the cost of borrowing and how it would affect public spending.\u202f[1]\n\nPMQs are held weekly in the House of Commons, allowing MPs to question the Prime Minister and other senior ministers on a range of issues.\u202f[1]\n\nBorrowing costs refer to the interest rates the government pays on its debt, while spending concerns the allocation of public funds across sectors such as health, education, and infrastructure.\u202f[1]\n\nThe questions raised by Kemi Badenoch and her colleagues reflected broader concerns among MPs about the sustainability of the fiscal plan and the impact of rising interest rates on the economy.\u202f[1]\n\nBurnham\u2019s emphasis on borrowing costs suggested a focus on debt management, while his comments on spending hinted at potential adjustments to the budgetary framework.\u202f[1]\n\nObservers will watch for the Treasury\u2019s forthcoming budget documents and any subsequent policy announcements that clarify the government\u2019s approach to borrowing and spending.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
-      "guid": "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news"
-    },
-    "csmonitor_e9f4b65d": {
-      "id": "csmonitor_e9f4b65d",
-      "title": "As US steps up pressure on Iran, ordinary people say they\u2019re paying the price",
-      "category": "World",
-      "source": "csmonitor",
-      "time": "2026-09-02T16:24:35",
-      "read": "3 min read",
-      "mode": "long",
-      "image": "https://images.csmonitor.com/csm/2026/09/0901_OIRAN_fish_mkt.jpg?alias=standard_900x600",
-      "content": "The United States has intensified its economic pressure on Iran, and ordinary Iranians say the cost is being paid in their daily lives. The latest round of sanctions, dubbed \u201cD\u2011Day\u201d by U.S. officials, has added to a long\u2011standing punitive regime that critics argue has already devastated the country\u2019s economy. [1]\n\nThe stakes are high for both the Iranian people and the regime that governs them. As the sanctions tighten, everyday costs rise, while the government\u2019s ability to maintain public support is tested. If the population\u2019s frustration grows, it could alter the political calculus for Tehran\u2019s leadership. [1]\n\nIn the past week, the U.S. Treasury announced a new set of sanctions targeting key sectors of Iran\u2019s oil and financial industries. The move follows a pattern of escalating measures that have been in place for years. Iran\u2019s economy, which was already in a precarious state before the war and before Trump\u2019s \u201cD\u2011Day\u201d sanctions, is now facing further strain. Ordinary Iranians bear the brunt of these policies, reporting higher prices and limited access to essential goods. Many feel apathetic toward the political process, suggesting that the risk of a popular uprising may be lower for the time being. [1]\n\nSanctions are a tool used by governments to influence foreign policy by restricting trade, investment, and financial transactions. They can target specific individuals, companies, or entire sectors, and are often accompanied by secondary sanctions that penalize third\u2011party entities that do business with the sanctioned country. The U.S. has employed this strategy against Iran for decades, aiming to curb its nuclear program and regional influence.\n\nIran\u2019s economic challenges predate the current sanctions regime. The country\u2019s economy suffered significant damage during the Iran\u2011Iraq war, which strained public finances and infrastructure. Even before the war, the economy was described as \u201cin ruins,\u201d a condition that has persisted despite subsequent reforms and international agreements. The Trump administration\u2019s \u201cD\u2011Day\u201d sanctions represent a further escalation, targeting the oil sector and financial institutions that facilitate international trade.\n\nThe primary stakeholders in this dynamic are the Iranian government, its citizens, and the United States. The Tehran administration seeks to maintain control and legitimacy amid economic hardship, while ordinary Iranians confront rising prices, unemployment, and limited access to services. The U.S. aims to pressure Iran into compliance with its nuclear and regional policies, using economic tools as a lever.\n\nFor ordinary Iranians, the impact is tangible: food and medicine become more expensive, and the availability of foreign currency for imports dwindles. Inflation erodes savings, and the banking system faces restrictions that limit cross\u2011border transactions. These conditions create a sense of frustration, but also a sense of resignation, as many feel that political change is unlikely in the short term.\n\nThe current trajectory suggests that the risk of a mass uprising may be muted, at least for now. The combination of economic hardship and political apathy can dampen collective action, even as the regime remains vulnerable to internal dissent. Analysts note that while sanctions may weaken Iran\u2019s strategic objectives, they also risk entrenching the status quo by fostering a climate of fatalism among the populace.\n\nLooking ahead, the U.S. is expected to announce additional sanctions in the coming weeks, potentially targeting more sectors or tightening existing restrictions. Iran\u2019s response\u2014whether through diplomatic negotiations, domestic policy adjustments, or further economic reforms\u2014will shape the next phase of this protracted standoff. The international community will be watching closely for any signs of change in the balance of power or the potential for renewed dialogue.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Christian Science Monitor",
-          "url": "https://www.csmonitor.com/World/Middle-East/2026/0901/iranian-people-trump-economic-sanctions?icid=rss"
-        }
-      ],
-      "original_url": "https://www.csmonitor.com/World/Middle-East/2026/0901/iranian-people-trump-economic-sanctions?icid=rss",
-      "guid": "b751e52ff6d44fa2ab74116db2ba4a6b"
-    },
-    "npr_11056458": {
-      "id": "npr_11056458",
-      "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
-      "category": "News",
-      "source": "npr",
-      "time": "2026-09-02T16:24:56",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2Fff%2F39eed76e47cebecea107bd74fbb5%2Fap26245387790183.jpg",
-      "content": "Iran fired on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull. [1]\n\nThe renewed hostilities have spiked oil prices, disrupted the global economy, and intensified political challenges for President Trump's Republican Party ahead of the November midterm elections. [1]\n\nThe six\u2011month conflict that began earlier this year has resumed with Iranian forces launching attacks against neighboring Gulf states. The attacks followed a monthlong period of relative calm, during which the U.S. had conducted air strikes against Iranian targets. [1]\n\nThe Iranian strikes targeted military installations and infrastructure in the Gulf region, though the reporting does not specify the exact locations or the extent of damage. The U.S. strikes that prompted Iran's retaliation were part of a broader campaign aimed at curbing Iranian influence in the region. [1]\n\nIran occupies a strategic position in the Persian Gulf, a corridor that carries a significant portion of the world's oil supply. Its relationships with Gulf neighbors have historically been marked by rivalry and conflict, especially over issues such as maritime security and regional influence.\n\nIran has employed a mix of missile and drone technology in its regional operations, while Gulf states rely on advanced air defense systems and close coordination with U.S. military forces stationed in the area. The U.S. has maintained a presence in the Gulf to support allies and deter Iranian aggression.\n\nThe primary parties affected are the governments of Iran and the Gulf states, the U.S. administration, and the global oil market. Investors and consumers worldwide feel the ripple effects of any disruption to oil supply.\n\nThe spike in oil prices has increased production costs for businesses and raised inflationary pressures in many economies. The broader global economy has experienced volatility as markets react to the uncertainty surrounding the conflict.\n\nWithin the United States, the Republican Party faces scrutiny over its foreign\u2011policy record, particularly in light of the war\u2019s economic fallout. The timing of the conflict, close to the November midterm elections, adds pressure on Republican candidates to address voters\u2019 concerns about national security and economic stability.\n\nThe continuation of hostilities raises the risk of further escalation, which could widen the conflict and deepen the volatility in energy markets. Diplomatic efforts, if pursued, would need to address both security guarantees for Gulf states and the broader geopolitical objectives of Iran.\n\nFor U.S. foreign policy, the situation underscores the challenge of balancing deterrence with diplomatic engagement. For Iran, the conflict offers a platform to assert its regional influence, but also risks isolating it further on the international stage. Global economic stability remains contingent on a swift resolution to the hostilities.\n\nObservers should monitor U.S. policy statements and any forthcoming diplomatic initiatives aimed at de\u2011escalation. The next phase of the conflict will also be shaped by the political dynamics of the upcoming midterm elections, as candidates seek to position themselves on foreign\u2011policy and economic issues.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "NPR",
-          "url": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates"
-        }
-      ],
-      "original_url": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
-      "guid": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates"
-    },
     "bangkokpost_4a8a39f4": {
       "id": "bangkokpost_4a8a39f4",
       "title": "New York City to ban AI in schools through Grade 8",
@@ -15999,28 +15879,148 @@
       ],
       "original_url": "https://www.theguardian.com/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe",
       "guid": "https://www.theguardian.com/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe"
+    },
+    "smh_0ecfd2f3": {
+      "id": "smh_0ecfd2f3",
+      "title": "Sam Wood\u2019s fitness platform marred by disputes, lawsuits on its rise to health juggernaut - SMH.com.au",
+      "category": "World",
+      "source": "smh",
+      "time": "2026-10-14T21:29:20",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Sam_Wood.croop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "Sam Wood\u2019s fitness platform has been marred by disputes and lawsuits as it has risen to become a health juggernaut.\u202f[1]\n\nThe platform\u2019s rapid expansion and the accompanying legal challenges underscore the growing tensions within the fitness\u2011tech industry. The outcome of these disputes will affect users, investors, employees, and regulators who are all watching how the company navigates its legal and reputational risks.\n\nThe platform, founded by Sam\u202fWood, has attracted multiple lawsuits and other legal disputes. These actions have come as the company has broadened its reach, positioning itself as a major player in the health and wellness market.\n\nFitness platforms typically offer digital workout programs, coaching, and community features. The sector has experienced explosive growth, especially during the pandemic, leading to heightened competition and increased scrutiny from regulators and consumer\u2011protection agencies.\n\nStakeholders include the platform\u2019s users, who rely on its content for fitness guidance; investors seeking returns on a high\u2011growth venture; employees whose job security may hinge on the company\u2019s legal outcomes; and regulators tasked with ensuring consumer safety and fair competition.\n\nThe legal disputes could impact the platform\u2019s brand reputation, financial health, and ability to attract new users. They may also prompt broader industry discussions about transparency, data use, and consumer protection.\n\nKey next steps for the platform will involve responding to the lawsuits, negotiating potential settlements, and addressing any regulatory concerns. The timing and resolution of these matters remain uncertain, and observers will be watching for court filings, settlement announcements, and any regulatory actions in the coming months.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Sydney Morning Herald",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeWt6T05DU1NYakhNNWxHdzB6QnA4RUZFU3podVhvTzJpVXdiOWttbjlEX2RNVTFpdE9xWXV2NEZMMjhiT3dHQXZmMDlDVDdnVG42ZlV3Z1YtQmFmYW85NEllYjYySkFBZVNCUm5SV1lUWXlEcmdpNnJuQUcxVi1IQUVzanBDWkpUM1lCUXBtanZGbWZrVC0xLWlwekh5dnZOMXNMSW1fV3cyemNmNXFEX0liZDZYS0o5MGVfQk1mSFQzMU1kY3FMYWlVVVRjUXV2cnNxU2xxU3ZGR1pXVzhGNmpxRGo?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeWt6T05DU1NYakhNNWxHdzB6QnA4RUZFU3podVhvTzJpVXdiOWttbjlEX2RNVTFpdE9xWXV2NEZMMjhiT3dHQXZmMDlDVDdnVG42ZlV3Z1YtQmFmYW85NEllYjYySkFBZVNCUm5SV1lUWXlEcmdpNnJuQUcxVi1IQUVzanBDWkpUM1lCUXBtanZGbWZrVC0xLWlwekh5dnZOMXNMSW1fV3cyemNmNXFEX0liZDZYS0o5MGVfQk1mSFQzMU1kY3FMYWlVVVRjUXV2cnNxU2xxU3ZGR1pXVzhGNmpxRGo?oc=5",
+      "guid": "CBMi5AFBVV95cUxQeWt6T05DU1NYakhNNWxHdzB6QnA4RUZFU3podVhvTzJpVXdiOWttbjlEX2RNVTFpdE9xWXV2NEZMMjhiT3dHQXZmMDlDVDdnVG42ZlV3Z1YtQmFmYW85NEllYjYySkFBZVNCUm5SV1lUWXlEcmdpNnJuQUcxVi1IQUVzanBDWkpUM1lCUXBtanZGbWZrVC0xLWlwekh5dnZOMXNMSW1fV3cyemNmNXFEX0liZDZYS0o5MGVfQk1mSFQzMU1kY3FMYWlVVVRjUXV2cnNxU2xxU3ZGR1pXVzhGNmpxRGo"
+    },
+    "guardian_45a9b4e6": {
+      "id": "guardian_45a9b4e6",
+      "title": "George W Brown obituary",
+      "category": "Health",
+      "source": "guardian",
+      "time": "2026-10-14T21:29:23",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/8ae152aba1286b880bdbc4fd7b633ed20cdd639a/96_0_2141_1712/master/2141.jpg?width=140&quality=85&auto=format&fit=max&s=7ba2a2ad06b182d7fc72f18c43776ea0",
+      "content": "George W. Brown, a leading medical sociologist, died at 95.\u202f[1] He pioneered the study of social and environmental factors in mental illness.\u202f[1]\n\nBrown\u2019s passing marks the end of an era in which his work reshaped the understanding of mental health, influencing both research agendas and policy decisions across the United Kingdom and beyond.\n\nIn 1956, a letter arrived for Brown.\u202f[1] The Social Psychiatry Research Unit in Camberwell, south London, needed an anthropology graduate.\u202f[1] Brown had been recommended by a former tutor.\u202f[1] He had only had numbing jobs supervising time and motion studies.\u202f[1] He leaped at the chance.\u202f[1]\n\nHe had graduated two years before 1956.\u202f[1] His early career was limited to routine jobs.\u202f[1] The opportunity at the unit was a turning point.\u202f[1]\n\nBrown\u2019s tenure at the Social Psychiatry Research Unit spanned six decades.\u202f[1] He became pre\u2011eminent in medical sociology.\u202f[1] He definitively established the importance of social and environmental factors in mental illness.\u202f[1]\n\nMedical sociology examines how social structures influence health outcomes, a perspective that gained prominence in the mid\u201120th century as psychiatry began to incorporate sociological insights.\n\nThe Social Psychiatry Research Unit in Camberwell was a pioneering center for studying mental health in a social context, attracting scholars interested in the intersection of environment and illness.\n\nBrown\u2019s early training in anthropology provided a foundation for his later sociological work; anthropology\u2019s focus on culture and society informed his approach to mental illness.\n\nMental health professionals, policymakers, and patients benefited from Brown\u2019s research, which highlighted the role of social determinants in mental health.\n\nBrown\u2019s work influenced research funding priorities, encouraging studies on socioeconomic status, housing, and community factors in mental illness.\n\nHis legacy underscores the need to address social and environmental determinants in mental health care; his research remains relevant as societies grapple with mental health disparities.\n\nBrown\u2019s obituary will appear in upcoming issues of medical sociology journals, and scholars may revisit his archives to build on his foundational work as the field continues to evolve.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/oct/14/george-w-brown-obituary"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/society/2026/oct/14/george-w-brown-obituary",
+      "guid": "https://www.theguardian.com/society/2026/oct/14/george-w-brown-obituary"
+    },
+    "bbc_bdc5cde8": {
+      "id": "bbc_bdc5cde8",
+      "title": "Student protesters attack government buildings in Tirana",
+      "category": "World",
+      "source": "bbc",
+      "time": "2026-10-14T21:29:28",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4571/live/704a3630-c7f6-11f1-9a39-31b474234113.jpg",
+      "content": "Thousands of students in Albania have taken to the streets in Tirana, setting government buildings ablaze in a protest demanding improved university conditions and better job prospects.\u202f[1]\n\nThe unrest underscores growing frustration among Albanian students over perceived neglect of higher\u2011education infrastructure and limited employment opportunities after graduation, raising concerns about the country\u2019s future workforce.\u202f[1]\n\nThe protests erupted in Tirana, the capital, where demonstrators gathered in large numbers and targeted government buildings, setting them on fire.\u202f[1] The unrest has caused significant damage to state property.\u202f[1]\n\nStudents have called for reforms to improve campus facilities, academic quality, and post\u2011graduation employment support.\u202f[1] They argue that current conditions hinder the development of a skilled workforce.\u202f[1]\n\nAlbania\u2019s higher\u2011education system has faced criticism for under\u2011funding and outdated infrastructure, a trend that has intensified in recent years.\n\nStudent protests have historically been a vehicle for expressing grievances in Albania, with previous demonstrations addressing issues such as tuition fees and academic freedom.\n\nThe primary actors are the student body, the Ministry of Education, and the Albanian government, which is responsible for funding and regulating universities.\n\nThe damage to government buildings may prompt a review of security protocols and emergency response procedures.\n\nThe unrest could affect the operation of universities, potentially leading to temporary closures or disruptions in academic schedules.\n\nEmployers may face uncertainty regarding the supply of qualified graduates, while students risk delays in completing their studies.\n\nThe incident underscores the need for policy reforms addressing infrastructure and employment pathways for graduates.\n\nAuthorities are expected to convene emergency meetings to assess the damage and negotiate with student representatives, with a deadline for a resolution still pending.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o#0"
+    },
+    "googlenews_0606351d": {
+      "id": "googlenews_0606351d",
+      "title": "How technology is changing the detection of breast cancer - CBS News",
+      "category": "Health",
+      "source": "googlenews",
+      "time": "2026-10-14T21:29:51",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/CBS_News_2020_%28Stacked_II%29.svg/1280px-CBS_News_2020_%28Stacked_II%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "AI tools that predict breast\u2011cancer risk are moving from research laboratories into consumer\u2011facing platforms, with several hospitals and a startup already deploying them. [1]\n\nThis shift could change how women assess their risk and decide when to undergo screening, potentially improving early detection but also raising questions about accuracy, equity, and oversight. [1]\n\nCBS News reports that AI\u2011driven risk calculators are now available directly to consumers, allowing individuals to input personal and family health data to receive a personalized risk score. [1] The same source notes that Northwestern Medicine has integrated AI into its screening workflow, using algorithms to analyze imaging and clinical data to flag high\u2011risk patients. [1] A startup, highlighted in the coverage, is offering its AI platform directly to patients, bypassing traditional clinical intermediaries. [1] Additionally, a case at Mount\u202fSinai illustrates how AI\u2011enhanced screening helped a patient identify a suspicious lesion early, prompting timely intervention. [1]\n\nBreast cancer remains the most common cancer among women worldwide, and early detection through mammography and other imaging techniques is a cornerstone of treatment success. [1] Traditional risk assessment relies on factors such as age, genetics, and family history, but these methods can miss subtle patterns in imaging data. [1] AI, particularly deep learning models trained on large imaging datasets, can detect microcalcifications and tissue density changes that may precede visible tumors. [1] The integration of AI into screening protocols has been explored in academic studies, but widespread clinical adoption has been slow due to regulatory, reimbursement, and trust barriers. [1]\n\nThe consumer\u2011facing AI tools represent a new model in which individuals can access risk assessments without a clinician's direct involvement. [1] This approach aligns with broader trends in digital health, where patients increasingly use mobile apps and online platforms to manage health information. [1] However, the accuracy of these tools depends on the quality of the underlying data and the algorithms' validation in diverse populations. [1]\n\nNorthwestern Medicine's deployment of AI in its screening program illustrates how health systems can incorporate advanced analytics into routine care. [1] By combining imaging results with electronic health record data, the system can prioritize patients for further testing or referral. [1] The initiative reportedly aims to reduce missed cancers and streamline workflow, though the source does not specify performance metrics. [1]\n\nThe startup's direct\u2011to\u2011patient model raises questions about regulatory oversight. [1] In the United States, medical device software that influences clinical decisions must meet FDA clearance or approval, but the pathway for consumer\u2011facing risk calculators is still evolving. [1] The coverage notes that the startup has engaged with regulators, but the timeline for formal approval remains unclear. [1]\n\nStakeholders include patients, clinicians, health systems, insurers, and regulators. [1] Patients may benefit from earlier detection but could also experience anxiety or unnecessary procedures if risk scores are overestimated. [1] Clinicians face the challenge of integrating AI outputs into decision\u2011making while maintaining patient trust. [1] Insurers may consider coverage for AI\u2011based screening, but reimbursement policies are not yet standardized. [1] Regulators must balance innovation with safety, particularly as AI tools become more autonomous. [1]\n\nThe Mount\u202fSinai case underscores the potential clinical impact of AI\u2011enhanced screening. [1] The patient, whose details are not disclosed, reportedly received a higher risk score that prompted additional imaging, leading to the detection of a lesion that might have been missed otherwise. [1] While the source does not provide outcome data, the anecdote suggests that AI can influence patient management in real\u2011world settings. [1]\n\nIf AI risk calculators prove reliable, they could democratize access to personalized screening recommendations, especially in underserved areas lacking specialist radiologists. [1] Conversely, widespread use without robust validation could contribute to overdiagnosis and overtreatment, inflating healthcare costs and causing patient harm. [1] Data privacy concerns also arise, as these tools",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VeWs4UGhZLXA2MWJJQm5VNWlpUzdTMEN1cjhKWmdmeG83V2hfblNzX2NRc2ozQ0dqMThFUGdPNGdtU1doQWhmaC14Z0FRcE40NGgxX09jU3ptclNrdzBkR0ZOTDhXb0JCT2p3T3BIdVlVa0Zob3c?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VeWs4UGhZLXA2MWJJQm5VNWlpUzdTMEN1cjhKWmdmeG83V2hfblNzX2NRc2ozQ0dqMThFUGdPNGdtU1doQWhmaC14Z0FRcE40NGgxX09jU3ptclNrdzBkR0ZOTDhXb0JCT2p3T3BIdVlVa0Zob3c?oc=5",
+      "guid": "CBMidkFVX3lxTE5VeWs4UGhZLXA2MWJJQm5VNWlpUzdTMEN1cjhKWmdmeG83V2hfblNzX2NRc2ozQ0dqMThFUGdPNGdtU1doQWhmaC14Z0FRcE40NGgxX09jU3ptclNrdzBkR0ZOTDhXb0JCT2p3T3BIdVlVa0Zob3c"
+    },
+    "googlenews_5f86b8d8": {
+      "id": "googlenews_5f86b8d8",
+      "title": "These common infections can cause cancer. Here\u2019s what can lower your risk. - The Washington Post",
+      "category": "Health",
+      "source": "googlenews",
+      "time": "2026-10-14T21:30:23",
+      "read": "4 min read",
+      "mode": "long",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/57/The-Washington-Post-10-June-2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "A new study has found that common infections account for 12\u202f% of all newly diagnosed cancer cases, a proportion that rivals the impact of smoking and obesity on cancer risk.\u202f[1] The finding, reported in a Washington Post article, highlights the role of infectious agents in the global cancer burden and points to prevention and screening as key strategies to reduce this share.\u202f[1]\n\nThe revelation matters because it quantifies the contribution of infections to cancer incidence, a figure that has been debated for decades.\u202f[1] With millions of people worldwide infected by bacteria, viruses, and parasites that can trigger malignant transformation, the 12\u202f% figure underscores the potential public\u2011health gains that could be achieved by targeting these pathogens.\u202f[1]\n\nThe Washington Post piece summarizes a recent epidemiological analysis that identified several infections linked to cancer.\u202f[1] While the study does not list every pathogen, it notes that the infections in question are common worldwide and that their cumulative effect accounts for a sizable fraction of new cancers.\u202f[1] The article also points out that many of these infections are preventable or treatable, offering a window for intervention.\u202f[1]\n\nA central focus of the article is Helicobacter pylori, a bacterium that colonizes the stomach lining and is a well\u2011known risk factor for gastric cancer.\u202f[1] The piece describes how routine testing for H. pylori can serve as an opportunity to identify and eradicate the infection before it leads to precancerous changes.\u202f[1] By treating H. pylori early, clinicians can reduce the likelihood of progression to stomach cancer, a strategy that has been endorsed by several health authorities.\u202f[1]\n\nIn addition to H. pylori, the Washington Post article outlines general measures that can lower infection\u2011related cancer risk.\u202f[1] These include vaccination against oncogenic viruses, improved hygiene practices to reduce bacterial and parasitic infections, and screening programs to detect and treat infections before they cause cellular damage.\u202f[1] The article emphasizes that these interventions are already available but underutilized in many settings.\u202f[1]\n\nInfections can drive cancer through chronic inflammation, DNA damage, and immune evasion.\u202f[1] Persistent bacterial or viral infections can create a microenvironment that promotes genetic mutations and cellular proliferation, setting the stage for malignant transformation.\u202f[1] Over time, the cumulative effect of these processes can lead to the development of cancers in organs such as the stomach, liver, cervix, and others.\u202f[1]\n\nHelicobacter pylori\u2019s mechanism of carcinogenesis involves the secretion of virulence factors that disrupt gastric epithelial cells and trigger inflammatory pathways.\u202f[1] The bacterium\u2019s ability to evade the host immune system allows it to persist for decades, during which time it can induce atrophic gastritis, intestinal metaplasia, and eventually dysplasia.\u202f[1] Eradication therapy, typically a combination of antibiotics and acid suppression, has been shown to reverse precancerous lesions in many patients.\u202f[1]\n\nOther infections implicated in cancer include human papillomavirus (HPV), hepatitis B and C viruses, and certain parasites such as Schistosoma species.\u202f[1] HPV is the primary cause of cervical cancer and also contributes to cancers of the oropharynx and anus.\u202f[1] Chronic hepatitis infections lead to liver cirrhosis and hepatocellular carcinoma, while schistosomiasis can cause bladder and colorectal cancers in endemic regions.\u202f[1] These pathogens illustrate the diverse ways infections can influence carcinogenesis.\u202f[1]\n\nPatients carrying these infections face an elevated risk of developing cancer, especially if they lack access to screening or treatment.\u202f[1] For example, individuals with untreated H. pylori infection may develop gastric cancer over a span of 20\u201330\u202fyears, while those with persistent hepatitis B infection can experience liver cancer decades after initial infection.\u202f[1] Awareness of infection status and timely intervention can therefore alter disease trajectories.\u202f[1]\n\nHealthcare providers play a pivotal role in identifying and managing infection\u2011related cancer risk.\u202f[1] Clinicians can incorporate routine screening for high\u2011risk infections into standard care, especially for populations with known exposure or endemic disease prevalence.\u202f[1] By offering vaccinations, such as the HPV vaccine, and recommending eradication therapy for H. pylori, providers can directly reduce the incidence of infection\u2011driven cancers.\u202f[1]\n\nPolicymakers and public\u2011health officials must translate these findings into actionable policies.\u202f[1] Investment in vaccination programs, public education on hygiene, and the expansion of screening services can yield significant reductions in cancer incidence.\u202f[1] Moreover, integrating infection control into national cancer prevention strategies can help allocate resources more efficiently and target high\u2011burden areas.\u202f[1]\n\nThe implications of the study suggest that a substantial portion of cancers could be prevented through infection control measures.\u202f[1] If widespread screening and treatment of H. pylori were implemented, the incidence of gastric cancer could decline markedly, as could the burden of other infection\u2011associated cancers.\u202f[1] Similarly, scaling up HPV vaccination has already shown promise in reducing cervical cancer rates in several countries.\u202f[1]\n\nLooking ahead, several concrete steps are on the horizon.\u202f[1] Health authorities are expected to review and potentially update guidelines for H. pylori testing, especially in regions with high gastric cancer rates.\u202f[1] Efforts to expand HPV vaccination coverage to older age groups and to improve access in low\u2011income settings are likely to continue.\u202f[1] Ongoing research into novel vaccines and therapeutics for other oncogenic infections, such as hepatitis B and C, will also shape future prevention strategies.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVS1uWEVvQS0tQkU5dG43X2JNV2szU3E5LVBpV1IzRTdfNVI1N2VKdklwYXBEX0RkdUxyZlBqU2JpbTN1alZLQkhTYlB6cEZOZTZ6XzNybktldjNqTmlYeW9uaUFUWk1XMkRhOTR5UncyenFDcmZ5OS1Dd2FCTnZpZVdUWEdwYXpWckZlTnF3STMwWkJnanR6Rm82OHJOem15NDcybl94dlhLbmZPdngtSXZiZVpQX2c?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVS1uWEVvQS0tQkU5dG43X2JNV2szU3E5LVBpV1IzRTdfNVI1N2VKdklwYXBEX0RkdUxyZlBqU2JpbTN1alZLQkhTYlB6cEZOZTZ6XzNybktldjNqTmlYeW9uaUFUWk1XMkRhOTR5UncyenFDcmZ5OS1Dd2FCTnZpZVdUWEdwYXpWckZlTnF3STMwWkJnanR6Rm82OHJOem15NDcybl94dlhLbmZPdngtSXZiZVpQX2c?oc=5",
+      "guid": "CBMitwFBVV95cUxPVS1uWEVvQS0tQkU5dG43X2JNV2szU3E5LVBpV1IzRTdfNVI1N2VKdklwYXBEX0RkdUxyZlBqU2JpbTN1alZLQkhTYlB6cEZOZTZ6XzNybktldjNqTmlYeW9uaUFUWk1XMkRhOTR5UncyenFDcmZ5OS1Dd2FCTnZpZVdUWEdwYXpWckZlTnF3STMwWkJnanR6Rm82OHJOem15NDcybl94dlhLbmZPdngtSXZiZVpQX2c"
+    },
+    "reuters_96e4e09c": {
+      "id": "reuters_96e4e09c",
+      "title": "Failure to activate Hormuz fertilizer plan could trigger food crisis, UN official says - Reuters",
+      "category": "World",
+      "source": "reuters",
+      "time": "2026-10-14T21:30:55",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Failure_is_not_a_crime._Sign_on_Leh-Nubra_road.2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "A United Nations official warned that a failure to activate a planned fertilizer initiative in the Hormuz region could spark a food crisis. The statement, made in a brief briefing, highlighted the potential ripple effects on global food security if the plan is not implemented. [1]\n\nThe warning underscores the fragile link between maritime logistics and agricultural productivity. Fertilizer supplies are a cornerstone of modern farming, and any disruption in their flow can translate into lower crop yields, higher prices, and increased hunger in vulnerable populations.\n\nAccording to the report, the UN official did not disclose the name of the plan or the specific measures it would entail. The briefing also did not identify the official\u2019s title or the exact date of the statement, leaving the details of the initiative largely unspecified.\n\nThe Hormuz Strait, situated between Oman and Iran, is one of the world\u2019s busiest maritime chokepoints. It handles a significant portion of the global trade in oil, petrochemicals, and related products, including nitrogen\u2011based fertilizers that are essential for modern agriculture.\n\nNitrogen fertilizers account for a large share of the inputs that farmers use to boost crop yields. When shipments are delayed or rerouted, the resulting shortages can force farmers to reduce planting or switch to less productive crops, thereby lowering overall food production.\n\nThe United Nations has a long history of monitoring food security risks. Agencies such as the Food and Agriculture Organization routinely issue alerts when supply chain disruptions threaten to undermine food availability, especially in regions that rely heavily on imports.\n\nFarmers in developing countries, importers in food\u2011dependent economies, and governments that manage national food reserves are among the stakeholders most directly affected by any interruption in fertilizer supplies. Shipping companies and port authorities also play a role in ensuring the smooth transit of these goods.\n\nIf the Hormuz plan is not activated, the immediate impact could be a surge in fertilizer prices, which would cascade into higher food costs. Over the longer term, reduced crop output could exacerbate food shortages, particularly in areas already facing climatic or economic challenges.\n\nGeopolitical tensions in the Gulf, including sanctions and security concerns, complicate the logistics of moving large volumes of fertilizer through the Strait. These factors create competing interests that can delay or derail coordinated shipping initiatives.\n\nThe UN\u2019s caution suggests that without a clear, actionable plan, the region\u2019s reliance on the Hormuz corridor could become a bottleneck for global food supply. Alternative routes or stockpiling strategies may be necessary to mitigate the risk of a broader food crisis.\n\nObservers will likely focus on upcoming United Nations meetings and maritime advisories to gauge whether the Hormuz fertilizer plan is set in motion. The timeline for any activation, as well as the specific measures to be taken, remain key questions for policymakers and industry stakeholders alike.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0hPc25RSlU2WFFVb2pGd01CVzlCeTQ1a2xpb2dVS3h6OGtGX1dSb3FPTlptLTIyZklOd3JBR2RZRjMyT193eUgwVVV2UkNKd3hnTTVGVjVFUVZHY3hRVmo1REN2ZTVGRENKa3NPUG82d3ZCcGlaTllUT0ZYNDQ2N19TdW9ybGNVaDJiZDNldDJ2VGdBQ09MQXRtYVpsOUxNdnFKUm5ndWtWMnpQV1gwRmhLc3lESlYzQTNLY3NSQl9NMFRzbkZjbC0zMA?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0hPc25RSlU2WFFVb2pGd01CVzlCeTQ1a2xpb2dVS3h6OGtGX1dSb3FPTlptLTIyZklOd3JBR2RZRjMyT193eUgwVVV2UkNKd3hnTTVGVjVFUVZHY3hRVmo1REN2ZTVGRENKa3NPUG82d3ZCcGlaTllUT0ZYNDQ2N19TdW9ybGNVaDJiZDNldDJ2VGdBQ09MQXRtYVpsOUxNdnFKUm5ndWtWMnpQV1gwRmhLc3lESlYzQTNLY3NSQl9NMFRzbkZjbC0zMA?oc=5",
+      "guid": "CBMiywFBVV95cUxQb0hPc25RSlU2WFFVb2pGd01CVzlCeTQ1a2xpb2dVS3h6OGtGX1dSb3FPTlptLTIyZklOd3JBR2RZRjMyT193eUgwVVV2UkNKd3hnTTVGVjVFUVZHY3hRVmo1REN2ZTVGRENKa3NPUG82d3ZCcGlaTllUT0ZYNDQ2N19TdW9ybGNVaDJiZDNldDJ2VGdBQ09MQXRtYVpsOUxNdnFKUm5ndWtWMnpQV1gwRmhLc3lESlYzQTNLY3NSQl9NMFRzbkZjbC0zMA"
     }
   },
   "featured": {
-    "hero": "googlenews_609afc05",
+    "hero": "smh_0ecfd2f3",
     "stack": [
-      "smh_e9be189f",
-      "dw_0ac864bd",
-      "csmonitor_8f9928aa"
+      "guardian_45a9b4e6",
+      "bbc_bdc5cde8",
+      "googlenews_0606351d"
     ],
     "latest": [
+      "googlenews_0606351d",
+      "bbc_bdc5cde8",
+      "guardian_45a9b4e6",
+      "googlenews_609afc05",
       "csmonitor_8f9928aa",
-      "dw_0ac864bd",
-      "smh_e9be189f",
-      "nasa_47e6d941",
-      "csmonitor_8c89ee30",
-      "nasa_0897cf1d"
+      "dw_0ac864bd"
     ],
     "world": [
-      "smh_e9be189f",
-      "dw_0ac864bd",
-      "csmonitor_8f9928aa",
-      "csmonitor_8c89ee30"
+      "smh_0ecfd2f3",
+      "bbc_bdc5cde8",
+      "reuters_96e4e09c",
+      "smh_e9be189f"
     ]
   },
   "categoryIndex": {
@@ -16037,16 +16037,16 @@
       "pbs_73a327f1"
     ],
     "World": [
+      "reuters_96e4e09c",
+      "smh_e9be189f",
+      "csmonitor_8c89ee30",
       "abcau_7d816bf5",
       "bangkokpost_5cbad96f",
       "cna_6d126793",
       "reuters_1a12e7f4",
       "aljazeera_32571e01",
       "japantimes_c3c8339c",
-      "irishtimes_363ffc0a",
-      "aljazeera_0e81ebf6",
-      "abcau_8c68b766",
-      "france24_fd782eb4"
+      "irishtimes_363ffc0a"
     ],
     "Politics": [
       "guardian_c79b8d31",
@@ -16073,6 +16073,7 @@
       "googlenews_81976c4c"
     ],
     "Health": [
+      "googlenews_5f86b8d8",
       "bbc_711a28ee",
       "bbc_32d1bbfe",
       "guardian_708437b0",
@@ -16081,10 +16082,11 @@
       "guardian_1bf2231b",
       "googlenews_912e0859",
       "guardian_e956016b",
-      "guardian_9e57b76f",
-      "bbc_559c452e"
+      "guardian_9e57b76f"
     ],
     "Science": [
+      "nasa_47e6d941",
+      "nasa_0897cf1d",
       "guardian_9b0fb1ac",
       "bbc_328e723e",
       "nature_92e0eaac",
@@ -16092,9 +16094,7 @@
       "berkeleyuniv_ddd101c3",
       "nature_742e8119",
       "berkeleyuniv_51b989ba",
-      "nasa_dccae35e",
-      "bbc_21702973",
-      "npr_f2bad171"
+      "nasa_dccae35e"
     ],
     "Business": [
       "googlenews_820e63fa",
@@ -16109,7 +16109,7 @@
       "googlenews_fa5a4f42"
     ]
   },
-  "breaking": "2GB\u2019s Ben Fordham interviews Ben Roberts-Smith ahead of war crimes trial - SMH.com.au",
+  "breaking": "Sam Wood\u2019s fitness platform marred by disputes, lawsuits on its rise to health juggernaut - SMH.com.",
   "events": [
     {
       "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new l",
@@ -16125,7 +16125,7 @@
   "mostRead": [
     "2GB\u2019s Ben Fordham interviews Ben Roberts-Smith ahead of war crimes trial - SMH.c",
     "Hurricane Simon Lurks Off the Mexican Coast",
-    "Freddy Peralta goes back to his roots, leans on 4-seam fastball to shut down the",
-    "How does the employment rate under Labour compare to the Conservative years?"
+    "Sam Wood\u2019s fitness platform marred by disputes, lawsuits on its rise to health j",
+    "George W Brown obituary"
   ]
 }
