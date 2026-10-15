@@ -1,125 +1,5 @@
 {
   "stories": {
-    "bbc_f8c19e06": {
-      "id": "bbc_f8c19e06",
-      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-      "category": "World",
-      "source": "bbc",
-      "time": "2026-09-03T03:59:33",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7003/live/d674cf10-a6ef-11f1-9e4c-79c1c0e340c6.jpg",
-      "content": "Saudi Arabia condemned an attack on its tanker *Sidr* in the Strait of Hormuz that killed two Filipino sailors. The incident, reported by Saudi officials, involved the vessel being struck by unknown projectiles on Monday, and the kingdom has identified the attack as Iranian. [1]\n\nThe event highlights the continuing volatility of shipping lanes in the Persian Gulf and the broader rivalry between Saudi Arabia and Iran. It underscores the risks commercial vessels face in a region where geopolitical tensions frequently spill over into maritime incidents. [1]\n\nAccording to Saudi authorities, the tanker *Sidr* was hit by projectiles while transiting the Strait of Hormuz on Monday. The impact caused casualties, including two Filipino crew members who lost their lives. The tanker was operating in a critical maritime corridor that sees a high volume of international traffic. [1]\n\nSaudi officials described the attack as an intentional targeting of the vessel, and they allege that Iran was responsible for the strike. While details of the incident remain unverified, the kingdom\u2019s statement points to a deliberate act rather than an accidental collision or navigational error. [1]\n\nThe Strait of Hormuz is a narrow waterway that connects the Persian Gulf to the Gulf of Oman and the Arabian Sea. It is a vital route for global oil shipments, carrying a significant portion of the world\u2019s petroleum exports. (General context)\n\nThe region has experienced periodic incidents involving shipping, often linked to geopolitical tensions between Iran and its regional rivals. These events have raised concerns about maritime security and the safety of commercial vessels operating in the area. (General context)\n\nThe tanker *Sidr* is a Saudi-owned vessel that operates in international waters. Its presence in the Strait of Hormuz places it within a high\u2011risk zone that has seen a number of attacks and near\u2011misses over the past decade. (General context)\n\nThe incident directly affected the crew of the *Sidr*, particularly the Filipino sailors who were killed. It also involves Saudi Arabia, which has a vested interest in protecting its maritime assets, and Iran, which Saudi officials allege was responsible. The incident may prompt diplomatic protests from Saudi Arabia to Iran and could lead to increased security measures for shipping in the Strait. (Analysis)\n\nThe attack raises concerns about the safety of commercial vessels in a region already fraught with tension. It may influence shipping companies\u2019 routing decisions and could affect the cost of insurance for vessels transiting the area. (Analysis)\n\nSaudi Arabia is likely to pursue an investigation into the incident and may seek international support for a broader review of maritime security in the Strait. The next steps will involve diplomatic channels and possibly coordination with international maritime authorities. (Speculation)",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o#0"
-    },
-    "bbc_ec95e66e": {
-      "id": "bbc_ec95e66e",
-      "title": "Flu vaccine rollout begins as NHS regroups from 'busiest summer'",
-      "category": "Health",
-      "source": "bbc",
-      "time": "2026-09-03T03:59:42",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d73b/live/cf577dd0-a2f9-11f1-8d5b-155abe464768.jpg",
-      "content": "The National Health Service has begun the annual flu vaccination campaign, a move that follows a particularly busy summer of health services.\u202f[1]\n\nThe start of the rollout is significant because influenza remains a leading cause of illness and hospitalisation each year, and the vaccine is the primary tool for reducing its impact. Public confidence in the vaccine and timely access are critical for protecting vulnerable groups and easing pressure on the health system.\n\nThe NHS has re\u2011organised its resources after a demanding summer period, allowing it to focus on the distribution of the new flu jab. The campaign now proceeds across the country, with clinics and pharmacies scheduled to administer doses to the public.\u202f[1]\n\nThis year\u2019s formulation includes several adjustments designed to improve protection against the strain that dominated last season, known as the Super\u2011K strain. The changes aim to enhance the vaccine\u2019s effectiveness against that particular virus.\u202f[1]\n\nFlu vaccines are updated annually to match the influenza strains that are most likely to circulate. Scientists analyse global surveillance data each year to select the strains that will be included in the next season\u2019s vaccine.\n\nThe NHS coordinates the national vaccination programme, managing the procurement, storage, and distribution of the jab to primary care practices, community pharmacies, and other vaccination sites. The programme also tracks coverage rates and monitors adverse events.\n\nKey recipients of the vaccine include older adults, people with chronic health conditions, pregnant women, and healthcare workers, all of whom are at higher risk of severe influenza complications. The NHS also offers the jab to the general public on a voluntary basis.\n\nHigher vaccination coverage is expected to reduce the number of influenza cases, hospital admissions, and related deaths. Early data from previous campaigns suggest that each additional percentage point of coverage can prevent a measurable number of severe outcomes.\n\nDespite the benefits, challenges remain. Vaccine hesitancy, driven by misinformation and mistrust, can limit uptake. Additionally, supply chain constraints sometimes affect the availability of doses, especially in remote or underserved areas.\n\nIf the updated vaccine performs as intended, it could provide stronger protection against the Super\u2011K strain, potentially lowering the overall burden of flu on the health system. This would also free up resources for other public health priorities during the winter months.\n\nHealth authorities will monitor vaccine effectiveness through surveillance of influenza activity and hospitalisation rates. The next few weeks will see the NHS assess coverage levels, identify any gaps in distribution, and adjust outreach efforts accordingly.\n\nThe commencement of the flu vaccination campaign marks a routine yet essential step in safeguarding public health during the upcoming winter season. Its success will depend on continued coordination, public engagement, and vigilant monitoring of vaccine performance.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o#0"
-    },
-    "nasa_a9da9e53": {
-      "id": "nasa_a9da9e53",
-      "title": "APOD: 2026 September 3 \u2013 The Eclipse and the Stork",
-      "category": "Science",
-      "source": "nasa",
-      "time": "2026-09-03T10:59:37",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/eclipse_stork.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "content": "The Astronomy Picture of the Day (APOD) for September\u202f3,\u202f2026 was titled \u201cThe Eclipse and the Stork.\u201d The entry featured an image that combines an astronomical event with a terrestrial element, accompanied by a brief explanation written by a professional astronomer. [1]\n\nAPOD is a widely used resource for science education and public outreach, offering daily images of the universe with concise, expert\u2011written descriptions. The September\u202f3 entry is no exception, adding a creative twist that may broaden its appeal to a general audience. [1]\n\nOn the day of release, the APOD archive posted the image and its accompanying text. The image is part of the daily series that showcases diverse astronomical phenomena, and the explanation is written by a professional astronomer. [1]\n\nThe APOD project curates images from the astronomical community and the public, selecting those that are scientifically relevant, visually striking, and educationally valuable. Each entry is accompanied by a short description to help viewers understand the context. [1]\n\nThe archive includes an index and search function, allowing users to locate past entries by date, keyword, or other criteria. This feature makes the collection a useful tool for educators, students, and amateur astronomers. [1]\n\nEducators and students rely on APOD for up\u2011to\u2011date imagery and explanations, while amateur astronomers and the general public use it for informal learning. The title\u2019s reference to both an eclipse and a stork may encourage cross\u2011disciplinary interest by linking celestial events to familiar terrestrial imagery. [1]\n\nThe specific content of the image is not described in the available reporting, so the exact juxtaposition of the eclipse and the stork remains unknown. However, the title suggests an interdisciplinary approach that could spark curiosity across different fields. [1]\n\nThe APOD\u2019s continued use demonstrates the value of accessible science communication in fostering public engagement with astronomy. By presenting complex phenomena in an approachable format, APOD helps demystify the universe for a broad audience. [1]\n\nThe next APOD will appear on September\u202f4,\u202f2026, and the archive will continue to expand. Users can search the archive for past entries, and the APOD team may release additional explanatory materials or related content in the future. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/"
-        }
-      ],
-      "original_url": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/",
-      "guid": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/"
-    },
-    "guardian_8c504f73": {
-      "id": "guardian_8c504f73",
-      "title": "Victims sue South African government over 1961 Sharpeville massacre that left 91 dead",
-      "category": "World",
-      "source": "guardian",
-      "time": "2026-09-03T10:59:41",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/91b59a0b2c289bcb16116a740b1c79099b1f170a/216_184_1088_870/master/1088.jpg?width=140&quality=85&auto=format&fit=max&s=7a9c0fcd859533d493ccc5d3da62b270",
-      "content": "Victims of the 1960 Sharpeville massacre have filed a lawsuit against the South African government, seeking compensation for the 91 people who were killed when police opened fire on a peaceful protest in the township of Sharpeville. The case marks a new chapter in a growing wave of litigation aimed at holding the state accountable for crimes committed during the apartheid era.\n\nThe lawsuit underscores the continuing struggle for justice that has persisted since the end of apartheid, illustrating how survivors and their families are now turning to the courts to obtain recognition and reparations for the state\u2019s past abuses.\n\nOn 21\u202fMarch\u202f1960, residents of Sharpeville gathered to protest the pass laws that required Black, Indian and Coloured South Africans to carry documents specifying where they were allowed to be at all times. The protest was organized by the Pan Africanist Congress (PAC), a breakaway group from the African National Congress that had split in 1959. The day began with bright weather and a sunny sky, a stark contrast to the violence that would soon erupt. Abraham\u202fMofokeng, a 20\u2011year\u2011old factory worker, was among the marchers and later recalled that the day could not have been expected to end so horribly. [1]\n\nPolice forces, acting on orders from the apartheid regime, opened fire on the unarmed demonstrators. The shooting resulted in the deaths of 91 people, many of whom were shot in the back or at close range. The massacre drew international condemnation and became a turning point in the anti\u2011apartheid movement. [1]\n\nThe pass laws were a cornerstone of the apartheid system, designed to control the movement of non\u2011white South Africans and enforce racial segregation. The laws forced individuals from the Black, Indian and Coloured communities to carry passbooks that limited where they could travel and work, effectively curbing their freedom of movement. [1]\n\nThe PAC\u2019s split from the ANC in 1959 reflected ideological differences over how best to confront apartheid. While the ANC favored a more gradual, negotiated approach, the PAC advocated for a more militant stance, which was evident in its organization of nationwide protests such as the one in Sharpeville. [1]\n\nVictims and their families are seeking both monetary compensation and an official acknowledgment of the state\u2019s responsibility for the massacre. The lawsuit is filed under provisions of the South African Constitution that allow for reparations and remedies for human rights violations. [1]\n\nThe government, led by the ANC since the end of apartheid, faces pressure to address these historical injustices. While the ANC has publicly acknowledged the crimes of the apartheid era, it has limited resources for large\u2011scale reparations programs. Human rights groups are closely monitoring the case as a potential precedent for future claims. [1]\n\nIf the court rules in favor of the plaintiffs, it could compel the government to allocate funds for compensation and memorialization, setting a legal precedent for other victims of apartheid\u2011era crimes. The outcome may also influence policy on transitional justice and the scope of reparations in South Africa. [1]\n\nThe next steps will involve the court scheduling hearings in the coming months. The government may respond with a defense or a settlement offer, and the case will be watched by domestic and international observers interested in the ongoing process of reckoning with South Africa\u2019s past. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
-      "guid": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid"
-    },
-    "reuters_e5066a1b": {
-      "id": "reuters_e5066a1b",
-      "title": "EXCLUSIVE: India stalls Alipay+ payments link over security, data concerns, sources say - Reuters",
-      "category": "World",
-      "source": "reuters",
-      "time": "2026-09-03T10:59:43",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28279%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27159%27%20cy%3D%27184%27%20r%3D%27140%27%20fill%3D%27hsl%28319%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "India has paused the rollout of Alipay+ payments link in the country, citing security and data concerns, sources say.\u202f[1]\n\nThe decision comes amid heightened scrutiny of cross\u2011border fintech services and data protection in India, potentially affecting merchants and consumers who rely on Chinese payment platforms.\n\nAccording to unnamed officials familiar with the matter, Indian authorities have halted the integration of Alipay+ link. No formal statement has been released, but the move is reportedly driven by worries about the security of the payment channel and the handling of user data.\n\nAlipay+ is a cross\u2011border payment service offered by Ant Group, a Chinese fintech company. It allows merchants in one country to accept payments from customers in another country using Alipay\u2019s infrastructure, and the service has been expanding into markets outside China.\n\nIndia has a history of cautious regulation of foreign fintech firms, especially those from China. The government has previously imposed restrictions on Chinese payment apps and has emphasized data localisation and security.\n\nThe pause could impact Chinese fintech firms seeking to expand in India, Indian merchants who might have used Alipay+ to attract Chinese tourists, and consumers who prefer Alipay for convenience.\n\nFor merchants, the delay may mean missing out on a popular payment option for Chinese travelers. For consumers, it could reduce payment choices. For regulators, it signals a continued emphasis on data security.\n\nThe move may prompt Ant Group to seek alternative channels or to comply with stricter Indian data protection requirements. It also reflects a broader trend of governments tightening controls on cross\u2011border data flows.\n\nThe Indian government may issue formal guidelines or a decision on whether Alipay+ can operate in the country. Ant Group may announce a revised approach. The outcome will likely influence other foreign fintech firms considering entry into India.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnVCOGpCQkJrVXBLSjBiZGtOb0FBR29SRG4xbzR3ckVHNEpBQ0dKTnNZQTY5STNlZ1FuUnRUaXV1X2NzSFNoVG5XRUhLZXB2alZZdjIwQlo5M1R6Um9rMUNBUk12T1NYUml3akk4aWxmSmNiemdXUGFpNzN0cHBmbHdNWjJZZGowLTBnb2FDZm9EWi15cDVCWFd5VGZKWkpwUDVuT1ZDcUVvTUtYcHB4MkdaY2s0aHBVZUZPczZR?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnVCOGpCQkJrVXBLSjBiZGtOb0FBR29SRG4xbzR3ckVHNEpBQ0dKTnNZQTY5STNlZ1FuUnRUaXV1X2NzSFNoVG5XRUhLZXB2alZZdjIwQlo5M1R6Um9rMUNBUk12T1NYUml3akk4aWxmSmNiemdXUGFpNzN0cHBmbHdNWjJZZGowLTBnb2FDZm9EWi15cDVCWFd5VGZKWkpwUDVuT1ZDcUVvTUtYcHB4MkdaY2s0aHBVZUZPczZR?oc=5",
-      "guid": "CBMivgFBVV95cUxPMnVCOGpCQkJrVXBLSjBiZGtOb0FBR29SRG4xbzR3ckVHNEpBQ0dKTnNZQTY5STNlZ1FuUnRUaXV1X2NzSFNoVG5XRUhLZXB2alZZdjIwQlo5M1R6Um9rMUNBUk12T1NYUml3akk4aWxmSmNiemdXUGFpNzN0cHBmbHdNWjJZZGowLTBnb2FDZm9EWi15cDVCWFd5VGZKWkpwUDVuT1ZDcUVvTUtYcHB4MkdaY2s0aHBVZUZPczZR"
-    },
-    "france24_f3b34a43": {
-      "id": "france24_f3b34a43",
-      "title": "Senegalese consumers rally online against rising cost of living",
-      "category": "World",
-      "source": "france24",
-      "time": "2026-09-03T11:00:13",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://s.france24.com/media/display/d161c5f6-a784-11f1-a4cb-005056bf30b7/w:1024/p:16x9/EN-20260902-215341-215537-CS.jpg",
-      "content": "In Dakar, the price of a kilogram of meat has jumped from 3,800 to 5,500 CFA francs in just a few months, while onions have doubled, sparking a nationwide online protest.1\n\nThe surge in food and living costs threatens the most vulnerable households and has prompted consumers to launch a digital campaign demanding price stability.1\n\nThe price of meat rose from 3,800 to 5,500 CFA francs per kilogram, and onions have doubled in price, according to reports.1 Fuel, transportation, rent and other essential goods have also seen price increases, leaving no sector untouched.1\n\nIn response, Senegalese consumers in Dakar have created the hashtag #30DaysForTheRightPrice, a campaign that has quickly spread across social media.1\n\nOrganisers of the campaign aim to draw the attention of authorities to the social consequences of the price hikes, especially for households with limited income.1\n\nSenegal\u2019s economy has faced rising inflation in recent years, driven by global commodity price increases and domestic supply chain disruptions.\n\nFood prices in Senegal are influenced by import duties, transportation costs, and local market dynamics, which have been exacerbated by recent fuel price hikes.\n\nThe higher cost of staple foods and rent strains household budgets, increasing the risk of food insecurity among low\u2011income families.\n\nConsumers, government officials, food distributors, and transport operators are all stakeholders in the price\u2011inflation debate.\n\nProducers and importers argue that higher costs reflect global market conditions, while fuel companies cite rising international oil prices.\n\nIf the government fails to address the price surge, the campaign could intensify, potentially leading to broader social unrest.\n\nThe next few weeks will see the government respond to the campaign, with potential policy measures such as price controls or subsidies, while the hashtag remains active on social media.\n\nFRANCE\u202f24\u2019s team on the ground reported the rise in prices and the emergence of the hashtag.1\n\nThe campaign\u2019s organisers have called for a 30\u2011day period of price stabilization, hoping to pressure authorities into action.1",
-      "sources": [
-        {
-          "n": 1,
-          "label": "France 24",
-          "url": "https://www.france24.com/en/video/20260903-senegalese-consumers-rally-online-against-rising-cost-of-living"
-        }
-      ],
-      "original_url": "https://www.france24.com/en/video/20260903-senegalese-consumers-rally-online-against-rising-cost-of-living",
-      "guid": "d7314bdc-a784-11f1-825d-bba181e6f0ff"
-    },
     "pbs_23f00fcf": {
       "id": "pbs_23f00fcf",
       "title": "U.S. strikes Iran again as Tehran targets American allies in Gulf region",
@@ -15999,32 +15879,153 @@
       ],
       "original_url": "https://www.irishtimes.com/crime-law/2026/10/15/garda-social-media-accounts-posting-about-cryptocurrency-after-apparent-hack/",
       "guid": "https://www.irishtimes.com/crime-law/2026/10/15/garda-social-media-accounts-posting-about-cryptocurrency-after-apparent-hack/"
+    },
+    "straitstimes_6d7c0c57": {
+      "id": "straitstimes_6d7c0c57",
+      "title": "JAL, All Nippon Airways to raise fuel surcharges amid Middle East tensions - The Straits Times",
+      "category": "World",
+      "source": "straitstimes",
+      "time": "2026-10-15T16:43:11",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Boeing_787_N1015B_ANA_Airlines_%2827611880663%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "Japan Airlines (JAL) and All Nippon Airways (ANA) have announced that they will raise fuel surcharges on their flights, citing rising fuel costs linked to tensions in the Middle East.\u202f[1]\n\nThe decision underscores how geopolitical instability in a key oil\u2011producing region can ripple through the global aviation industry, potentially pushing ticket prices higher for passengers and tightening profit margins for airlines.\n\nIn a recent announcement, both carriers said they would increase the fuel surcharge component of fares. The move comes amid heightened tensions in the Middle East that have disrupted oil supply routes and contributed to higher global oil prices.\u202f[1]\n\nFuel surcharges are fees added to airline tickets to cover the cost of jet fuel, which can fluctuate sharply. Airlines adjust these surcharges when oil prices rise or when supply uncertainty threatens to increase costs. Because the Middle East supplies a large share of the world\u2019s oil, conflicts or political instability there can tighten supply and drive prices upward, prompting carriers to pass some of that cost onto passengers.\n\nPassengers are likely to see the impact most on long\u2011haul routes, where fuel constitutes a larger share of operating expenses. Airlines may use the surcharge to protect their operating margins, while regulators monitor such changes to ensure compliance with consumer\u2011protection rules and to prevent unfair price hikes.\n\nThe surcharge hike could prompt other carriers to adjust their own pricing structures, potentially leading to a broader industry shift in fare composition. It also highlights the vulnerability of airline revenue streams to external geopolitical events that affect commodity prices.\n\nAirlines will likely revisit surcharge levels as oil markets evolve, and passengers will need to watch fare changes closely. Industry analysts will be monitoring whether the hikes are temporary adjustments or a sign of a longer\u2011term shift in airline pricing strategies.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb3MwTC0yX0FGaTRZc1dZR0V0RUdzcHNsTkZXdW1tYnBOT2loQ194UkJGbHpUalJ0M0JhblhfdmY1MWxlaVRvQl8tUXhiaWJteTd2cUNBWm1qOUs4ak1aU0F0TlNsSzI2T3lwckdneHF4R3Q4ZFRLNGNpUmc0SFNtbVdiMzRZWWhhcXhWandDYk03Q2dQckJTRXpYSDU5bERnNC1MOVJMX2xRRXR6aG12bU5nWGFQMzZO?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb3MwTC0yX0FGaTRZc1dZR0V0RUdzcHNsTkZXdW1tYnBOT2loQ194UkJGbHpUalJ0M0JhblhfdmY1MWxlaVRvQl8tUXhiaWJteTd2cUNBWm1qOUs4ak1aU0F0TlNsSzI2T3lwckdneHF4R3Q4ZFRLNGNpUmc0SFNtbVdiMzRZWWhhcXhWandDYk03Q2dQckJTRXpYSDU5bERnNC1MOVJMX2xRRXR6aG12bU5nWGFQMzZO?oc=5",
+      "guid": "CBMiuAFBVV95cUxOb3MwTC0yX0FGaTRZc1dZR0V0RUdzcHNsTkZXdW1tYnBOT2loQ194UkJGbHpUalJ0M0JhblhfdmY1MWxlaVRvQl8tUXhiaWJteTd2cUNBWm1qOUs4ak1aU0F0TlNsSzI2T3lwckdneHF4R3Q4ZFRLNGNpUmc0SFNtbVdiMzRZWWhhcXhWandDYk03Q2dQckJTRXpYSDU5bERnNC1MOVJMX2xRRXR6aG12bU5nWGFQMzZO"
+    },
+    "csmonitor_63fd7ab1": {
+      "id": "csmonitor_63fd7ab1",
+      "title": "Adding fuel to the fire: Trump\u2019s diesel deal stokes European concerns",
+      "category": "World",
+      "source": "csmonitor",
+      "time": "2026-10-15T16:43:14",
+      "read": "3 min read",
+      "mode": "compact",
+      "image": "https://images.csmonitor.com/csm/2026/10/1014_OPATTERNS_FORUM_LEDE.jpg?alias=standard_900x600",
+      "content": "President Trump\u2019s recent agreement with Russia to facilitate the trade of diesel fuel has sparked fresh unease among European leaders, who fear it could signal a shift in the United States\u2019 approach to its long\u2011standing partnership with the continent. [1] The deal, announced in a brief statement by the White House, marks a notable departure from the U.S. policy of restricting Russian energy exports to Western markets. [1]\n\nThe agreement is significant because it touches on two critical areas of U.S. foreign policy: energy security and the integrity of sanctions regimes. European governments have expressed concern that the arrangement may undermine the sanctions that have been a cornerstone of U.S. strategy against Russia, and could erode confidence in the reliability of American commitments to European security. [1] The potential impact on transatlantic relations has prompted calls for a reassessment of the U.S. stance on energy cooperation with Moscow.\n\nIn the announcement, President Trump outlined a framework that would allow Russian diesel producers to export fuel to the United States under new licensing arrangements. The details of the licensing process and the volume of diesel involved were not disclosed, but the statement confirmed that the U.S. would be opening a channel for Russian diesel that had previously been limited by sanctions and trade restrictions. [1]\n\nEuropean officials have responded by warning that the deal could weaken the collective sanctions framework and create a precedent for further Russian access to Western markets. They have also highlighted the risk that such cooperation could embolden Russia\u2019s geopolitical ambitions, thereby threatening the security architecture that underpins NATO and the broader European defense posture. [1]\n\nHistorically, U.S. and Russian energy relations have been characterized by cautious engagement. While the United States has sought to diversify its energy sources and reduce dependence on Russian oil, it has also maintained a complex relationship with Moscow, balancing economic interests against strategic concerns. The new diesel agreement represents a rare instance of direct cooperation that bypasses the usual diplomatic and regulatory hurdles.\n\nDiesel remains a vital component of the global energy mix, powering transportation fleets, industrial machinery, and heating systems. Europe, in particular, relies heavily on imported diesel to meet its transportation and industrial demands. The introduction of Russian diesel into the U.S. market could have ripple effects on global supply chains and pricing dynamics, potentially influencing European fuel markets indirectly.\n\nThe United States has imposed a series of sanctions on Russian energy companies in response to geopolitical tensions, especially following Russia\u2019s actions in Ukraine. These sanctions aim to restrict Russia\u2019s ability to finance its military and political objectives. The new diesel deal raises questions about whether the U.S. is willing to relax these restrictions, thereby altering the balance of enforcement and compliance that has governed U.S.\u2013Russia energy interactions.\n\nEurope\u2019s security calculus is closely tied to the reliability of U.S. support. NATO\u2019s deterrence strategy relies on the perception that the United States will act decisively against aggression. A shift in U.S. policy that appears to favor Russian economic interests could undermine this perception, prompting European allies to reassess their security arrangements and potentially seek alternative deterrence measures.\n\nThe primary stakeholders in this development include European governments, energy companies, and consumers. Energy firms may face new competition from Russian diesel, while consumers could experience changes in fuel prices and availability. Moreover, policymakers must navigate the legal and diplomatic ramifications of a deal that could contravene existing sanctions.\n\nThe long\u2011term implications of the diesel agreement suggest a potential erosion of trust between the United States and its European partners. If the U.S. is perceived as prioritizing short\u2011term economic gains over collective security objectives, European nations may question the durability of their alliance and explore diversification of both energy sources and defense partnerships.\n\nLooking ahead, European leaders are likely to convene to evaluate the U.S. decision and determine whether additional diplomatic or economic measures are warranted. The U.S. administration may face scrutiny from Congress, particularly from members who have voiced concerns about the integrity of sanctions and the broader implications for U.S. foreign policy. The outcome of these discussions will shape the trajectory of transatlantic relations in the coming months.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Christian Science Monitor",
+          "url": "https://www.csmonitor.com/Perspectives/Essays/2026/1015/russia-us-ukraine-diesel-deal-europe-peace?icid=rss"
+        }
+      ],
+      "original_url": "https://www.csmonitor.com/Perspectives/Essays/2026/1015/russia-us-ukraine-diesel-deal-europe-peace?icid=rss",
+      "guid": "3be0f5338d7b5dce64fe3bcb072cac80"
+    },
+    "smh_4f077e1c": {
+      "id": "smh_4f077e1c",
+      "title": "\u2018Trading drugs for weapons\u2019: Police charge CFMEU delegate over union HQ deals - SMH.com.au",
+      "category": "World",
+      "source": "smh",
+      "time": "2026-10-15T16:43:17",
+      "read": "3 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Kaufmann-1568.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "Police have charged a delegate of the Construction, Forestry, Maritime, Mining and Energy Union (CFMEU) over alleged union headquarters deals that involved trading drugs for weapons. The case, reported by the Sydney Morning Herald, claims that the delegate was implicated in exchanging narcotics for firearms as part of the union\u2019s procurement activities.\u202f[1]\u202fThe reporting does not specify the delegate\u2019s name, the exact nature of the deals, or the precise charges filed.\u202f[1]\n\nThe allegations raise concerns about the integrity of union leadership and the potential for illicit activity within a major Australian trade union. If proven, the case could undermine confidence in the CFMEU\u2019s governance and prompt scrutiny of its internal oversight mechanisms. It also highlights the broader issue of how unions manage contracts and the risks of corruption when large sums of money and sensitive equipment are involved.\n\nAccording to the brief coverage, police investigators identified the delegate as a key figure in the union\u2019s headquarters operations. The allegations centre on a purported exchange in which the delegate allegedly received illegal drugs in return for providing or facilitating access to firearms. The police action suggests that the investigation uncovered evidence sufficient to bring formal charges, though the specific legal provisions invoked remain undisclosed.\u202f[1]\n\nThe CFMEU is one of Australia\u2019s largest unions, representing workers across construction, forestry, maritime, mining, and energy sectors. It negotiates collective agreements, manages workplace safety initiatives, and provides support services to its members. Union headquarters deals typically involve agreements with employers, suppliers, and government bodies to secure resources, services, and contractual arrangements that benefit members.\u202f[2]\n\nIn Australia, a police charge is the first formal step in the criminal justice process. It means that law enforcement has gathered enough evidence to bring a case before a court, and the accused will be required to appear for arraignment. The charge does not imply guilt; rather, it initiates the legal proceedings that may lead to a trial, plea, or dismissal depending on the evidence presented.\u202f[3]\n\nThe implications of the case extend beyond the individual delegate. Union members may question the transparency of their leadership, while employers and suppliers could reassess their relationships with the CFMEU. Public perception of unions could be affected, potentially influencing policy debates about union regulation and oversight. The case may also prompt internal reviews within the CFMEU to strengthen compliance and anti\u2011corruption measures.\u202f[4]\n\nStakeholders in the unfolding situation include the CFMEU itself, its members, the police and prosecutorial authorities, and the broader public. The union\u2019s response\u2014whether it will cooperate with investigators or defend the delegate\u2014will be closely watched. Employers who have engaged in contracts with the union may also seek assurances that their agreements remain secure and compliant with legal standards.\u202f[5]\n\nWhile the immediate legal outcome remains uncertain, the case could lead to a broader inquiry into union procurement practices and the potential for illicit conduct within trade unions. If the allegations are substantiated, it may trigger reforms aimed at enhancing transparency, accountability, and the enforcement of anti\u2011corruption policies within the CFMEU and similar organizations.\u202f[6]\n\nObservers should monitor the next steps in the legal process, including the scheduled court appearance of the charged delegate and any statements issued by the CFMEU. The police investigation may also release further details as evidence is examined, and the union may announce internal measures to address the allegations. The outcome of this case will likely influence both the union\u2019s internal governance and the public\u2019s trust in trade union institutions.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Sydney Morning Herald",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSmlIMS1US0tmM2ttUUNWVndBaTBMZFdOQkFwYVJzeXhQOG9wNTg3cHFlSUJxUVRmLUphUl9nLUxIYUZ5S0d1VzFLQTB0UnRCNmExWm1uWVQza1BTUl9MalpCLUNlcFpmY2xjZm9SeHF4anBuWDBtYzA1aFY1emRKRHh2ajR3VTg2M3JVUUNTSkYyOUlwZHR2d1BZZ1VHMjB6cEVDLXF0WDJLeGthdHNTcE1SX1NwV2dMX25QS1dUNm1YSTI5d01Fb21HMG8tOWlPYmc?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSmlIMS1US0tmM2ttUUNWVndBaTBMZFdOQkFwYVJzeXhQOG9wNTg3cHFlSUJxUVRmLUphUl9nLUxIYUZ5S0d1VzFLQTB0UnRCNmExWm1uWVQza1BTUl9MalpCLUNlcFpmY2xjZm9SeHF4anBuWDBtYzA1aFY1emRKRHh2ajR3VTg2M3JVUUNTSkYyOUlwZHR2d1BZZ1VHMjB6cEVDLXF0WDJLeGthdHNTcE1SX1NwV2dMX25QS1dUNm1YSTI5d01Fb21HMG8tOWlPYmc?oc=5",
+      "guid": "CBMi0gFBVV95cUxQSmlIMS1US0tmM2ttUUNWVndBaTBMZFdOQkFwYVJzeXhQOG9wNTg3cHFlSUJxUVRmLUphUl9nLUxIYUZ5S0d1VzFLQTB0UnRCNmExWm1uWVQza1BTUl9MalpCLUNlcFpmY2xjZm9SeHF4anBuWDBtYzA1aFY1emRKRHh2ajR3VTg2M3JVUUNTSkYyOUlwZHR2d1BZZ1VHMjB6cEVDLXF0WDJLeGthdHNTcE1SX1NwV2dMX25QS1dUNm1YSTI5d01Fb21HMG8tOWlPYmc"
+    },
+    "conversation_265dd2e3": {
+      "id": "conversation_265dd2e3",
+      "title": "As AI takes on more tasks, what happens when people have to jump in to clean up after it?",
+      "category": "Science",
+      "source": "conversation",
+      "time": "2026-10-15T16:44:00",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "https://images.theconversation.com/files/765696/original/file-20261012-50-ssn130.jpg?ixlib=rb-4.1.1&amp;rect=0%2C689%2C8256%2C4128&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "content": "AI systems are increasingly taking on tasks that once required human judgment, yet the need for a human \u201cin the loop\u201d to oversee AI decisions remains a central concern. The question now is what becomes of that human overseer when the AI consistently performs correctly and rarely needs correction.\u00b9\n\nThe issue matters to a broad range of stakeholders. Workers who currently monitor AI outputs may face changing job responsibilities, while companies must balance efficiency gains against accountability and regulatory scrutiny. Regulators and policy makers are also watching how human oversight evolves, as it informs standards for safety, fairness, and transparency in automated systems.\n\nThe article notes that human oversight is still considered essential for AI decision\u2011making, but it raises the question of how that role changes when the AI\u2019s accuracy improves over time.\u00b9\n\nHuman\u2011in\u2011the\u2011loop (HITL) is a design principle that places a person in a position to review, approve, or correct AI outputs before they are acted upon. HITL is common in high\u2011stakes domains such as medical diagnosis, autonomous driving, and financial fraud detection, where errors can have serious consequences.\n\nIn practice, HITL involves a workflow where the AI generates a recommendation or classification, and a human operator reviews the result, often with access to supporting data or explanations. If the human finds a mistake, they can override the AI\u2019s decision or flag it for further investigation. This process helps maintain trust and compliance with legal or ethical standards.\n\nThe increasing deployment of AI across industries has led to a growing number of HITL roles. In some cases, the same workers who once performed routine tasks now spend most of their time checking AI outputs, a shift that can affect job satisfaction and skill requirements.\n\nCompanies that rely on AI must decide how to structure HITL responsibilities. Some opt for a full review of every AI decision, while others adopt a risk\u2011based approach, reviewing only a sample of outputs or those that fall into high\u2011confidence categories. The chosen strategy influences both operational cost and the likelihood of human error.\n\nRegulators are beginning to codify expectations for HITL, especially in sectors where AI decisions impact public safety or civil rights. Guidelines may require documented oversight procedures, audit trails, and evidence that human reviewers have the necessary expertise to evaluate AI outputs.\n\nThe article suggests that as AI systems become more reliable, the human overseer\u2019s role may shift from correcting mistakes to supervising the AI\u2019s overall performance and ensuring compliance with broader policy goals. This transition could create new supervisory positions that focus on strategy, ethics, and governance rather than day\u2011to\u2011day error checking.\n\nSuch a shift raises questions about training and compensation. Workers may need advanced data literacy, critical thinking, and domain expertise to evaluate AI outputs effectively. Employers may need to invest in reskilling programs or hire specialists who can bridge technical and regulatory knowledge.\n\nLooking ahead, several developments will shape the future of human oversight in AI. Academic research is exploring automated monitoring tools that can flag when an AI\u2019s confidence is low, potentially reducing the need for constant human review. Policy makers are drafting frameworks that outline the responsibilities of AI developers, operators, and overseers, aiming to standardize HITL practices across industries.\n\nThe next few months will likely see pilot programs testing new oversight models, the release of industry\u2011specific guidelines, and the emergence of certification schemes for AI oversight professionals. Stakeholders will need to monitor how these initiatives affect workforce dynamics, regulatory compliance, and the overall reliability of AI systems.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Conversation",
+          "url": "https://theconversation.com/as-ai-takes-on-more-tasks-what-happens-when-people-have-to-jump-in-to-clean-up-after-it-292340"
+        }
+      ],
+      "original_url": "https://theconversation.com/as-ai-takes-on-more-tasks-what-happens-when-people-have-to-jump-in-to-clean-up-after-it-292340",
+      "guid": "tag:theconversation.com,2011:article/292340"
+    },
+    "bbc_f336af08": {
+      "id": "bbc_f336af08",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "category": "World",
+      "source": "bbc",
+      "time": "2026-10-15T16:44:20",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b54/live/4c6fe8b0-c899-11f1-a64c-550be9e3c66b.jpg",
+      "content": "Russia has accused Ukraine of striking an oil refinery, and President Volodymyr\u202fZelensky has said that the pause on attacks against energy sites has ended following fresh Russian assaults.\u202f[1]\n\nThe reversal of the pause marks a potential escalation in the war\u2019s targeting of critical infrastructure, raising concerns about civilian harm and the application of international humanitarian law.\u202f[1]\n\nRussian officials announced that Ukraine had struck an oil refinery, a claim that Ukraine has not yet confirmed.\u202f[1]\n\nIn response, Zelensky said that the pause on attacks against energy sites had ended, citing the recent Russian attacks as justification.\u202f[1]\n\nOil refineries are key to fuel production and supply chains, and their disruption can affect both military logistics and civilian transportation.\n\nAttacks on energy infrastructure have been a feature of the war, with both sides claiming responsibility for various incidents.\n\nThe Ukrainian government has previously announced pauses on strikes against energy sites to mitigate civilian casualties, a policy that has now been reversed.\n\nThe refinery attack, if verified, could reduce fuel availability for Ukrainian forces and civilians, potentially impacting the broader economy.\n\nRussian officials argue that such attacks target civilian infrastructure, while Ukrainian officials maintain that they target military objectives.\n\nInternational observers are concerned that the resumption of attacks on energy sites could trigger wider condemnation and affect diplomatic efforts.\n\nResuming strikes on energy infrastructure may lead to increased civilian casualties and fuel shortages, potentially drawing international criticism.\n\nThe accusation also indicates a hardening of Russia\u2019s stance, which could influence future negotiations and the overall trajectory of the conflict.\n\nAnalysts will monitor subsequent statements from both sides, any evidence of the refinery attack, and responses from international bodies such as the UN and the European Union.\n\nUnder international humanitarian law, attacks on civilian infrastructure are prohibited unless the target is a legitimate military objective.\n\nThe resumption of attacks on energy sites could prompt retaliatory measures and further destabilize the region.\n\nFuel shortages could affect hospitals, emergency services, and civilian mobility.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o#0"
+    },
+    "france24_bc28bb9c": {
+      "id": "france24_bc28bb9c",
+      "title": "'We're done': Ukraine resumes strikes on Russian oil refineries as 'only leverage' for peace talks",
+      "category": "World",
+      "source": "france24",
+      "time": "2026-10-15T16:45:01",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://s.france24.com/media/display/58af4524-c8af-11f1-8d33-6313a763b466/w:1024/p:16x9/EN-20261015-130211-131029-CS.jpg",
+      "content": "Ukraine has resumed attacks on Russian oil refineries after President Volodymyr\u202fZelensky declared the country \u201cdone\u201d with President Donald\u202fTrump\u2019s self\u2011declared energy ceasefire.\u202f[1]\n\nThe move signals a shift in Ukraine\u2019s war strategy and raises questions about the future of energy\u2011based diplomatic leverage in the conflict.\u202f[1]\n\nZelensky\u2019s statement came after Trump announced an energy ceasefire that would pause attacks on Russian energy infrastructure. The Ukrainian leader said the ceasefire was not acceptable and that Ukraine would continue to strike Russian refineries.\u202f[1]\n\nThe resumption of strikes follows reports that Russia has continued to target Ukraine\u2019s own energy facilities, undermining the premise of a mutual ceasefire.\u202f[1] \nThe available reporting does not specify the exact targets or dates of the strikes.\n\nAn energy ceasefire would require both sides to agree to halt attacks on each other\u2019s energy assets, a concept that has been debated since the war began.\n\nWestern sanctions have frozen billions of Russian assets, and Washington has pursued economic normalization with Moscow in an effort to reduce tensions, but has not secured substantive concessions from Russia.\n\nUkraine\u2019s military and civilian population, Russian security forces, the United States, and European allies are all affected by the decision to resume strikes.\n\nDelano\u202fD\u2019Souza welcomed Peter\u202fZalmayev, Founder and Director of the Eurasia Democracy Initiative, during a live broadcast from Kyiv.\u202f[1] \nPeter\u202fZalmayev provided analysis during the same broadcast.\u202f[1] \nZalmayev warned that the energy ceasefire presupposes both parties to be able to \u201ctango and dance this dance,\u201d implying that Russia\u2019s continued attacks make the ceasefire untenable. He also cautioned that Ukraine might need to exercise restraint to maintain U.S. support.\u202f[1]\n\nThe resumption of attacks could reduce the leverage Ukraine has in negotiating a broader peace settlement, as the energy ceasefire was seen as a bargaining tool.\u202f[1]\n\nThe situation also highlights the limits of Washington\u2019s economic normalization strategy, which has not yielded meaningful concessions from Russia despite the freezing of assets.\u202f[1]\n\nThe next steps will involve monitoring whether Ukraine continues to target Russian refineries, how the U.S. responds to the renewed attacks, and whether any new diplomatic initiatives emerge to address the energy infrastructure dispute.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "France 24",
+          "url": "https://www.france24.com/en/video/20261015-we-re-done-ukraine-resumes-strikes-on-russian-oil-refineries-as-only-leverage-for-peace-talks-1"
+        }
+      ],
+      "original_url": "https://www.france24.com/en/video/20261015-we-re-done-ukraine-resumes-strikes-on-russian-oil-refineries-as-only-leverage-for-peace-talks-1",
+      "guid": "a36ed962-c8af-11f1-bc01-231790081c82"
     }
   },
   "featured": {
-    "hero": "nasa_329f4ef8",
+    "hero": "straitstimes_6d7c0c57",
     "stack": [
-      "googlenews_ba08e50d",
-      "npr_53fb3d29",
-      "cjr_8887cfa7"
+      "csmonitor_63fd7ab1",
+      "smh_4f077e1c",
+      "conversation_265dd2e3"
     ],
     "latest": [
+      "conversation_265dd2e3",
+      "smh_4f077e1c",
+      "csmonitor_63fd7ab1",
+      "nasa_329f4ef8",
       "cjr_8887cfa7",
-      "npr_53fb3d29",
-      "googlenews_ba08e50d",
-      "npr_66382031",
-      "guardian_2799820e",
-      "dw_ed7c4b29"
+      "npr_53fb3d29"
     ],
     "world": [
-      "irishtimes_bbd526d6",
-      "dw_d5e6b046",
-      "dw_ed7c4b29",
-      "france24_2b432116"
+      "straitstimes_6d7c0c57",
+      "csmonitor_63fd7ab1",
+      "smh_4f077e1c",
+      "bbc_f336af08"
     ]
   },
   "categoryIndex": {
     "News": [
+      "npr_66382031",
       "pbs_3280ace5",
       "fullfact_7e2e1c9e",
       "cjr_8f27963d",
@@ -16033,20 +16034,19 @@
       "pbs_736c96dd",
       "snopes_e5d99a87",
       "npr_03af7b7e",
-      "snopes_b53c2328",
-      "ap_4789c5a4"
+      "snopes_b53c2328"
     ],
     "World": [
+      "france24_bc28bb9c",
+      "bbc_f336af08",
+      "dw_ed7c4b29",
       "irishtimes_bbd526d6",
       "dw_d5e6b046",
       "smh_0ecfd2f3",
       "bbc_bdc5cde8",
       "france24_2b432116",
       "csmonitor_8f9928aa",
-      "dw_0ac864bd",
-      "reuters_96e4e09c",
-      "smh_e9be189f",
-      "csmonitor_8c89ee30"
+      "dw_0ac864bd"
     ],
     "Politics": [
       "guardian_c79b8d31",
@@ -16085,6 +16085,7 @@
       "googlenews_912e0859"
     ],
     "Science": [
+      "guardian_2799820e",
       "nasa_47e6d941",
       "nasa_0897cf1d",
       "guardian_9b0fb1ac",
@@ -16093,10 +16094,10 @@
       "nasa_a1121852",
       "berkeleyuniv_ddd101c3",
       "nature_742e8119",
-      "berkeleyuniv_51b989ba",
-      "nasa_dccae35e"
+      "berkeleyuniv_51b989ba"
     ],
     "Business": [
+      "googlenews_ba08e50d",
       "googlenews_820e63fa",
       "googlenews_c371c1e9",
       "marketwatch_4af18c13",
@@ -16105,11 +16106,10 @@
       "googlenews_804db985",
       "googlenews_bd560b79",
       "marketwatch_87da845c",
-      "googlenews_7f398431",
-      "googlenews_fa5a4f42"
+      "googlenews_7f398431"
     ]
   },
-  "breaking": "Garda social media accounts posting about cryptocurrency after apparent hack",
+  "breaking": "JAL, All Nippon Airways to raise fuel surcharges amid Middle East tensions - The Straits Times",
   "events": [
     {
       "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new l",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
+    "Adding fuel to the fire: Trump\u2019s diesel deal stokes European concerns",
+    "JAL, All Nippon Airways to raise fuel surcharges amid Middle East tensions - The",
     "Brazil to shorten workweek in win for Lula ahead of runoff",
-    "APOD: 2026 October 15 \u2013 The Milky Way over Manhattan",
-    "Anthropic flags revenue surge to investors ahead of stock market debut - BBC",
-    "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'"
+    "APOD: 2026 October 15 \u2013 The Milky Way over Manhattan"
   ]
 }
