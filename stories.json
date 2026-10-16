@@ -1,65 +1,5 @@
 {
   "stories": {
-    "nature_fc38c3fc": {
-      "id": "nature_fc38c3fc",
-      "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
-      "category": "Science",
-      "source": "nature",
-      "time": "2026-09-04T10:21:46",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02739-3/d41586-026-02739-3_53198910.jpg",
-      "content": "Ancient Egyptian coffin decorations and wall paintings were found to contain tissue from a wide range of organisms, according to a study published in *Nature* on 4\u202fSeptember\u202f2026. The research, which examined pigment samples from burial chambers and temple walls, traced the biological material to diverse animal sources, a finding that challenges long\u2011standing assumptions about the composition of Egyptian art pigments. [1]\n\nThe discovery matters because it reshapes our understanding of how the ancient Egyptians produced their iconic artwork. If pigments were derived from animal tissues rather than solely from minerals or plant dyes, it suggests a more complex procurement system and a broader use of biological resources in the creation of funerary and religious imagery. The implications extend to conservation science, where knowledge of the original materials can inform preservation strategies for priceless artifacts. [1]\n\nThe study\u2019s authors collected microscopic samples from the surface layers of coffin decorations and wall paintings in several Egyptian sites. By applying protein\u2011analysis techniques, they identified remnants of tissue that could be linked to a variety of organisms. The analysis revealed that the pigments were not homogeneous but instead incorporated biological material from multiple sources. The paper was published in *Nature* and represents the first systematic biochemical investigation of this kind on Egyptian art. [1]\n\nAncient Egyptian art has long been celebrated for its vivid colors and symbolic precision. Traditional scholarship has attributed the bright reds, blues, and greens of tomb paintings and coffins to mineral pigments such as malachite, lapis lazuli, and Egyptian blue, as well as plant\u2011derived dyes and the insect\u2011derived cochineal used for red. The new evidence indicates that, in addition to these known sources, the Egyptians also incorporated animal tissues into their pigment recipes. This expands the known palette of materials and suggests a more sophisticated understanding of color chemistry. [1]\n\nThe study\u2019s findings are of particular interest to several groups. Art historians will need to reconsider the iconographic and symbolic meanings of colors that may have been produced with animal tissues. Conservators and museum curators will have to re\u2011evaluate the chemical stability of pigments and the appropriate environmental conditions for long\u2011term preservation. Archaeologists and bioarchaeologists may also find new avenues for exploring trade networks, as the procurement of diverse animal tissues would have required access to a range of fauna across Egypt and beyond. [1]\n\nIf the pigments indeed incorporated tissues from multiple organisms, it implies that the ancient Egyptians had developed a sophisticated system for sourcing, processing, and combining biological materials. This could reflect advanced knowledge of pigment preparation and a capacity to manipulate natural resources to achieve desired hues. Moreover, the presence of animal tissues might aid in the authentication and dating of artifacts, as specific species or tissue types could be linked to particular time periods or geographic regions. [1]\n\nThe next steps for researchers will likely involve more detailed species identification, perhaps through DNA sequencing or more refined protein profiling. Mapping the origins of the tissues could illuminate trade routes and resource exploitation patterns in ancient Egypt. Collaborative work between chemists, biologists, and Egyptologists will be essential to fully interpret the significance of these findings and to integrate them into broader narratives of ancient material culture. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Nature",
-          "url": "https://www.nature.com/articles/d41586-026-02739-3"
-        }
-      ],
-      "original_url": "https://www.nature.com/articles/d41586-026-02739-3",
-      "guid": "https://www.nature.com/articles/d41586-026-02739-3"
-    },
-    "dw_24cce5fc": {
-      "id": "dw_24cce5fc",
-      "title": "Why the North Korean women's football team is so good",
-      "category": "World",
-      "source": "dw",
-      "time": "2026-09-04T10:22:27",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://static.dw.com/image/70310598_6.jpg",
-      "content": "North Korea\u2019s under\u201120 women\u2019s football squad, the defending champions, have entered the 2024 FIFA U\u201120 Women\u2019s World Cup in Poland after securing their third title in 2024.\u202f[1]\n\nThe team\u2019s continued dominance raises questions about the factors that enable a country with limited international exposure to excel in a global sport, and the tournament offers a rare opportunity for the players to compete against diverse opponents. The article also asks why the isolated state is so good at the game.\u202f[1]\n\nThe squad, composed of young footballers, is set to compete in Poland, where the tournament is being held. They entered as defending champions after winning the 2024 edition, marking their third overall title.\u202f[1]\n\nThe FIFA U\u201120 Women\u2019s World Cup is a biennial competition that showcases the best under\u201120 talent worldwide.\n\nNorth Korea has historically performed well in women\u2019s football, with multiple titles.\u202f[1]\n\nThe isolated nature of North Korea means that its sports programs are heavily state\u2011controlled, with athletes often identified and trained from a young age.\n\nThe players themselves stand to gain international experience and exposure. For North Korea, the team\u2019s success serves as a source of national pride and a tool for international propaganda.\n\nThe global football community watches to see how the team will perform against opponents from more open footballing nations, and whether their style of play will influence tactical trends.\n\nThe team\u2019s presence in Poland may provide insight into how a state\u2011run sports system can produce high\u2011caliber athletes, prompting discussions about training methodologies and talent identification.\n\nThe success also highlights the role of women\u2019s football in North Korea, suggesting that the state invests in women\u2019s sports alongside men\u2019s programs.\n\nThe next matches in the group stage will determine whether the defending champions can retain their title. Observers will also look for any changes in squad selection or tactical approach as the tournament progresses.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Deutsche Welle",
-          "url": "https://www.dw.com/en/why-the-north-korean-women-s-football-team-is-so-good/a-70313505?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "original_url": "https://www.dw.com/en/why-the-north-korean-women-s-football-team-is-so-good/a-70313505?maca=en-rss-en-all-1573-rdf",
-      "guid": "https://www.dw.com/en/why-the-north-korean-women-s-football-team-is-so-good/a-70313505?maca=en-rss-en-all-1573-rdf"
-    },
-    "googlenews_0034a1a9": {
-      "id": "googlenews_0034a1a9",
-      "title": "Judge grants injunction allowing LSU to sign former NFL players - NBC Sports",
-      "category": "Sports",
-      "source": "googlenews",
-      "time": "2026-09-04T10:23:29",
-      "read": "4 min read",
-      "mode": "long",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "content": "A federal judge in Louisiana has granted an injunction that allows Louisiana State University to sign former National Football League (NFL) players, overturning a restriction that had prevented the school from adding ex\u2011professionals to its roster. The decision follows a lawsuit filed by the conference that governs LSU\u2019s athletics, the SEC, which argued that the university\u2019s attempts to recruit former NFL athletes violated NCAA rules and the terms of the university\u2019s own compliance program. The ruling is expected to have immediate implications for LSU\u2019s football program and may set a precedent for other schools seeking to bring in players with prior professional experience.\u202f[1]\n\nThe injunction is significant because it restores LSU\u2019s ability to tap a talent pool that has become increasingly valuable in the highly competitive landscape of college football. By allowing the Tigers to sign former NFL players, the university can potentially strengthen its roster with experienced athletes who have already proven themselves at the highest level of the sport. The decision also raises questions about the balance between the NCAA\u2019s amateurism model and the evolving realities of college athletics, where schools are under pressure to remain competitive while maintaining compliance with complex eligibility rules.\u202f[1]\n\nThe judge\u2019s ruling came after the SEC sued LSU, alleging that the university had violated its own compliance policies by attempting to recruit players who had previously played professionally. The lawsuit claimed that LSU\u2019s actions undermined the integrity of the conference and the NCAA\u2019s amateurism framework. In response, LSU argued that the NCAA\u2019s eligibility rules had been misinterpreted and that former NFL players should be allowed to compete at the collegiate level under certain conditions. The court, after reviewing the arguments, granted the injunction, effectively allowing LSU to proceed with signing ex\u2011NFL athletes.\u202f[1]\n\nThe NCAA\u2019s eligibility rules have historically barred athletes who have received payment for playing from competing in college sports. However, the organization has made limited exceptions, such as allowing players who have played professionally in other sports or who have not received compensation, to participate in college athletics. The legal dispute centered on whether former NFL players who had earned salaries could be considered amateurs under the NCAA\u2019s definition. The court\u2019s decision suggests that the rules may be more flexible than previously interpreted, at least in the context of LSU\u2019s compliance procedures.\u202f[1]\n\nLane Kiffin, LSU\u2019s head football coach, has been a vocal advocate for bringing in former NFL talent, arguing that it can give the program a competitive edge. Kiffin\u2019s stance has been controversial, with critics claiming that it could erode the amateur status of college athletes and create an uneven playing field. The injunction effectively supports Kiffin\u2019s strategy, allowing him to pursue a roster that includes players with professional experience. The move also places LSU at the center of a broader debate about the future of college sports and the role of former professionals in collegiate competition.\u202f[1]\n\nStakeholders in this development include LSU\u2019s athletic department, the SEC, the NCAA, the players themselves, and the broader college football community. LSU\u2019s administration will need to navigate the new legal landscape while ensuring that its compliance program remains robust. The SEC, meanwhile, will likely monitor the situation closely, as the decision could influence the conference\u2019s own policies and its relationship with the NCAA. Former NFL players who are interested in returning to college football may now see a clearer path to doing so, while other schools may look to LSU\u2019s experience as a precedent for their own recruitment strategies.\u202f[1]\n\nThe ruling could have far\u2011reaching implications for the structure of college athletics. If the decision is upheld on appeal, it may prompt the NCAA to revisit its eligibility rules, potentially opening the door for more former professionals to compete at the collegiate level. This could shift the competitive balance among programs and alter the traditional model of college sports as a feeder system to the professional ranks. The SEC\u2019s lawsuit and the subsequent injunction highlight the tension between maintaining amateurism and adapting to the realities of modern college athletics, where financial incentives and media exposure have increased dramatically.\u202f[1]\n\nLooking ahead, the SEC is expected to file an appeal of the injunction, arguing that the decision undermines the conference\u2019s compliance framework and the NCAA\u2019s amateurism principles. LSU\u2019s athletic department will likely seek to finalize contracts with former NFL players in the coming weeks, while the NCAA may issue guidance on how to interpret its eligibility rules in light of the court\u2019s ruling. The outcome of the SEC\u2019s appeal and any subsequent NCAA rulings will determine whether LSU\u2019s ability to sign former NFL players becomes a lasting change or a temporary legal victory.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcHNhWldULTFyZVhkUjV3Zzhqb2pxNTU4SmtxT212VUNxQjMwbDZDT3RLSmJ4VXlCbEwwa0I3ZkxENjA0RjVKX1FpaDZBMk1DOHVIRUFrc0Vra0N0clF6OHNoRXhDaHkzci1LWWg4Y1NiUnZNZk5UNjVQVFJrdmNkTDNKX3BoMW9RWEpNWHFxVE14dlBMYjlNM1FDRVpoaVhYNnN3X0YxdlZjQ3BXOFM2NDVmMVJiUmFzYkhTb01ZSVRzc0U?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcHNhWldULTFyZVhkUjV3Zzhqb2pxNTU4SmtxT212VUNxQjMwbDZDT3RLSmJ4VXlCbEwwa0I3ZkxENjA0RjVKX1FpaDZBMk1DOHVIRUFrc0Vra0N0clF6OHNoRXhDaHkzci1LWWg4Y1NiUnZNZk5UNjVQVFJrdmNkTDNKX3BoMW9RWEpNWHFxVE14dlBMYjlNM1FDRVpoaVhYNnN3X0YxdlZjQ3BXOFM2NDVmMVJiUmFzYkhTb01ZSVRzc0U?oc=5",
-      "guid": "CBMiwwFBVV95cUxPcHNhWldULTFyZVhkUjV3Zzhqb2pxNTU4SmtxT212VUNxQjMwbDZDT3RLSmJ4VXlCbEwwa0I3ZkxENjA0RjVKX1FpaDZBMk1DOHVIRUFrc0Vra0N0clF6OHNoRXhDaHkzci1LWWg4Y1NiUnZNZk5UNjVQVFJrdmNkTDNKX3BoMW9RWEpNWHFxVE14dlBMYjlNM1FDRVpoaVhYNnN3X0YxdlZjQ3BXOFM2NDVmMVJiUmFzYkhTb01ZSVRzc0U"
-    },
     "guardian_3d2e8b80": {
       "id": "guardian_3d2e8b80",
       "title": "Tell us: have you given up on trying to buy your first home?",
@@ -15999,32 +15939,93 @@
       ],
       "original_url": "https://www.cjr.org/laurels-and-darts/abcs-botched-cleanup-eric-don-jr-trump-sons-invest-government-contract-defense-companies-story-errors-roger-marshall-san-francisco-sexual-assault-reporting.php",
       "guid": "https://www.cjr.org/?p=123666"
+    },
+    "irishtimes_f3cff82f": {
+      "id": "irishtimes_f3cff82f",
+      "title": "Man advanced towards garda\u00ed and said \u2018shoot me, shoot me, shoot me\u2019, trial hears",
+      "category": "World",
+      "source": "irishtimes",
+      "time": "2026-10-16T20:50:17",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://www.irishtimes.com/resizer/v2/A6SKAXHHABDZHKL2XIY5YMVPNY.jpg?auth=092ad3247dd7fca8bf43954ed3437b9fd775377a7d6eb24036568edafc3ee1f8&smart=true&width=630&height=350",
+      "content": "Robert O\u2019Connor was heard at trial to have advanced toward Garda\u00ed and shouted \u201cshoot me, shoot me, shoot me\u201d after fatally stabbing his parents and his younger brother, who has special needs, at their family home in County\u202fLouth.\u202f[1]\n\nThe case underscores the tragic reality of domestic violence and the challenges faced by law enforcement when confronting violent suspects. It also highlights the legal process in Ireland and the community\u2019s response to such incidents.\u202f[1]\n\nAccording to court testimony, O\u2019Connor entered the family residence in County\u202fLouth, where he stabbed his parents and his younger brother to death. He then approached Garda\u00ed who were called to the scene and shouted the phrase.\u202f[1]\n\nThe trial heard that the defendant advanced toward the officers and repeatedly said \u201cshoot me, shoot me, shoot me\u201d as they attempted to apprehend him.\u202f[1]\n\nThe incident occurred at the family home in County\u202fLouth, a region in eastern Ireland. The case is being heard in the local court.\u202f[1]\n\nGarda\u00ed, Ireland\u2019s national police service, respond to domestic violence calls and are trained to handle violent offenders. The Irish legal system requires a trial to determine guilt and sentencing.\n\nThe case involves a man who killed his parents and a younger brother with special needs, a situation that raises concerns about mental health and family dynamics. The court has heard statements from the defendant and witnesses.\u202f[1]\n\nStakeholders include the victims\u2019 families, the Garda\u00ed who responded, the defendant, and the broader community. The case also involves the legal system and the public\u2019s trust in law enforcement.\u202f[1]\n\nThe incident highlights the need for better support for families facing domestic violence and for mental health resources. It also underscores the importance of police training in de\u2011escalation.\n\nThe court will continue to hear evidence, and a verdict will eventually be rendered. Subsequent sentencing and any potential appeals will follow.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/courts/2026/10/16/man-advanced-towards-gardai-and-said-shoot-me-shoot-me-shoot-me-trial-hears/"
+        }
+      ],
+      "original_url": "https://www.irishtimes.com/crime-law/courts/2026/10/16/man-advanced-towards-gardai-and-said-shoot-me-shoot-me-shoot-me-trial-hears/",
+      "guid": "https://www.irishtimes.com/crime-law/courts/2026/10/16/man-advanced-towards-gardai-and-said-shoot-me-shoot-me-shoot-me-trial-hears/"
+    },
+    "googlenews_8c28fa61": {
+      "id": "googlenews_8c28fa61",
+      "title": "Wall Street ends down sharply, worries about AI trade and high oil prices weigh - Reuters",
+      "category": "Business",
+      "source": "googlenews",
+      "time": "2026-10-16T20:51:10",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/3840px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "Wall Street ended sharply lower on Friday, with the Nasdaq Composite falling 2% as investors reacted to a sell\u2011off in AI\u2011related stocks and a spike in oil prices.[1]\n\nThe decline marks the worst weekly performance for the Nasdaq since June, underscoring growing concerns about the impact of artificial\u2011intelligence trading and energy costs on corporate earnings and market sentiment.[1]\n\nThe Nasdaq Composite fell 2% on Friday.[1]\n\nTech stocks, especially those tied to AI, saw significant losses, while oil prices rose, adding pressure to the broader market.[1]\n\nThe decline contributed to the Nasdaq's worst week in over 18 months, with chip stocks recording their longest losing streak since 2008.[1]\n\nThe Nasdaq is a major U.S. stock index heavily weighted toward technology companies.\n\nAI trade refers to the use of artificial\u2011intelligence algorithms in high\u2011frequency trading, which has recently faced regulatory scrutiny and market volatility.\n\nOil prices have been rising due to supply constraints and geopolitical tensions, affecting energy\u2011related stocks and inflation expectations.\n\nTechnology firms, especially those in the semiconductor and AI sectors, are directly affected by the sell\u2011off, potentially impacting valuations and investor confidence.\n\nEnergy companies and investors in oil futures also feel the impact of higher prices, which can influence corporate earnings and consumer costs.\n\nThe combination of AI\u2011related volatility and rising oil prices may signal a shift in market dynamics, prompting investors to reassess risk exposure in high\u2011growth tech and energy sectors.\n\nMarket participants will look for regulatory updates on AI trading practices and monitor oil price movements, while analysts will assess whether the Nasdaq's decline signals a broader trend or a temporary correction.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5",
+      "guid": "CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw"
+    },
+    "npr_3143eecd": {
+      "id": "npr_3143eecd",
+      "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated",
+      "category": "Science",
+      "source": "npr",
+      "time": "2026-10-16T20:51:53",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3851x2166+0+200/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2F71%2Ff7175ee9427ba61a914c9eb16fb9%2Fap26288102891335.jpg",
+      "content": "A family of barn owls has taken up residence in a water tower on a building near Central Park, drawing attention from residents of Manhattan's Upper West Side.\u202f[1]\n\nThe unexpected presence of these nocturnal birds in an urban setting has sparked curiosity and admiration among locals, highlighting the intersection of wildlife and city life.\u202f[1]\n\nThe barn owls, known for their distinctive heart\u2011shaped faces and silent flight, have nested in a water tower atop a building on the Upper West Side, close to Central Park. New Yorkers have taken to observing and photographing the owls, sharing images on social media and local forums.\u202f[1]\n\nBarn owls are typically found in rural or semi\u2011rural habitats, where they hunt small mammals. Their presence in a high\u2011rise water tower is unusual for an urban environment.\n\nWater towers are used to store water for building supply and maintain pressure. The tower in question is part of a residential or commercial building near Central Park.\n\nThe Upper West Side is a densely populated neighborhood in Manhattan, known for its proximity to Central Park and its mix of residential and commercial properties.\n\nResidents, birdwatchers, and local wildlife enthusiasts are the primary observers. The building's management may",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NPR",
+          "url": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan"
+        }
+      ],
+      "original_url": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan",
+      "guid": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan"
     }
   },
   "featured": {
-    "hero": "smh_29b76aec",
+    "hero": "irishtimes_f3cff82f",
     "stack": [
-      "pbs_7e0f2de9",
-      "dw_bdc77346",
-      "snopes_5d24af66"
+      "googlenews_8c28fa61",
+      "npr_3143eecd",
+      "smh_29b76aec"
     ],
     "latest": [
+      "npr_3143eecd",
+      "googlenews_8c28fa61",
+      "smh_29b76aec",
       "snopes_5d24af66",
       "dw_bdc77346",
-      "pbs_7e0f2de9",
-      "abcau_2d1d7628",
-      "csmonitor_1f78dd3d",
-      "ap_a468a6fa"
+      "pbs_7e0f2de9"
     ],
     "world": [
+      "irishtimes_f3cff82f",
       "smh_29b76aec",
       "dw_bdc77346",
-      "abcau_2d1d7628",
-      "csmonitor_1f78dd3d"
+      "abcau_2d1d7628"
     ]
   },
   "categoryIndex": {
     "News": [
+      "ap_a468a6fa",
       "cjr_7e26c272",
       "fullfact_f5201e03",
       "pbs_aa8641b8",
@@ -16033,10 +16034,11 @@
       "pbs_3280ace5",
       "fullfact_7e2e1c9e",
       "cjr_8f27963d",
-      "ap_c8ee0d65",
-      "cjr_2ef174b9"
+      "ap_c8ee0d65"
     ],
     "World": [
+      "abcau_2d1d7628",
+      "csmonitor_1f78dd3d",
       "guardian_5dc9db2e",
       "dw_a8ba3589",
       "straitstimes_fa4c94e2",
@@ -16044,9 +16046,7 @@
       "smh_4f077e1c",
       "bbc_c7f5dbbc",
       "economist_1d0c5f1a",
-      "csmonitor_63fd7ab1",
-      "france24_bc28bb9c",
-      "bbc_f336af08"
+      "csmonitor_63fd7ab1"
     ],
     "Politics": [
       "guardian_25286644",
@@ -16109,7 +16109,7 @@
       "googlenews_7f398431"
     ]
   },
-  "breaking": "NRL wins early skirmish in battle over Chiefs name as parties prepare to \u2018duke it out\u2019 in court - SM",
+  "breaking": "Man advanced towards garda\u00ed and said \u2018shoot me, shoot me, shoot me\u2019, trial hears",
   "events": [
     {
       "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new l",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "Talarico compares his campaign to David and Goliath after GOP invests over $158M",
     "NRL wins early skirmish in battle over Chiefs name as parties prepare to \u2018duke i",
-    "JAL, All Nippon Airways to raise fuel surcharges amid Middle East tensions - The",
-    "Teen shooter kills 4 at Oregon elementary school before being shot by a witness "
+    "Man advanced towards garda\u00ed and said \u2018shoot me, shoot me, shoot me\u2019, trial hears",
+    "Wall Street ends down sharply, worries about AI trade and high oil prices weigh ",
+    "Talarico compares his campaign to David and Goliath after GOP invests over $158M"
   ]
 }
