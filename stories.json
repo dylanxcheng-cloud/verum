@@ -1,65 +1,5 @@
 {
   "stories": {
-    "cjr_09dcf4b2": {
-      "id": "cjr_09dcf4b2",
-      "title": "So Are Nonfiction Books Dead or Not?",
-      "category": "News",
-      "source": "cjr",
-      "time": "2026-09-03T20:51:41",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://www.cjr.org/wp-content/uploads/2026/09/anna-sproul-kicker-logo2.jpg",
-      "content": "A literary agent has warned that the nonfiction book market is shrinking, raising questions about the future of journalism.\u202f[1]\n\nThe decline could affect how journalists source stories, monetize content, and collaborate with publishers.\u202f[1]\n\nAnna Sproul\u2011Latimer, who represents nonfiction authors, noted that fewer titles are being published and that advances are smaller.\u202f[1] The available reporting does not specify the exact number of titles or the size of advances.\n\nNonfiction books have long served as a reservoir of research and narrative for journalists.\n\nThe rise of digital media and self\u2011publishing has altered the traditional publishing landscape, changing how readers discover and consume nonfiction.\n\nJournalists, authors, publishers, and readers are all affected by the contraction of the nonfiction market.\n\nFor journalists, a smaller pool of nonfiction titles may limit source material and reduce opportunities for book\u2011based reporting.\n\nPublishers may shift resources toward fiction or digital formats, impacting the types of nonfiction that reach the market.\n\nIf nonfiction titles continue to decline, journalists might need to rely more on primary research or alternative media.\n\nThe trend could also influence the economics of journalism, as book deals often provide supplemental income for writers.\n\nIndustry analysts are monitoring sales data and publisher announcements to gauge the trajectory of nonfiction publishing.\n\nJournalists and literary agents may begin to collaborate more closely to identify promising nonfiction projects that can serve both markets.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Columbia Journalism Review",
-          "url": "https://www.cjr.org/kicker/so-are-nonfiction-books-dead-or-not-anna-sproul-latimer-market-journalists-supplement-income-wall-street-journal-viral-how-to-glow-in-the-dark-substack.php"
-        }
-      ],
-      "original_url": "https://www.cjr.org/kicker/so-are-nonfiction-books-dead-or-not-anna-sproul-latimer-market-journalists-supplement-income-wall-street-journal-viral-how-to-glow-in-the-dark-substack.php",
-      "guid": "https://www.cjr.org/?p=122298"
-    },
-    "berkeleyuniv_b81f94da": {
-      "id": "berkeleyuniv_b81f94da",
-      "title": "Charting a unique path from the \u2018Salad Bowl of America\u2019 to UC Berkeley",
-      "category": "Science",
-      "source": "berkeleyuniv",
-      "time": "2026-09-03T20:52:03",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://news.berkeley.edu/wp-content/uploads/2026/09/20260826_Sanchez_AVL_0238-1024x683.jpg",
-      "content": "Israel Sanchez, a student at UC\u202fBerkeley, has announced plans to bring his university education back to the Central Coast of California, a region long known as the \u201cSalad Bowl of America.\u201d[1]\n\nSanchez\u2019s decision underscores how higher\u2011education institutions can serve as catalysts for local economic development, especially in communities whose livelihoods depend on agriculture.[1]\n\nThe Central Coast, stretching from Santa Barbara to San Luis Obispo, produces a wide array of fruits, vegetables, and nuts that supply markets across the United States. Growing up amid this vibrant agricultural landscape, Sanchez has witnessed firsthand the challenges that farmers face, from market volatility to climate\u2011related stresses.[1]\n\nHe enrolled at UC\u202fBerkeley to pursue studies that align with his goal of supporting the region\u2019s agricultural sector, although the specific major was not disclosed in the original report.[1]\n\nUC\u202fBerkeley is renowned for its programs in agricultural sciences, sustainability, and business, offering students access to cutting\u2011edge research and industry partnerships that can be leveraged to address real\u2011world problems.[1]\n\nSanchez intends to apply the knowledge and skills he gains at Berkeley to help local farmers improve crop yields, adopt sustainable practices, and access new markets. He has expressed a particular interest in integrating technology and data analytics into traditional farming operations.[1]\n\nThe primary stakeholders in this initiative are the farmers and ranchers of the Central Coast, the broader community that depends on the region\u2019s produce, and Sanchez himself as the bridge between academia and industry.[1]\n\nIf successful, Sanchez\u2019s efforts could strengthen the local economy by increasing productivity, reducing environmental impacts, and fostering innovation within the agricultural sector. Such outcomes could also serve as a model for other rural communities seeking to harness academic resources for local development.[1]\n\nThe broader implication of Sanchez\u2019s plan is a reaffirmation of the role that universities can play in addressing regional challenges, demonstrating that academic expertise can be directly translated into tangible benefits for specific communities.[1]\n\nSanchez has indicated that his next steps will involve collaborating with UC\u202fBerkeley\u2019s agricultural research centers and the local Cooperative Extension Service to design and implement pilot projects in the Central Coast. He plans to launch a community outreach program that will bring students, researchers, and farmers together for workshops and field demonstrations.[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "UC Berkeley News",
-          "url": "https://news.berkeley.edu/2026/09/03/charting-a-unique-path-from-the-salad-bowl-of-america-to-uc-berkeley/"
-        }
-      ],
-      "original_url": "https://news.berkeley.edu/2026/09/03/charting-a-unique-path-from-the-salad-bowl-of-america-to-uc-berkeley/",
-      "guid": "https://news.berkeley.edu/?p=141710"
-    },
-    "npr_7c17dda4": {
-      "id": "npr_7c17dda4",
-      "title": "The Trump administration still aims to make state citizenship lists ahead of midterms",
-      "category": "News",
-      "source": "npr",
-      "time": "2026-09-04T03:59:25",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3078+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fdc%2F0eb70e124af49068ef891a8913f9%2Fgettyimages-2289061554.jpg",
-      "content": "The Trump administration is still aiming to produce state\u2011by\u2011state lists of adult citizens eligible to vote ahead of the 2024 midterm elections, but it will miss its own 60\u2011day deadline before Election Day. [1]\n\nThis move, unprecedented in U.S. election history, could shape voter registration and turnout strategies for the midterms, potentially affecting millions of voters across the country. [1]\n\nThe administration announced plans to compile lists of eligible voters for each state, a task typically handled by state election officials. The federal government has set a 60\u2011day pre\u2011Election Day deadline for states to submit updated voter rolls, but the Trump administration will not meet that deadline. [1]\n\nThe lists are intended to identify adult citizens who can vote in each state, potentially providing a comprehensive database for outreach or other purposes. [1]\n\nVoter rolls are maintained by state election boards, which update them regularly to remove deceased, moved, or otherwise ineligible voters. Federal guidance exists but the federal government rarely creates nationwide voter lists. [no footnote]\n\nThe 2024 midterm elections will be held on November 5, 2024, with the 60\u2011day deadline falling on September 5. The administration's failure to meet the deadline means the lists will be incomplete or delayed. [1]\n\nState election officials, political parties, advocacy groups, and voters are all stakeholders. The lists could affect how parties target voters and how states manage their rolls. [1]\n\nThe Trump administration's involvement raises questions about federal influence over state\u2011managed voter registration processes. [1]\n\nIf the lists are released late, parties may have less time to tailor outreach, and voters may face uncertainty about their eligibility status. [1]\n\nThe delay could lead to legal challenges or calls for stricter oversight of federal involvement in voter rolls. It also underscores the tension between federal and state control over elections. [1]\n\nThe administration is expected to release the lists after the 60\u2011day deadline, but the exact date remains unclear. State officials will monitor the process closely, and legal experts will assess compliance with election laws. [1]\n\nThe lists could influence outreach strategies, but the administration has not yet clarified how they will be used. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "NPR",
-          "url": "https://www.npr.org/2026/09/03/nx-s1-5955822/voting-citizenship-lists-dhs-uscis-lawsuit"
-        }
-      ],
-      "original_url": "https://www.npr.org/2026/09/03/nx-s1-5955822/voting-citizenship-lists-dhs-uscis-lawsuit",
-      "guid": "https://www.npr.org/2026/09/03/nx-s1-5955822/voting-citizenship-lists-dhs-uscis-lawsuit"
-    },
     "bangkokpost_17cf2695": {
       "id": "bangkokpost_17cf2695",
       "title": "Friend-for-hire services gain traction in Thailand",
@@ -15999,28 +15939,88 @@
       ],
       "original_url": "https://www.theguardian.com/society/2026/oct/15/uk-hrt-shortages-which-products-are-affected-and-what-to-do-about-it",
       "guid": "https://www.theguardian.com/society/2026/oct/15/uk-hrt-shortages-which-products-are-affected-and-what-to-do-about-it"
+    },
+    "abcau_2d1d7628": {
+      "id": "abcau_2d1d7628",
+      "title": "Two men die in light plane crash in NSW Upper Hunter - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "category": "World",
+      "source": "abcau",
+      "time": "2026-10-16T11:08:26",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28172%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27132%27%20cy%3D%27311%27%20r%3D%27140%27%20fill%3D%27hsl%28212%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Two men were killed when a light aircraft crashed in the Upper\u202fHunter region of New\u202fSouth\u202fWales, the Australian Broadcasting Corporation reported. The incident involved a single\u2011engine plane that went down in a rural area, killing both occupants on board.\u202f[1]\n\nThe crash highlights the ongoing risks associated with general aviation in Australia, where thousands of light aircraft operate each year for recreation, training and small\u2011scale transport.\u202f[1]\n\nAccording to the ABC report, the aircraft was a light plane, but the type of aircraft, its registration number, or the circumstances that led to the crash were not disclosed. The incident was confirmed by local authorities and the Australian Civil Aviation Safety Authority (CASA) has been notified.\u202f[1]\n\nThe Upper\u202fHunter district is a largely agricultural area north of Newcastle, characterized by low\u2011density settlements and farmland. The region\u2019s sparse population and open skies make it a common location for light aircraft operations, but also a place where crashes can occur with limited immediate emergency response resources.\u202f[1]\n\nGeneral aviation accidents in Australia are monitored by CASA, which investigates incidents involving aircraft that are not part of the commercial airline fleet. CASA\u2019s investigations typically examine pilot qualifications, aircraft maintenance records, weather conditions, and air traffic control communications.\u202f[1]\n\nThe families of the deceased are the most directly affected, grieving the loss of loved ones. The local aviation community, including flight schools and recreational pilots, may also feel the impact of the incident, prompting discussions about safety practices and training standards.\u202f[1]\n\nThe crash may prompt a review of safety protocols for light aircraft operating in rural New\u202fSouth\u202fWales. CASA\u2019s investigation will likely assess whether the pilot\u2019s training, the aircraft\u2019s maintenance, or environmental factors contributed to the accident.\u202f[1]\n\nWhile the exact cause of the crash remains unknown, the incident underscores the importance of rigorous pre\u2011flight checks, adherence to maintenance schedules, and continuous pilot training\u2014factors that have historically reduced the frequency of general aviation accidents in Australia.\u202f[1]\n\nThe next steps will involve CASA\u2019s formal investigation, which may include examination of the wreckage, pilot records, and any available flight data. The agency typically releases a preliminary report within weeks, followed by a final report that may recommend changes to regulations or industry practices.\u202f[1]\n\nLocal authorities and community groups may hold memorial services for the victims, and the incident will likely be discussed in regional aviation safety forums. The outcome of CASA\u2019s investigation will be closely watched by pilots, regulators, and the public, as it may influence future safety measures for light aircraft in New\u202fSouth\u202fWales and beyond.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "ABC News (Australia)",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOREdtTFppNWpSdk01YlBldE9uTlhzdzJsd3JqZFRyOElMeHVkWTdENWxGRmhicVJwcWFXNk1zUm42bjVpdkNJcW9vVHhKMU01ejhFRUtCRmRoQmlQYlRBMDZ0NW9rX1MxeG4tN2J2eTE5XzJGNHlHeGx2dV81TWt4Nw?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOREdtTFppNWpSdk01YlBldE9uTlhzdzJsd3JqZFRyOElMeHVkWTdENWxGRmhicVJwcWFXNk1zUm42bjVpdkNJcW9vVHhKMU01ejhFRUtCRmRoQmlQYlRBMDZ0NW9rX1MxeG4tN2J2eTE5XzJGNHlHeGx2dV81TWt4Nw?oc=5",
+      "guid": "CBMigAFBVV95cUxOREdtTFppNWpSdk01YlBldE9uTlhzdzJsd3JqZFRyOElMeHVkWTdENWxGRmhicVJwcWFXNk1zUm42bjVpdkNJcW9vVHhKMU01ejhFRUtCRmRoQmlQYlRBMDZ0NW9rX1MxeG4tN2J2eTE5XzJGNHlHeGx2dV81TWt4Nw"
+    },
+    "ap_a468a6fa": {
+      "id": "ap_a468a6fa",
+      "title": "Teen shooter kills 4 at Oregon elementary school before being shot by a witness - AP News",
+      "category": "News",
+      "source": "ap",
+      "time": "2026-10-16T11:09:21",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Associated_Press_logo_2012.svg/120px-Associated_Press_logo_2012.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "A teenager opened fire at an elementary school in Oregon, killing four students before being shot and killed by a witness.\u202f[1]\n\nThe shooting underscores the ongoing threat of gun violence in schools and the critical role that bystanders can play in stopping such attacks.\n\nAccording to AP, the teen shooter entered the school and fired, killing four before a witness intervened and shot the shooter.\u202f[1] The incident took place at an elementary school in Oregon.\u202f[1] The shooter was a teenager.\u202f[1] The shooter was shot by a witness.\u202f[1]\n\nSchool shootings in the United States have drawn national attention in recent years. The U.S. has seen a rise in incidents involving firearms in educational settings, prompting discussions about gun control, school security, and youth access to weapons.\n\nThe victims were four students, and their families, classmates, and the broader school community are now grappling with the loss. The shooter\u2019s age raises questions about how a minor obtained a firearm. The witness\u2019s intervention prevented further casualties.\n\nThe incident highlights the need for effective school security measures and the importance of training witnesses to respond in emergencies. It may prompt policymakers to revisit school safety protocols and youth gun\u2011access laws.\n\nInvestigations are underway to determine how the shooter acquired a firearm and whether school security protocols were followed. Authorities will likely review policies and procedures in the wake of the tragedy.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm53TEZKeGNjZ21QOGcxMWJ6V0xQSExrNXN4dU9zY0l2dWVZLXR4THBGRXJOclp3aUNQcDhjRHVsOXdNY1hjSnhyc0NzTS1Da1ZEcW5MS19ON0JySE4wNkNDMHF0R2tDM1JsbnF5R05HbEhhYlRHX0ZoWGM5SUZDei1PMUFUSEx4OUFzV05VNWtuWVBMdE9QWnNlci1sQWJpQWVSN0xrVEc?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm53TEZKeGNjZ21QOGcxMWJ6V0xQSExrNXN4dU9zY0l2dWVZLXR4THBGRXJOclp3aUNQcDhjRHVsOXdNY1hjSnhyc0NzTS1Da1ZEcW5MS19ON0JySE4wNkNDMHF0R2tDM1JsbnF5R05HbEhhYlRHX0ZoWGM5SUZDei1PMUFUSEx4OUFzV05VNWtuWVBMdE9QWnNlci1sQWJpQWVSN0xrVEc?oc=5",
+      "guid": "CBMiqAFBVV95cUxNUm53TEZKeGNjZ21QOGcxMWJ6V0xQSExrNXN4dU9zY0l2dWVZLXR4THBGRXJOclp3aUNQcDhjRHVsOXdNY1hjSnhyc0NzTS1Da1ZEcW5MS19ON0JySE4wNkNDMHF0R2tDM1JsbnF5R05HbEhhYlRHX0ZoWGM5SUZDei1PMUFUSEx4OUFzV05VNWtuWVBMdE9QWnNlci1sQWJpQWVSN0xrVEc"
+    },
+    "csmonitor_1f78dd3d": {
+      "id": "csmonitor_1f78dd3d",
+      "title": "Perseverance drives Angel Reese \u2013 and WNBA \u2013 into the 2026 championship",
+      "category": "World",
+      "source": "csmonitor",
+      "time": "2026-10-16T11:09:32",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://images.csmonitor.com/csm/2026/10/1015_NHOOPS_REESE.jpg?alias=standard_900x600",
+      "content": "The Atlanta Dream and Golden State Valkyries are set to clash Saturday in the 2026 WNBA championship, with Dream star Angel Reese exemplifying perseverance that resonates across the league.\u202f[1]\n\nThe final pits two teams that have overcome challenges, and Reese\u2019s journey highlights the broader narrative of resilience in women\u2019s professional basketball.\u202f[1]\n\nThe Dream and Valkyries have advanced to the championship after a season of intense competition. The final is scheduled for Saturday, and the matchup will decide the league\u2019s top prize.\u202f[1]\n\nAngel Reese, a key player for the Dream, has been noted for her perseverance. Her story of determination has become emblematic of the league\u2019s broader culture of hard work and tenacity.\u202f[1]\n\nThe WNBA, founded in 1996, is the premier professional women\u2019s basketball league in the United States. It features twelve teams that compete in a regular season followed by playoffs that culminate in a championship series. The 2026 championship will be the final chapter of that season\u2019s competition.\u202f[1]\n\nThe Dream\u2019s journey to the final has involved overcoming injuries, roster changes, and a demanding schedule. Their success reflects the league\u2019s emphasis on depth, coaching, and player development.\u202f[1]\n\nThe Valkyries, meanwhile, have built a reputation for disciplined play and strategic defense. Their path to the championship underscores the importance of teamwork and adaptability in the WNBA\u2019s playoff format.\u202f[1]\n\nPlayers, coaches, and fans are all stakeholders in this historic matchup. The outcome will influence contract negotiations, draft positioning, and the league\u2019s marketing narrative for the next season.\u202f[1]\n\nReese\u2019s story of perseverance also serves as a source of inspiration for younger athletes and fans. It demonstrates how individual determination can elevate a team\u2019s performance and contribute to the league\u2019s growing visibility.\u202f[1]\n\nThe championship\u2019s implications extend beyond the final game. A victory could solidify the Dream\u2019s legacy, while a win for the Valkyries might signal a shift in competitive balance within the league.\u202f[1]\n\nFans and analysts will watch Saturday\u2019s game closely to see whether Reese\u2019s resilience translates into a championship performance and whether the league\u2019s broader narrative of perseverance continues to shape its future.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Christian Science Monitor",
+          "url": "https://www.csmonitor.com/USA/Society/2026/1016/wnba-valkyries-dream-angel-reese?icid=rss"
+        }
+      ],
+      "original_url": "https://www.csmonitor.com/USA/Society/2026/1016/wnba-valkyries-dream-angel-reese?icid=rss",
+      "guid": "23e2d1454647ac69076f0f0be3a6beb0"
     }
   },
   "featured": {
-    "hero": "guardian_25286644",
+    "hero": "abcau_2d1d7628",
     "stack": [
-      "pbs_aa8641b8",
-      "berkeleyuniv_9b6a5866",
-      "googlenews_c9f26861"
+      "ap_a468a6fa",
+      "csmonitor_1f78dd3d",
+      "guardian_25286644"
     ],
     "latest": [
+      "csmonitor_1f78dd3d",
+      "ap_a468a6fa",
+      "guardian_25286644",
       "googlenews_c9f26861",
       "berkeleyuniv_9b6a5866",
-      "pbs_aa8641b8",
-      "guardian_5dc9db2e",
-      "googlenews_09c4145a",
-      "dw_a8ba3589"
+      "pbs_aa8641b8"
     ],
     "world": [
+      "abcau_2d1d7628",
+      "csmonitor_1f78dd3d",
       "guardian_5dc9db2e",
-      "straitstimes_fa4c94e2",
-      "dw_a8ba3589",
-      "economist_1d0c5f1a"
+      "straitstimes_fa4c94e2"
     ]
   },
   "categoryIndex": {
@@ -16037,6 +16037,8 @@
       "npr_03af7b7e"
     ],
     "World": [
+      "guardian_5dc9db2e",
+      "dw_a8ba3589",
       "straitstimes_fa4c94e2",
       "straitstimes_6d7c0c57",
       "smh_4f077e1c",
@@ -16044,9 +16046,7 @@
       "economist_1d0c5f1a",
       "csmonitor_63fd7ab1",
       "france24_bc28bb9c",
-      "bbc_f336af08",
-      "dw_ed7c4b29",
-      "irishtimes_bbd526d6"
+      "bbc_f336af08"
     ],
     "Politics": [
       "guardian_c79b8d31",
@@ -16061,6 +16061,7 @@
       "guardian_5aa27fc3"
     ],
     "Sports": [
+      "googlenews_09c4145a",
       "googlenews_609afc05",
       "googlenews_38cb9525",
       "googlenews_ab96728b",
@@ -16069,8 +16070,7 @@
       "googlenews_2d47a392",
       "googlenews_8e05048d",
       "googlenews_4fdbc2e0",
-      "googlenews_0696e82f",
-      "googlenews_51f47364"
+      "googlenews_0696e82f"
     ],
     "Health": [
       "guardian_12c1cd6e",
@@ -16109,7 +16109,7 @@
       "googlenews_7f398431"
     ]
   },
-  "breaking": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
+  "breaking": "Two men die in light plane crash in NSW Upper Hunter - ABC News & Headlines \u2013 Australian Broadcastin",
   "events": [
     {
       "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new l",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
+    "Teen shooter kills 4 at Oregon elementary school before being shot by a witness ",
     "JAL, All Nippon Airways to raise fuel surcharges amid Middle East tensions - The",
-    "Infantino apologizes to FIFA Council for World Cup furor but leaves critics unha",
-    "Seven sailors missing after drones hit two tankers off Romania's Black Sea coast",
-    "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row"
+    "Two men die in light plane crash in NSW Upper Hunter - ABC News & Headlines \u2013 Au",
+    "Infantino apologizes to FIFA Council for World Cup furor but leaves critics unha"
   ]
 }
