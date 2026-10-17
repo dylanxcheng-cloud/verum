@@ -1,85 +1,5 @@
 {
   "stories": {
-    "fullfact_de69f974": {
-      "id": "fullfact_de69f974",
-      "title": "No, the Nepal flash flood was not a hoax",
-      "category": "News",
-      "source": "fullfact",
-      "time": "2026-09-04T20:38:32",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://fullfact.org/media/images/AFP__20260901__C6ZG6TR__v1__HighR.38e4629a.fill-1200x630.jpg",
-      "content": "A recent online hoax claiming that a flash flood in Nepal was fabricated has been debunked. The claim, which circulated widely on social media, sparked confusion among residents and aid workers alike.\n\nThe spread of this misinformation highlights the challenges of maintaining accurate public communication during natural disasters. When people rely on unverified posts for critical information, the consequences can be severe.\n\nOnline posts falsely asserted that the Nepal flash flood was a hoax because early reports repeatedly cited the number 33. These posts were shared across multiple platforms, often accompanied by screenshots of news articles that had not been verified. The repetition of the figure 33 led many to believe it was a deliberate attempt to mislead. [1]\n\nThe origin of the hoax appears to stem from a misinterpretation of early news reports that mentioned the number 33, possibly referring to the number of casualties, affected villages, or a code used by local authorities. The lack of context in the shared screenshots amplified the confusion.\n\nThe misinformation was further amplified by users sharing short videos and images without checking the source or corroborating the details with official statements. This rapid amplification is typical of viral content that taps into existing fears about natural disasters.\n\nFlooding in Nepal is common during the monsoon season, when heavy rainfall can cause rivers to overflow. The country\u2019s mountainous terrain and deforestation contribute to rapid runoff and flash floods.\n\nHistorically, Nepal has experienced significant flood events, such as the 2015 earthquake\u2011related landslides and the 2019 Gorkha flood. These events have underscored the vulnerability of many communities to sudden water surges.\n\nResidents in flood\u2011prone areas rely on timely and accurate information to evacuate and seek aid. Local communities often depend on radio broadcasts, community leaders, and official alerts to make life\u2011saving decisions.\n\nAid agencies and local authorities coordinate relief efforts based on verified reports. They rely on data from meteorological services, field teams, and government agencies to allocate resources effectively.\n\nMisinformation can delay emergency response, divert resources, and erode public trust. When false claims circulate, responders may be misdirected, and people may hesitate to heed legitimate warnings.\n\nThe incident underscores the importance of fact\u2011checking during crisis situations. Rapid verification by journalists and official bodies can help prevent panic and ensure that aid reaches those in need.\n\nSocial media platforms must improve detection of false claims to prevent panic. Algorithms that flag unverified content and partnerships with fact\u2011checking organizations can reduce the spread of harmful misinformation.\n\nAuthorities are monitoring the spread of misinformation and may issue official statements to clarify the situation. By providing clear, authoritative updates, they can counteract false narratives.\n\nThe public should consult reputable news outlets and official government channels for updates on natural disasters. Reliable sources remain essential for making informed decisions during emergencies.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Full Fact",
-          "url": "https://fullfact.org/world/nepal-flood-hoax-false/"
-        }
-      ],
-      "original_url": "https://fullfact.org/world/nepal-flood-hoax-false/",
-      "guid": "https://fullfact.org/world/nepal-flood-hoax-false/"
-    },
-    "france24_4bcd7842": {
-      "id": "france24_4bcd7842",
-      "title": "\u2018Major potential breaches of British election law\u2019: Inside Channel 4\u2019s investigation into Reform UK",
-      "category": "World",
-      "source": "france24",
-      "time": "2026-09-04T20:39:19",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://s.france24.com/media/display/7ee28ac0-a899-11f1-b28a-005056bfb2b6/w:1024/p:16x9/capture-19431994186a9b205f3f1f84-62431157.jpg",
-      "content": "Channel\u202f4 has launched an investigation into Reform\u202fUK, alleging potential breaches of British election law.\u202f[1]\n\nThe investigation could have significant implications for the integrity of the UK electoral system, the enforcement of campaign\u2011finance rules, and public confidence in political parties.\u202f[1]\n\nThe investigation, which has captured conduct on camera, is being scrutinised for possible violations of election law.\u202f[1]\n\nGavin Lee, a senior figure at Channel\u202f4, welcomed Peter\u202fGeoghegan to discuss the investigation.\u202f[1]\n\nGeoghegan is an award\u2011winning investigative journalist, editor of the Substack Democracy for Sale, and author of the best\u2011selling book *Democracy for Sale*.\u202f[1]\n\nIn his remarks, Geoghegan said the investigation\u2019s significance extends beyond the conduct captured on camera to the broader question of how political influence is financed and made visible or invisible within British democracy.\u202f[1]\n\nBritish election law sets out strict limits on campaign spending, the disclosure of donors, and the conduct of political parties during elections.\n\nChannel\u202f4 has a long history of investigative journalism, producing programmes that expose political and corporate wrongdoing.\n\nReform\u202fUK is a political party that has been active in UK politics since its formation in 2019, participating in national elections and holding seats in the European Parliament before the UK\u2019s exit from the EU.\n\nThe parties involved\u2014Reform\u202fUK, the electoral commission, and the public\u2014stand to be affected by the outcome of the investigation.\n\nIf the investigation confirms breaches, Reform\u202fUK could face legal penalties, loss of public trust, and potential disqualification from future elections.\n\nA finding of election\u2011law violations would likely prompt a review of regulatory enforcement and could lead to stricter oversight of campaign finance.\n\nThe investigation also highlights the broader issue of transparency in political financing, raising questions about how influence is channeled and whether existing disclosure mechanisms are sufficient.\n\nChannel\u202f4 is expected to release further details of its findings in the coming weeks, while the electoral commission may open a formal inquiry. The final outcome will depend on the evidence gathered and the legal thresholds for proving a breach.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20260904-major-potential-breaches-of-british-election-law-understanding-channel-4-s-investigation"
-        }
-      ],
-      "original_url": "https://www.france24.com/en/tv-shows/spotlight/20260904-major-potential-breaches-of-british-election-law-understanding-channel-4-s-investigation",
-      "guid": "3350b25c-a89a-11f1-ae7d-1740ce498e11"
-    },
-    "bbc_8d866156": {
-      "id": "bbc_8d866156",
-      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "category": "World",
-      "source": "bbc",
-      "time": "2026-09-04T20:39:23",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5561/live/dbe464c0-a87e-11f1-a291-b542ee92de7c.jpg",
-      "content": "Rescue teams in Nepal\u2019s central hills have managed to bring a handful of workers out of a flooded tunnel network along the Trishuli River, a development that local officials describe as a \u201crare moment of joy\u201d amid the ongoing flood crisis. The operation, carried out under high water levels and unstable tunnel conditions, offers a glimmer of hope for the hundreds of construction laborers still trapped inside the tunnels. [1]\n\nThe rescues come at a time when the Trishuli region remains grappling with the aftermath of the 2023 monsoon floods that displaced thousands and damaged critical infrastructure. The ability to reach and evacuate workers from the submerged tunnels is therefore significant, both for the families waiting for news and for the broader effort to restore normalcy in the area. [1]\n\nIn recent days, teams of local volunteers, government officials, and engineers entered the tunnel network to locate and extract workers. While the exact number of rescued individuals was not disclosed, the operation succeeded in freeing several people who had been trapped for days. The report notes that hundreds of workers remain inside the tunnels, still awaiting rescue. [1]\n\nThe Trishuli River, which flows through the central hills of Nepal, is a major tributary of the Koshi River system. The river\u2019s floodplain has long been a focus of hydroelectric development, and the tunnel network along its banks is part of a larger hydroelectric project that has been under construction for years. The tunnels provide maintenance access and facilitate water diversion for power generation.\n\nThe 2023 floods were among the worst in Nepal\u2019s recent history, with heavy rainfall causing rivers to swell and inundate low-lying areas. The Trishuli region was heavily affected, with roads, bridges, and homes damaged or destroyed. Many workers who had been employed on the hydroelectric project were displaced or trapped by the sudden rise in water levels.\n\nRescue teams employed specialized equipment to navigate the flooded tunnels, which are narrow and offer limited visibility. The water was contaminated, and the risk of tunnel collapse added to the danger. Despite these challenges, the teams managed to locate and evacuate several workers, bringing relief to families who had been anxiously awaiting news.\n\nThe trapped workers are primarily construction laborers employed by a private firm working on the hydroelectric project. Their families are awaiting updates, while local authorities coordinate relief efforts and plan further rescue operations. The successful rescues have lifted morale among the workers and their families, signaling that rescue operations are possible even under difficult conditions.\n\nThe report indicates that hundreds of workers remain trapped, and rescue operations continue. Authorities have not set a deadline for the next rescue wave, and the situation remains fluid. The ongoing presence of trapped workers highlights the vulnerability of infrastructure projects in flood-prone areas and underscores the need for robust safety protocols and emergency response plans.\n\nIn the coming weeks, authorities are expected to release a detailed plan for the remaining rescues. The outcome of these efforts will influence future flood preparedness and safety measures for similar projects across Nepal.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/videos/cd79vp91321o#0"
-    },
-    "nature_b0c44501": {
-      "id": "nature_b0c44501",
-      "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
-      "category": "Science",
-      "source": "nature",
-      "time": "2026-09-05T03:56:44",
-      "read": "3 min read",
-      "mode": "long",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02800-1/d41586-026-02800-1_53210066.jpg",
-      "content": "Nature staff released an online briefing on 4\u202fSeptember\u202f2026 that announced the winners of that year\u2019s Ig\u202fNobel prizes and highlighted two striking stories: a study that buried 1,000 pairs of underpants to gauge soil health, and an isolated energy flash that could be the first glimpse of dark matter.\u202f[1]\n\nThe Ig\u202fNobel prizes, awarded annually by *Nature*, celebrate research that is at once humorous and thought\u2011provoking. The underpants experiment, which earned a prize for its creative approach, offers a low\u2011cost, unconventional method for assessing soil health. The energy flash, meanwhile, has attracted attention from the physics community as a potential breakthrough in the search for dark matter.\u202f[1]\n\nIn the briefing, the staff outlined the 2026 Ig\u202fNobel winners, noting that the underpants study was recognized for its novel use of everyday items to probe environmental conditions. The same discussion also mentioned the energy flash, describing it as an isolated burst of energy that could signal the first direct observation of dark matter particles.\u202f[1]\n\nThe underpants study involved burying 1,000 pairs of underpants in soil and monitoring changes over time to assess soil health. The researchers reported that the presence of the underpants influenced microbial activity and nutrient cycling, providing a measurable proxy for soil condition. The work was awarded the Ig\u202fNobel prize for its imaginative methodology.\u202f[1]\n\nThe energy flash was described as a single, brief burst detected by a high\u2011energy observatory. Analysts suggested that the characteristics of the flash\u2014its energy spectrum and temporal profile\u2014matched theoretical predictions for interactions involving dark matter particles. The staff discussion emphasized the need for further verification before drawing definitive conclusions.\u202f[1]\n\nThe Ig\u202fNobel prizes have long served to highlight research that, while initially amusing, often prompts deeper reflection on scientific methods and societal implications. By awarding the underpants study, *Nature* underscored the value of accessible, community\u2011level science.\u202f[1]\n\nSoil health is a critical metric for ecosystem sustainability, typically measured through indicators such as microbial diversity, organic matter content, and nutrient availability. Traditional assessment methods can be expensive and time\u2011consuming, limiting their use in large\u2011scale monitoring.\u202f[1]\n\nDark matter remains one of the most elusive components of the universe. It does not emit, absorb, or reflect light, yet its gravitational influence shapes galaxies and cosmic structures. Detecting dark matter directly has been a central goal of particle physics and cosmology for decades.\u202f[1]\n\nStakeholders in the underpants study include farmers, agronomists, and environmental NGOs seeking affordable soil monitoring tools. The method\u2019s simplicity could enable widespread adoption in regions where conventional testing is prohibitive. The energy flash, if confirmed, would be of interest to particle physicists, cosmologists, and funding agencies prioritizing fundamental research.\u202f[1]\n\nThe underpants approach could democratize soil health assessment, allowing smaller farms and community groups to track soil conditions without specialized equipment. The energy flash, on the other hand, could open new research avenues, prompting the development of more sensitive detectors and refined theoretical models.\u202f[1]\n\nThe Ig\u202fNobel recognition may encourage researchers to pursue unconventional methods that combine practicality with scientific rigor. Meanwhile, the dark matter flash, pending confirmation, could shift prevailing theories about the composition of the universe and guide future experimental designs.\u202f[1]\n\nLooking ahead, the underpants study will likely undergo peer review to validate its methodology and findings. The energy flash will be followed up by larger detectors and independent analyses to confirm its origin. The next Ig\u202fNobel awards ceremony is scheduled for 2027, where new unconventional research will be celebrated.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Nature",
-          "url": "https://www.nature.com/articles/d41586-026-02800-1"
-        }
-      ],
-      "original_url": "https://www.nature.com/articles/d41586-026-02800-1",
-      "guid": "https://www.nature.com/articles/d41586-026-02800-1"
-    },
     "japantimes_abeaa28c": {
       "id": "japantimes_abeaa28c",
       "title": "Japan says progress made on $550 billion investment pact with U.S.",
@@ -15999,28 +15919,108 @@
       ],
       "original_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeExCYkhvdFpNM1hpRlpnZ2ZEYzdNbkplOXBOYW4zd3h5UEhGTlFUSjU0dzhGMVNsaTZRa2lhdUpLVkRuU2tFSENKUXdWWUpqQ0xIRE9fN0Z1Q0EzV091NTVjdHFINjdqbnl5cV85bFZaRHpidFZ0RFo1SHdzbzhJN2lBbnJucU1LWXJGam03dU8tSVQxdFdWVVM0OW82cnB4YnRUcFloMnJvQ3pzdzlGZHYxek03anpUd1U0LXBuXzdXd2tQb1JWdUROTEpNLWRCS0E?oc=5",
       "guid": "CBMi0gFBVV95cUxOeExCYkhvdFpNM1hpRlpnZ2ZEYzdNbkplOXBOYW4zd3h5UEhGTlFUSjU0dzhGMVNsaTZRa2lhdUpLVkRuU2tFSENKUXdWWUpqQ0xIRE9fN0Z1Q0EzV091NTVjdHFINjdqbnl5cV85bFZaRHpidFZ0RFo1SHdzbzhJN2lBbnJucU1LWXJGam03dU8tSVQxdFdWVVM0OW82cnB4YnRUcFloMnJvQ3pzdzlGZHYxek03anpUd1U0LXBuXzdXd2tQb1JWdUROTEpNLWRCS0E"
+    },
+    "googlenews_bf8a5bff": {
+      "id": "googlenews_bf8a5bff",
+      "title": "CDC to send \u2018disease detective\u2019 to help tackle Pennsylvania measles outbreak - The Guardian",
+      "category": "Health",
+      "source": "googlenews",
+      "time": "2026-10-17T15:20:14",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28129%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27489%27%20cy%3D%27156%27%20r%3D%27140%27%20fill%3D%27hsl%28169%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "The Centers for Disease Control and Prevention (CDC) has announced that it will dispatch a \u201cdisease detective\u201d to Pennsylvania to investigate a rapidly expanding measles outbreak that has already surpassed 4,400 cases nationwide.\u202f[1]\n\nThe move signals the seriousness of the outbreak, which threatens communities across the state and the nation, and underscores the need for robust vaccination coverage and a coordinated public health response.\u202f[1]\n\nThe CDC\u2019s announcement came after the U.S. recorded 4,410 measles cases, the highest number in recent years.\u202f[1] A Pennsylvania physician has publicly urged residents to get vaccinated as the outbreak expands.\u202f[1] In Lancaster County, the number of reported measles cases rose to 452, the largest weekly increase since September.\u202f[1]\n\nMeasles is a highly contagious viral disease that can cause severe complications, especially in children and immunocompromised individuals. The disease is preventable through a two\u2011dose series of the measles\u2011mumps\u2011rubella (MMR) vaccine, which provides long\u2011term immunity.\n\nThe CDC\u2019s disease detective role involves detailed epidemiological investigations, including contact tracing, identifying transmission chains, and recommending control measures to contain the spread.\n\nPennsylvania has experienced sporadic measles outbreaks in the past, often linked to low vaccination rates in certain communities. The current outbreak has highlighted gaps in immunization coverage and the challenges of countering misinformation about vaccines.\n\nStakeholders include residents of affected counties, especially children and families with unvaccinated members, who are at heightened risk. Healthcare providers and school administrators are working to identify cases and ensure that susceptible individuals receive the MMR vaccine. Public health officials are coordinating surveillance and response efforts across state and local levels.\n\nThe impact of the outbreak extends beyond individual health. Schools and childcare settings are potential sites for rapid transmission, and outbreaks can strain local healthcare resources. The CDC\u2019s involvement signals a heightened level of concern and a commitment to preventing further spread.\n\nCompeting interests include vaccine hesitancy fueled by misinformation, which can undermine public confidence in immunization programs. Public health authorities must balance outreach efforts with respect for individual concerns while emphasizing the safety and efficacy of the MMR vaccine.\n\nImplications of the CDC\u2019s deployment include accelerated identification of transmission clusters and the ability to implement targeted interventions, such as vaccination campaigns and public education. If vaccination rates remain low, the outbreak could widen, potentially leading to additional cases and complications.\n\nWhat to watch next: The CDC will likely provide guidance on contact tracing protocols and may recommend additional vaccine doses for high\u2011risk groups. Local health departments are expected to report on the progress of investigations and any new cases in the coming weeks. The timeline for containment will depend on the speed of vaccination uptake and the effectiveness of public health measures.\n\nThe outbreak underscores the importance of maintaining high vaccination coverage and the need for coordinated public health responses to prevent future measles outbreaks.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O?oc=5",
+      "guid": "CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O"
+    },
+    "aljazeera_2863afed": {
+      "id": "aljazeera_2863afed",
+      "title": "Why adults are going back to summer camp",
+      "category": "World",
+      "source": "aljazeera",
+      "time": "2026-10-17T15:20:41",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Camp-Grounded-3-1791745279.png?resize=1920%2C1333",
+      "content": "Adults are returning to summer camps, a trend that has been observed worldwide as people seek relief from loneliness and burnout.\u202f[1]\n\nThe shift reflects growing mental\u2011health challenges and a desire for community and adventure, with many adults looking for a break from the isolation of remote work and the constant demands of modern life.\u202f[1]\n\nIn recent months, reports indicate that adults are booking summer camp experiences, moving back into bunk beds and gathering around bonfires.\u202f[1] The trend spans multiple countries, though specific numbers are not disclosed.\u202f[1]\n\nSummer camps have traditionally catered to children, offering structured activities and social interaction. The adult resurgence is a reversal of the usual pattern, with camps adapting to a new demographic.\n\nThe source notes that feelings of isolation and exhaustion are key drivers of the trend.\u202f[1] Many adults report that the routine of work and digital connectivity leaves little time for face\u2011to\u2011face connection, prompting them to seek communal experiences.\n\nCamp operators are adjusting offerings to accommodate adult guests, adding amenities such as Wi\u2011Fi and adult\u2011focused programming. The trend may affect local economies and the camp industry\u2019s staffing needs.\n\nThe move could signal a broader shift toward experiential wellness and a reevaluation of work\u2011life balance. It also raises questions about the sustainability of camps that have historically served children.\n\nCamp operators are likely to announce new adult\u2011centric packages in the coming months, and policymakers may consider support for mental\u2011health initiatives that encourage community engagement. The trend\u2019s trajectory will become clearer as more data emerges.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss"
+        }
+      ],
+      "original_url": "https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss",
+      "guid": "https://www.aljazeera.com/?t=1791745156"
+    },
+    "conversation_fa5cdf59": {
+      "id": "conversation_fa5cdf59",
+      "title": "Young voters fear mass shootings like the one in Oregon, but that fear divides them on gun control",
+      "category": "Science",
+      "source": "conversation",
+      "time": "2026-10-17T15:22:13",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://images.theconversation.com/files/766762/original/file-20261016-50-fzfgcm.jpg?ixlib=rb-4.1.1&amp;rect=0%2C260%2C3977%2C1988&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "content": "A school shooting in Oregon occurred weeks before the 2024 U.S. midterm elections, a timing that coincides with a period when young voters are expected to turn out in record numbers, yet a recent study shows that shared fear of such violence does not translate into unified positions on gun control. [1]\n\nThe finding matters because the 2024 midterms could see the highest youth participation in decades, and how that demographic responds to gun policy could shape legislative priorities and party platforms. [1]\n\nThe incident in Oregon involved a shooting at a school, resulting in casualties and heightened public concern. [1]\n\nThe shooting took place only weeks before the midterm election cycle, a timing that has drawn attention to the potential influence of the tragedy on voter attitudes. [1]\n\nResearchers surveyed young voters nationwide and found that while many expressed fear of mass shootings, their views on gun control measures varied widely. Young voters fear mass shootings like the one in Oregon. Research shows shared fear doesn\u2019t mean shared views on guns. [1]\n\nMidterm elections in the United States are held every two years and determine the composition of Congress. Young voters, typically defined as those aged 18 to 29, historically have lower turnout rates than older cohorts, but recent polls suggest a surge in engagement for the 2024 cycle. School shootings have become a persistent issue in the U.S., prompting ongoing debates over gun legislation. The gun control debate includes measures such as expanded background checks, restrictions on certain firearms, and changes to the interpretation of the Second Amendment.\n\nYoung voters are a key demographic for both major parties, and their attitudes toward gun policy could influence campaign strategies and candidate messaging. Political parties differ in their positions on gun control, with some candidates advocating for stricter regulations and others emphasizing Second Amendment rights. Gun rights advocacy groups and gun control organizations also monitor youth sentiment, as it can affect lobbying efforts and public opinion.\n\nThe study suggests that fear of gun violence alone may not be sufficient to unify young voters around a single policy approach, indicating that other factors such as ideology, party affiliation, and personal experiences also play significant roles. As the midterm election approaches, parties will likely refine their platforms on gun policy, and upcoming polls will track how youth attitudes evolve in the wake of the Oregon shooting.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Conversation",
+          "url": "https://theconversation.com/young-voters-fear-mass-shootings-like-the-one-in-oregon-but-that-fear-divides-them-on-gun-control-294620"
+        }
+      ],
+      "original_url": "https://theconversation.com/young-voters-fear-mass-shootings-like-the-one-in-oregon-but-that-fear-divides-them-on-gun-control-294620",
+      "guid": "tag:theconversation.com,2011:article/294620"
+    },
+    "guardian_d0e1c371": {
+      "id": "guardian_d0e1c371",
+      "title": "Is your boss watching you? The rise of AI surveillance at work - video",
+      "category": "Science",
+      "source": "guardian",
+      "time": "2026-10-17T15:22:19",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/36b9a50411e1fa12be05e3f9ba7330007bc42a3a/410_0_4104_3282/master/4104.jpg?width=140&quality=85&auto=format&fit=max&s=d210842e65612ea22ba581557d19269d",
+      "content": "AI\u2011driven monitoring tools are now being deployed in workplaces to deliver minute\u2011by\u2011minute accounts of employee activity, a development that signals a new phase in workplace surveillance. [1]\n\nThe trend raises questions about employee privacy, the balance between oversight and trust, and the overall impact on productivity and workplace culture.\n\nWorkers have always been monitored by their bosses, first through output targets, and then via computer software labelled \u201cbossware.\u201d [1]\n\nNow AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute\u2011by\u2011minute accounts of activity and productivity. [1]\n\nIn a recent video, journalist Ian Sample interviews UK technology editor Robert Booth. [1]\n\nBooth explains which sectors are adopting this approach. [1]\n\nBooth also discusses why these sectors are turning to AI\u2011based monitoring. [1]\n\nFinally, Booth warns that the technology could end up being counterproductive. [1]\n\nThe term \u201cbossware\u201d refers to software that tracks employee activity, such as keystrokes, screen time, and other metrics, and has been used for years to enforce productivity standards.\n\nAI can process vast amounts of data, applying machine learning to identify patterns and predict performance, thereby offering a more granular view of work habits than earlier tools.\n\nEmployees, employers, and regulators are the primary stakeholders in AI surveillance, each with distinct concerns and objectives.\n\nPotential productivity gains may be offset by privacy concerns and reduced morale, especially if employees feel constantly watched.\n\nIf surveillance is perceived as intrusive, it could erode trust and reduce collaboration, undermining the very productivity gains the tools aim to achieve.\n\nFuture developments will likely involve regulatory scrutiny, employee pushback, and the need for clear guidelines to balance oversight with respect for individual privacy.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video",
+      "guid": "https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video"
     }
   },
   "featured": {
-    "hero": "guardian_9a6ac71d",
+    "hero": "googlenews_bf8a5bff",
     "stack": [
-      "japantimes_70fd65f0",
-      "bangkokpost_7eadca0e",
-      "bbc_5a89086b"
+      "aljazeera_2863afed",
+      "conversation_fa5cdf59",
+      "guardian_d0e1c371"
     ],
     "latest": [
+      "guardian_d0e1c371",
+      "conversation_fa5cdf59",
+      "aljazeera_2863afed",
+      "guardian_9a6ac71d",
       "bbc_5a89086b",
-      "bangkokpost_7eadca0e",
-      "japantimes_70fd65f0",
-      "bbc_c4d77431",
-      "googlenews_897065f2",
-      "abcau_5a2e6f73"
+      "bangkokpost_7eadca0e"
     ],
     "world": [
+      "aljazeera_2863afed",
       "japantimes_70fd65f0",
       "bangkokpost_7eadca0e",
-      "bangkokpost_1ed784bb",
-      "straitstimes_f0797216"
+      "bangkokpost_1ed784bb"
     ]
   },
   "categoryIndex": {
@@ -16037,6 +16037,8 @@
       "pbs_3280ace5"
     ],
     "World": [
+      "japantimes_70fd65f0",
+      "abcau_5a2e6f73",
       "straitstimes_f0797216",
       "bangkokpost_1ed784bb",
       "irishtimes_f3cff82f",
@@ -16044,11 +16046,10 @@
       "smh_29b76aec",
       "dw_bdc77346",
       "abcau_2d1d7628",
-      "csmonitor_1f78dd3d",
-      "guardian_5dc9db2e",
-      "dw_a8ba3589"
+      "csmonitor_1f78dd3d"
     ],
     "Politics": [
+      "bbc_c4d77431",
       "guardian_25286644",
       "guardian_c79b8d31",
       "guardian_1997ffb6",
@@ -16057,8 +16058,7 @@
       "guardian_44442168",
       "guardian_087d6e42",
       "guardian_f58402c9",
-      "bbc_6ec0c0e1",
-      "guardian_5ffe2ef2"
+      "bbc_6ec0c0e1"
     ],
     "Sports": [
       "googlenews_c9f26861",
@@ -16097,6 +16097,7 @@
       "bbc_328e723e"
     ],
     "Business": [
+      "googlenews_897065f2",
       "googlenews_8c28fa61",
       "googlenews_ba08e50d",
       "googlenews_820e63fa",
@@ -16105,11 +16106,10 @@
       "googlenews_9868fb79",
       "googlenews_d5f103a3",
       "googlenews_804db985",
-      "googlenews_bd560b79",
-      "marketwatch_87da845c"
+      "googlenews_bd560b79"
     ]
   },
-  "breaking": "Plan to make firms pay more to train older workers than youth apprentices in England",
+  "breaking": "Why adults are going back to summer camp",
   "events": [
     {
       "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new l",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "Japan to raise youth awareness about Northern Territories",
     "Pornography with strangulation and incest to be banned in England and Wales next",
-    "Burnham invites Swinney to work together on 'deeper Scottish devolution'",
-    "Plan to make firms pay more to train older workers than youth apprentices in Eng"
+    "Japan to raise youth awareness about Northern Territories",
+    "CDC to send \u2018disease detective\u2019 to help tackle Pennsylvania measles outbreak - T",
+    "Why adults are going back to summer camp"
   ]
 }
