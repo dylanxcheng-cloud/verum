@@ -1,105 +1,5 @@
 {
   "stories": {
-    "berkeleyuniv_71a22751": {
-      "id": "berkeleyuniv_71a22751",
-      "title": "New digital tool shows where exactly California\u2019s water goes \u2014 and how climate change might disrupt it",
-      "category": "Science",
-      "source": "berkeleyuniv",
-      "time": "2026-09-05T10:22:04",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://news.berkeley.edu/wp-content/uploads/2026/09/2026_08_27_AN_0065_prospect_Island_DRONE_BN-1024x585.jpg",
-      "content": "A new digital tool developed by UC\u202fBerkeley\u2019s COEQWAL project maps California\u2019s water flows and shows how climate change could alter those patterns. [1]\n\nThe tool gives communities a way to see where water is allocated and how shifting priorities could affect agriculture, cities, and ecosystems\u2014an insight that becomes increasingly critical as California faces prolonged droughts and rising temperatures. [1]\n\nThe COEQWAL project released the tool, which visualizes water distribution across the state and allows users to explore scenarios of changing water priorities. It highlights current allocations and potential disruptions from climate change. [1]\n\nCalifornia\u2019s water system is complex, comprising a network of reservoirs, aqueducts, and groundwater basins that have historically balanced agricultural, urban, and environmental needs. [1]\n\nThe COEQWAL project, led by UC\u202fBerkeley, aims to provide transparent data on water usage and build on earlier research into water equity and climate impacts. [1]\n\nFarmers depend on consistent water deliveries for crops; cities rely on reliable supplies for residents; and ecosystems depend on environmental flows. The tool helps these groups assess potential changes in water availability",
-      "sources": [
-        {
-          "n": 1,
-          "label": "UC Berkeley News",
-          "url": "https://news.berkeley.edu/2026/09/04/new-digital-tool-shows-where-exactly-californias-water-goes-and-how-climate-change-might-disrupt-it/"
-        }
-      ],
-      "original_url": "https://news.berkeley.edu/2026/09/04/new-digital-tool-shows-where-exactly-californias-water-goes-and-how-climate-change-might-disrupt-it/",
-      "guid": "https://news.berkeley.edu/?p=141763"
-    },
-    "ap_51a5bd21": {
-      "id": "ap_51a5bd21",
-      "title": "Supreme Court lets White House continue construction on Trump\u2019s $400 million ballroom - AP News",
-      "category": "News",
-      "source": "ap",
-      "time": "2026-09-05T10:22:07",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "content": "The U.S. Supreme Court has ruled that the White House may continue building a $400\u202fmillion ballroom that was begun during President Donald\u202fTrump\u2019s administration. The decision clears the way for the final stages of the project, which has been a point of contention for years. [1]\n\nThe ruling is significant because it confirms that federal funds can be used for the construction, a matter that has been debated by lawmakers, watchdog groups, and the public. It also sets a precedent for how the Court will view future White House renovation projects that involve large sums of taxpayer money.\n\nIn its decision, the Court held that the White House is permitted to proceed with the ballroom\u2019s construction. The project, which began under Trump, is estimated to cost $400\u202fmillion and is part of a broader set of renovations that have taken place at the executive mansion over the past decade. [1]\n\nWhite House renovations have a long history, dating back to the early 20th century. The Office of the Curator, a federal agency, oversees the maintenance and restoration of the building\u2019s interior and exterior. Projects are typically funded through the federal budget, and any significant expenditures must comply with congressional appropriations and oversight.\n\nThe stakeholders in this case include the White House staff responsible for the project\u2019s execution, taxpayers who ultimately fund the work, and political opponents who have questioned the necessity and cost of the ballroom. The decision also affects congressional committees that oversee federal spending and the Office of Management and Budget, which reviews the financial aspects of such projects.\n\nWhile the Court\u2019s ruling removes a legal hurdle, it does not address the broader debate over the use of federal money for non\u2011essential White House projects. Analysts suggest that the decision may influence how future renovation proposals are framed and scrutinized, potentially tightening the criteria for what constitutes an essential improvement.\n\nThe next steps involve the White House resuming construction under the approved budget. The project\u2019s completion date has not been announced, and it remains unclear whether additional legal challenges could arise. Observers will watch for congressional responses and any further judicial review that might shape the final outcome.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-      "guid": "CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE"
-    },
-    "googlenews_3670baf5": {
-      "id": "googlenews_3670baf5",
-      "title": "Fear and compromise: How Volkswagen struck a deal over historic job cuts - Reuters",
-      "category": "Business",
-      "source": "googlenews",
-      "time": "2026-09-05T10:22:50",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28265%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27465%27%20cy%3D%27283%27%20r%3D%27140%27%20fill%3D%27hsl%28305%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Volkswagen announced a sweeping restructuring that will cut half its vehicle lineup and eliminate 50,000 jobs as part of a cost\u2011cutting effort. The German automaker said the plan will slash 75 models, close several factories\u2014including those that produce the Seat brand\u2014and reduce its workforce by a fifth of its current size.1\n\nThe decision reflects the company\u2019s attempt to trim excess and improve profitability amid a challenging market environment. Analysts suggest the move could have a halo effect on the broader German auto industry, potentially easing pressure on competitors and reshaping supply\u2011chain dynamics.1\n\nIn the coming months, Volkswagen will begin phasing out 75 models from its global product range. The company will also shut down several production sites, with the Seat brand\u2019s facilities among those slated for closure. The workforce reduction will affect employees across the company, from assembly line workers to corporate staff.1\n\nVolkswagen has long been one of the world\u2019s largest automakers by volume, with a history of rapid expansion and a broad product portfolio that has included sedans, SUVs, and electric vehicles. The company\u2019s growth has been driven by a strategy of diversification and global market penetration, which has also led to a complex manufacturing network. (General context)\n\nThe cost\u2011cutting plan is part of a broader turnaround strategy that the company has been developing in response to declining sales, supply\u2011chain disruptions, and the need to accelerate its shift toward electrification. The restructuring is intended to streamline operations, reduce overhead, and free capital for investment in new technologies.1\n\nStakeholders in the restructuring include employees, labor unions, suppliers, customers, and the German economy. The 50,000 job cuts will have significant social and economic implications for communities that rely on Volkswagen\u2019s factories for employment. The company has indicated that it will offer severance packages and outplacement services to affected workers.1\n\nIndustry observers note that the scale of the cuts could signal deeper structural changes within the German automotive sector. By reducing its production footprint, Volkswagen may create opportunities for other manufacturers to capture market share, while also prompting a reevaluation of supply\u2011chain relationships across the industry.1\n\nThe next steps involve finalizing the list of models to be discontinued, determining the exact locations of factory closures, and negotiating terms with labor unions. Volkswagen is expected to announce specific dates for the shutdowns and the timeline for the workforce reductions in the coming weeks.1\n\nImplementation of the plan will occur in phases, with the company prioritizing the most costly and least profitable operations for early closure. The company has also indicated that it will continue to invest in its electric vehicle lineup, suggesting that the restructuring is not a retreat from its long\u2011term strategic goals. (General context)\n\nThe restructuring marks a turning point for Volkswagen, as it seeks to balance short\u2011term cost savings with long\u2011term competitiveness in a rapidly evolving automotive landscape. The outcome of this effort will likely influence the trajectory of the German auto industry for years to come.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeDNIYjVBM3RtTnJOd2RrWmFyT2RNLUxEZXdzaWpKcHM2SW14eXE0WTk1NTJNTEItc29UT3RHMDNFQmJyY21HNEFiaUxLT3lLWlY1a0hPOFhKRjJzaFVZYjdkNk95RHV6Q2hGcUdpdk1JNjNSRUx1RjQxMDVKRmtnZWpLb2JPNDFVTF90Rm1qSzFiNzhPOTRpV0lCaWVIVE1BcWtLU2lZQzhaVHFONFctT3NzMlVpOXlhVTNCY2Rn?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeDNIYjVBM3RtTnJOd2RrWmFyT2RNLUxEZXdzaWpKcHM2SW14eXE0WTk1NTJNTEItc29UT3RHMDNFQmJyY21HNEFiaUxLT3lLWlY1a0hPOFhKRjJzaFVZYjdkNk95RHV6Q2hGcUdpdk1JNjNSRUx1RjQxMDVKRmtnZWpLb2JPNDFVTF90Rm1qSzFiNzhPOTRpV0lCaWVIVE1BcWtLU2lZQzhaVHFONFctT3NzMlVpOXlhVTNCY2Rn?oc=5",
-      "guid": "CBMivgFBVV95cUxNeDNIYjVBM3RtTnJOd2RrWmFyT2RNLUxEZXdzaWpKcHM2SW14eXE0WTk1NTJNTEItc29UT3RHMDNFQmJyY21HNEFiaUxLT3lLWlY1a0hPOFhKRjJzaFVZYjdkNk95RHV6Q2hGcUdpdk1JNjNSRUx1RjQxMDVKRmtnZWpLb2JPNDFVTF90Rm1qSzFiNzhPOTRpV0lCaWVIVE1BcWtLU2lZQzhaVHFONFctT3NzMlVpOXlhVTNCY2Rn"
-    },
-    "aljazeera_659a7ae0": {
-      "id": "aljazeera_659a7ae0",
-      "title": "Why is Trump threatening to strike Iran\u2019s Pickaxe Mountain again, now?",
-      "category": "World",
-      "source": "aljazeera",
-      "time": "2026-09-05T10:23:11",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-04T221528Z_895138784_RC2LCNAPY03B_RTRMADP_3_USA-TRUMP-1788602392.jpg?resize=1920%2C1440",
-      "content": "Trump has warned that the United States could again strike Iran\u2019s Pickaxe Mountain after an oil tanker was struck off Kharg island.\u202f[1] The statement follows the incident involving a tanker near the Iranian oil hub and signals a potential escalation in U.S.\u2013Iran tensions that could impact shipping security in the Gulf.\u202f[1]\n\nThe threat comes as the U.S. President announced that the attack on the tanker prompted a new warning aimed at one of the remaining parts of Iran\u2019s nuclear complex.\u202f[1] The tanker was struck, but the available reporting does not specify the date, name, or details of the vessel.\u202f[1] The threat specifically targets Pickaxe Mountain, a nickname for a key facility within Iran\u2019s nuclear program.\u202f[1]\n\nPickaxe Mountain is one of several sites that have been identified by U.S. intelligence as critical to Iran\u2019s nuclear development.\u202f[General background] Kharg island, located in the Persian Gulf, hosts a major oil terminal that is essential to Iran\u2019s energy exports.\u202f[General background] The U.S. has historically used a combination of sanctions, diplomatic engagement, and deterrence to address Iran\u2019s nuclear ambitions.\u202f[General background]\n\nIran\u2019s government and its nuclear program are directly affected by the threat, as is the U.S. military\u2019s capacity to carry out such an operation.\u202f[General background] Shipping companies operating in the Gulf, which rely on the safety of the region\u2019s maritime routes, also stand to be impacted by any escalation.\u202f[General background]\n\nIf the U.S. follows through, the move could trigger a broader conflict and influence global oil markets, given the strategic importance of Iranian oil exports.\u202f[General background] The U.S. may also face diplomatic backlash from allies and from Iran itself, potentially complicating international efforts to address nuclear proliferation.\u202f[General background]\n\nThe threat reflects the U.S.\u2019s broader strategy to pressure Iran over its nuclear program, a policy that has included both economic sanctions and the threat of force.\u202f[General background] It also underscores the U.S. commitment to protecting shipping lanes in the Gulf, a region critical to global energy supplies.\u202f[General background]\n\nWhat to watch next is the U.S. government\u2019s official response and any military preparations that may follow.\u202f[1] The timeline for any action remains unclear, and the available reporting does not specify a deadline or next step.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss"
-        }
-      ],
-      "original_url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
-      "guid": "https://www.aljazeera.com/?t=1788594727"
-    },
-    "bbc_089daf7d": {
-      "id": "bbc_089daf7d",
-      "title": "How hunger for a new weight-loss drug is feeding an industry of fakes",
-      "category": "Health",
-      "source": "bbc",
-      "time": "2026-09-05T10:23:35",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb31/live/429d3890-a861-11f1-ae45-e9984fc27c77.png",
-      "content": "Counterfeit versions of a weight\u2011loss drug that is still in clinical trials are flooding the black market, according to recent reports. The surge in fake pills has raised alarms among regulators, pharmaceutical companies, and health\u2011care providers, who warn that the unapproved medication could pose serious health risks to consumers. [1]\n\nThe situation matters because it threatens the integrity of the drug\u2011development process and endangers public health. If people unknowingly take counterfeit products, they may suffer adverse reactions, ineffective treatment, or even life\u2011threatening complications. Moreover, the counterfeit market undermines the legitimate efforts of companies that invest heavily in research and clinical testing, potentially delaying the availability of safe, effective therapies.\n\nThe counterfeit drugs are reportedly being sold through a variety of online and street\u2011level channels, reaching consumers who are eager for quick weight\u2011loss solutions. While the drug remains in the experimental stages, the black\u2011market copies are marketed as a ready\u2011made solution, often with misleading claims about efficacy and safety. The proliferation of these fakes has been described as a \u201cfeeding frenzy\u201d that capitalizes on the public\u2019s appetite for new weight\u2011loss options. [1]\n\nWeight\u2011loss drugs typically undergo a multi\u2011phase clinical trial program before they can receive regulatory approval. Phase\u202fI trials assess safety and dosage in a small group of healthy volunteers. Phase\u202fII expands the sample to evaluate efficacy and side effects, while Phase\u202fIII involves thousands of patients to confirm effectiveness and monitor adverse reactions. Only after successful completion of these stages can a drug be submitted for approval by agencies such as the U.S. Food and Drug Administration or the European Medicines Agency. The drug in question has not yet reached these final stages, meaning it has not been formally evaluated for safety or efficacy by any regulatory body.\n\nThe counterfeit drug industry operates by producing unregulated copies of prescription medications, often using substandard ingredients or incorrect dosages. These illicit products are then distributed through online marketplaces, social media, and physical street vendors. Because counterfeit drugs bypass the oversight of regulatory agencies, they can contain harmful substances, contaminants, or entirely different active ingredients, posing unpredictable health risks.\n\nPatients seeking rapid weight loss are a primary target for counterfeit sellers. They are drawn by the promise of quick results and the low cost of fake pills. Pharmaceutical companies that are developing the legitimate drug are also affected, as counterfeit sales can erode consumer trust and dilute market share. Regulators and law\u2011enforcement agencies face the challenge of tracking and dismantling the clandestine networks that produce and distribute these illicit products.\n\nHealth\u2011care providers warn that counterfeit weight\u2011loss drugs can lead to a range of adverse effects, from mild gastrointestinal upset to severe cardiovascular complications. Because the composition of fake pills is unknown, patients cannot be assured of dosage accuracy or purity. In some cases, counterfeit products have been found to contain stimulants or other substances that can interact dangerously with other medications.\n\nThe economic impact extends beyond individual consumers. Legitimate pharmaceutical companies invest billions of dollars in research, development, and clinical trials. Counterfeit sales can divert potential revenue, delay the return on investment, and discourage further innovation in the weight\u2011loss sector. The presence of fake drugs also undermines public confidence in the pharmaceutical industry as a whole.\n\nRegulatory bodies are grappling with how to address the counterfeit threat. Strengthening enforcement of intellectual\u2011property rights, improving supply\u2011chain traceability, and enhancing public awareness are among the strategies being considered. Some agencies are exploring rapid\u2011response mechanisms to identify and remove counterfeit products from the market before they reach consumers.\n\nConsumers are urged to exercise caution when purchasing weight\u2011loss medications. Verifying the source, checking for proper labeling, and consulting health\u2011care professionals can reduce the risk of falling victim to counterfeit drugs. Public education campaigns may help to counter the misinformation that fuels demand for unapproved products.\n\nIn the coming months, regulators are expected to announce new guidelines for monitoring the distribution of prescription drugs, including weight\u2011loss agents. The clinical trial timeline for the legitimate drug will also be closely watched, as any delays could influence the market dynamics and the prevalence of counterfeit alternatives. Law\u2011enforcement agencies are likely to intensify their efforts to disrupt the networks that produce and sell fake medications, while pharmaceutical companies may increase investment in secure distribution channels.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo#0"
-    },
     "csmonitor_8ecc0c2e": {
       "id": "csmonitor_8ecc0c2e",
       "title": "\u2018She listened.\u2019 Gloria Steinem raised women\u2019s voices through writing and activism.",
@@ -15999,32 +15899,133 @@
       ],
       "original_url": "https://www.bangkokpost.com/thailand/general/3338913/imf-helps-members-tackle-modern-risks",
       "guid": ""
+    },
+    "bbc_21b10ce9": {
+      "id": "bbc_21b10ce9",
+      "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
+      "category": "Science",
+      "source": "bbc",
+      "time": "2026-10-18T04:01:27",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67d1/live/5c4e9f00-c9c6-11f1-9624-cbdaf8e49de5.jpg",
+      "content": "A fast\u2011moving wildfire in California, known as the Norte Fire, has burned homes and forced residents to evacuate as fierce Santa\u202fAna winds fanned the flames.\u202f[1] \nThe incident underscores the ongoing threat of California\u2019s wildfire season, with the Norte Fire now one of 13 active fires across the state.\u202f[1]\n\nThe fire, which has already burned homes, prompted emergency officials to issue evacuation orders for nearby residents.\u202f[1] \nStrong Santa\u202fAna winds have accelerated the spread of the blaze, making containment efforts more difficult.\u202f[1]\n\nCalifornia\u2019s wildfire season typically peaks in late summer and early fall, when dry vegetation and high temperatures create ideal conditions for fires.\n\nSanta\u202fAna winds are a well\u2011known meteorological phenomenon that blows from inland deserts toward the coast, often carrying hot, dry air that can quickly intensify wildfires.\n\nFirefighting agencies coordinate through state and local resources, deploying personnel, aircraft, and equipment to suppress flames and protect communities.\n\nResidents in the affected area face displacement and property loss, while firefighters confront hazardous conditions and the challenge of battling a rapidly expanding fire.\n\nThe destruction of homes not only threatens immediate safety but also raises concerns about long\u2011term recovery and the availability of emergency shelters.\n\nThe rapid spread of the Norte Fire illustrates how Santa\u202fAna winds can transform a manageable blaze into a large\u2011scale disaster, highlighting the need for robust preparedness and early warning systems.\n\nThe fact that the fire is one of 13 active incidents across California suggests a broader pattern of heightened fire activity, potentially linked to climatic conditions and land\u2011use practices.\n\nAuthorities will continue to monitor the Norte Fire\u2019s progress, adjust evacuation orders as necessary, and coordinate with neighboring jurisdictions to address the broader wildfire threat.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo#0"
+    },
+    "fullfact_269b2ef3": {
+      "id": "fullfact_269b2ef3",
+      "title": "Video of woman being dragged by uniformed men does not show forced conscription in Ukraine",
+      "category": "News",
+      "source": "fullfact",
+      "time": "2026-10-18T04:02:54",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://fullfact.org/media/images/Soldiers_marching_img.34f6b230.fill-1200x630.png",
+      "content": "A video that has circulated online showing a woman being dragged by uniformed men has been clarified as footage from a recent protest in Kyiv over the felling of trees for a new heating pipeline, not evidence of forced conscription. [1]\n\nThe misinterpretation matters because it feeds rumors about Ukraine\u2019s military recruitment practices and can influence public perception of the country\u2019s internal security situation. [2]\n\nThe footage shows a woman being dragged by men in uniform during a demonstration in Kyiv. The protest was sparked by the cutting of trees to lay a new heating pipeline. [3] The video was shared widely on social media with captions suggesting it depicted forced conscription. [4]\n\nUkraine has a compulsory military service system, but there is no evidence that the incident represented a conscription event. The protest itself was part of a broader public reaction to environmental and infrastructure decisions. [5] The new heating pipeline project has faced opposition from residents concerned about deforestation and environmental impact. [6]\n\nResidents of Kyiv, environmental groups, and local authorities are directly involved in the tree\u2011felling controversy. The misrepresentation of the footage could affect the reputations of Ukrainian security forces and the government. [7]\n\nThe spread of miscaptioned videos can undermine trust in official statements and fuel misinformation about Ukraine\u2019s military policies. It also highlights the need for careful verification of online content. [8]\n\nAuthorities have not issued a formal statement about the incident, and the protest organizers have not confirmed the identity of the men in the video. The next step will likely involve a review of the footage by local media and a clarification from the police department. [9]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Full Fact",
+          "url": "https://fullfact.org/conflict/video-does-not-show-forced-conscription-ukraine/"
+        }
+      ],
+      "original_url": "https://fullfact.org/conflict/video-does-not-show-forced-conscription-ukraine/",
+      "guid": "https://fullfact.org/conflict/video-does-not-show-forced-conscription-ukraine/"
+    },
+    "guardian_2b431447": {
+      "id": "guardian_2b431447",
+      "title": "No action to be taken against wife of PM\u2019s aide over Palestine Action post",
+      "category": "Politics",
+      "source": "guardian",
+      "time": "2026-10-18T04:03:23",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/d4ab1c134c4c8f31bad2e66b87319575193984da/1256_787_1826_1461/master/1826.jpg?width=140&quality=85&auto=format&fit=max&s=2abb77454d54086035cd503990bf8f54",
+      "content": "Sarah Helm, the wife of the prime minister\u2019s national security adviser, will face no legal action after a tweet praising the banned protest group Palestine Action was found not to meet the criminal threshold. [1]\n\nThe decision, announced by the relevant authorities, underscores the limits of criminal liability for political commentary and highlights the scrutiny faced by public figures and their families. [1]\n\nOn Thursday, Helm posted on X: \u201cGod help us authors who support Palestine and Palestine Action.\u201d The tweet was flagged for potential support of the banned protest group Palestine Action. [1]\n\nAuthorities reviewed the content and concluded that the tweet did not meet the legal definition of criminal support for an extremist organization. [1]\n\nAs a result, no further action will be taken against Helm, who is a journalist and author married to Jonathan Powell, the prime minister\u2019s national security adviser. [1]\n\nPalestine Action is a protest group that has been banned in the UK for organising demonstrations that the government deems extremist.\n\nThe national security adviser, Jonathan Powell, is a senior official responsible for advising the prime minister on security matters.\n\nThe criminal threshold for supporting extremist groups in the UK requires evidence of intent to facilitate the group's activities, which was not found in Helm\u2019s tweet.\n\nThe case draws attention to the intersection of free speech, political activism, and national security. Journalists, activists, and the public may view the decision as a reaffirmation of legal boundaries.\n\nThe decision may also influence how future social media posts by relatives of government officials are monitored and assessed.\n\nThe ruling suggests that brief expressions of support for a banned group may not automatically trigger criminal proceedings, provided they lack actionable intent.\n\nThe authorities will likely continue to monitor social media for content that could cross the criminal threshold, and any future allegations will be evaluated on a case\u2011by\u2011case basis.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action",
+      "guid": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action"
+    },
+    "googlenews_6c926ebd": {
+      "id": "googlenews_6c926ebd",
+      "title": "Ohio State's gritty road win came with a great cost. Now the Buckeyes have to try to survive without star QB Julian Sayin - Yahoo Sports",
+      "category": "Sports",
+      "source": "googlenews",
+      "time": "2026-10-18T04:03:31",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%2846%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27406%27%20cy%3D%27305%27%20r%3D%27140%27%20fill%3D%27hsl%2886%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Ohio State\u2019s narrow road victory over Indiana came at a steep price: star quarterback Julian\u202fSayin is out for several weeks with a shoulder injury. [1]\n\nThe loss of Sayin threatens to derail the Buckeyes\u2019 season and forces head coach Ryan\u202fDay to confront his toughest challenge yet. [1]\n\nIn the game, Ohio State edged Indiana on the road, but Sayin sustained a shoulder injury that will sideline him for weeks. [1]\n\nSayin\u2019s shoulder injury is expected to keep him out for several weeks, according to reports. [1]\n\nIndiana\u2019s defeat marked the Hoosiers\u2019 first loss in almost two years, a rare setback for the program. [1]\n\nOhio State has long relied on a strong quarterback to drive its offense; Day has built his reputation on QB excellence. [1]\n\nWithout Sayin, the Buckeyes\u2019 offense will have to adjust, and the coaching staff faces pressure to find a suitable replacement. [1]\n\nThe injury could reduce Ohio State\u2019s offensive production, forcing the team to rely on backup quarterbacks and altering game plans. [1]\n\nOhio State\u2019s standing in the Big\u202fTen and its bowl prospects may be affected by the loss of its starting quarterback. [1]\n\nThe team will announce a recovery timeline for Sayin, and the next game will test the backup quarterback\u2019s readiness while the coaching staff decides on a replacement strategy. [1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdW1xOGl1OG9EdzFvY2RFZjlXRUEwamFrRVl3TFNCcm4xaHdsY1djUEExSEs1Vlp5cGd3RTB6ZFIxbVdUNDc2WkRWckQ4Z19kR1J3RnVUZ0dOMEdqb196V2xKdWd4bDlaZ09neXdYWFBPUGpNdnhEZ3NhbE9JRDlvd0xxQnNtOEtOOHFuNzliUzN2TXhKckFDNnB6VmsxMXQySUdXSGlhcEJvSXAtSUZPTWhBeFRMTWl4Ynd4QllpalNqWm81VDREbTBKUE10aGZuZnV0NVlRdmhjOGJVUWt5TGlGTUg3blNLTUt2TGFjSDhTNFdSZzBCYXFlRHVGdGtFNFY4YVBuVzhaMTRS?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdW1xOGl1OG9EdzFvY2RFZjlXRUEwamFrRVl3TFNCcm4xaHdsY1djUEExSEs1Vlp5cGd3RTB6ZFIxbVdUNDc2WkRWckQ4Z19kR1J3RnVUZ0dOMEdqb196V2xKdWd4bDlaZ09neXdYWFBPUGpNdnhEZ3NhbE9JRDlvd0xxQnNtOEtOOHFuNzliUzN2TXhKckFDNnB6VmsxMXQySUdXSGlhcEJvSXAtSUZPTWhBeFRMTWl4Ynd4QllpalNqWm81VDREbTBKUE10aGZuZnV0NVlRdmhjOGJVUWt5TGlGTUg3blNLTUt2TGFjSDhTNFdSZzBCYXFlRHVGdGtFNFY4YVBuVzhaMTRS?oc=5",
+      "guid": "CBMijAJBVV95cUxNdW1xOGl1OG9EdzFvY2RFZjlXRUEwamFrRVl3TFNCcm4xaHdsY1djUEExSEs1Vlp5cGd3RTB6ZFIxbVdUNDc2WkRWckQ4Z19kR1J3RnVUZ0dOMEdqb196V2xKdWd4bDlaZ09neXdYWFBPUGpNdnhEZ3NhbE9JRDlvd0xxQnNtOEtOOHFuNzliUzN2TXhKckFDNnB6VmsxMXQySUdXSGlhcEJvSXAtSUZPTWhBeFRMTWl4Ynd4QllpalNqWm81VDREbTBKUE10aGZuZnV0NVlRdmhjOGJVUWt5TGlGTUg3blNLTUt2TGFjSDhTNFdSZzBCYXFlRHVGdGtFNFY4YVBuVzhaMTRS"
+    },
+    "bbc_71f3a56d": {
+      "id": "bbc_71f3a56d",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "category": "World",
+      "source": "bbc",
+      "time": "2026-10-18T04:04:08",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
+      "content": "European diplomats were attacked by Israeli settlers in the West Bank, according to reports. [1]\n\nThe incident has drawn a sharp response from the Israeli military, which condemned the violence, while the prime minister's office has dismissed the allegations as part of a smear campaign. [2][3]\n\nThe attack involved European diplomats who were reportedly targeted by Israeli settlers in the West Bank. The specifics of the assault, including the number of attackers and the nature of the injuries, have not been fully disclosed. [1]\n\nThe Israeli military issued a statement condemning the violence and reaffirming its commitment to protecting diplomatic personnel in the region. [2]\n\nIn contrast, the prime minister's office responded by labeling the incident as a smear campaign, implying that the allegations may be politically motivated or fabricated. [3]\n\nThe West Bank has long been a flashpoint for tensions between Israeli settlers and Palestinian residents, with occasional clashes involving security forces.\n\nDiplomatic missions in the West Bank are typically protected under international law, and attacks on diplomats are considered violations of the Vienna Convention on Diplomatic Relations.\n\nThe Israeli military, responsible for security in the West Bank, routinely issues statements on incidents involving foreign personnel.\n\nEuropean diplomats, the Israeli military, the prime minister's office, and the broader European diplomatic community are all directly affected by the incident.\n\nIf the attack is confirmed, it could strain Israel's relations with European partners and raise questions about the safety of diplomatic staff in contested areas.\n\nThe incident may influence diplomatic relations between Israel and European states, potentially prompting calls for increased security measures or diplomatic protests.\n\nThe Israeli military and the prime minister's office are expected to release further details, and European diplomatic missions may issue statements or seek additional security. The outcome of any investigations will likely shape future diplomatic engagement.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#0"
     }
   },
   "featured": {
-    "hero": "googlenews_24206602",
+    "hero": "bbc_21b10ce9",
     "stack": [
-      "ap_7a52357a",
-      "dw_5cb91836",
-      "irishtimes_212e06a1"
+      "fullfact_269b2ef3",
+      "guardian_2b431447",
+      "googlenews_6c926ebd"
     ],
     "latest": [
+      "googlenews_6c926ebd",
+      "guardian_2b431447",
+      "fullfact_269b2ef3",
+      "googlenews_24206602",
       "irishtimes_212e06a1",
-      "dw_5cb91836",
-      "ap_7a52357a",
-      "googlenews_bf8a5bff",
-      "guardian_d0e1c371",
-      "conversation_fa5cdf59"
+      "dw_5cb91836"
     ],
     "world": [
+      "bbc_71f3a56d",
       "dw_5cb91836",
       "irishtimes_212e06a1",
-      "bbc_77ae8ffa",
-      "bangkokpost_19c532f9"
+      "bbc_77ae8ffa"
     ]
   },
   "categoryIndex": {
     "News": [
+      "ap_7a52357a",
       "npr_0ccc332e",
       "snopes_5d24af66",
       "pbs_7e0f2de9",
@@ -16033,10 +16034,10 @@
       "fullfact_f5201e03",
       "pbs_aa8641b8",
       "cjr_8887cfa7",
-      "npr_66382031",
-      "pbs_3280ace5"
+      "npr_66382031"
     ],
     "World": [
+      "bbc_71f3a56d",
       "bangkokpost_19c532f9",
       "bbc_77ae8ffa",
       "aljazeera_2863afed",
@@ -16045,8 +16046,7 @@
       "abcau_5a2e6f73",
       "straitstimes_f0797216",
       "bangkokpost_1ed784bb",
-      "irishtimes_f3cff82f",
-      "bangkokpost_f45f2ff4"
+      "irishtimes_f3cff82f"
     ],
     "Politics": [
       "guardian_9a6ac71d",
@@ -16073,6 +16073,7 @@
       "googlenews_4fdbc2e0"
     ],
     "Health": [
+      "googlenews_bf8a5bff",
       "bbc_5a89086b",
       "guardian_9d0e88a1",
       "guardian_12c1cd6e",
@@ -16081,10 +16082,11 @@
       "googlenews_5f86b8d8",
       "bbc_711a28ee",
       "bbc_32d1bbfe",
-      "guardian_708437b0",
-      "googlenews_cc0f7f76"
+      "guardian_708437b0"
     ],
     "Science": [
+      "guardian_d0e1c371",
+      "conversation_fa5cdf59",
       "npr_3143eecd",
       "berkeleyuniv_9b6a5866",
       "conversation_265dd2e3",
@@ -16092,9 +16094,7 @@
       "npr_53fb3d29",
       "guardian_2799820e",
       "nasa_47e6d941",
-      "nasa_0897cf1d",
-      "guardian_9b0fb1ac",
-      "bbc_328e723e"
+      "nasa_0897cf1d"
     ],
     "Business": [
       "googlenews_897065f2",
@@ -16109,7 +16109,7 @@
       "googlenews_bd560b79"
     ]
   },
-  "breaking": "Ilhan Omar: The US Democrat targeted by Donald Trump",
+  "breaking": "No action to be taken against wife of PM\u2019s aide over Palestine Action post",
   "events": [
     {
       "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new l",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "Pornography with strangulation and incest to be banned in England and Wales next",
+    "Video of woman being dragged by uniformed men does not show forced conscription ",
     "Zelenskyy urges support for new US sanctions on Russia put on hold by Trump - AP",
-    "The Iran war has cost the average U.S. household the equivalent of almost $2,000",
-    "Japan to raise youth awareness about Northern Territories"
+    "Fast-moving California wildfire burns homes as people are ordered to leave",
+    "Pornography with strangulation and incest to be banned in England and Wales next"
   ]
 }
