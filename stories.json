@@ -1,105 +1,5 @@
 {
   "stories": {
-    "fullfact_45e2b5d3": {
-      "id": "fullfact_45e2b5d3",
-      "title": "Times figures for data centres\u2019 use of water don\u2019t reflect average daily demand",
-      "category": "News",
-      "source": "fullfact",
-      "time": "2026-09-07T12:08:30",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://fullfact.org/media/images/4_Sep_2026_BalticServers_data_cen.8cca8b44.fill-1200x630.jpg",
-      "content": "Water UK has estimated that the average peak water demand of data centres could reach 42\u202fmillion litres per day by 2030, but the average daily demand is expected to be roughly half that figure.\u202f[1]\n\nThese figures are significant because data centres are a rapidly expanding sector that relies heavily on water for cooling, and accurate demand estimates are essential for water supply planning and environmental stewardship.\n\nThe estimate was released in a recent Water UK briefing, which contrasted sharply with figures reported by the Times, which the briefing notes do not reflect average daily demand.\u202f[1]\n\nPeak demand refers to the maximum amount of water that a data centre might use at a single point in time, whereas average daily demand is the total water used divided by 24 hours.\n\nWater UK is a trade association that represents the water industry in the UK, providing research and analysis on water usage across sectors.\n\nData centre operators, water utilities, regulators, and environmental groups are all stakeholders in this issue.\n\nIf water supply infrastructure is designed based on peak demand figures that are not representative of typical usage, it could lead to overinvestment or, conversely, to shortages during peak periods.\n\nAccurate estimates of average daily demand can inform more efficient water allocation and encourage the adoption of alternative cooling technologies that reduce water consumption.\n\nMisrepresenting demand levels could also affect regulatory decisions and public perception of the data centre industry's environmental impact.\n\nWater UK is expected to publish a more detailed report later this year, and regulators may review water licensing requirements for large data centres in the coming months.\n\nThe discrepancy between the Times figures and Water UK's estimates underscores the need for clear, consistent data when assessing the sector's water footprint.\n\nStakeholders will need to monitor forthcoming studies and policy developments to ensure that water resources are managed sustainably as the data centre sector grows.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Full Fact",
-          "url": "https://fullfact.org/environment/times-water-data-centres/"
-        }
-      ],
-      "original_url": "https://fullfact.org/environment/times-water-data-centres/",
-      "guid": "https://fullfact.org/environment/times-water-data-centres/"
-    },
-    "afp_f670c777": {
-      "id": "afp_f670c777",
-      "title": "No\u00ebl Godin, Prankster Who Threw Pies at the Powerful, Dies at 80 - The New York Times",
-      "category": "World",
-      "source": "afp",
-      "time": "2026-09-07T12:09:34",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28223%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27223%27%20cy%3D%27132%27%20r%3D%27140%27%20fill%3D%27hsl%28263%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "No\u00ebl Godin, a prankster who famously threw pies at powerful figures, died at the age of 80. The New\u202fYork\u202fTimes reported his passing, noting his long\u2011standing reputation for using food\u2011based antics to challenge authority. [1]\n\nGodin\u2019s death marks the end of a career that blended humor with political commentary. His pie\u2011throwing stunts, which drew attention from both the media and the subjects of his pranks, were a form of protest that combined spectacle with satire. The loss of such a figure may prompt a reassessment of how public dissent can be expressed in the public square. [1]\n\nAccording to the Times, Godin was best known for targeting high\u2011profile officials and institutions with his pie\u2011throwing. The article does not detail specific incidents, dates, or the identities of the individuals who were the recipients of his pies. It also does not disclose the circumstances of his death or the location where he passed away. The available reporting does not specify these details. [1]\n\nPie\u2011throwing has a long history as a comedic form of protest. From the 1960s counterculture to contemporary political satire, the act of hurling a pie has been used to ridicule and draw attention to perceived hypocrisy or injustice. Godin\u2019s work fits within this tradition, using a harmless yet visually striking gesture to make a statement. [1]\n\nThe prankster community, as well as journalists who cover political dissent, may feel the impact of Godin\u2019s passing. His approach demonstrated that humor could be a powerful tool for challenging power structures, and his legacy may influence future generations of activists and satirists. [1]\n\nBecause the Times article does not provide further information about Godin\u2019s personal life, the causes of his death, or his broader body of work, it is unclear how his passing will affect ongoing projects or causes he supported. The available reporting does not specify any forthcoming memorials or tributes. [1]\n\nIn the absence of additional details, the broader implication of Godin\u2019s death is a reminder of the role that unconventional tactics can play in public discourse. His pie\u2011throwing stunts, while entertaining, also served as a form of social commentary that challenged the status quo. [1]\n\nWhat to watch next is limited by the sparse information in the Times piece. No official statements from family, colleagues, or organizations are mentioned, and no dates for memorial services or posthumous recognitions are provided. The available reporting does not specify any upcoming events related to Godin\u2019s legacy. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "AFP",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SeVhRdXVYZXB5OFJvRzNXcnUxQ3YtQjM1eTZ4QzlsYUNidkZCOEI0Yjd3TkE0SG5rMGtkX2pLanVMVy1jMUpjSjZCaTBNMHd3RXk0eUF1aGVrMWFRS2FlRzZIcW0xSDdwTHd4Z25FZmhEOFJKZ2FZ?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SeVhRdXVYZXB5OFJvRzNXcnUxQ3YtQjM1eTZ4QzlsYUNidkZCOEI0Yjd3TkE0SG5rMGtkX2pLanVMVy1jMUpjSjZCaTBNMHd3RXk0eUF1aGVrMWFRS2FlRzZIcW0xSDdwTHd4Z25FZmhEOFJKZ2FZ?oc=5",
-      "guid": "CBMid0FVX3lxTE5SeVhRdXVYZXB5OFJvRzNXcnUxQ3YtQjM1eTZ4QzlsYUNidkZCOEI0Yjd3TkE0SG5rMGtkX2pLanVMVy1jMUpjSjZCaTBNMHd3RXk0eUF1aGVrMWFRS2FlRzZIcW0xSDdwTHd4Z25FZmhEOFJKZ2FZ"
-    },
-    "aljazeera_88756ef9": {
-      "id": "aljazeera_88756ef9",
-      "title": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
-      "category": "World",
-      "source": "aljazeera",
-      "time": "2026-09-07T12:09:59",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9e738d0436-1788769165.jpg?resize=1920%2C1440",
-      "content": "Iran announced plans to establish a restricted zone in the Strait of Hormuz, a move that could alter the flow of international shipping and heighten tensions with the United States. [1] The statement came as U.S.-Iran relations have been strained over regional security concerns and sanctions, prompting questions about whether Tehran can enforce the new zone and how it will affect global oil transit. [1]\n\nIn a press briefing, Iranian officials outlined the proposed restrictions, citing national security and the need to safeguard sovereignty. The announcement did not disclose the exact dimensions of the zone or the specific criteria that would determine which vessels could pass. [1] No details were provided about the legal framework or the number of naval assets that would be deployed to monitor compliance.\n\nThe Strait of Hormuz is a narrow waterway that carries roughly one-fifth of the world\u2019s petroleum supply. It has long been a strategic chokepoint, with Iran historically asserting its right to regulate traffic through the passage. [General context] The United States maintains a significant naval presence in the Persian Gulf, routinely conducting freedom\u2011of\u2011navigation operations to ensure that maritime traffic remains unimpeded. [General context]\n\nIran has previously used its navy to enforce restrictions during periods of heightened tension, such as the 2019 incident in which it seized a U.S. drone. [General context] The U.S. and its allies view any unilateral restriction of the Strait as a challenge to international maritime law and a potential threat to global energy security. [General context]\n\nThe practical enforcement of a restricted zone depends on several factors. Iran\u2019s naval capacity, the legal basis for detaining foreign vessels, and the possibility of confrontation with U.S. forces all play a role. The announcement highlights that escalating tensions could complicate enforcement efforts. [1] The lack of clarity about enforcement mechanisms leaves uncertainty about how the zone would operate in practice.\n\nIf Iran were to successfully enforce the zone, it could disrupt global oil supply chains and trigger diplomatic responses from affected nations and international organizations. However, the absence of detailed operational plans means that the zone\u2019s real-world impact remains speculative. [1]\n\nObservers will watch for further developments in Iran\u2019s naval deployments and any statements from U.S. officials regarding potential responses. Key indicators will include the next U.S. State Department briefing on Gulf security and any parliamentary approvals within Iran that formalize the restricted zone. [General context]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss"
-        }
-      ],
-      "original_url": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss",
-      "guid": "https://www.aljazeera.com/?t=1788761639"
-    },
-    "conversation_0cbb7ced": {
-      "id": "conversation_0cbb7ced",
-      "title": "Farmer-poet Wendell Berry\u2019s environmental ethics were deeply rooted in his Christian faith and belief in caring for creation",
-      "category": "Science",
-      "source": "conversation",
-      "time": "2026-09-07T12:10:47",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://images.theconversation.com/files/757904/original/file-20260903-50-9xbk1d.jpg?ixlib=rb-4.1.1&amp;rect=0%2C314%2C4332%2C2166&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "content": "Wendell Berry, the celebrated farmer\u2011poet and long\u2011time advocate for sustainable agriculture, has long argued that humans bear a moral duty to care for the natural world. His conviction that stewardship of the land is a divine mandate is rooted in his Christian faith, specifically in the Book of Genesis, where the creation narrative assigns humanity a role of guardianship over Earth. Berry\u2019s writings consistently link this biblical principle to contemporary environmental ethics, insisting that the responsibility to protect nature is a direct extension of religious duty. [1]\n\nThe same biblical text that Berry cites as the foundation for stewardship also underpins arguments that favor the exploitation of natural resources. Critics of environmental protection often point to passages in Genesis that grant humans dominion over animals and land, interpreting this as permission to use nature for human benefit. Berry\u2019s opponents therefore use the same scripture to justify industrial agriculture, mining, and other extractive practices, framing them as legitimate expressions of divine authority. [1]\n\nBerry\u2019s perspective is part of a broader tradition of eco\u2011theology that seeks to reconcile faith with ecological responsibility. By reading Genesis as a call to care rather than conquest, he aligns his agricultural philosophy with principles of sustainability, community resilience, and respect for the intrinsic value of all living beings. This interpretation contrasts sharply with the dominionist view that has historically justified environmental degradation. The debate reflects a deeper theological divide over whether the biblical mandate is one of stewardship or of exploitation. [1]\n\nThe implications of these divergent readings are significant for policy and practice. If stewardship is accepted as the primary biblical message, it supports regulations that limit overuse of land, promote regenerative farming, and protect biodiversity. Conversely, a dominionist reading can lead to policies that prioritize economic growth over ecological health, potentially accelerating climate change and loss of ecosystem services. The tension between these viewpoints continues to shape discussions on land use, conservation, and the role of faith in environmental decision\u2011making. [1]\n\nFor farmers, environmental regulators, and faith communities, the question remains how to interpret Genesis in a way that balances human needs with planetary stewardship. Berry\u2019s insistence on a care\u2011oriented reading offers a framework for integrating religious values with ecological science, while the opposing dominionist stance challenges that integration by foregrounding human advantage. The ongoing dialogue between these perspectives will likely influence future debates over sustainable agriculture, land\u2011use policy, and the moral responsibilities of individuals and institutions toward the environment. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Conversation",
-          "url": "https://theconversation.com/farmer-poet-wendell-berrys-environmental-ethics-were-deeply-rooted-in-his-christian-faith-and-belief-in-caring-for-creation-291025"
-        }
-      ],
-      "original_url": "https://theconversation.com/farmer-poet-wendell-berrys-environmental-ethics-were-deeply-rooted-in-his-christian-faith-and-belief-in-caring-for-creation-291025",
-      "guid": "tag:theconversation.com,2011:article/291025"
-    },
-    "aljazeera_5d2b9eb6": {
-      "id": "aljazeera_5d2b9eb6",
-      "title": "Israel\u2019s removal of Gaza rubble risk to war crimes evidence: UN",
-      "category": "World",
-      "source": "aljazeera",
-      "time": "2026-09-07T21:22:54",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9c7bd1044a-1788640209.jpg?resize=1920%2C1440",
-      "content": "The International Court of Justice (ICJ) has ordered Israel to halt the destruction of evidence related to alleged war crimes amid ongoing rubble removal in Gaza, a move that could affect the integrity of future investigations. [1]\n\nThe ruling highlights the importance of preserving physical evidence for accountability and could shape how reconstruction and forensic work proceed in the conflict zone. [1]\n\nIn 2024, the ICJ issued a binding directive requiring Israel to prevent the loss or destruction of evidence that could be relevant to war\u2011crime investigations. The order came as Israeli forces continued clearing debris from areas damaged in recent hostilities. [1]\n\nThe ICJ, the principal judicial organ of the United Nations, has the authority to issue provisional measures in cases brought before it, including orders to preserve evidence and prevent irreparable harm. [1]\n\nThe removal of rubble in Gaza has been ongoing, with Israeli forces clearing debris from sites affected by recent clashes. [1]\n\nThe United Nations has expressed concern that the removal of rubble could destroy evidence that might be used in investigations of alleged war crimes. [1]\n\nThe ICJ issues orders in cases involving alleged violations of international law, and its decisions are binding on the parties involved. [no footnote]\n\nProvisional measures issued by the ICJ aim to preserve evidence and prevent irreversible damage that could hinder justice. [no footnote]\n\nPhysical evidence such as building remains, debris, and potential weapon fragments can be lost or altered during rubble clearance, complicating forensic analysis. [no footnote]\n\nStakeholders include Israeli authorities, residents of Gaza, international human\u2011rights organizations, and the broader international community. [no footnote]\n\nThe Israeli government has been engaged in reconstruction efforts, but the ICJ order may require adjustments to its approach to ensure compliance with international obligations. [no footnote]\n\nHuman\u2011rights groups argue that preserving evidence is essential for accountability and for any future prosecutions related to the conflict. [no footnote]\n\nThe ICJ\u2019s order could influence how reconstruction proceeds and may prompt further legal actions or scrutiny of Israel\u2019s conduct. [no footnote]\n\nThe directive may also affect the timeline for investigations and the availability of evidence for future trials, potentially delaying accountability processes. [no footnote]\n\nObservers will watch for Israel\u2019s compliance with the ICJ order, any enforcement actions that might follow, and upcoming hearings that could clarify the scope and implementation of the directive. [no footnote]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss"
-        }
-      ],
-      "original_url": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
-      "guid": "https://www.aljazeera.com/?t=1788803464"
-    },
     "snopes_7bab770b": {
       "id": "snopes_7bab770b",
       "title": "9 false or misleading claims RFK Jr. has made, investigated",
@@ -15999,28 +15899,128 @@
       ],
       "original_url": "https://www.pbs.org/newshour/show/trump-escalates-clash-with-zelenskyy-as-russia-continues-deadly-attacks-on-ukraine",
       "guid": "https://www.pbs.org/newshour/show/trump-escalates-clash-with-zelenskyy-as-russia-continues-deadly-attacks-on-ukraine"
+    },
+    "japantimes_28b53634": {
+      "id": "japantimes_28b53634",
+      "title": "Panasonic speeds up efforts to turn windows into solar panels",
+      "category": "World",
+      "source": "japantimes",
+      "time": "2026-10-20T11:16:03",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569576.jpg",
+      "content": "Panasonic has announced that it is accelerating its development of power\u2011generating glass for windows and exterior walls, a move that could turn ordinary buildings into energy producers. [1] The company says the new glass can be customized in size, transparency and design, allowing it to be tailored to a wide range of architectural applications. [2]\n\nThe announcement is significant because it signals a shift toward integrating renewable energy generation directly into building envelopes. If widely adopted, power\u2011generating glass could reduce the need for rooftop solar arrays, lower building operating costs, and help cities meet sustainability targets.\n\nIn the statement, Panasonic explained that the accelerated effort focuses on windows and exterior walls, the most visible and accessible parts of a building. The glass can be produced in different sizes and levels of transparency, enabling architects to balance daylighting with energy capture. The company\u2019s emphasis on design flexibility suggests an intent to appeal to both commercial developers and residential builders.\n\nSolar glass has evolved over the past decade from experimental prototypes to commercial products. The technology embeds photovoltaic cells within the glass substrate, allowing it to generate electricity while remaining transparent or semi\u2011transparent. Panasonic has previously worked on thin\u2011film solar cells and has supplied photovoltaic components to other manufacturers, positioning it well to scale up production of power\u2011generating glass.\n\nKey stakeholders include building owners, architects, and the broader renewable\u2011energy market. For owners, the glass offers a potential revenue stream or cost offset through self\u2011generation. Architects may see it as a new design tool that blends aesthetics with sustainability. Panasonic, meanwhile, stands to expand its portfolio beyond traditional electronics into building\u2011integrated photovoltaics.\n\nThe impact of this technology will depend on factors such as manufacturing cost, durability, and integration with existing building systems. If the glass can be produced at a competitive price and maintain performance over decades, it could become a standard feature in new construction and retrofits. However, challenges such as ensuring adequate ventilation, fire safety, and compliance with building codes will need to be addressed.\n\nFrom a market perspective, Panasonic\u2019s push could spur competition among glass manufacturers and photovoltaic firms, potentially accelerating the adoption of building\u2011integrated solar solutions. It may also influence policy makers to consider incentives for energy\u2011producing building envelopes, aligning with broader climate goals.\n\nIndustry observers should watch for the next steps in Panasonic\u2019s rollout: the launch of pilot projects, the release of detailed technical specifications, and any regulatory approvals required for commercial deployment. These developments will determine how quickly power\u2011generating glass moves from concept to widespread use.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/20/tech/panasonic-window-solar-panels/"
+        }
+      ],
+      "original_url": "https://www.japantimes.co.jp/business/2026/10/20/tech/panasonic-window-solar-panels/",
+      "guid": "https://www.japantimes.co.jp/article/648034/"
+    },
+    "npr_4a9deb0e": {
+      "id": "npr_4a9deb0e",
+      "title": "What if an AI bubble bursts \u2014 and that accelerates AI job losses?",
+      "category": "News",
+      "source": "npr",
+      "time": "2026-10-20T11:16:05",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6007x3379+0+90/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F73%2F30ccbe9b4d3c903bb381870a6cf5%2Fgettyimages-1466243146.jpg",
+      "content": "Research on past recessions suggests downturns can accelerate automation, a trend that could compound the economic shock for workers facing job cuts during a downturn[1]. The same study warns that this dual pressure\u2014recession\u2011induced layoffs and a surge in automated replacements\u2014creates a \u201cdouble whammy\u201d for those already vulnerable in the labor market[1].\n\nThe warning matters because it points to a potential shift in how companies respond to economic stress. Rather than simply cutting hours or hiring fewer people, firms may turn to technology to maintain productivity while reducing labor costs. For employees, this could mean not only losing a job due to a shrinking economy but also seeing their role replaced by machines before they can transition to new work.\n\nThe research examined historical data from previous economic contractions and found a correlation between lower GDP growth and higher investment in automation technologies. While the study does not detail specific industries or time frames, it highlights a pattern: as businesses face tighter margins, they often look to technology as a cost\u2011saving lever.\n\nAutomation, in this context, refers to the use of software, robotics, and artificial intelligence to perform tasks that were previously done by humans. Over the past decade, advances in machine learning and natural language processing have made it possible for machines to handle increasingly complex jobs, from customer service to basic data analysis.\n\nRecessions traditionally trigger layoffs, wage cuts, and reduced hiring. Historically, firms have also used downturns to restructure operations, sometimes adopting new technologies to streamline processes. The research suggests that the pressure to cut costs can accelerate this adoption, leading to a faster rollout of automated systems.\n\nWorkers across a range of sectors could feel the impact. In manufacturing, for example, automation has already replaced many routine assembly tasks. In service industries, chatbots and automated scheduling tools are becoming more common. If these trends intensify during a recession, the displacement could be more rapid and widespread.\n\nEmployers, meanwhile, may see short\u2011term savings but could face long\u2011term challenges. Rapid automation can reduce labor costs, but it also requires investment in new systems, training, and maintenance. Companies may need to balance the immediate financial relief against the potential loss of human expertise and flexibility.\n\nPolicymakers are watching these dynamics closely. Discussions around workforce retraining, universal basic income, and labor protections often hinge on the pace of automation. If recessions indeed spur faster adoption of AI, the urgency for policy interventions could increase.\n\nThe implications for the labor market are significant. A faster shift to automation could widen income inequality, as high\u2011skill workers benefit from new opportunities while low\u2011skill workers face greater displacement. It could also alter the demand for certain skill sets, pushing education systems to adapt more quickly.\n\nWhat to watch next includes upcoming economic forecasts, corporate investment reports, and policy proposals. Analysts will likely track automation spending during the next fiscal cycle, while governments may announce new training programs or incentives to mitigate job losses. The next few months will reveal whether the predicted acceleration of automation during downturns becomes a reality.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NPR",
+          "url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses"
+        }
+      ],
+      "original_url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+      "guid": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses"
+    },
+    "bbc_7dc699d1": {
+      "id": "bbc_7dc699d1",
+      "title": "Orionid meteor shower to peak in UK skies this week",
+      "category": "Science",
+      "source": "bbc",
+      "time": "2026-10-20T11:16:10",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d801/live/ecdce820-cbdc-11f1-b139-f77a8b036d06.png",
+      "content": "The Orionid meteor shower is expected to peak this week in the UK, with clear skies permitting, skygazers could see as many as 10\u201120 meteors per hour. [1]\n\nThis event is one of the most anticipated annual celestial displays for amateur astronomers and the general public, offering a chance to witness a natural spectacle that has been recorded for centuries.\n\nThe peak of the Orionid shower, which occurs when Earth passes through the debris trail left by Halley's Comet, is scheduled for this week. Observers in the UK may expect a rate of 10\u201120 meteors per hour if conditions are favorable. [1]\n\nMeteor showers happen when Earth intersects streams of dust and debris shed by comets or asteroids. The Orionids are associated with Halley's Comet, the most famous periodic comet in our solar system.\n\nThe shower is named after the Orion constellation because the radiant point, where the meteors appear to originate, lies near Orion's belt. This makes the Orionids visible from the Northern Hemisphere during the late autumn months.\n\nHistorically, the Orionid shower has produced rates ranging from a few meteors per hour to as many as 20\u201130 during peak activity. The current forecast of 10\u201120 meteors per hour reflects typical activity for this year.\n\nObserving conditions play a crucial role. Clear skies, minimal light pollution, and a dark moon phase are necessary for the best viewing experience. Cloud cover or a bright moon can reduce the number of visible meteors.\n\nStakeholders include amateur astronomers, local astronomy clubs, science educators, and tourism operators who may organize viewing events. The event also attracts media coverage and public interest in the UK.\n\nThe potential impact of a successful viewing night includes increased public engagement with science, educational outreach opportunities, and a boost to local economies through tourism.\n\nWhile the forecast suggests a moderate display, the actual number of meteors observed will depend on weather conditions. A clear night could provide a memorable experience for both casual stargazers and seasoned observers.\n\nObservers should monitor local weather forecasts and plan to observe after midnight, when the radiant rises above the horizon. The peak is expected to occur sometime during the week, with the highest rates typically occurring between 1\u202fa.m. and 4\u202fa.m. local time.\n\nThe Orionid meteor shower has been documented since the 19th century, with early observers noting its regularity and the bright fireballs that sometimes accompany the display.\n\nThe radiant point in Orion makes the shower visible from most parts of the UK, and many dark\u2011sky sites across the country are well suited for viewing.\n\nObservers can use star charts to locate the radiant and position their telescopes or binoculars accordingly. A simple method is to look toward the Orion constellation and then scan the sky for streaks of light.\n\nThe event also provides valuable data for scientists studying the composition of cometary debris and the interaction of meteoroids with Earth's atmosphere. The Orionids continue to be a subject of research and public fascination.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o#0"
+    },
+    "nature_a1dc418b": {
+      "id": "nature_a1dc418b",
+      "title": "Bundle water safeguards into critical-mineral licences",
+      "category": "Science",
+      "source": "nature",
+      "time": "2026-10-20T11:16:48",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Snowy_Russian_Street.jpg/3840px-Snowy_Russian_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "Nature published an article online on 20\u202fOctober\u202f2026 titled \u201cBundle water safeguards into critical\u2011mineral licences\u201d that proposes integrating water protection measures into the licensing process for critical minerals.\u202f[1]\n\nThe proposal could reshape how governments regulate the extraction of metals and minerals that are essential to modern technology, linking water stewardship directly to resource development approvals.\u202f[1]\n\nThe article appeared in Nature, a leading peer\u2011reviewed scientific journal, and outlines a policy framework that would require water safeguards to be part of critical\u2011mineral licences.\u202f[1]\n\nCritical minerals\u2014such as lithium, cobalt, and rare\u2011earth elements\u2014are increasingly recognised as strategic resources whose supply chains are vulnerable to geopolitical and environmental disruptions.\u202f[no footnote]\n\nWater is a key resource in mining operations, influencing both the efficiency of extraction processes and the health of surrounding ecosystems and communities.\u202f[no footnote]\n\nMining companies, national regulators, local communities, and environmental organisations would all be affected by a policy that ties water safeguards to critical\u2011mineral licences.\u202f[no footnote]\n\nIntegrating water safeguards could raise the upfront costs for developers but may also lead to better environmental outcomes and reduced conflict over water use.\u202f[no footnote]\n\nThe proposal aligns with a growing global emphasis on sustainable resource extraction, yet its practical feasibility and the specific safeguards to be mandated remain to be determined.\u202f[no footnote]\n\nThe article calls for further research and policy dialogue, suggesting that the next steps will involve consultations with industry stakeholders and government agencies to refine the framework and assess its implementation.\u202f[no footnote]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Nature",
+          "url": "https://www.nature.com/articles/d41586-026-03353-z"
+        }
+      ],
+      "original_url": "https://www.nature.com/articles/d41586-026-03353-z",
+      "guid": "https://www.nature.com/articles/d41586-026-03353-z"
+    },
+    "guardian_06843b80": {
+      "id": "guardian_06843b80",
+      "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+      "category": "World",
+      "source": "guardian",
+      "time": "2026-10-20T11:17:20",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/9bd27b70fe701104ae96a61f3b5d9b87bdb4e4b4/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c2ba89fc03967397614f10e34e06f647",
+      "content": "The Department of Homeland Security (DHS) announced that migrants from Ukraine and Sudan who were granted temporary protected status (TPS) will not face immediate deportation after the program\u2019s scheduled expiration on Monday, effectively providing a temporary reprieve for more than 100,000 people in the United States.\u202f[1]\n\nThe decision is significant because it preserves the legal status of roughly 101,000 Ukrainians and 1,800 Sudanese who would otherwise lose their protection and risk removal from the country. The announcement offers a brief period of security for families and communities that have already integrated into American society, while the final status of their residency remains uncertain.\u202f[1]\n\nOn Monday, TPS for Ukrainians and Sudanese was set to expire, a deadline that DHS had previously communicated. In a written statement, the department said that those covered by the temporary measures \u201cretain protection\u201d until an official announcement is made at the appropriate time. The statement did not specify how long the protection would last or when a definitive decision would be issued.\u202f[1]\n\nTPS is a U.S. government program that allows nationals of certain countries to remain in the United States temporarily when conditions in their home country\u2014such as armed conflict or environmental disaster\u2014make it unsafe for them to return. The program is administered by DHS and can be extended, modified, or terminated by executive action.\u202f[2]\n\nThe United States first granted TPS to Ukrainians in 2022 in response to the Russian invasion, and to Sudanese in 2023 following the overthrow of the military junta. Each designation has a set expiration date, after which individuals must either leave the country or seek another form of legal status.\u202f[3]\n\nMigrants affected by this decision include not only those who have lived in the U.S. for years but also recent arrivals who rely on TPS to work, study, and access public benefits. Their families, many of whom are U.S. citizens or permanent residents, also face uncertainty about the future.\u202f[1]\n\nLegal scholars and advocacy groups have expressed concern that the lack of a clear timeline could create instability for those who have built lives in the United States. The decision may also influence broader immigration policy debates, as lawmakers consider how to handle TPS expirations and the rights of displaced populations.\u202f[1]\n\nThe temporary nature of the reprieve means that migrants will need to monitor DHS communications closely. If no further action is taken, the protection could lapse, potentially exposing thousands to deportation proceedings. The situation underscores the fragility of TPS and the need for clear, timely guidance from the administration.\u202f[1]\n\nIn the coming weeks, DHS is expected to issue a formal announcement regarding the future of TPS for Ukraine and Sudan. Stakeholders will be watching for whether the status is extended, modified, or terminated, and for any accompanying measures that might provide a pathway to permanent residency or citizenship.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+      "guid": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan"
     }
   },
   "featured": {
-    "hero": "googlenews_b47f88a9",
+    "hero": "japantimes_28b53634",
     "stack": [
-      "bangkokpost_d483c04b",
-      "bbc_46ab0dec",
-      "googlenews_5815d19d"
+      "npr_4a9deb0e",
+      "bbc_7dc699d1",
+      "nature_a1dc418b"
     ],
     "latest": [
+      "nature_a1dc418b",
+      "bbc_7dc699d1",
+      "npr_4a9deb0e",
+      "googlenews_b47f88a9",
       "googlenews_5815d19d",
-      "bbc_46ab0dec",
-      "bangkokpost_d483c04b",
-      "guardian_b6d2bb90",
-      "bbc_05b673ed",
-      "bbc_3bbf2211"
+      "bbc_46ab0dec"
     ],
     "world": [
+      "japantimes_28b53634",
+      "guardian_06843b80",
       "bangkokpost_d483c04b",
-      "bbc_3bbf2211",
-      "bbc_05b673ed",
-      "afp_630a4d31"
+      "bbc_3bbf2211"
     ]
   },
   "categoryIndex": {
@@ -16037,16 +16037,16 @@
       "snopes_5d24af66"
     ],
     "World": [
+      "guardian_06843b80",
+      "bangkokpost_d483c04b",
+      "bbc_05b673ed",
+      "bbc_3bbf2211",
       "aljazeera_d23a4fd9",
       "straitstimes_1a0da56b",
       "afp_630a4d31",
       "csmonitor_8ac48f9f",
       "abcau_84c601a6",
-      "aljazeera_bf235b88",
-      "japantimes_1ffc87e3",
-      "straitstimes_9bd4a9da",
-      "dw_f031668e",
-      "bangkokpost_c5b44598"
+      "aljazeera_bf235b88"
     ],
     "Politics": [
       "guardian_a043f1f6",
@@ -16073,6 +16073,7 @@
       "googlenews_2d47a392"
     ],
     "Health": [
+      "guardian_b6d2bb90",
       "guardian_e5a17b47",
       "bbc_5402ef18",
       "bbc_ccbdd2f6",
@@ -16081,8 +16082,7 @@
       "guardian_9d0e88a1",
       "guardian_12c1cd6e",
       "googlenews_0606351d",
-      "guardian_45a9b4e6",
-      "googlenews_5f86b8d8"
+      "guardian_45a9b4e6"
     ],
     "Science": [
       "conversation_c55cc911",
@@ -16109,7 +16109,7 @@
       "googlenews_d5f103a3"
     ]
   },
-  "breaking": "Chinese travel alert unlikely to affect arrivals this year",
+  "breaking": "Panasonic speeds up efforts to turn windows into solar panels",
   "events": [
     {
       "title": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones a",
@@ -16125,7 +16125,7 @@
   "mostRead": [
     "Pope discharged from hospital days after lung cancer surgery",
     "Boomi Acquires Elementary Data to Bring Trusted, Governed Data to the AI Era - A",
-    "Hot flashes, night sweats, insomnia \u2013 OB-GYNS set new rules for menopause treatm",
-    "Chinese travel alert unlikely to affect arrivals this year"
+    "What if an AI bubble bursts \u2014 and that accelerates AI job losses?",
+    "Panasonic speeds up efforts to turn windows into solar panels"
   ]
 }
