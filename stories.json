@@ -1,125 +1,5 @@
 {
   "stories": {
-    "guardian_3c1c91e7": {
-      "id": "guardian_3c1c91e7",
-      "title": "\u2018Mistrust\u2019 of Palantir may affect NHS research, says health minister",
-      "category": "Health",
-      "source": "guardian",
-      "time": "2026-09-08T04:04:43",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/2967c3c7dfae1f6bef780d8d34c0d1388ce62f50/292_0_2917_2335/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=62c7cd44e79408c7604eb74aeedc0bf2",
-      "content": "James Frith, the UK health innovation minister, warned that growing mistrust of the U.S. data\u2011analytics firm Palantir could reduce patients\u2019 willingness to share their health information with the NHS, citing a recent rise in opt\u2011outs. [1]\n\nThe concern matters because NHS research depends on large, high\u2011quality datasets to drive medical advances and public health policy. A decline in data sharing could slow progress and erode public confidence in the health system. [2]\n\nIn a recent statement, Frith noted that new figures show tens of thousands of patients have withdrawn their data from research projects linked to Palantir. [2] He said the trend signals a potential shift in patient attitudes toward data sharing.\n\nFrith added that he was worried about \u201cmistrust\u201d of Palantir, a U.S. defence and health\u2011tech company, and the impact this could have on people\u2019s willingness to share data with the NHS. [3]\n\nThe NHS has long used patient data for research, governed by strict privacy rules and the NHS Digital framework that sets out how data can be accessed and shared.\n\nPalantir entered the UK market in 2020, partnering with NHS Digital to provide data\u2011analytics services for public health initiatives, including pandemic response and chronic disease management.\n\nThe company\u2019s platform aggregates health data to support research, but its ties to U.S. defence contracts have raised concerns among some privacy advocates about the potential for sensitive information to be accessed by foreign entities.\n\nPatients, whose data is being shared, are directly affected; they may feel uneasy about a foreign company handling sensitive information that could be used for commercial or defence purposes.\n\nNHS researchers rely on comprehensive datasets to conduct studies; a drop in data availability could delay projects and reduce the scope of research that can be undertaken.\n\nPalantir, as a private firm, seeks to expand its footprint in the UK healthcare sector, while regulators monitor compliance with data protection laws such as the General Data Protection Regulation and the UK Data Protection Act.\n\nIf opt\u2011outs continue to rise, the NHS could face challenges in meeting research targets and maintaining public confidence in its data\u2011sharing practices.\n\nThe situation underscores the need for transparent data governance and clear communication about how patient data is used, stored, and protected.\n\nThe health minister may call for a review of Palantir\u2019s data\u2011handling practices, and the NHS could consider alternative platforms or stricter oversight to reassure patients.\n\nUpcoming deadlines for the NHS Digital data\u2011sharing policy and potential regulatory actions will shape the next steps in addressing the mistrust surrounding Palantir\u2019s involvement.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/society/2026/sep/07/mistrust-of-ai-palantir-may-affect-nhs-research"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/society/2026/sep/07/mistrust-of-ai-palantir-may-affect-nhs-research",
-      "guid": "https://www.theguardian.com/society/2026/sep/07/mistrust-of-ai-palantir-may-affect-nhs-research"
-    },
-    "reuters_a5cc9c46": {
-      "id": "reuters_a5cc9c46",
-      "title": "Indian shares on track for muted open as oil climbs on rising Mideast risks - Reuters",
-      "category": "World",
-      "source": "reuters",
-      "time": "2026-09-08T04:06:35",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Middle_East_%28orthographic_projection%29.svg/960px-Middle_East_%28orthographic_projection%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "content": "Indian shares were poised for a muted opening as oil prices climbed amid escalating Middle East tensions, according to a Reuters report.\u202f[1]\n\nThe development matters because the Indian equity market is a key indicator of the health of emerging economies, and oil price movements can influence corporate earnings, inflation expectations, and investor sentiment.\u202f[1]\n\nThe report noted that the Nifty\u202f50 and the Sensex, the two main indices that track large\u2011cap Indian stocks, were expected to open flat or slightly lower.\u202f[1] Oil prices had risen on concerns about supply disruptions in the Middle East, where geopolitical tensions were on the rise.\u202f[1]\n\nWhile the article did not specify the exact level of the oil price increase, it highlighted that the surge was driven by heightened risk in the region, which is a major oil\u2011producing area.\u202f[1]\n\nIndian equity markets are influenced by a mix of domestic and international factors.\u202f[general context] Domestic drivers include fiscal policy, corporate earnings reports, and monetary policy decisions by the Reserve Bank of India.\u202f[general context] Internationally, commodity prices\u2014particularly oil\u2014play a significant role because India is a large importer of crude oil.\u202f[general context]\n\nOil is a globally traded commodity whose price is sensitive to supply and demand dynamics.\u202f[general context] When geopolitical events threaten to disrupt supply, market participants often bid up prices, which can lead to higher input costs for companies and increased inflationary pressure.\u202f[general context]\n\nThe Middle East is home to some of the world\u2019s largest oil reserves, and any escalation in conflict or instability in the region can prompt fears of supply constraints.\u202f[general context] Such fears typically translate into higher oil prices, which in turn affect markets worldwide.\u202f[general context]\n\nStakeholders most directly affected include Indian investors, both domestic and foreign, who may adjust their portfolios in response to the muted market sentiment.\u202f[general context] Multinational corporations operating in India, especially those with significant import exposure, may face higher operating costs.\u202f[general context] The government, through its fiscal and monetary policy tools, may also respond to the dual pressures of a subdued equity market and rising commodity prices.\u202f[general context]\n\nA muted opening can signal caution among traders, suggesting that uncertainty about future market direction is high.\u202f[general context] Rising oil prices may also feed into inflation expectations, potentially prompting the Reserve Bank of India to consider tightening monetary policy.\u202f[general context]\n\nThe implications of this scenario include a potential slowdown in the Indian economy if higher oil prices erode consumer purchasing power and corporate profitability.\u202f[analysis] Sustained commodity price pressure could also influence the rupee\u2019s exchange rate, affecting the cost of imports and the competitiveness of Indian exports.\u202f[analysis]\n\nMarket participants will watch the actual opening of the Nifty\u202f50 and Sensex, the trajectory of oil prices, and any new developments in Middle East tensions.\u202f[general context] Upcoming economic data releases, such as inflation figures and corporate earnings reports, will also be closely monitored to gauge the broader market direction.\u202f[general context]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTlsdDdCYlVfZ1VEeEUxRlczcDRrYkVhc2pQclVYTmpod3hUWmRWa01RbkhIVlQ1LXhVN3VZYW5ZWldxODFFSXU1NGhCV3NIczRnOXFrVFQ1dk5CbDV4c3FPMDFWN2hheGpzYVQ2c1dqeFE3LWtCX3o2ZldLR3lqcm1SLTczWXBFSXVNcFl3WkdQUzZxemsxaThrUmNXdlhsMFEzLXdleUgyaWdOd29n?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTlsdDdCYlVfZ1VEeEUxRlczcDRrYkVhc2pQclVYTmpod3hUWmRWa01RbkhIVlQ1LXhVN3VZYW5ZWldxODFFSXU1NGhCV3NIczRnOXFrVFQ1dk5CbDV4c3FPMDFWN2hheGpzYVQ2c1dqeFE3LWtCX3o2ZldLR3lqcm1SLTczWXBFSXVNcFl3WkdQUzZxemsxaThrUmNXdlhsMFEzLXdleUgyaWdOd29n?oc=5",
-      "guid": "CBMirwFBVV95cUxPcTlsdDdCYlVfZ1VEeEUxRlczcDRrYkVhc2pQclVYTmpod3hUWmRWa01RbkhIVlQ1LXhVN3VZYW5ZWldxODFFSXU1NGhCV3NIczRnOXFrVFQ1dk5CbDV4c3FPMDFWN2hheGpzYVQ2c1dqeFE3LWtCX3o2ZldLR3lqcm1SLTczWXBFSXVNcFl3WkdQUzZxemsxaThrUmNXdlhsMFEzLXdleUgyaWdOd29n"
-    },
-    "npr_37d415c2": {
-      "id": "npr_37d415c2",
-      "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
-      "category": "News",
-      "source": "npr",
-      "time": "2026-09-08T04:06:38",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7323x4119+0+381/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc7%2Fb2%2Ff08110674722811f8f5075154800%2Fap26250162684873.jpg",
-      "content": "One week after the deadly floods, Nepal has begun identifying victims, while China remains silent, leaving very little known about those dead or missing in the Chinese provinces affected by the same storm surge. The contrast between Nepal\u2019s open reporting and China\u2019s tight media control has raised questions about transparency and the availability of information in crisis situations.\u00b9\n\nThe disparity matters because it affects families seeking closure, international aid agencies coordinating relief, and observers assessing how governments communicate during emergencies. The differing approaches also reflect broader patterns of media openness and censorship that shape public understanding of disaster impacts.\u00b9\n\nIn Nepal, authorities have been working to identify those killed in the floods, publishing lists and updates as forensic teams and local officials cross-check records. The process involves collaboration between government agencies, local municipalities, and non\u2011governmental organizations that assist in locating bodies and confirming identities.\u00b9\n\nIn China, very little is known about the number of dead or missing. Official reporting has been sparse, and there are no publicly available casualty figures or detailed casualty lists from the affected regions. The lack of information stands in stark contrast to the transparency seen in Nepal\u2019s reporting.\u00b9\n\nThe Nepalese flood response has historically involved coordination between the Disaster Management Authority, local police, and community volunteers. These bodies typically issue daily casualty reports and maintain public databases that allow citizens to search for missing relatives. This system of open communication has been praised for its inclusiveness and timeliness.\n\nChina\u2019s media environment is tightly controlled, with state oversight over news outlets and extensive digital censorship. The government routinely monitors online content, filters search results, and restricts the dissemination of information that it deems sensitive or potentially destabilizing. This framework limits the flow of casualty data to the public and international observers.\n\nFamilies in Nepal rely on official identification for closure, legal claims, and access to compensation programs. The timely release of casualty lists helps relatives confirm the fate of loved ones and enables authorities to allocate resources for bereavement support.\n\nIn China, families of the missing or deceased may face uncertainty due to the lack of publicly available information. The absence of transparent casualty reporting can delay the provision of support services and complicate the process of locating missing persons.\n\nThe disparity in reporting may influence international aid flows, as donor agencies often rely on accurate casualty figures to assess the scale of assistance required. A lack of reliable data from China could affect the allocation of resources and the coordination of cross\u2011border relief efforts.\n\nThe situation also highlights broader issues of information control in crisis contexts. When governments restrict data, it can impede scientific analysis, hinder accountability, and reduce public trust in official narratives. The Nepal\u2011China contrast underscores how media openness\u2014or the lack thereof\u2014can shape the global perception of disaster impacts.\n\nMoving forward, Nepal will continue to publish updated lists of identified victims and will likely expand its database as more bodies are recovered and identified. The government has indicated that it will maintain this level of transparency throughout the recovery phase.\n\nInternational observers and human rights groups may call for greater transparency from Chinese authorities, urging them to release casualty figures and provide accessible information to affected families and the broader public. The next few weeks will be critical in determining whether China will adjust its reporting practices in the wake of this disaster.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "NPR",
-          "url": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting"
-        }
-      ],
-      "original_url": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
-      "guid": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting"
-    },
-    "afp_72cfa789": {
-      "id": "afp_72cfa789",
-      "title": "French Foreign Legion soldier escaped Colombian captors after four-day trek - afp.com",
-      "category": "World",
-      "source": "afp",
-      "time": "2026-09-08T11:00:05",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Grenade_legion.svg/500px-Grenade_legion.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "content": "A French Foreign Legion soldier escaped Colombian captors after a four\u2011day trek, AFP reports.\u202f[1]\n\nThe escape underscores the risks faced by foreign soldiers operating in Colombia and raises questions about security protocols for international forces in the country.\n\nAFP reports that the soldier was held by Colombian captors and managed to escape after a four\u2011day trek. The details of the capture, the location of the escape, and the identity of the captors remain undisclosed.\u202f[1]\n\nThe French Foreign Legion is a branch of the French Army that recruits foreign nationals and has a long history of deployments in conflict zones around the world.\n\nColombia has experienced decades of internal conflict involving guerrilla groups, paramilitary forces, and government security forces. The presence of foreign military personnel in Colombia has been part of international cooperation and training initiatives.\n\nThe French government, the French Foreign Legion, and the soldier\u2019s unit are directly affected. Colombian authorities may also be involved in investigating the incident.\n\nThe escape could prompt a review of security arrangements for foreign soldiers in Colombia and may influence future deployments. It also underscores the challenges of operating in remote or hostile environments.\n\nThe incident may lead to diplomatic discussions between France and Colombia regarding the safety of foreign personnel. It also highlights the broader issue of security for international forces in conflict\u2011prone regions.\n\nThe French Foreign Legion and Colombian authorities are likely to investigate the circumstances of the capture and escape. Further statements from either side are expected in the coming days.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "AFP",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY18yUFFBM0NndTdaLXJ6VGl3alRQbUN2UldRQzRPREh3cEI3dFJGSk5VWUc1N2lIUFE3SEtnODVWVGluNWZMQUs1VTMxWkljdFpNTGZneDA0X0hHbU9HclZRaHBudm1oUWJ2SDNOQ3ZuMGhyMTlxdldWdmViRDZEV0JwS1c2QUk1NnZnbmVRTUVhdGRiNzBaeVhxQ2Y5OFE?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY18yUFFBM0NndTdaLXJ6VGl3alRQbUN2UldRQzRPREh3cEI3dFJGSk5VWUc1N2lIUFE3SEtnODVWVGluNWZMQUs1VTMxWkljdFpNTGZneDA0X0hHbU9HclZRaHBudm1oUWJ2SDNOQ3ZuMGhyMTlxdldWdmViRDZEV0JwS1c2QUk1NnZnbmVRTUVhdGRiNzBaeVhxQ2Y5OFE?oc=5",
-      "guid": "CBMinwFBVV95cUxOY18yUFFBM0NndTdaLXJ6VGl3alRQbUN2UldRQzRPREh3cEI3dFJGSk5VWUc1N2lIUFE3SEtnODVWVGluNWZMQUs1VTMxWkljdFpNTGZneDA0X0hHbU9HclZRaHBudm1oUWJ2SDNOQ3ZuMGhyMTlxdldWdmViRDZEV0JwS1c2QUk1NnZnbmVRTUVhdGRiNzBaeVhxQ2Y5OFE"
-    },
-    "abcau_b98e18f6": {
-      "id": "abcau_b98e18f6",
-      "title": "Cricket Australia agrees to bring private investment to Big Bash - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "category": "World",
-      "source": "abcau",
-      "time": "2026-09-08T11:00:43",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://upload.wikimedia.org/wikipedia/en/3/3f/Cricket_Australia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "content": "Cricket Australia has agreed to bring private investment into the Big\u202fBash League, the country\u2019s premier Twenty\u201120 cricket competition.\u202f[1] The decision was reported by ABC News & Headlines, marking a significant shift in how the league will be financed and managed.\n\nThe move is expected to provide the league with new sources of capital that could help it expand its reach, improve player salaries and enhance the overall fan experience. It also signals a broader trend in Australian sport toward greater commercial involvement and financial diversification.\n\nAccording to the report, the announcement came from Cricket Australia\u2019s leadership team during a press briefing that was broadcast live on ABC\u2019s sports network. The organisation stated that private partners would be invited to invest in the league\u2019s operations and marketing initiatives. The exact terms of the investment, including the amount and the identity of potential investors, were not disclosed at the time.\u202f[1]\n\nThe Big\u202fBash League, launched in 2011, has grown into a major sporting event that attracts millions of viewers each season. It features eight state\u2011based teams competing in a series of high\u2011scoring, fast\u2011paced matches that are designed to appeal to a broad audience. The league has traditionally relied on a mix of ticket sales, sponsorships, and broadcasting rights for revenue.\n\nPrivate investment in sports leagues typically involves equity stakes, sponsorship agreements, or joint\u2011venture arrangements that provide capital in exchange for a share of future earnings or brand exposure. Such arrangements can offer a stable financial base, but they also introduce new stakeholders who may influence strategic decisions.\n\nPlayers stand to benefit from increased funding through higher salaries, better training facilities and more comprehensive support services. Sponsors may gain greater visibility and access to a wider audience, while broadcasters could secure more attractive content packages. Fans might enjoy improved stadium amenities, expanded digital offerings and potentially lower ticket prices if the investment is leveraged effectively.\n\nThe implications of this development are still unfolding. If the investment proceeds, it could accelerate the league\u2019s expansion plans, such as adding new teams or hosting matches in additional venues. However, it could also raise questions about the balance between commercial interests and sporting integrity, particularly if private partners seek to influence team ownership or match scheduling.\n\nCricket Australia has indicated that the next steps will involve identifying suitable investors, negotiating terms, and securing regulatory approvals. The league\u2019s governing body will likely set a timeline for these processes, and stakeholders will be watching closely for any announcements regarding partnership agreements or changes to the league\u2019s structure.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "ABC News (Australia)",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbktidzJEeTdKdDJueGRfUXBCSkJkVG8zTlhKbzhnWXpXRkd2QzBMLXVId1BsdnEtOXR4WDVBYmRDMThLT2Znbkx4aC1xdFhTR0xWSm1IVXZRaUVycjJCR2xYeG5wUzhxRjFEXzFtREZ1YWp2Tlp5Wm9aZTdVVWE4LU1MaWlTbnpNM01aSGNQMFZCQUJqcEhvdlp1QmhsMFNTZ2FDZVM2aktWd0tkcjBiOWdwRQ?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbktidzJEeTdKdDJueGRfUXBCSkJkVG8zTlhKbzhnWXpXRkd2QzBMLXVId1BsdnEtOXR4WDVBYmRDMThLT2Znbkx4aC1xdFhTR0xWSm1IVXZRaUVycjJCR2xYeG5wUzhxRjFEXzFtREZ1YWp2Tlp5Wm9aZTdVVWE4LU1MaWlTbnpNM01aSGNQMFZCQUJqcEhvdlp1QmhsMFNTZ2FDZVM2aktWd0tkcjBiOWdwRQ?oc=5",
-      "guid": "CBMiswFBVV95cUxNbktidzJEeTdKdDJueGRfUXBCSkJkVG8zTlhKbzhnWXpXRkd2QzBMLXVId1BsdnEtOXR4WDVBYmRDMThLT2Znbkx4aC1xdFhTR0xWSm1IVXZRaUVycjJCR2xYeG5wUzhxRjFEXzFtREZ1YWp2Tlp5Wm9aZTdVVWE4LU1MaWlTbnpNM01aSGNQMFZCQUJqcEhvdlp1QmhsMFNTZ2FDZVM2aktWd0tkcjBiOWdwRQ"
-    },
-    "france24_1d45a3ed": {
-      "id": "france24_1d45a3ed",
-      "title": "'Pheromone maxxing': Men avoid showers before dates to boost attraction",
-      "category": "World",
-      "source": "france24",
-      "time": "2026-09-08T11:02:06",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://s.france24.com/media/display/a4fbfa1e-ab48-11f1-b364-005056a97e36/w:1024/p:16x9/Anglais-2026-09-08T05-24-32-794Z.jpg",
-      "content": "A recent press review published on Tuesday, September\u202f8 highlighted a trend in which men skip showers before dates to maximize pheromone signals.\u202f[1]\n\nThe trend, dubbed \u201cpheromone maxxing,\u201d reflects a growing interest in subtle cues that may influence attraction, and it has sparked curiosity among dating communities.\u202f[1]\n\nThe review reports that men are deliberately avoiding showers before dates in an effort to preserve body odors that could enhance attraction.\u202f[1] It notes that \u201cpheromone maxxing\u201d is in; showers are out.\u202f[1]\n\nPheromones are chemical signals released by the body that can affect the behavior of others, often in ways that are not consciously perceived. While the scientific consensus on the role of human pheromones in attraction remains uncertain, the idea that body odor can influence perceived attractiveness has long been a topic of study.\n\nThe trend primarily affects men who are seeking to increase their appeal on dates, and it may influence how they prepare for social encounters. It also raises questions about hygiene practices and the balance between personal cleanliness and perceived attractiveness.\n\nThe review does not provide evidence that avoiding showers actually enhances attraction, and the claim remains anecdotal.\u202f[1] If the trend gains traction, it could lead to broader discussions about the role of scent in social interactions and the extent to which people modify their habits to influence others.\n\nFuture research and media coverage will",
-      "sources": [
-        {
-          "n": 1,
-          "label": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/press-review/20260908-pheromone-maxxing-men-avoid-showers-before-dates-to-boost-attraction"
-        }
-      ],
-      "original_url": "https://www.france24.com/en/tv-shows/press-review/20260908-pheromone-maxxing-men-avoid-showers-before-dates-to-boost-attraction",
-      "guid": "90997dac-ab4e-11f1-bfd5-6b99d4079212"
-    },
     "pbs_aea0622d": {
       "id": "pbs_aea0622d",
       "title": "Far-right AfD win signals shift in Germany, raises alarm in Europe",
@@ -15999,32 +15879,153 @@
       ],
       "original_url": "https://www.nature.com/articles/d41586-026-02975-7",
       "guid": "https://www.nature.com/articles/d41586-026-02975-7"
+    },
+    "france24_5a711274": {
+      "id": "france24_5a711274",
+      "title": "Egypt involvement in Yemen 'may actually weaken Cairo's regional role', expert says",
+      "category": "World",
+      "source": "france24",
+      "time": "2026-10-20T21:27:13",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://s.france24.com/media/display/79e2bede-ccc8-11f1-93ab-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261020-223120-224311-CS.jpg",
+      "content": "Egypt's parliament has postponed a debate on President Abdel\u202fFattah al\u2011Sisi's request to authorise military support for Saudi Arabia in Yemen, after an emergency session failed to reach a decision.\u202f[1]\n\nThe delay signals uncertainty about Egypt's involvement in the Yemen conflict and raises questions about the country's regional influence.\n\nOn Monday, Egypt's parliament delayed the debate until next week, following an emergency session that ended without a decision a day earlier. The request came from President Abdel\u202fFattah al\u2011Sisi and concerns authorising military support for Saudi Arabia. State media reported the postponement.\u202f[1]\n\nThe emergency session, convened to address the request, concluded without a decision, prompting the postponement of the formal debate.\u202f[1]\n\nDr\u202fMay\u202fDarwich, an associate professor in International Relations of the Middle East at the University of Birmingham, told France\u202f24 that the operation lacks clear objectives or an exit strategy and might weaken Egypt's regional role.\u202f[1]\n\nThe interview was conducted by Sharon\u202fGaffney of France\u202f24.\u202f[1]\n\nEgypt's parliament is responsible for approving or rejecting requests for military aid, providing oversight of foreign policy decisions.\n\nThe Yemen conflict began in 2014 when Houthi rebels seized the capital, leading Saudi Arabia to intervene in 2015 to support the internationally recognised government.\n\nEgypt has historically maintained a cautious stance toward the Yemen war, balancing relations with Saudi Arabia and other regional actors.\n\nThe request for military support reflects Egypt's alignment",
+      "sources": [
+        {
+          "n": 1,
+          "label": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20261020-egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says"
+        }
+      ],
+      "original_url": "https://www.france24.com/en/tv-shows/a-propos/20261020-egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says",
+      "guid": "d78f4b26-cccb-11f1-a2b7-c3baaa33dc98"
+    },
+    "fullfact_0d71a03d": {
+      "id": "fullfact_0d71a03d",
+      "title": "Viral image of protesters waving Palestinian flags outside the Eiffel Tower is AI-generated",
+      "category": "News",
+      "source": "fullfact",
+      "time": "2026-10-20T21:27:25",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://fullfact.org/media/images/eiffel_tower.369c5155.fill-1200x630.jpg",
+      "content": "A viral image of protesters waving Palestinian flags outside the Eiffel Tower is not a real photograph but an AI\u2011generated creation that contains an invisible SynthID watermark and several visual glitches.\u202f[1] The picture, which shows demonstrators holding flags and fireworks near the Paris landmark, was widely shared on social media and was initially believed to depict an actual event.\u202f[1]\n\nThe spread of the image raised concerns about misinformation and the growing ability of artificial intelligence to produce convincing visual content.\u202f[1]\n\nThe scene shows a crowd outside the Eiffel Tower, with Palestinian flags in hand and fireworks in the background. The image was posted on multiple platforms and attracted a large number of shares and comments.\u202f[1]\n\nExperts who examined the picture identified it as synthetic, noting the presence of an invisible SynthID watermark embedded within the image.\u202f[1]\n\nThe watermark is not visible to the naked eye but can be detected by specialized software designed to reveal subtle markers.\u202f[1]\n\nIn addition to the watermark, the image displays several visual glitches typical of AI\u2011generated media, such as inconsistent lighting, distorted reflections, and unnatural textures.\u202f[1]\n\nArtificial intelligence has rapidly advanced in its ability to generate realistic photographs, making it increasingly difficult for viewers to distinguish real images from synthetic ones.\u202f[General context]\n\nSynthID is a watermarking system developed to help identify AI\u2011generated content by embedding subtle markers that can be detected by algorithms.\u202f[General context]\n\nThe use of invisible watermarks is part of a broader effort to mitigate misinformation by providing a way to trace the origin of synthetic media.\u202f[General context]\n\nSocial media platforms, fact\u2011checking organizations, and the general public are all stakeholders in the challenge of verifying visual content.\u202f[General context]\n\nThe incident underscores the need for improved detection tools and greater public awareness about the authenticity of images circulating online.\u202f[General context]\n\nWhile the image was a hoax, it highlights the growing difficulty of confirming the provenance of visual evidence in the digital age. The presence of a watermark suggests that creators of synthetic media are experimenting with traceability, but the effectiveness of such measures remains to be tested.\u202f[General context]\n\nIn the coming weeks, platforms may increase scrutiny of viral images, and researchers may refine watermark detection techniques. The public should remain cautious and verify sources before sharing visual content.\u202f[General context]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Full Fact",
+          "url": "https://fullfact.org/world/viral-image-protesters-palestinian-flag-eiffel-tower-ai-generated/"
+        }
+      ],
+      "original_url": "https://fullfact.org/world/viral-image-protesters-palestinian-flag-eiffel-tower-ai-generated/",
+      "guid": "https://fullfact.org/world/viral-image-protesters-palestinian-flag-eiffel-tower-ai-generated/"
+    },
+    "bangkokpost_22151e22": {
+      "id": "bangkokpost_22151e22",
+      "title": "Global warming pace accelerating, says climate scientist",
+      "category": "World",
+      "source": "bangkokpost",
+      "time": "2026-10-20T21:28:44",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://static.bangkokpost.com/media/content/20261020/c1_3340423_700.jpg",
+      "content": "A leading climate scientist has warned that global warming driven by fossil fuel emissions is accelerating[1], pushing many of Earth's most important ecosystems toward tipping points[1].\n\nThe statement underscores the urgency of addressing climate change and the potential for irreversible damage to ecosystems that support biodiversity, human livelihoods, and climate regulation.\n\nThe scientist, speaking in London[1], said that the rate of temperature rise is increasing, and that this acceleration is moving key ecosystems closer to thresholds beyond which they may collapse[1].\n\nGlobal warming refers to the long\u2011term rise in Earth's average surface temperature, largely driven by the release of greenhouse gases from burning fossil fuels.\n\nTipping points are critical thresholds in ecological systems; once crossed, the system can shift to a new state that is difficult or impossible to reverse.\n\nFossil fuel emissions have been the dominant source of anthropogenic greenhouse gases since the Industrial Revolution.\n\nThe scientist's warning builds on a body of research that shows the planet is warming faster than projected by earlier climate models.\n\nThe findings affect policymakers, environmental NGOs, and communities that depend on vulnerable ecosystems.\n\nGovernments may need to accelerate mitigation efforts, such as reducing emissions and protecting critical habitats.\n\nIf the acceleration continues, the loss of ecosystem services could have cascading effects on food security, water supply, and climate stability.\n\nScientists and policymakers will likely focus on refining projections, monitoring ecosystem thresholds, and developing adaptation strategies in the coming months.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Bangkok Post",
+          "url": "https://www.bangkokpost.com/world/3340423/global-warming-pace-accelerating-says-climate-scientist"
+        }
+      ],
+      "original_url": "https://www.bangkokpost.com/world/3340423/global-warming-pace-accelerating-says-climate-scientist",
+      "guid": ""
+    },
+    "bbc_ddcd2565": {
+      "id": "bbc_ddcd2565",
+      "title": "Second Labour MP suspended over Covid loan repayments",
+      "category": "Politics",
+      "source": "bbc",
+      "time": "2026-10-20T21:29:28",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aba/live/0c34cc90-ccc0-11f1-b943-5f5800ec2246.png",
+      "content": "Perran Moon, the Labour Member of Parliament for Camborne and Redruth, has been suspended from the House of Commons after voluntarily referring himself for investigation into the repayment of a Covid\u2011era loan.\u202f[1] The move marks the second time a Labour MP has faced suspension over the same scheme.\u202f[1]\n\nThe suspension underscores growing scrutiny of the government\u2011backed Covid loan programme that was designed to help MPs cover expenses during the pandemic.\u202f[1] It also raises questions about how the scheme\u2019s oversight mechanisms are functioning and how MPs are held accountable for their financial conduct.\n\nMoon, who has represented his constituency since 2015, reportedly submitted a referral to the Parliamentary Commissioner for Standards, the independent body that investigates alleged breaches of the Code of Conduct by MPs.\u202f[1] Following the referral, the Commissioner suspended him pending the outcome of the investigation, a disciplinary step that bars the MP from attending parliamentary business and participating in committee work.\n\nThe Covid loan scheme was introduced by the UK government in 2020 to provide temporary financial support to MPs amid the pandemic\u2019s economic disruptions.\u202f[1] Under the scheme, MPs were required to repay the loans within a specified period, with the repayment deadline set by the Treasury.\u202f[1] The scheme was overseen by the Parliamentary Standards Committee, which monitors compliance with financial rules and ethical guidelines.\n\nThe Parliamentary Commissioner for Standards operates independently of Parliament and is empowered to investigate allegations of misconduct, including breaches of the Code of Conduct.\u202f[1] The Commissioner's findings can lead to sanctions ranging from a formal warning to suspension or even expulsion from the House, depending on the severity of the misconduct.\n\nMoon\u2019s constituents in Camborne and Redruth may be concerned about their representation during his suspension, while the Labour Party will likely review the MP\u2019s conduct and consider any internal disciplinary measures.\u202f[1] The voluntary referral may be viewed as a willingness to cooperate, but the investigation will determine whether any rules were breached.\n\nThe suspension highlights the broader issue of MPs\u2019 financial accountability and may prompt a re\u2011examination of the Covid loan scheme\u2019s safeguards.\u202f[1] It also reflects the public\u2019s demand for transparency and integrity in parliamentary conduct.\n\nThe next steps will involve the Parliamentary Commissioner for Standards conducting a thorough review of Moon\u2019s loan repayments.\u202f[1] A final report, which could recommend further sanctions or a reinstatement, is expected to be published after the investigation concludes.\u202f[1] The Labour Party and Parliament will likely announce any subsequent actions once the Commissioner's findings are released.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o#0"
+    },
+    "npr_5b39dfcf": {
+      "id": "npr_5b39dfcf",
+      "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+      "category": "News",
+      "source": "npr",
+      "time": "2026-10-20T21:29:33",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3240+0+300/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F08%2F95973b6c4216b275907f27dea332%2Fap26289768195932.jpg",
+      "content": "Nigeria confirmed its first Ebola case in the capital city of Abuja after a woman arriving from Uganda tested positive for the virus. The case marks Nigeria as the latest country to report an infection amid a regional outbreak that has already claimed lives in several neighboring states. Kenya, which first confirmed a case earlier this month, has since recorded nine infections, underscoring the rapid spread of the disease across the region.1\n\nThe emergence of an Ebola case in Nigeria is significant because the country has previously managed outbreaks of the virus, most notably in 2014\u20132015, when a large epidemic in West Africa prompted a global health response. The new case raises concerns about cross-border transmission and the effectiveness of current surveillance and containment measures in West Africa.2\n\nThe patient, a woman who had recently arrived from Uganda, was identified as a positive case after routine screening procedures at the airport in Abuja. She was isolated in a designated treatment facility pending further investigation and contact tracing. The Nigerian Ministry of Health has not yet released detailed information about the patient\u2019s travel history or potential exposure, but the identification of a case linked to Uganda suggests a possible importation route.3\n\nEbola is a severe hemorrhagic fever caused by the Ebola virus, which is transmitted through direct contact with bodily fluids of infected individuals or contaminated surfaces. The virus has a high case\u2011fatality rate, often exceeding 50%, and outbreaks can spread rapidly if not contained. The World Health Organization (WHO) monitors outbreaks globally and coordinates international response efforts, including the deployment of medical teams and the provision of vaccines and therapeutics.4\n\nKenya\u2019s first confirmed case, reported earlier this month, was a man who had traveled from the Democratic Republic of Congo, a country that has experienced several Ebola outbreaks in recent years. Since that initial case, Kenyan authorities have identified eight additional infections, bringing the total to nine. The Kenyan government has implemented isolation protocols and contact tracing to prevent further spread.5\n\nStakeholders in the situation include the Nigerian public, who face the risk of exposure to a highly contagious and deadly virus; health workers, who must manage patient care and infection control; and regional governments, which must coordinate cross-border surveillance and response. The economic impact of an outbreak can be substantial, affecting trade, tourism, and public confidence.6\n\nThe implications of this new case are twofold. First, it highlights the need for robust screening and quarantine measures at points of entry, especially in countries with ongoing Ebola activity in neighboring regions. Second, it underscores the importance of sustained investment in public health infrastructure and rapid response capabilities to prevent localized cases from escalating into larger outbreaks.7\n\nIn the coming weeks, health authorities in Nigeria and neighboring countries will likely intensify surveillance, expand contact tracing, and possibly deploy the rVSV-ZEBOV vaccine to high\u2011risk populations. The WHO and other international partners may also provide additional support, including medical supplies and expertise. The next critical milestones will include the identification of any secondary cases linked to the Abuja patient and the assessment of the effectiveness of containment measures.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NPR",
+          "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case"
+        }
+      ],
+      "original_url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
+      "guid": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case"
+    },
+    "csmonitor_a386511a": {
+      "id": "csmonitor_a386511a",
+      "title": "To light Damascus\u2019 future, an artisan draws on its stained-glass past",
+      "category": "World",
+      "source": "csmonitor",
+      "time": "2026-10-20T21:30:13",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://images.csmonitor.com/csm/2026/10/1008_OSYRIAGLASS_portrait_LEDE.jpg?alias=standard_900x600",
+      "content": "Fayez\u202fTalmasani, after five decades of mastering Damascus\u2019 traditional stained\u2011glass craft, has finally shared his knowledge, ensuring the art is no longer carried by a single individual. [1]\n\nThe transfer of this specialized skill is significant for Syria\u2019s cultural heritage, which has faced disruption during the recent conflict, and it marks the end of an era in which the craft was preserved by a single artisan. [1]\n\nTalmasani, after five decades of mastering the craft, has shared his knowledge with a new generation of artisans. [1]\n\nHe has taught the essential techniques of cutting, painting, and assembling stained glass. [1]\n\nThe craft had been practiced by a small group of artisans, and Talmasani was among the last. [1]\n\nThe transfer of knowledge is expected to help preserve the intricate designs that have adorned Damascus\u2019s historic architecture for centuries.\n\nDamascus has long been renowned for its stained glass, a craft that dates back to the medieval period and has been used in mosques, palaces, and public buildings.\n\nThe technique involves cutting colored glass into geometric shapes, joining them with lead or copper foil, and applying a vitreous paint to add detail.\n\nDuring the 20th century, the craft was passed down through family workshops, with knowledge transmitted orally and through hands\u2011on practice.\n\nThe Syrian civil war, which began in 2011, disrupted many cultural industries, including the preservation of historic sites and the training of artisans.\n\nThe primary beneficiaries of Talmasani\u2019s training are the apprentices who will carry forward the craft.\n\nCultural institutions, such as the National Museum of Damascus, may also benefit from a renewed supply of skilled artisans to restore damaged stained glass.\n\nThe tourism sector, which relies on the city\u2019s historic architecture, could see a revitalization of its attractions.\n\nIf the new generation of artisans can maintain the high standards of craftsmanship, the tradition may experience a renaissance, potentially attracting international interest.\n\nHowever, sustaining the craft will require continued support, including access to quality materials and formal training programs.\n\nThe next steps include the establishment of a formal apprenticeship program and the potential opening of a museum exhibit showcasing the history of Damascus stained glass.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Christian Science Monitor",
+          "url": "https://www.csmonitor.com/World/Middle-East/2026/1020/syria-rebuilding-damascus-stained-glass-artisan?icid=rss"
+        }
+      ],
+      "original_url": "https://www.csmonitor.com/World/Middle-East/2026/1020/syria-rebuilding-damascus-stained-glass-artisan?icid=rss",
+      "guid": "b93c832d1f1aab21e2f771af47a324a7"
     }
   },
   "featured": {
-    "hero": "googlenews_e65821ce",
+    "hero": "france24_5a711274",
     "stack": [
-      "googlenews_b3e810dc",
-      "cna_2e98fa9d",
-      "straitstimes_e285af9e"
+      "fullfact_0d71a03d",
+      "bangkokpost_22151e22",
+      "bbc_ddcd2565"
     ],
     "latest": [
+      "bbc_ddcd2565",
+      "bangkokpost_22151e22",
+      "fullfact_0d71a03d",
+      "googlenews_e65821ce",
       "straitstimes_e285af9e",
-      "cna_2e98fa9d",
-      "googlenews_b3e810dc",
-      "japantimes_28b53634",
-      "nature_a1dc418b",
-      "bbc_7dc699d1"
+      "cna_2e98fa9d"
     ],
     "world": [
-      "cna_2e98fa9d",
-      "straitstimes_e285af9e",
-      "bbc_e364403c",
-      "japantimes_28b53634"
+      "france24_5a711274",
+      "bangkokpost_22151e22",
+      "csmonitor_a386511a",
+      "cna_2e98fa9d"
     ]
   },
   "categoryIndex": {
     "News": [
+      "npr_5b39dfcf",
       "npr_4a9deb0e",
       "pbs_143ce49f",
       "npr_7db4031c",
@@ -16033,10 +16034,11 @@
       "npr_1d5f5dee",
       "pbs_8afc88ad",
       "fullfact_269b2ef3",
-      "ap_7a52357a",
-      "npr_0ccc332e"
+      "ap_7a52357a"
     ],
     "World": [
+      "csmonitor_a386511a",
+      "japantimes_28b53634",
       "bbc_e364403c",
       "guardian_06843b80",
       "bangkokpost_d483c04b",
@@ -16044,9 +16046,7 @@
       "bbc_3bbf2211",
       "aljazeera_d23a4fd9",
       "straitstimes_1a0da56b",
-      "afp_630a4d31",
-      "csmonitor_8ac48f9f",
-      "abcau_84c601a6"
+      "afp_630a4d31"
     ],
     "Politics": [
       "bbc_46ab0dec",
@@ -16085,6 +16085,8 @@
       "guardian_12c1cd6e"
     ],
     "Science": [
+      "nature_a1dc418b",
+      "bbc_7dc699d1",
       "nature_49c6423c",
       "conversation_c55cc911",
       "nature_9bcf8443",
@@ -16092,11 +16094,10 @@
       "nature_681c8ac1",
       "nasa_8a9760bf",
       "nasa_5c651110",
-      "guardian_ab7c88f1",
-      "bbc_21b10ce9",
-      "npr_590b3164"
+      "guardian_ab7c88f1"
     ],
     "Business": [
+      "googlenews_b3e810dc",
       "googlenews_118bd6f4",
       "googlenews_24206602",
       "googlenews_897065f2",
@@ -16105,11 +16106,10 @@
       "googlenews_820e63fa",
       "googlenews_c371c1e9",
       "marketwatch_4af18c13",
-      "googlenews_9868fb79",
-      "googlenews_d5f103a3"
+      "googlenews_9868fb79"
     ]
   },
-  "breaking": "OVHcloud eyes faster 2027 growth as it posts first positive cash flow since IPO - CNA",
+  "breaking": "Egypt involvement in Yemen 'may actually weaken Cairo's regional role', expert says",
   "events": [
     {
       "title": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones a",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "Walmart rolls out new bundle combining Walmart+, Sam\u2019s Club Plus - Fox Business",
+    "Viral image of protesters waving Palestinian flags outside the Eiffel Tower is A",
     "Pope discharged from hospital days after lung cancer surgery",
-    "Boomi Acquires Elementary Data to Bring Trusted, Governed Data to the AI Era - A",
-    "Brewers, Rays carry sportsbook liability into World Series - ESPN"
+    "Egypt involvement in Yemen 'may actually weaken Cairo's regional role', expert s",
+    "Walmart rolls out new bundle combining Walmart+, Sam\u2019s Club Plus - Fox Business"
   ]
 }
