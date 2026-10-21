@@ -1,105 +1,5 @@
 {
   "stories": {
-    "abcau_e416db50": {
-      "id": "abcau_e416db50",
-      "title": "Will your feed be boring without the algorithm? Instagram gives us a hint - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "category": "World",
-      "source": "abcau",
-      "time": "2026-09-09T04:12:42",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Instagram_screenshot_%2812_January_2026%2C_16h30m39s%2C_UTC_-3%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "content": "Instagram\u2019s algorithm is the invisible hand that orders the content users see every day, and a recent ABC News article suggests that without it the platform\u2019s feed could become dull and unengaging. The piece, titled \u201cWill your feed be boring without the algorithm? Instagram gives us a hint,\u201d was published by ABC News & Headlines \u2013 Australian Broadcasting Corporation and points to the central role Instagram\u2019s ranking system plays in shaping user experience.\u00b9\n\nThe implication is that the algorithm\u2019s curation is not merely a technical convenience but a core feature that keeps users scrolling, interacting, and returning to the app. When a feed is organized by relevance, timeliness, and predicted interest, it can feel personalized and dynamic; without such sorting, the sheer volume of posts could overwhelm or under\u2011inform users.\n\nABC News\u2019 article notes that Instagram\u2019s algorithm determines which photos, videos, and stories appear at the top of a user\u2019s feed, based on factors such as past engagement, content type, and the relationships between users. The article\u2019s headline underscores the idea that the algorithm is essential to the platform\u2019s appeal, hinting that a feed devoid of algorithmic sorting might feel \u201cboring.\u201d\u00b9\n\nSocial\u2011media algorithms work by assigning scores to each piece of content, then ranking posts so that those with the highest predicted relevance appear first. This process relies on machine\u2011learning models trained on vast amounts of user interaction data, including likes, comments, shares, and time spent viewing. The goal is to keep users engaged by showing them the content they are most likely to find interesting.\n\nThe primary stakeholders in this system are Instagram users, who receive the curated content; advertisers, who rely on algorithmic targeting to reach specific audiences; and creators, who depend on the algorithm to surface their work to potential followers. Each group has a vested interest in how the algorithm prioritizes content, and changes to its logic can shift visibility, reach, and revenue.\n\nIf Instagram were to reduce or eliminate algorithmic curation, users might experience a more random, chronological feed that could feel less relevant, potentially lowering engagement. Advertisers could see a decline in ad performance, while creators might find it harder to grow their audiences. The broader industry debate around algorithmic transparency and fairness would also be intensified, as stakeholders push for clearer insight into how content is ranked.\n\nLooking ahead, Instagram may continue to refine its algorithmic models, balancing user engagement with concerns about filter bubbles and content diversity. Regulatory bodies in several jurisdictions are increasingly scrutinizing how social\u2011media platforms use algorithms, and upcoming policy proposals could mandate greater transparency or impose limits on certain ranking practices. Users and creators should watch for any public statements from Instagram about algorithmic changes, as well as potential legislative developments that could reshape how feeds are organized.\u00b9",
-      "sources": [
-        {
-          "n": 1,
-          "label": "ABC News (Australia)",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXByUDI1ajNXaENaN0FEUzRTelZIOS1jSjEzanFVQ1JPRHhUWWRPODl0RnE4bkRyYVJUZzFrRU5sMU5odTZDUTR5Tm9zWVdaazE2OFFGZU5FZEhMRXRqZTJuZEVxUGgzYi1jTF80ZUJwTVVOczFyRS05TjQ2VlVoRm1PVEQ1TlpmMHBvVTZwdTlkZzdIeDFBMUE4NWxkZXJzX196MVhEcm80SVNRZVpv?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXByUDI1ajNXaENaN0FEUzRTelZIOS1jSjEzanFVQ1JPRHhUWWRPODl0RnE4bkRyYVJUZzFrRU5sMU5odTZDUTR5Tm9zWVdaazE2OFFGZU5FZEhMRXRqZTJuZEVxUGgzYi1jTF80ZUJwTVVOczFyRS05TjQ2VlVoRm1PVEQ1TlpmMHBvVTZwdTlkZzdIeDFBMUE4NWxkZXJzX196MVhEcm80SVNRZVpv?oc=5",
-      "guid": "CBMirwFBVV95cUxObXByUDI1ajNXaENaN0FEUzRTelZIOS1jSjEzanFVQ1JPRHhUWWRPODl0RnE4bkRyYVJUZzFrRU5sMU5odTZDUTR5Tm9zWVdaazE2OFFGZU5FZEhMRXRqZTJuZEVxUGgzYi1jTF80ZUJwTVVOczFyRS05TjQ2VlVoRm1PVEQ1TlpmMHBvVTZwdTlkZzdIeDFBMUE4NWxkZXJzX196MVhEcm80SVNRZVpv"
-    },
-    "aljazeera_9f9e08d6": {
-      "id": "aljazeera_9f9e08d6",
-      "title": "Gambian leader pledges halt to rolling blackouts as protests turn violent",
-      "category": "World",
-      "source": "aljazeera",
-      "time": "2026-09-09T04:13:02",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa0b22b00927-1788916267.jpg?resize=1920%2C1440",
-      "content": "Gambian President Adama Barrow announced that the government would stop the country\u2019s rolling blackouts amid a wave of violent protests, and he unveiled a plan to build new power infrastructure, including a 24\u2011megawatt plant, to address the worsening electricity crisis.[1]\n\nThe announcement comes at a time when power outages have become a daily hardship for Gambians, disrupting businesses, schools and households. The government\u2019s pledge to halt blackouts is intended to restore stability and confidence in the state\u2019s ability to provide essential services, while the new plant is meant to increase the national grid\u2019s capacity and reduce dependence on diesel generators.[1]\n\nIn the days before the statement, crowds gathered in the capital, Banjul, demanding reliable electricity. The protests escalated into violence, with clashes between demonstrators and security forces that left several injured and a number of buildings damaged. The unrest highlighted the urgency of the power problem and the public\u2019s frustration with the government\u2019s handling of the crisis.[1]\n\nBarrow\u2019s promise to end rolling blackouts follows a series of scheduled power cuts that have been implemented to manage the limited supply. The government has been forced to curtail electricity to certain regions at different times of day, a practice that has become increasingly unpopular and has strained the country\u2019s economy.[1]\n\nGambia\u2019s electricity supply has long been constrained by a small, aging grid and a heavy reliance on imported fuel for generators. The country\u2019s power generation capacity has historically been insufficient to meet peak demand, leading to frequent outages and a need for load\u2011shedding measures. The new 24\u2011megawatt plant, as part of a broader infrastructure upgrade, is expected to add significant capacity to the national grid and improve reliability.[1]\n\nA 24\u2011megawatt facility is capable of producing enough electricity to power thousands of homes and businesses simultaneously. Such a plant would help diversify the energy mix, reduce the reliance on diesel, and potentially lower electricity costs for consumers and industries over time. The government\u2019s plan includes additional projects aimed at expanding transmission lines and modernizing substations.[1]\n\nThe primary stakeholders in this development are the Gambian citizens, who rely on electricity for daily life and economic activity, and the private sector, which faces operational disruptions due to power shortages. The energy sector\u2019s workforce, including engineers and technicians, stands to benefit from new construction projects and training opportunities associated with the infrastructure upgrades.[1]\n\nOpposition groups and protestors have expressed skepticism about the government\u2019s ability to deliver on its promises, citing past instances where infrastructure projects were delayed or underfunded. Security forces, tasked with maintaining public order during the protests, have also been under scrutiny for their handling of the violence that erupted in Banjul.[1]\n\nIn the short term, the cessation of rolling blackouts could stabilize household electricity supply, reduce the need for private generators, and improve the working conditions for businesses that depend on continuous power. In the longer term, the new plant and associated infrastructure could enhance the resilience of the national grid, support economic growth, and create jobs in construction and maintenance.[1]\n\nThe feasibility of the 24\u2011megawatt plant depends on securing adequate funding, securing permits, and coordinating with local and international partners for technology and expertise. Political will and transparent procurement processes will be crucial to avoid delays and ensure that the project meets its intended capacity and service goals.[1]\n\nAs the government moves forward, the public will be watching for concrete milestones: the signing of contracts, the commencement of construction, and the timeline for the plant\u2019s commissioning. The success of these initiatives will likely influence public perception of the administration\u2019s competence and could determine whether further protests erupt over unmet expectations.[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/9/gambian-leader-pledges-halt-to-rolling-blackouts-as-protests-turn-violent?traffic_source=rss"
-        }
-      ],
-      "original_url": "https://www.aljazeera.com/news/2026/9/9/gambian-leader-pledges-halt-to-rolling-blackouts-as-protests-turn-violent?traffic_source=rss",
-      "guid": "https://www.aljazeera.com/?t=1788915548"
-    },
-    "guardian_b5fdb0c6": {
-      "id": "guardian_b5fdb0c6",
-      "title": "Babies born to anaemic mothers have smaller brains, study finds",
-      "category": "World",
-      "source": "guardian",
-      "time": "2026-09-09T11:05:20",
-      "read": "4 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/b51e55df330640864b621f7eafdfd622daf8756e/1297_888_3180_2544/master/3180.jpg?width=140&quality=85&auto=format&fit=max&s=df3f4a0cc5e7a1153c834b40c1d32543",
-      "content": "Babies born to mothers who had anaemia during pregnancy were found to have smaller brains, especially in areas that control movement, learning and emotional regulation, according to a new study. The differences were first detectable when the infants reached one year of age and could foreshadow cognitive difficulties as children enter school. [1]\n\nThe findings raise concerns for public health officials and clinicians who monitor maternal nutrition. If early brain development is compromised, children may face challenges in school readiness, memory, and emotional control, potentially widening existing educational gaps. The study underscores the importance of addressing anaemia in pregnancy as a preventive measure for long\u2011term child development. [1]\n\nResearchers measured brain size in infants at one year old and compared those whose mothers had anaemia during pregnancy with infants whose mothers did not. They reported that the former group had reduced overall brain volume, with pronounced deficits in regions associated with motor function, learning processes, and emotion regulation. The study noted that these structural differences were evident at the age of one and could predict later cognitive problems when children began formal schooling. [1]\n\nWhile the study did not detail the exact sample size or demographic breakdown, it highlighted that the observed brain reductions were not uniform across the entire brain. Instead, specific cortical and subcortical structures\u2014those that underpin motor coordination, language acquisition, and affective processing\u2014were disproportionately affected. The researchers suggested that the timing of anaemia during pregnancy might be critical, as early gestational iron deficiency could interfere with neurodevelopmental milestones. [1]\n\nAnaemia, most commonly caused by iron deficiency, affects a significant proportion of pregnant women worldwide. Iron is essential for oxygen transport and for the synthesis of neurotransmitters and myelin, the insulating sheath that speeds neural transmission. Inadequate iron stores during pregnancy can limit fetal oxygenation and disrupt the formation of neural circuits, potentially leading to the structural brain changes observed in the study. This biological link between maternal iron status and fetal brain development has been noted in prior research, though the present study adds new evidence regarding specific brain regions.\n\nThe brain undergoes rapid growth during the first year of life, with synaptogenesis and myelination occurring at a pace that is highly sensitive to nutritional inputs. Adequate iron levels support the activity of enzymes involved in DNA synthesis and energy metabolism, both of which are critical for neuronal proliferation and differentiation. When iron is scarce, these processes can be impaired, resulting in smaller brain volumes and altered connectivity patterns. The study\u2019s focus on one\u2011year\u2011old infants aligns with this developmental window, when the brain is particularly vulnerable to nutritional deficits.\n\nHealthcare providers who counsel pregnant women often recommend iron supplementation to prevent anaemia. However, the study\u2019s findings suggest that even mild or transient anaemia could have lasting effects on the child\u2019s neurodevelopment. This raises questions about current screening thresholds and the adequacy of supplementation protocols, especially in low\u2011resource settings where anaemia prevalence is high. The research may prompt a re\u2011evaluation of guidelines to ensure that maternal iron status is monitored more closely throughout pregnancy.\n\nParents of infants born to anaemic mothers may need to be informed about the potential developmental risks. Early identification of motor or learning delays could allow for timely interventions, such as physiotherapy, speech therapy, or specialized educational support. Pediatricians and developmental specialists might consider incorporating routine neurodevelopmental assessments for children with known maternal anaemia histories, to catch emerging difficulties before they become entrenched.\n\nThe study also highlights the broader societal implications of maternal nutrition. Children who experience early cognitive challenges are at greater risk for lower academic achievement, reduced socioeconomic prospects, and increased reliance on public assistance programs. Addressing anaemia in pregnancy could therefore have ripple effects beyond individual health, contributing to improved educational outcomes and reduced health disparities.\n\nWhile the research offers compelling evidence of a link between maternal anaemia and infant brain structure, it also leaves several questions unanswered. The study did not track the children beyond the age of one, so the long\u2011term trajectory of the observed brain differences remains unknown. Future longitudinal studies will be needed to confirm whether the structural deficits translate into measurable cognitive or behavioral impairments in later childhood or adolescence.\n\nAnother area for further inquiry is the dose\u2013response relationship between the severity of maternal anaemia and the extent of brain changes. Understanding whether mild anaemia has the same impact as severe cases could refine screening and treatment strategies. Additionally, exploring whether postnatal nutrition can mitigate or reverse the early deficits would be valuable for designing comprehensive care plans.\n\nIn the coming months, researchers may publish follow\u2011up analyses that track the cohort into school age, providing data on academic performance, executive function, and emotional regulation. Policymakers will likely review the findings when revising prenatal care guidelines, particularly regarding iron supplementation schedules and diagnostic thresholds. Health ministries in countries with high anaemia prevalence may also consider integrating routine maternal iron screening into standard antenatal visits.\n\nUltimately, the study underscores the critical role of maternal health in shaping early brain development. By highlighting a tangible link between prenatal anaemia and infant brain structure, it calls for heightened vigilance in maternal nutrition programs and a commitment to early developmental monitoring for at\u2011risk children. The next steps will determine whether these insights translate into concrete policy changes and improved outcomes for children worldwide.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
-      "guid": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds"
-    },
-    "smh_53d2bb52": {
-      "id": "smh_53d2bb52",
-      "title": "Albanese-Minns relationship worsens as feds hit back on crime wave \u2018falsehoods\u2019 - SMH.com.au",
-      "category": "World",
-      "source": "smh",
-      "time": "2026-09-09T11:07:05",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%2844%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27484%27%20cy%3D%27265%27%20r%3D%27140%27%20fill%3D%27hsl%2884%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "The relationship between Prime Minister Anthony Albanese and New South Wales Premier Chris\u202fMinns has deteriorated after federal officials publicly responded to allegations of a crime wave in the state, calling the claims false.[1]\n\nThe clash matters because it signals a widening rift between the federal and state governments over public safety and media reporting, potentially affecting policy coordination and public trust.\n\nAccording to the reporting, the federal government rebuked statements that a crime wave was sweeping New\u202fSouth\u202fWales, labeling them as falsehoods.[1] The remarks came amid rising tensions between Albanese and Minns, though the source does not detail the specific allegations or the context of the remarks.[1]\n\nIn Australia, the federal government sets national crime policy while states handle policing and local law enforcement. Cooperation is essential for addressing crime trends, and the federal\u2011state relationship can become strained when each side interprets crime data differently.\n\nThe Premier of NSW, Chris\u202fMinns, and his administration are directly affected, as are federal officials involved in national crime strategy. The public may be influenced by conflicting messages about safety, which can erode confidence in both levels of government.\n\nThe clash could hamper joint initiatives to tackle crime and may lead to divergent messaging that confuses citizens. It also raises questions about the role of media in shaping public perception of crime.\n\nObservers will look for any formal response from Minns, potential policy adjustments, and whether the federal and state governments will seek a reconciliation meeting. The next scheduled federal crime policy review may also be impacted.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Sydney Morning Herald",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa2dxZEZLQ2ZlaERBcVlSblFXSmZ4VjNoa1JjdjRjNWN2X29KRWxmM1RHS0ZsVnc3QkRqSmVIU1E4OVZDbVFUODBOUzRycmlPbTdENkttV3c3ZlhoU1l1X0ZlWlI3bkh6ektZUmhDS1ZPSHJzMDZyYmhrSEI0Z0tEdXhVS2Z0elVsQWwxbGtFRUowSXpfRXpjM2owSEdfcFJIQThPaEFzT29SVTRvajF0dzZwX2d3RUI2clhQSzVjZXVIRnpIVktpMjA3cUZLOHo2VTdrRA?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa2dxZEZLQ2ZlaERBcVlSblFXSmZ4VjNoa1JjdjRjNWN2X29KRWxmM1RHS0ZsVnc3QkRqSmVIU1E4OVZDbVFUODBOUzRycmlPbTdENkttV3c3ZlhoU1l1X0ZlWlI3bkh6ektZUmhDS1ZPSHJzMDZyYmhrSEI0Z0tEdXhVS2Z0elVsQWwxbGtFRUowSXpfRXpjM2owSEdfcFJIQThPaEFzT29SVTRvajF0dzZwX2d3RUI2clhQSzVjZXVIRnpIVktpMjA3cUZLOHo2VTdrRA?oc=5",
-      "guid": "CBMi1AFBVV95cUxQa2dxZEZLQ2ZlaERBcVlSblFXSmZ4VjNoa1JjdjRjNWN2X29KRWxmM1RHS0ZsVnc3QkRqSmVIU1E4OVZDbVFUODBOUzRycmlPbTdENkttV3c3ZlhoU1l1X0ZlWlI3bkh6ektZUmhDS1ZPSHJzMDZyYmhrSEI0Z0tEdXhVS2Z0elVsQWwxbGtFRUowSXpfRXpjM2owSEdfcFJIQThPaEFzT29SVTRvajF0dzZwX2d3RUI2clhQSzVjZXVIRnpIVktpMjA3cUZLOHo2VTdrRA"
-    },
-    "fullfact_9e90d4d7": {
-      "id": "fullfact_9e90d4d7",
-      "title": "How much does the UK spend promoting family planning and condoms in Pakistan?",
-      "category": "News",
-      "source": "fullfact",
-      "time": "2026-09-09T11:08:26",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://fullfact.org/media/images/8_sep_2026_AFP__20260616__B79699E.f9d6070c.fill-1200x630.jpg",
-      "content": "Matt Goodwin asked LBC to verify a claim he had made about the amount the United Kingdom spends on family\u2011planning programmes and condom distribution in Pakistan. In response, the writers examined the publicly available data on UK aid to the country and found no definitive figure that could confirm or refute the claim.\u00b9\n\nThe question matters because public trust in foreign\u2011aid budgets hinges on accurate reporting. When a prominent commentator raises a specific figure, the audience expects that number to be backed by reliable evidence. The absence of a clear figure leaves the claim unverified and highlights the difficulty of tracking how aid dollars are allocated to particular health initiatives.\n\nGoodwin\u2019s request came during an interview with LBC, where he cited a figure that he believed represented UK spending on reproductive\u2011health services in Pakistan. The article\u2019s authors scoured the UK government\u2019s aid\u2011budget releases, the Department for International Development\u2019s (now part of the Foreign, Commonwealth & Development Office) annual reports, and other public databases. Despite this effort, the data did not reveal a single, unambiguous amount that could be tied directly to family\u2011planning or condom programmes in Pakistan.\u00b2\n\nHistorically, the UK has been a significant donor to Pakistan\u2019s health sector, supporting a range of initiatives from maternal\u2011child health to disease\u2011control programmes. Family\u2011planning services, including the distribution of condoms, have been a recurring component of these efforts, often delivered through partnerships with local NGOs and international agencies. The UK\u2019s aid policy framework typically allocates funds across broad thematic areas, and detailed line\u2011item reporting for specific interventions can be limited.\n\nThe lack of a precise figure affects several stakeholders. Pakistani civil\u2011society organisations that rely on UK funding for reproductive\u2011health outreach need clear information to plan and report on their activities. UK aid agencies and policymakers use spending data to assess the impact of their programmes and to justify future budgets. For the public, accurate figures inform debates about the effectiveness and priorities of foreign aid.\n\nWithout a verifiable amount, Goodwin\u2019s claim remains unsubstantiated. This situation underscores a broader challenge in international aid transparency: while overall aid totals are published, the disaggregation of funds to specific programmes\u2014especially those as granular as condom distribution\u2014often falls outside the scope of publicly available data. The gap points to a need for more detailed reporting mechanisms that can track the flow of money to particular health interventions.\n\nLooking ahead, the UK government may release more granular spending data in forthcoming budget documents or audit reports. Monitoring bodies such as the UK Aid Transparency Initiative and independent NGOs could also push for clearer disclosures. Until such information becomes available, the exact scale of UK spending on family\u2011planning and condoms in Pakistan will remain uncertain.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Full Fact",
-          "url": "https://fullfact.org/politics/matt-goodwin-lbc-condoms-pakistan/"
-        }
-      ],
-      "original_url": "https://fullfact.org/politics/matt-goodwin-lbc-condoms-pakistan/",
-      "guid": "https://fullfact.org/politics/matt-goodwin-lbc-condoms-pakistan/"
-    },
     "bangkokpost_9c4f0718": {
       "id": "bangkokpost_9c4f0718",
       "title": "Source of underground oil pipeline leak found in Klong Toey",
@@ -15999,32 +15899,133 @@
       ],
       "original_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX0ZsRmRXTHdTVURFSkU3MlRZU1I5RFE5SnQzNnBRUExvd3J3Si10VjEwejZackYzZ0h0cFI5TlVsSXA1bjB4TF9nUmhpMERtSlBhMGg0d05XUE9iV1RGa19zdGZjaGVhWlNKNlRQN1Z3RE92eHNCNDM5eEN2dUZzQlNfck0wdlkxVldaYzZmMHFIdW8yY1pXZktOUERvSFFfS3FjT2NrR243ZnpwNFN3ZUotVndkQ3Z0aEFiMEFXem1BSDB4MVo5SEdB?oc=5",
       "guid": "CBMiygFBVV95cUxOX0ZsRmRXTHdTVURFSkU3MlRZU1I5RFE5SnQzNnBRUExvd3J3Si10VjEwejZackYzZ0h0cFI5TlVsSXA1bjB4TF9nUmhpMERtSlBhMGg0d05XUE9iV1RGa19zdGZjaGVhWlNKNlRQN1Z3RE92eHNCNDM5eEN2dUZzQlNfck0wdlkxVldaYzZmMHFIdW8yY1pXZktOUERvSFFfS3FjT2NrR243ZnpwNFN3ZUotVndkQ3Z0aEFiMEFXem1BSDB4MVo5SEdB"
+    },
+    "aljazeera_5bd23c26": {
+      "id": "aljazeera_5bd23c26",
+      "title": "Judge orders Meta to pay $25bn in fines for Facebook privacy violations",
+      "category": "World",
+      "source": "aljazeera",
+      "time": "2026-10-21T21:28:39",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/meta-1792608211.jpg?resize=1920%2C1440",
+      "content": "Judge orders Meta to pay $25\u202fbillion in fines for Facebook privacy violations. [1]\n\nThe ruling represents one of the most substantial enforcement actions against a major social media platform in recent years, highlighting the increasing pressure on tech companies to comply with privacy laws.\n\nIn a federal case in New\u202fMexico, a jury found Meta guilty of lying to Facebook users about access to their data. [1] The judge subsequently ordered the company to pay $25\u202fbillion in fines. [1] The case was heard in a federal court in New\u202fMexico, where the jury evaluated evidence presented by the plaintiffs.\n\nMeta, formerly known as Facebook Inc., has faced a series of privacy lawsuits over the past decade. The company has been accused of collecting and sharing user data without adequate consent, leading to regulatory scrutiny and legal challenges.\n\nThe lawsuit was filed under state and federal privacy statutes, including the New\u202fMexico Privacy Act. The jury\u2019s verdict indicates that the court found Meta\u2019s statements to be deceptive, specifically regarding how user data could be accessed and used.\n\nThe ruling directly affects Meta\u2019s shareholders, its users, and regulators. Users may see changes in how their data is handled, while the company faces a significant financial penalty that could influence its future business practices.\n\nThe fine imposes a substantial financial burden on Meta and could prompt the company to revise its privacy policies and compliance procedures. It also signals to other tech firms that privacy violations may result in large penalties.\n\nThe case may influence other privacy litigations and regulatory actions against technology companies, potentially encouraging stricter enforcement of data protection laws.\n\nMeta is likely to appeal the decision, and enforcement of the fine will involve further court proceedings. Privacy advocates and regulators will closely monitor the outcome and any subsequent changes to Meta\u2019s privacy practices.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations?traffic_source=rss"
+        }
+      ],
+      "original_url": "https://www.aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations?traffic_source=rss",
+      "guid": "https://www.aljazeera.com/?t=1792604320"
+    },
+    "googlenews_aecadfa5": {
+      "id": "googlenews_aecadfa5",
+      "title": "Is Rabies Making a Comeback? - The New York Times",
+      "category": "Health",
+      "source": "googlenews",
+      "time": "2026-10-21T21:28:48",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28213%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27133%27%20cy%3D%27121%27%20r%3D%27140%27%20fill%3D%27hsl%28253%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Rabies cases are rising in California, with a record number of infected bats found in Los Angeles and alerts across the U.S.\u202f[1]\n\nThe uptick raises concerns for pet owners and wildlife officials, prompting calls for increased vaccination and monitoring.\u202f[1]\n\nIn recent weeks, California authorities reported a surge in rabies cases among wildlife, including a record number of infected bats in Los Angeles.\u202f[1] The rise is noted by the New\u202fYork\u202fTimes and corroborated by local news outlets.\u202f[1] The exact cause remains unclear.\u202f[1]\n\nInfected cats, bats, and raccoons have been discovered across the country, prompting widespread rabies alerts.\u202f[1] A confirmed rabid raccoon in DACC prompted the department to urge pet vaccinations.\u202f[1]\n\nRabies is a viral disease that affects the central nervous system of mammals, transmitted through bites or scratches.\n\nThe virus is commonly carried by bats, raccoons, skunks, and foxes, and can spread to domestic animals and humans.\n\nVaccination of pets is the primary prevention strategy, with routine shots recommended by veterinarians.\n\nCalifornia has historically maintained a rabies\u2011free status for domestic animals through strict vaccination laws and wildlife monitoring.\n\nPet owners are directly affected, as are veterinarians who must advise on vaccination schedules. Wildlife agencies monitor disease spread and issue alerts.\n\nThe rise in cases could increase the risk of human exposure, especially in urban areas where wildlife and pets interact.\u202f[1] It also strains public health resources and may lead to higher costs for pet owners.\u202f[1]\n\nSome may argue that increased vaccination requirements impose financial burdens, while others emphasize public safety.\n\nThe resurgence suggests that rabies control measures may need to be reevaluated, particularly in light of changing wildlife populations and climate factors.\u202f[1] It underscores the importance of vigilance and timely vaccination.\u202f[1]\n\nAuthorities are expected to release updated guidelines on rabies testing and vaccination protocols in the coming weeks.\u202f[1] Pet owners should monitor local advisories and consult veterinarians for up-to-date recommendations.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2V1YyajF4cE04d0VrNUUxRC1oTDF2RUM2aWtsQUVSenN5dEgyMWpHMWJGcWdOY1o4dktuRUhJOGFzODZqZWw4bDFIQlYyVTdZcGVNTElzcmhxeEl0ZWpSQUl3M3hYWkVtcF85Xy1PQnVVMDBueWVV?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2V1YyajF4cE04d0VrNUUxRC1oTDF2RUM2aWtsQUVSenN5dEgyMWpHMWJGcWdOY1o4dktuRUhJOGFzODZqZWw4bDFIQlYyVTdZcGVNTElzcmhxeEl0ZWpSQUl3M3hYWkVtcF85Xy1PQnVVMDBueWVV?oc=5",
+      "guid": "CBMid0FVX3lxTFA2V1YyajF4cE04d0VrNUUxRC1oTDF2RUM2aWtsQUVSenN5dEgyMWpHMWJGcWdOY1o4dktuRUhJOGFzODZqZWw4bDFIQlYyVTdZcGVNTElzcmhxeEl0ZWpSQUl3M3hYWkVtcF85Xy1PQnVVMDBueWVV"
+    },
+    "fullfact_02cc7de0": {
+      "id": "fullfact_02cc7de0",
+      "title": "How much of the fall in pensioner poverty is \u2018thanks\u2019 to the Conservatives?",
+      "category": "News",
+      "source": "fullfact",
+      "time": "2026-10-21T21:30:08",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://fullfact.org/media/images/helenwhately.b8be0e49.fill-1200x630.jpg",
+      "content": "Helen Whately, the Conservative shadow minister for pensions, said the party had played a \u201csignificant\u201d role in cutting the rate of poverty among older people. Her claim, however, comes amid evidence that the bulk of the decline in pensioner poverty occurred while Labour was in government. [1]\n\nThe issue matters because the poverty rate for people on state pensions is a key barometer of social welfare in the United Kingdom. Politicians routinely use such statistics to justify policy choices, and the narrative around who is responsible for improvements can influence public opinion and future electoral prospects. [1]\n\nWhately\u2019s statement was made during a parliamentary briefing in which she highlighted the Conservative government\u2019s pension reforms, including the introduction of the Pension Credit system and the 2020 pensioners\u2019 tax credit roll\u2011out. She argued that these measures had \u201cin no small part\u201d contributed to the halving of the poverty rate among pensioners. The source notes that the majority of the reduction in poverty among older people, however, took place during the period when the Labour Party held office. [1]\n\nPensioner poverty is measured by the Department for Work and Pensions as the proportion of people aged 65 and over who live on less than 60\u202f% of the median income. Historically, the rate has fluctuated with changes in welfare policy, economic conditions, and demographic shifts. Labour governments have introduced a range of measures aimed at reducing poverty, such as the 2009 increase in the State Pension and the 2012 introduction of the Pension Credit. Conservative administrations have also implemented reforms, notably the 2010 pension credit roll\u2011out and the 2020 tax credit for pensioners. These policies have been credited with lowering poverty, but the timing of the most substantial drop aligns with Labour\u2019s tenure. [1]\n\nThe primary stakeholders are pensioners themselves, who experience the direct effects of poverty reduction, and the political parties that shape the policies affecting them. Analysts and advocacy groups monitor these statistics to assess the effectiveness of welfare reforms. The Conservative Party, by framing the decline as a result of its policies, seeks to bolster its reputation as a steward of social welfare, while Labour may use the data to underscore its historical commitment to reducing poverty. [1]\n\nFrom an analytical standpoint, the claim illustrates how political narratives can diverge from empirical timelines. While the Conservatives introduced significant pension reforms, the data suggest that the most pronounced improvement in poverty rates coincided with Labour\u2019s policy agenda. This discrepancy may prompt further scrutiny of how each party\u2019s measures have contributed to long\u2011term outcomes. [1]\n\nLooking ahead, the next set of official statistics on pensioner poverty will be released by the Department for Work and Pensions in the coming months. Parliamentary committees are scheduled to review the impact of recent pension reforms, and the outcome of those debates may clarify the relative contributions of Conservative and Labour policies to the current state of pensioner poverty. [1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Full Fact",
+          "url": "https://fullfact.org/economy/helen-whately-conservatives-pensioner-poverty/"
+        }
+      ],
+      "original_url": "https://fullfact.org/economy/helen-whately-conservatives-pensioner-poverty/",
+      "guid": "https://fullfact.org/economy/helen-whately-conservatives-pensioner-poverty/"
+    },
+    "cna_9ceab9a3": {
+      "id": "cna_9ceab9a3",
+      "title": "Government websites go dark as vulnerabilities in programming language send shudder across internet - CNA",
+      "category": "World",
+      "source": "cna",
+      "time": "2026-10-21T21:30:18",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28286%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27526%27%20cy%3D%27290%27%20r%3D%27140%27%20fill%3D%27hsl%28326%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Government websites across the country went offline after a wave of vulnerabilities in a widely used programming language was uncovered, sparking a \u201cshudder across the internet.\u201d[1]\n\nThe sudden outages have disrupted access to a range of public services, from tax filing portals to licensing and permit applications, raising concerns about the resilience of critical online infrastructure and the potential for extended downtime for citizens and businesses alike.[1]\n\nAccording to the CNA report, the vulnerabilities were identified in a programming language that underpins many government web applications, prompting administrators to shut down affected sites as a precautionary measure. The article does not disclose which specific sites were taken offline or the name of the language involved.[1]\n\nThe CNA piece notes that the discovery of these flaws has reverberated beyond the immediate government sites, generating widespread alarm among cybersecurity professionals and the general public about the broader security posture of internet services.[1]\n\nProgramming languages form the backbone of modern web applications, and weaknesses in their core libraries or runtime environments can enable attackers to execute arbitrary code, cause denial\u2011of\u2011service conditions, or exfiltrate sensitive data. Secure coding practices, regular patching, and rigorous testing are standard defenses against such vulnerabilities.\n\nThe outage directly impacts government agencies that rely on web portals to deliver services, as well as citizens who depend on those portals for routine transactions. Cybersecurity teams within the affected agencies are likely conducting investigations to assess the scope of the vulnerabilities and to implement mitigations.\n\nThe incident highlights the importance of proactive vulnerability management, including continuous monitoring of third\u2011party code, timely application of security patches, and the adoption of layered defense strategies to reduce the risk of widespread service disruptions.\n\nThe CNA report does not provide a timeline for when the sites will be restored or detail the remediation steps being taken. Stakeholders should watch for official updates from the affected agencies and for any advisories issued by national cybersecurity authorities in the coming days.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "CNA (Singapore)",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMzRxZmVudzItLTVkekFhTm55eTFSSmN2azE5OEpjT0ZQaGl2VEh5SmQtek92M0FzcU5oQ3pMdFRPZDNMRWNwLUZiblVBU1pBZXNsNzZUMFdOQy10RVlvWDJ6MS1obGhiY0hRSUZfRVRDMXBHeS1EcW14ZmZvUTdjTXJUYU9XdmVoUERlRENqNnZkbTJfY0l6SUJkc0JYb09uSkVkZFVJcTRlb01HWWhRT3J6NWNhRTJpbFZ5VnJFa3lnWllQSzQ2RUN2MTVKVHJZN1JMMEFtYXo3eFhHT0E?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMzRxZmVudzItLTVkekFhTm55eTFSSmN2azE5OEpjT0ZQaGl2VEh5SmQtek92M0FzcU5oQ3pMdFRPZDNMRWNwLUZiblVBU1pBZXNsNzZUMFdOQy10RVlvWDJ6MS1obGhiY0hRSUZfRVRDMXBHeS1EcW14ZmZvUTdjTXJUYU9XdmVoUERlRENqNnZkbTJfY0l6SUJkc0JYb09uSkVkZFVJcTRlb01HWWhRT3J6NWNhRTJpbFZ5VnJFa3lnWllQSzQ2RUN2MTVKVHJZN1JMMEFtYXo3eFhHT0E?oc=5",
+      "guid": "CBMi3gFBVV95cUxNMzRxZmVudzItLTVkekFhTm55eTFSSmN2azE5OEpjT0ZQaGl2VEh5SmQtek92M0FzcU5oQ3pMdFRPZDNMRWNwLUZiblVBU1pBZXNsNzZUMFdOQy10RVlvWDJ6MS1obGhiY0hRSUZfRVRDMXBHeS1EcW14ZmZvUTdjTXJUYU9XdmVoUERlRENqNnZkbTJfY0l6SUJkc0JYb09uSkVkZFVJcTRlb01HWWhRT3J6NWNhRTJpbFZ5VnJFa3lnWllQSzQ2RUN2MTVKVHJZN1JMMEFtYXo3eFhHT0E"
+    },
+    "pbs_a3e65886": {
+      "id": "pbs_a3e65886",
+      "title": "Trump will speak at South Carolina midterm rally for Sen. Darline Graham as early voting begins",
+      "category": "News",
+      "source": "pbs",
+      "time": "2026-10-21T21:31:03",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-08-22T004014Z_900294105_RC2C3NAIZ283_RTRMADP_3_USA-TRUMP-1024x710.jpg",
+      "content": "President Donald Trump will visit South Carolina on Wednesday to speak at a rally supporting Senator Darline\u202fGraham as early voting begins.\u202f[1] The former president\u2019s appearance is intended to energize voters for the Senate race that has drawn national attention.\n\nThe visit comes at a pivotal moment in the state\u2019s midterm contest. Democratic voters are hopeful that Graham can break Republicans\u2019 long\u2011standing grip on the seat, yet many remain skeptical about the likelihood of success.\u202f[1] The campaign has faced challenges, with Graham experiencing stumbles in her first run since stepping into the role after her late brother\u2019s death.\u202f[1]\n\nTrump is scheduled to address a crowd in South Carolina on Wednesday, delivering a speech aimed at rallying support for Graham. The rally coincides with the start of early voting, giving voters the opportunity to cast ballots before Election Day.\u202f[1]\n\nThe rally is part of a broader effort to bolster Graham\u2019s campaign. She has faced setbacks since taking over the seat, raising questions about her viability as a candidate.\u202f[1] Her campaign\u2019s recent stumbles have prompted observers to scrutinize her strategy and messaging.\n\nDemocratic voters in South Carolina have expressed hope that Graham could break the state\u2019s Republican hold, but many remain cautious about the prospects of flipping the seat.\u202f[1] The enthusiasm among Democrats is tempered by the recognition that the state has historically leaned Republican in federal elections.\n\nSouth Carolina has a long history of Republican dominance in federal contests, though recent elections have seen increased Democratic competitiveness. The Senate seat in question was vacated after the death of the previous incumbent, leading to a special election that brought Graham into office. Early voting in the state allows voters to cast ballots before the official election day, a strategy used to increase turnout.\n\nThe Republican Party seeks to maintain control of the seat, while the Democratic Party aims to capitalize on any momentum generated by Trump\u2019s appearance. Trump\u2019s presence may mobilize Republican voters and energize the base, but it could also galvanize Democratic supporters who view the rally as a sign of the GOP\u2019s commitment to the race.\n\nWhile Trump\u2019s speech may boost enthusiasm among Republican voters, the overall effect on the election outcome remains uncertain, especially given the campaign\u2019s recent challenges. The next steps include monitoring early voting turnout, campaign responses from both parties, and any shifts in polling data as the election approaches.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/trump-will-speak-at-south-carolina-midterm-rally-for-sen-darline-graham-as-early-voting-begins"
+        }
+      ],
+      "original_url": "https://www.pbs.org/newshour/politics/trump-will-speak-at-south-carolina-midterm-rally-for-sen-darline-graham-as-early-voting-begins",
+      "guid": "https://www.pbs.org/newshour/politics/trump-will-speak-at-south-carolina-midterm-rally-for-sen-darline-graham-as-early-voting-begins"
     }
   },
   "featured": {
-    "hero": "conversation_9bd3d345",
+    "hero": "aljazeera_5bd23c26",
     "stack": [
-      "abcau_1680dde2",
-      "aljazeera_3bb4492c",
-      "cna_cc4c2eae"
+      "googlenews_aecadfa5",
+      "fullfact_02cc7de0",
+      "cna_9ceab9a3"
     ],
     "latest": [
+      "cna_9ceab9a3",
+      "fullfact_02cc7de0",
+      "googlenews_aecadfa5",
+      "conversation_9bd3d345",
       "cna_cc4c2eae",
-      "aljazeera_3bb4492c",
-      "abcau_1680dde2",
-      "smh_74b7ddd8",
-      "googlenews_94cd2476",
-      "smh_ac3d3c7e"
+      "aljazeera_3bb4492c"
     ],
     "world": [
+      "aljazeera_5bd23c26",
+      "cna_9ceab9a3",
       "abcau_1680dde2",
-      "aljazeera_3bb4492c",
-      "cna_cc4c2eae",
-      "reuters_223728c1"
+      "aljazeera_3bb4492c"
     ]
   },
   "categoryIndex": {
     "News": [
+      "pbs_a3e65886",
       "snopes_e02eba03",
       "cjr_f194b9b4",
       "snopes_32d06b80",
@@ -16033,20 +16034,19 @@
       "npr_5b39dfcf",
       "npr_4a9deb0e",
       "pbs_143ce49f",
-      "npr_7db4031c",
-      "snopes_2ca1f1b1"
+      "npr_7db4031c"
     ],
     "World": [
+      "abcau_1680dde2",
+      "smh_74b7ddd8",
+      "smh_ac3d3c7e",
       "reuters_223728c1",
       "france24_65a870c3",
       "france24_5a711274",
       "bangkokpost_22151e22",
       "guardian_0d3fc981",
       "straitstimes_e285af9e",
-      "cna_2e98fa9d",
-      "csmonitor_a386511a",
-      "japantimes_28b53634",
-      "bbc_e364403c"
+      "cna_2e98fa9d"
     ],
     "Politics": [
       "bbc_ddcd2565",
@@ -16097,6 +16097,7 @@
       "nature_681c8ac1"
     ],
     "Business": [
+      "googlenews_94cd2476",
       "googlenews_b3e810dc",
       "googlenews_118bd6f4",
       "googlenews_24206602",
@@ -16105,11 +16106,10 @@
       "googlenews_ba08e50d",
       "googlenews_820e63fa",
       "googlenews_c371c1e9",
-      "marketwatch_4af18c13",
-      "googlenews_9868fb79"
+      "marketwatch_4af18c13"
     ]
   },
-  "breaking": "E-scooter hospitalisations more than tripled since 2019 - ABC News & Headlines \u2013 Australian Broadcas",
+  "breaking": "Judge orders Meta to pay $25bn in fines for Facebook privacy violations",
   "events": [
     {
       "title": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones a",
@@ -16124,8 +16124,8 @@
   ],
   "mostRead": [
     "An AI model\u2019s false tip to Philadelphia police reveals how digital agents can do",
+    "Judge orders Meta to pay $25bn in fines for Facebook privacy violations",
     "Perth house prices suffer record fall in unprecedented market reversal - SMH.com",
-    "Pope discharged from hospital days after lung cancer surgery",
-    "E-scooter hospitalisations more than tripled since 2019 - ABC News & Headlines \u2013"
+    "Is Rabies Making a Comeback? - The New York Times"
   ]
 }
