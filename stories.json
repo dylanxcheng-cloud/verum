@@ -1,125 +1,5 @@
 {
   "stories": {
-    "japantimes_b11e2dc9": {
-      "id": "japantimes_b11e2dc9",
-      "title": "Japanese helicopters to join Indonesia\u2019s wildfires battle this weekend",
-      "category": "World",
-      "source": "japantimes",
-      "time": "2026-09-08T21:00:00",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/561985.jpg",
-      "content": "Japanese helicopters are scheduled to join Indonesia\u2019s firefighting efforts this weekend, a move that comes as the country ramps up its response to wildfires that have been burning for months.\u202f[1]\n\nThe arrival of foreign air support underscores the severity of Indonesia\u2019s fire crisis and the need for additional resources to protect communities, ecosystems, and the economy.\n\nIndonesia\u2019s authorities have intensified their firefighting operations in recent weeks, deploying more ground crews and aircraft to combat the widespread blaze.\u202f[1] The decision to bring in Japanese helicopters reflects a broader strategy of international cooperation aimed at curbing the spread of fires that have devastated large swaths of forest and peatland.\n\nWildfires in Indonesia have become a recurring problem, often linked to seasonal agricultural burning and dry conditions. While the country has historically relied on its own firefighting fleet, the scale of the current crisis has prompted appeals for external assistance.\n\nHelicopters play a critical role in firefighting by transporting water or fire retardant, conducting aerial surveillance, and providing rapid response to emerging hotspots. Their ability to reach remote or inaccessible areas makes them indispensable in a landscape dotted with dense forests and rugged terrain.\n\nThe stakeholders in this operation include the Indonesian Ministry of Environment and Forestry, local fire departments, communities living in fire-prone regions, the Japanese government, and environmental NGOs monitoring the ecological impact of the fires.\n\nThe deployment of Japanese helicopters is expected to enhance Indonesia\u2019s capacity to contain fires, reduce the risk to populated areas, and limit damage to biodiversity hotspots. However, the effectiveness of air support depends on coordination with ground teams and the availability of suitable water sources.\n\nThis collaboration signals a growing trend of cross\u2011border aid in addressing natural disasters, highlighting the importance of shared expertise and resources. It also raises questions about the long\u2011term sustainability of firefighting strategies and the need for preventive measures such as better land\u2011use planning and stricter enforcement of burn\u2011permit regulations.\n\nObservers will be watching the arrival of the helicopters, the logistics of their deployment, and the integration with Indonesia\u2019s existing firefighting framework. The next few days will determine whether the additional air power can make a measurable difference in the battle against the fires that have plagued the archipelago for months.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Japan Times",
-          "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/japan-helicopters-indonesia-fire/"
-        }
-      ],
-      "original_url": "https://www.japantimes.co.jp/news/2026/09/08/japan/japan-helicopters-indonesia-fire/",
-      "guid": "https://www.japantimes.co.jp/article/646280/"
-    },
-    "snopes_345a64a5": {
-      "id": "snopes_345a64a5",
-      "title": "Did Canada import Chinese steel and resell it to US to avoid tariffs? What we know",
-      "category": "News",
-      "source": "snopes",
-      "time": "2026-09-08T21:00:25",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/09/canadachina_steel.png",
-      "content": "U.S. businesses have raised concerns that Canadian firms may be importing Chinese steel and reselling it to the United States to sidestep tariffs.\u00b9\n\nThe allegation, if proven, would undermine the U.S. tariff regime and raise questions about the enforcement of trade agreements between the two North American neighbors. It could also affect Canadian companies and the broader supply chain that links the two economies.\n\nThe accusation surfaced in recent weeks after a series of complaints from U.S. steel buyers. The claims suggest that Canadian importers are acting as intermediaries for Chinese steel destined for U.S. markets.\u00b9\n\nThe available reporting does not specify the names of the Canadian firms involved or the volume of steel in question. It also does not detail how the alleged backdoor process would work.\n\nThe U.S. has imposed tariffs on Chinese steel under Section\u202f232 of the Trade Expansion Act, citing national security concerns. Canada, as a close trading partner, is subject to the same tariffs when it imports steel from China. However, Canada has a free\u2011trade agreement with the U.S. that allows goods to move across the border with minimal customs formalities.\n\nIn theory, a Canadian importer could purchase steel from China, declare it as Canadian goods, and then sell it to U.S. buyers. If the steel is re\u2011exported to the U.S. without proper tariff classification, it could avoid the U.S. duties that would otherwise apply to direct Chinese imports.\n\nU.S. steel manufacturers and distributors are the primary complainants, arguing that the alleged practice gives competitors an unfair advantage. Canadian firms could face scrutiny from U.S. customs officials and potential penalties if the allegations are substantiated.\n\nThe Canadian government has not yet issued a statement on the accusations. Canadian trade officials have historically defended the integrity of the Canada\u2011U.S. trade relationship and have emphasized compliance with U.S. tariff rules.\n\nIf the allegations are proven, it could prompt a review of customs procedures at the Canada\u2011U.S. border and lead to stricter enforcement of tariff classification. It might also strain diplomatic relations between the two countries.\n\nThe U.S. Department of Commerce could investigate the matter under its jurisdiction for violations of tariff law. A finding of wrongdoing could result in penalties or retroactive duties on the imported steel.\n\nThe next steps will likely involve a formal inquiry by U.S. customs authorities. Canadian officials may respond with an investigation of their own. The outcome will be closely watched by industry groups on both sides of the border.\n\nThe case remains unresolved, and further details are expected to emerge as the investigation proceeds.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Snopes",
-          "url": "https://www.snopes.com/news/2026/09/04/canada-chinese-steel-us-tariffs/"
-        }
-      ],
-      "original_url": "https://www.snopes.com/news/2026/09/04/canada-chinese-steel-us-tariffs/",
-      "guid": "https://www.snopes.com/news/2026/09/04/canada-chinese-steel-us-tariffs/"
-    },
-    "googlenews_f898e5cc": {
-      "id": "googlenews_f898e5cc",
-      "title": "Two infants identified in Lancaster County measles-associated deaths - WGAL",
-      "category": "Health",
-      "source": "googlenews",
-      "time": "2026-09-09T04:10:35",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%2829%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27269%27%20cy%3D%27158%27%20r%3D%27140%27%20fill%3D%27hsl%2869%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Lancaster County, Pennsylvania, has confirmed a second infant death linked to the current measles outbreak, bringing the total number of infant fatalities in the county to two. [1]\n\nThe deaths underscore the resurgence of measles in the United States, where cases have risen to over 3,100\u2014the highest level in three decades\u2014and highlight the ongoing public health challenge of maintaining high vaccination coverage. [1]\n\nA 6\u2011week\u2011old infant died of measles, according to the Lancaster County coroner's office. The coroner identified the infant as the second child in the county to die from the disease during the current outbreak. [1]\n\nThe coroner's statement confirms that measles was the cause of death, adding to the growing list of measles\u2011associated fatalities in the United States. [1]\n\nNational data from the Centers for Disease Control and Prevention (CDC) show that U.S. measles cases have surpassed 3,100, a figure that represents the highest number of cases in three decades. [1]\n\nMeasles is a highly contagious viral disease that spreads through respiratory droplets and can cause severe complications, especially in infants and young children. [1]\n\nThe disease is preventable through vaccination, and the U.S. has historically maintained high coverage with the measles, mumps, and rubella (MMR) vaccine. [1]\n\nIn recent years, a decline in vaccination rates in certain communities has led to the reemergence of measles, prompting public health authorities to monitor outbreaks closely. [1]\n\nParents and caregivers of infants are directly affected, as measles can be fatal in very young children who have not yet received the first dose of the MMR vaccine. [1]\n\nHealthcare providers and public health officials in Lancaster County and across the state are working to identify cases, provide treatment, and promote vaccination to prevent further deaths. [1]\n\nThe second infant death in Lancaster County signals that the outbreak is still active and that gaps in vaccination coverage remain a serious risk factor for vulnerable populations. [1]\n\nPublic health officials may need to intensify outreach efforts, including targeted vaccination campaigns and educational initiatives, to curb the spread of measles and protect infants. [1]\n\nOfficials will likely continue to track measles cases, issue advisories, and coordinate with vaccination programs in the coming weeks, while the CDC monitors national trends for guidance on containment strategies. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGwtUk4td09pSWcwMXl4N2dFRGJJbU05VVp4Q1JoTnlhTVVqMEZPZFVXZlN3cGprRHZKRG1qUWd2QTh4Zk1yaGdyNjI5QVp6Sk9oN2lqSzAzcnBRcVNKOEZ4T2F4ZTZWTXRXQlVCZEw1Vmw5RUMxTjRSRW9OMXdxaTRVc1RMS0dSLXpzNWxnbw?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGwtUk4td09pSWcwMXl4N2dFRGJJbU05VVp4Q1JoTnlhTVVqMEZPZFVXZlN3cGprRHZKRG1qUWd2QTh4Zk1yaGdyNjI5QVp6Sk9oN2lqSzAzcnBRcVNKOEZ4T2F4ZTZWTXRXQlVCZEw1Vmw5RUMxTjRSRW9OMXdxaTRVc1RMS0dSLXpzNWxnbw?oc=5",
-      "guid": "CBMijwFBVV95cUxQMGwtUk4td09pSWcwMXl4N2dFRGJJbU05VVp4Q1JoTnlhTVVqMEZPZFVXZlN3cGprRHZKRG1qUWd2QTh4Zk1yaGdyNjI5QVp6Sk9oN2lqSzAzcnBRcVNKOEZ4T2F4ZTZWTXRXQlVCZEw1Vmw5RUMxTjRSRW9OMXdxaTRVc1RMS0dSLXpzNWxnbw"
-    },
-    "pbs_1edb26e5": {
-      "id": "pbs_1edb26e5",
-      "title": "What to watch as Republicans gather in Dallas for Trump's unusual midterm convention",
-      "category": "News",
-      "source": "pbs",
-      "time": "2026-09-09T04:10:39",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-07T202244Z_2142631032_RC2KENAFG9T5_RTRMADP_3_USA-ELECTION-REPUBLICANS-1024x683.jpg",
-      "content": "Trump\u2019s latest political gathering in Dallas has been billed as an \u201cunusual midterm convention,\u201d a move that signals the former president\u2019s intent to rally the Republican base ahead of the 2026 midterm elections. The event, which drew a sizable crowd of party loyalists, is part of a broader strategy to counter the historical trend of the governing party losing seats during midterms.\u202f[1]\n\nMidterms have long posed a challenge for the party in power in Washington, with incumbents often facing a swing against them. Trump has publicly stated that the Dallas rally is designed to \u201cjuice enthusiasm for the party and boost turnout among his voters,\u201d a tactic aimed at offsetting the typical midterm losses.\u202f[1]\n\nThe Dallas gathering, described by organizers as a midterm convention rather than a traditional campaign rally, featured speeches from Trump and a lineup of Republican leaders. Attendees were encouraged to bring signs, wear campaign gear, and participate in a coordinated effort to mobilize voters in key swing districts.\u202f[1] Trump\u2019s remarks emphasized the importance of turnout and the role of his supporters in shaping the election outcome.\u202f[1]\n\nHistorically, midterm elections have been a proving ground for the opposition party, often resulting in a shift of seats in the House and Senate. The phenomenon, sometimes referred to as the \u201cmidterm penalty,\u201d has been documented in numerous election cycles, with the party holding the presidency typically losing an average of 30 seats in the House.\u202f[1] This pattern has prompted parties to devise strategies to mitigate losses, ranging from targeted advertising to grassroots mobilization.\n\nUnlike the grandiosity of presidential conventions, midterm conventions are usually more subdued, focusing on policy messaging and voter outreach rather than spectacle. Trump\u2019s decision to host a convention\u2011style event for the midterms is a departure from the norm, reflecting his penchant for high\u2011energy rallies that blend political messaging with entertainment.\u202f[1] The choice of Dallas\u2014a city with a sizable Republican electorate and a history of hosting political events\u2014adds a strategic layer to the effort.\n\nKey stakeholders in this initiative include Republican voters across the country, local Dallas residents who will host the event, and the national GOP leadership that is coordinating campaign efforts. The rally also draws attention from Democratic strategists, who monitor such gatherings for insights into Republican messaging and voter sentiment.\u202f[1]\n\nThe potential impact of the Dallas convention lies in its ability to galvanize Trump\u2019s core supporters, translating enthusiasm into actual votes. By framing the rally as a call to action, organizers hope to increase voter registration and turnout in districts that could swing the balance of power.\u202f[1] The event also serves as a platform for fundraising, with donors encouraged to contribute to the broader campaign effort.\n\nAnalysts suggest that while the rally may energize the base, it could also deepen partisan divides, especially if the messaging is perceived as polarizing. The effectiveness of such a strategy will ultimately be measured by turnout data and the performance of Republican candidates in the midterm elections.\u202f[1]\n\nLooking ahead, observers will watch for the official turnout figures in the districts most targeted by the Dallas rally, as well as any policy announcements that may arise from the event. The next steps for the Republican Party will involve translating the rally\u2019s momentum into concrete campaign actions, including voter registration drives and targeted advertising.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/politics/what-to-watch-as-republicans-gather-in-dallas-for-trumps-unusual-midterm-convention"
-        }
-      ],
-      "original_url": "https://www.pbs.org/newshour/politics/what-to-watch-as-republicans-gather-in-dallas-for-trumps-unusual-midterm-convention",
-      "guid": "https://www.pbs.org/newshour/politics/what-to-watch-as-republicans-gather-in-dallas-for-trumps-unusual-midterm-convention"
-    },
-    "bbc_e445c623": {
-      "id": "bbc_e445c623",
-      "title": "The trail of clues that our planet might be heating faster than we realised",
-      "category": "Science",
-      "source": "bbc",
-      "time": "2026-09-09T04:10:55",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba25/live/699e3f00-ab83-11f1-a291-b542ee92de7c.jpg",
-      "content": "An online dispute over this summer\u2019s heatwaves has raised questions about whether Earth is warming faster than scientists have previously thought.\u202f[1]\n\nThe debate, which unfolded on social media and climate forums, suggests that recent temperature records may indicate a more rapid rise in global temperatures, a possibility that could reshape climate policy and scientific priorities.\u202f[1]\n\nDuring this summer, a series of record\u2011breaking heatwaves swept across multiple continents. Some climate observers noted that the intensity and duration of these events exceeded the expectations of current climate models.\u202f[1] This observation sparked an online discussion among scientists, journalists, and the public, with some arguing that the data point to a faster rate of warming.\u202f[1]\n\nClimate science relies on long\u2011term temperature records, satellite observations, and numerical models to estimate the rate of global warming. Heatwaves are extreme temperature events that can be used as stress tests for these models. When observed temperatures consistently outpace model projections, scientists investigate whether the models need refinement or whether the underlying climate system is changing more rapidly than assumed.\n\nThe online row has drawn attention from a range of stakeholders. Researchers who develop climate models are urged to examine the latest data for potential biases or missing processes. Policymakers may need to consider whether current mitigation targets remain adequate if warming is indeed accelerating. The public, especially communities that experienced the most intense heat, are concerned about the implications for health, agriculture, and infrastructure.\n\nIf the trend of faster warming holds, it could mean that the planet\u2019s climate sensitivity\u2014the temperature response to a doubling of atmospheric carbon dioxide\u2014is higher than current estimates. That would intensify the urgency of reducing greenhouse\u2011gas emissions and could prompt revisions to international climate agreements. It might also influence the allocation of resources for adaptation measures such as heat\u2011resilient infrastructure and emergency response planning.\n\nThe next steps will involve a careful review of the temperature datasets that sparked the debate. Scientists will likely publish peer\u2011reviewed analyses to confirm or refute the claim that warming is accelerating. Meanwhile, climate monitoring agencies may release updated trend analyses in the coming months. The outcome of these investigations will determine whether the scientific community and policymakers need to adjust their strategies for addressing climate change.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c20917w25n4o#0"
-    },
-    "france24_80fc1e60": {
-      "id": "france24_80fc1e60",
-      "title": "US bans Canadian alcohol, motorcycles and dairy products as trade spat escalates",
-      "category": "World",
-      "source": "france24",
-      "time": "2026-09-09T04:11:46",
-      "read": "3 min read",
-      "mode": "long",
-      "image": "https://s.france24.com/media/display/db134d28-abed-11f1-8986-005056a97e36/w:1024/p:16x9/0a11131be75eaa75c2e6b179bfeca995a738f844.jpg",
-      "content": "The United States has announced new import bans on Canadian alcohol, motorcycles and dairy products, a move that comes as Ottawa\u2019s retaliatory tariffs on U.S. goods take effect. The bans were unveiled on Tuesday, marking a sharp escalation in a trade dispute that has already strained the economic ties between the two North American neighbors.\u202f[1]\n\nThe decision is significant because Canada and the United States are each other\u2019s largest trading partners, with billions of dollars of goods crossing the border daily. The bans threaten to disrupt supply chains, raise consumer prices, and could prompt further retaliatory measures, deepening uncertainty for businesses on both sides of the border.\u202f[1]\n\nOn Tuesday, Washington\u2019s trade officials announced that Canadian alcohol, motorcycles and dairy products would be prohibited from entering the United States. Ottawa had already imposed tariffs on a range of U.S. goods, a response to the U.S. measures that had been in place for several months.\u202f[1] The bans cover a broad spectrum of products, including beer, wine, spirits, motorbikes, and various dairy items such as cheese and milk.\u202f[1]\n\nThe United States and Canada have a long history of trade cooperation, but also of occasional friction. Tariffs are a common tool in trade disputes, allowing a country to impose duties or bans to protect domestic industries or to pressure an opponent into negotiations.\u202f[1]\n\nWhen a tariff or ban is imposed, customs authorities at ports of entry are instructed to refuse entry to the specified goods. Importers must then find alternative suppliers or face penalties, while producers in the exporting country may experience reduced demand and lower prices.\u202f[1]\n\nCanadian producers of alcohol, motorcycles and dairy products are the most directly affected stakeholders. The bans could lead to excess inventory, lower sales, and financial losses for manufacturers and distributors. U.S. importers who rely on Canadian suppliers may need to source from other countries or face higher costs.\u202f[1]\n\nConsumers in the United States could see higher prices for imported beverages, motorbikes, and dairy products, as domestic producers may not be able to meet the same demand. The bans could also limit product variety, especially for niche or specialty items that are predominantly sourced from Canada.\u202f[1]\n\nThe dispute pits several interest groups against one another. U.S. agricultural lobbies and Canadian trade associations have both expressed concerns about the impact of the tariffs and bans on their respective industries. Consumer advocacy groups have warned of potential price hikes and reduced choices for shoppers.\u202f[1]\n\nIf the trade spat continues, it could lead to further escalations, including additional tariffs or bans on other goods. The United States and Canada may also seek to resolve the dispute through the World Trade Organization or through bilateral negotiations, but the current trajectory suggests a protracted standoff.\u202f[1]\n\nLooking ahead, both governments have indicated that they will monitor the situation closely. Key dates to watch include the next scheduled trade talks, any deadlines for the tariffs to take effect, and potential legal challenges that could be filed in trade courts.\u202f[1]\n\nHistorically, the United States and Canada have engaged in several trade disputes, such as the 2018 steel tariff conflict and earlier dairy trade disagreements. These episodes have often ended with negotiated settlements, but the current bans signal a more aggressive stance from Washington.\u202f[1]\n\nDiplomatic channels remain open, with both sides issuing statements that emphasize the need for a swift resolution. The outcome of the next round of negotiations will likely determine whether the bans are lifted or whether further measures are imposed.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "France 24",
-          "url": "https://www.france24.com/en/americas/20260909-us-bans-canadian-alcohol-motorcycles-and-dairy-products-as-trade-spat-escalates"
-        }
-      ],
-      "original_url": "https://www.france24.com/en/americas/20260909-us-bans-canadian-alcohol-motorcycles-and-dairy-products-as-trade-spat-escalates",
-      "guid": "395e8060-abf7-11f1-b670-ad598986f6fc"
-    },
     "abcau_e416db50": {
       "id": "abcau_e416db50",
       "title": "Will your feed be boring without the algorithm? Instagram gives us a hint - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
@@ -15999,32 +15879,154 @@
       ],
       "original_url": "https://www.bbc.co.uk/news/articles/cm3wv9pdj33zo?at_medium=RSS&at_campaign=rss",
       "guid": "https://www.bbc.co.uk/news/articles/cm3wv9pdj33zo#0"
+    },
+    "conversation_9bd3d345": {
+      "id": "conversation_9bd3d345",
+      "title": "An AI model\u2019s false tip to Philadelphia police reveals how digital agents can do as they\u2019re told and still cause trouble",
+      "category": "Science",
+      "source": "conversation",
+      "time": "2026-10-21T16:58:57",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://images.theconversation.com/files/766819/original/file-20261016-50-jx2dj3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C260%2C2506%2C1253&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "content": "An AI model gave a false tip to Philadelphia police, showing that digital agents can do as they're told and still cause trouble. [1]\n\nThe incident highlights the growing use of AI in policing and the risk that errors, even rare ones, could become more common and have higher stakes, according to an AI\u2011governance expert. [1]\n\nThe Philadelphia Police Department had integrated an AI system to generate tips about potential criminal activity. The system produced a false tip. [1]\n\nDigital agents are AI systems that can generate text, images, or other content based on prompts. They can be used in many domains, including law enforcement.\n\nAI governance refers to the frameworks and policies that guide the design, deployment, and oversight of AI systems.\n\nThe expert on AI governance explains that these rare mistakes may soon be common. [1]\n\nThe expert also notes that the stakes are higher when AI is used in policing. [1]\n\nStakeholders include the Philadelphia police, the public, AI developers, and policymakers.\n\nThe incident raises questions about accountability and oversight of AI in law enforcement.\n\nImplications: If AI systems can produce false tips, there is risk of wrongful investigations, erosion of public trust, and potential legal liability.\n\nWhat to watch next: The police department may review its AI policies, regulators may consider new guidelines, and researchers may study the incident to improve safeguards.\n\nThe incident underscores the need for rigorous testing, validation, and human oversight when deploying AI in critical contexts.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Conversation",
+          "url": "https://theconversation.com/an-ai-models-false-tip-to-philadelphia-police-reveals-how-digital-agents-can-do-as-theyre-told-and-still-cause-trouble-294228"
+        }
+      ],
+      "original_url": "https://theconversation.com/an-ai-models-false-tip-to-philadelphia-police-reveals-how-digital-agents-can-do-as-theyre-told-and-still-cause-trouble-294228",
+      "guid": "tag:theconversation.com,2011:article/294228"
+    },
+    "abcau_1680dde2": {
+      "id": "abcau_1680dde2",
+      "title": "E-scooter hospitalisations more than tripled since 2019 - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "category": "World",
+      "source": "abcau",
+      "time": "2026-10-21T16:59:01",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Xiaomi_M365_blanche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "Hospitalisations linked to e\u2011scooter use have more than tripled since 2019, according to a report by ABC News & Headlines. [1]\n\nThe rise in injuries is a growing concern for public health officials, emergency departments, and city planners, as it signals a potential strain on medical resources and raises questions about the safety of a popular mode of urban transport.\n\nABC\u2019s coverage notes the increase but does not provide specific figures or a breakdown of the trend over time. The report simply states that the number of hospital admissions related to e\u2011scooter incidents has risen sharply since 2019, indicating a significant uptick in serious injuries.\n\nElectric scooters, often shared through app\u2011based services, have become a common sight in many Australian cities. They offer a convenient, low\u2011cost option for short trips and are marketed as a green alternative to cars. Their rapid proliferation has coincided with a surge in recreational use, especially among young adults.\n\nThe uptick in hospitalisations affects a range of stakeholders. Patients face longer recovery times and higher medical costs, while hospitals may experience increased demand for trauma and emergency care. Insurance companies could see higher claim payouts, and city authorities may need to consider new regulations or infrastructure changes to improve rider safety.\n\nThe trend suggests that current safety measures\u2014such as helmet use, speed limits, and rider education\u2014may be insufficient. It also points to the need for clearer guidelines and possibly stricter enforcement to reduce the risk of serious injury.\n\nCity councils and transport regulators will likely review existing policies in light of the data. Upcoming discussions may focus on whether to impose mandatory helmet laws, adjust speed restrictions, or redesign streets to accommodate e\u2011scooter traffic. The next steps remain to be seen, but the reported rise in hospitalisations underscores the urgency of addressing the issue.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "ABC News (Australia)",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0JCRklIZE9odHYzbWpTN21XdWNLNkh1VTNRb1E2bkE0dVFNUVBXNE5rMXo5NUNjT0d3U2hIcHBNd0NzeGNuTGJXd0Fwc2hwQUdVYXBpanZCZlBEUHExdFd0dENMQWJBNkJwYjJ2dUFGSzNMOGg5TTJmVG9YcF9IVHEyQk9icllMdDhwQUI4ZUNBR1dJWEZXLXFYTzdHR1l4a3BhZFR0YkVSUzRv?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0JCRklIZE9odHYzbWpTN21XdWNLNkh1VTNRb1E2bkE0dVFNUVBXNE5rMXo5NUNjT0d3U2hIcHBNd0NzeGNuTGJXd0Fwc2hwQUdVYXBpanZCZlBEUHExdFd0dENMQWJBNkJwYjJ2dUFGSzNMOGg5TTJmVG9YcF9IVHEyQk9icllMdDhwQUI4ZUNBR1dJWEZXLXFYTzdHR1l4a3BhZFR0YkVSUzRv?oc=5",
+      "guid": "CBMirAFBVV95cUxNb0JCRklIZE9odHYzbWpTN21XdWNLNkh1VTNRb1E2bkE0dVFNUVBXNE5rMXo5NUNjT0d3U2hIcHBNd0NzeGNuTGJXd0Fwc2hwQUdVYXBpanZCZlBEUHExdFd0dENMQWJBNkJwYjJ2dUFGSzNMOGg5TTJmVG9YcF9IVHEyQk9icllMdDhwQUI4ZUNBR1dJWEZXLXFYTzdHR1l4a3BhZFR0YkVSUzRv"
+    },
+    "aljazeera_3bb4492c": {
+      "id": "aljazeera_3bb4492c",
+      "title": "Real Madrid vs RB Leipzig LIVE: Champions League",
+      "category": "World",
+      "source": "aljazeera",
+      "time": "2026-10-21T16:59:22",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-18T203737Z_316238885_UP1EMAI1LAO4S_RTRMADP_3_SOCCER-SPAIN-RMA-SEV-1792600708.jpg?resize=1660%2C1080",
+      "content": "A live text commentary stream is covering the Champions League encounter between Real\u202fMadrid and RB\u202fLeipzig, with team news and highlights featuring Kylian\u202fMbapp\u00e9 and Jude\u202fBellingham.1\n\nThe coverage offers fans real\u2011time updates as the two clubs face off in Europe\u2019s premier club competition.\n\nThe stream includes the latest squad selections for both sides, noting any recent injuries or tactical changes.1 The focus on Mbapp\u00e9 and Bellingham reflects their roles as key players for their respective teams, with the former a prolific striker for Paris Saint\u2011Germain and the latter a dynamic midfielder for Real\u202fMadrid.1\n\nThe Champions League, organized by UEFA, pits the continent\u2019s top clubs against one another in a knockout format after a group stage. Real\u202fMadrid, based in Madrid, Spain, has a long history of success in the competition, while RB\u202fLeipzig, from Leipzig, Germany, has risen to prominence in recent years.\n\nFans of both clubs, as well as followers of European football, rely on live commentary streams to stay informed about match events, tactical shifts, and player performances. The inclusion of team news and player highlights in the stream helps viewers understand the context behind on\u2011field decisions.\n\nThe ongoing coverage will continue to provide updates as the match progresses, offering additional team information and match commentary in real time. The stream\u2019s focus on Mbapp\u00e9 and Bellingham underscores their importance to the respective squads and highlights the broader narrative of the Champions League season.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss"
+        }
+      ],
+      "original_url": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
+      "guid": "https://www.aljazeera.com/?t=1792595038"
+    },
+    "cna_cc4c2eae": {
+      "id": "cna_cc4c2eae",
+      "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - CNA",
+      "category": "World",
+      "source": "cna",
+      "time": "2026-10-21T16:59:25",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28326%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27166%27%20cy%3D%27245%27%20r%3D%27140%27%20fill%3D%27hsl%286%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Booking.com is now the focus of an investigation by European Union regulators into alleged phishing scams and fraudulent listings on its platform.\u202f[1]\n\nThe probe matters because Booking.com is one of the world\u2019s largest online travel agencies, handling millions of reservations each month. A finding of wrongdoing could erode consumer trust, trigger regulatory penalties, and prompt a broader review of how online travel marketplaces verify listings and protect user data.\n\nAccording to the available reporting, the EU has opened a formal inquiry into Booking.com\u2019s handling of phishing attacks and fake accommodation listings. The investigation is part of a wider effort by EU authorities to curb online fraud across digital marketplaces, though the specific allegations and evidence have not yet been disclosed.\n\nBooking.com, a subsidiary of Booking Holdings, operates a global platform that connects travelers with hotels, apartments, and other lodging options. Phishing scams typically involve deceptive communications that trick users into revealing personal or financial information, while fraudulent listings are fake or misrepresented properties that mislead customers. The EU has been tightening oversight of such platforms to protect consumers and ensure fair competition.\n\nTravelers, hotel partners, and regulators are the primary stakeholders. If the investigation finds that Booking.com failed to prevent phishing or allowed fraudulent listings, the company could face significant fines, mandatory corrective measures, and reputational damage. Hotel partners may also be affected if their legitimate listings are confused with fraudulent ones, potentially leading to booking cancellations and revenue loss.\n\nShould the EU conclude that Booking.com violated consumer protection or anti\u2011fraud regulations, the company could be required to overhaul its verification processes, enhance security protocols, and possibly pay substantial penalties. Such a case could set a precedent for other online travel platforms, encouraging industry\u2011wide reforms in listing verification and user protection.\n\nBooking.com is expected to issue a response to the investigation, and EU regulators may set a deadline for the company to provide documentation and evidence. The outcome of the inquiry will be closely watched by travelers, industry analysts, and regulatory bodies, as it could influence future policy on digital marketplace oversight.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "CNA (Singapore)",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMk1mZkk1Uko3NC13M2Q2b1BlSm1VS0NZbzM3TVE2eTVsVkl5YWszS3lSaWVEME9fVzVTQloydjREY2xIdk1qdnM1T2ZaMzNBYkRaM19SYU80c3h2dmZYS3pRWl9hUkkwUmlYQlg1TGRYdnNBX3JXSG4wdk9UdTNQam01eXhSbmVPQmxNUDgyeWpVRklHYlZkZEtzWUpQY2tOZGNmcUtYQTJPUzlIQ0x4bTYxVENFVEwxQ0piRnZCbnI?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMk1mZkk1Uko3NC13M2Q2b1BlSm1VS0NZbzM3TVE2eTVsVkl5YWszS3lSaWVEME9fVzVTQloydjREY2xIdk1qdnM1T2ZaMzNBYkRaM19SYU80c3h2dmZYS3pRWl9hUkkwUmlYQlg1TGRYdnNBX3JXSG4wdk9UdTNQam01eXhSbmVPQmxNUDgyeWpVRklHYlZkZEtzWUpQY2tOZGNmcUtYQTJPUzlIQ0x4bTYxVENFVEwxQ0piRnZCbnI?oc=5",
+      "guid": "CBMiwAFBVV95cUxNMk1mZkk1Uko3NC13M2Q2b1BlSm1VS0NZbzM3TVE2eTVsVkl5YWszS3lSaWVEME9fVzVTQloydjREY2xIdk1qdnM1T2ZaMzNBYkRaM19SYU80c3h2dmZYS3pRWl9hUkkwUmlYQlg1TGRYdnNBX3JXSG4wdk9UdTNQam01eXhSbmVPQmxNUDgyeWpVRklHYlZkZEtzWUpQY2tOZGNmcUtYQTJPUzlIQ0x4bTYxVENFVEwxQ0piRnZCbnI"
+    },
+    "conversation_91ed44f5": {
+      "id": "conversation_91ed44f5",
+      "title": "Offering cash for votes is quite common \u2013 but here\u2019s why it doesn\u2019t work",
+      "category": "Science",
+      "source": "conversation",
+      "time": "2026-10-21T16:59:57",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://images.theconversation.com/files/767027/original/file-20261019-50-xu5oi9.jpg?ixlib=rb-4.1.1&amp;rect=0%2C689%2C6427%2C3213&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "content": "In many elections, campaigns offer cash or other material benefits to voters, yet research shows such incentives rarely change voting behavior. [1]\n\nThe finding matters because it challenges the assumption that money can sway voters, affecting campaign strategies, campaign\u2011finance regulation, and public trust. [1]\n\nThe source reports that offering cash for votes is a common tactic used by political actors, yet it does not override voters\u2019 preferences and partisanship. [1]\n\nPolitical campaigns have long employed incentives to mobilize supporters, ranging from food vouchers to transportation subsidies. These practices are part of a broader effort to increase turnout and secure votes.\n\nVoters typically base decisions on party identification, ideology, and candidate evaluation, which are deeply entrenched. These factors tend to outweigh short\u2011term material gains when individuals choose whom to support at the ballot box.\n\nCampaigns, donors, and regulators are directly involved in the use of material incentives, while voters are the ultimate recipients of such offers. The dynamics among these stakeholders shape the design and implementation of incentive programs.\n\nBecause money fails to override preferences, campaigns may allocate resources to other tactics such as targeted messaging, grassroots organizing, or policy outreach. This shift reflects an adaptation to the limited influence of direct financial inducements.\n\nThe ineffectiveness of cash incentives suggests that policies aimed at reducing vote\u2011buying may have limited impact on voter behavior. If material offers do not alter choices, regulatory focus might better serve other aspects of electoral integrity.\n\nFuture research may test the limits of material incentives across different demographic groups and election types, shedding further light on the conditions under which financial offers might or might not influence voting decisions.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Conversation",
+          "url": "https://theconversation.com/offering-cash-for-votes-is-quite-common-but-heres-why-it-doesnt-work-293259"
+        }
+      ],
+      "original_url": "https://theconversation.com/offering-cash-for-votes-is-quite-common-but-heres-why-it-doesnt-work-293259",
+      "guid": "tag:theconversation.com,2011:article/293259"
+    },
+    "reuters_223728c1": {
+      "id": "reuters_223728c1",
+      "title": "Turkey, Qatar, Pakistan, Indonesia sign defence cooperation accord, Ankara says - Reuters",
+      "category": "World",
+      "source": "reuters",
+      "time": "2026-10-21T17:00:42",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Ankara_from_bus_station.jpg/3840px-Ankara_from_bus_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "Turkey, Qatar, Pakistan, and Indonesia signed a defence cooperation accord, Ankara said. [1]\n\nThe agreement expands military ties among the four nations, potentially influencing security dynamics across the Middle East, South Asia, and Southeast Asia.\n\nAnkara announced that the four countries had signed a defence cooperation accord. No details on the scope or specific provisions were released in the announcement. [1]\n\nTurkey has been actively pursuing defence partnerships outside NATO, while Qatar has sought to diversify its military procurement. Pakistan has long maintained defence ties with Turkey, and Indonesia has been modernising its armed forces. These countries have engaged in joint exercises and technology exchanges in the past.\n\nThe governments and defence ministries of the four signatories will be the primary actors in implementing the accord. Military personnel may benefit from joint training and equipment sharing, and regional partners and rival powers may monitor the development closely.\n\nThe accord could lead to joint exercises, technology transfer, and increased arms trade among the signatories, though specific outcomes remain to be seen.\n\nThe agreement may shift security calculations in the region, offering the signatories a broader network of defence cooperation. It could also prompt responses from other regional actors and global powers.\n\nFuture statements from the ministries involved, details on implementation, and any scheduled joint exercises will clarify the practical effects of the accord.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX0ZsRmRXTHdTVURFSkU3MlRZU1I5RFE5SnQzNnBRUExvd3J3Si10VjEwejZackYzZ0h0cFI5TlVsSXA1bjB4TF9nUmhpMERtSlBhMGg0d05XUE9iV1RGa19zdGZjaGVhWlNKNlRQN1Z3RE92eHNCNDM5eEN2dUZzQlNfck0wdlkxVldaYzZmMHFIdW8yY1pXZktOUERvSFFfS3FjT2NrR243ZnpwNFN3ZUotVndkQ3Z0aEFiMEFXem1BSDB4MVo5SEdB?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX0ZsRmRXTHdTVURFSkU3MlRZU1I5RFE5SnQzNnBRUExvd3J3Si10VjEwejZackYzZ0h0cFI5TlVsSXA1bjB4TF9nUmhpMERtSlBhMGg0d05XUE9iV1RGa19zdGZjaGVhWlNKNlRQN1Z3RE92eHNCNDM5eEN2dUZzQlNfck0wdlkxVldaYzZmMHFIdW8yY1pXZktOUERvSFFfS3FjT2NrR243ZnpwNFN3ZUotVndkQ3Z0aEFiMEFXem1BSDB4MVo5SEdB?oc=5",
+      "guid": "CBMiygFBVV95cUxOX0ZsRmRXTHdTVURFSkU3MlRZU1I5RFE5SnQzNnBRUExvd3J3Si10VjEwejZackYzZ0h0cFI5TlVsSXA1bjB4TF9nUmhpMERtSlBhMGg0d05XUE9iV1RGa19zdGZjaGVhWlNKNlRQN1Z3RE92eHNCNDM5eEN2dUZzQlNfck0wdlkxVldaYzZmMHFIdW8yY1pXZktOUERvSFFfS3FjT2NrR243ZnpwNFN3ZUotVndkQ3Z0aEFiMEFXem1BSDB4MVo5SEdB"
     }
   },
   "featured": {
-    "hero": "smh_74b7ddd8",
+    "hero": "conversation_9bd3d345",
     "stack": [
-      "guardian_acb816ac",
-      "smh_ac3d3c7e",
-      "googlenews_94cd2476"
+      "abcau_1680dde2",
+      "aljazeera_3bb4492c",
+      "cna_cc4c2eae"
     ],
     "latest": [
+      "cna_cc4c2eae",
+      "aljazeera_3bb4492c",
+      "abcau_1680dde2",
+      "smh_74b7ddd8",
       "googlenews_94cd2476",
-      "smh_ac3d3c7e",
-      "guardian_acb816ac",
-      "snopes_e02eba03",
-      "guardian_4ecc2ba8",
-      "cjr_f194b9b4"
+      "smh_ac3d3c7e"
     ],
     "world": [
-      "smh_74b7ddd8",
-      "smh_ac3d3c7e",
-      "france24_65a870c3",
-      "guardian_0d3fc981"
+      "abcau_1680dde2",
+      "aljazeera_3bb4492c",
+      "cna_cc4c2eae",
+      "reuters_223728c1"
     ]
   },
   "categoryIndex": {
     "News": [
+      "snopes_e02eba03",
+      "cjr_f194b9b4",
       "snopes_32d06b80",
       "cjr_df9e2ee0",
       "fullfact_0d71a03d",
@@ -16032,11 +16034,10 @@
       "npr_4a9deb0e",
       "pbs_143ce49f",
       "npr_7db4031c",
-      "snopes_2ca1f1b1",
-      "ap_877a91c2",
-      "npr_1d5f5dee"
+      "snopes_2ca1f1b1"
     ],
     "World": [
+      "reuters_223728c1",
       "france24_65a870c3",
       "france24_5a711274",
       "bangkokpost_22151e22",
@@ -16045,8 +16046,7 @@
       "cna_2e98fa9d",
       "csmonitor_a386511a",
       "japantimes_28b53634",
-      "bbc_e364403c",
-      "guardian_06843b80"
+      "bbc_e364403c"
     ],
     "Politics": [
       "bbc_ddcd2565",
@@ -16073,6 +16073,7 @@
       "googlenews_9923dbaa"
     ],
     "Health": [
+      "guardian_acb816ac",
       "googlenews_b47f88a9",
       "googlenews_5815d19d",
       "guardian_b6d2bb90",
@@ -16081,10 +16082,11 @@
       "bbc_ccbdd2f6",
       "googlenews_bf8a5bff",
       "bbc_5a89086b",
-      "guardian_9d0e88a1",
-      "guardian_12c1cd6e"
+      "guardian_9d0e88a1"
     ],
     "Science": [
+      "conversation_91ed44f5",
+      "guardian_4ecc2ba8",
       "bbc_8a2ae973",
       "nature_a1dc418b",
       "bbc_7dc699d1",
@@ -16092,9 +16094,7 @@
       "conversation_c55cc911",
       "nature_9bcf8443",
       "guardian_a4502fe7",
-      "nature_681c8ac1",
-      "nasa_8a9760bf",
-      "nasa_5c651110"
+      "nature_681c8ac1"
     ],
     "Business": [
       "googlenews_b3e810dc",
@@ -16109,7 +16109,7 @@
       "googlenews_9868fb79"
     ]
   },
-  "breaking": "Perth house prices suffer record fall in unprecedented market reversal - SMH.com.au",
+  "breaking": "E-scooter hospitalisations more than tripled since 2019 - ABC News & Headlines \u2013 Australian Broadcas",
   "events": [
     {
       "title": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones a",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "Pope discharged from hospital days after lung cancer surgery",
+    "An AI model\u2019s false tip to Philadelphia police reveals how digital agents can do",
     "Perth house prices suffer record fall in unprecedented market reversal - SMH.com",
-    "Weight loss in middle age can restore cardiovascular health, research suggests",
-    "Viral image of protesters waving Palestinian flags outside the Eiffel Tower is A"
+    "Pope discharged from hospital days after lung cancer surgery",
+    "E-scooter hospitalisations more than tripled since 2019 - ABC News & Headlines \u2013"
   ]
 }
