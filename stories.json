@@ -1,105 +1,5 @@
 {
   "stories": {
-    "guardian_a8a9eb7c": {
-      "id": "guardian_a8a9eb7c",
-      "title": "\u2018Immature playground boasting\u2019: Mathematicians uneasy at OpenAI\u2019s latest scalp",
-      "category": "Science",
-      "source": "guardian",
-      "time": "2026-09-13T20:36:34",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/2ef5f466c1ffa22c4d545e7d74155b5dd8b38e24/557_0_3390_2712/master/3390.jpg?width=140&quality=85&auto=format&fit=max&s=9a1e70e87f23ed65b95fa0da4c1f04e3",
-      "content": "OpenAI\u2019s latest AI model cracked a Millennium Prize Problem, a $1m challenge that had stumped mathematicians for decades.\u202f[1]\n\nThe breakthrough signals a shift in how complex mathematical problems may be tackled, raising questions about the role of AI in research and the future of human problem solving.\n\nIn a week that stunned the mathematical community, OpenAI announced that its newest model had cracked a Millennium Prize Problem.\u202f[1] The announcement came after the company deployed 10,000 autonomous agents to work on the problem, incurring an estimated $15\u202fmillion cost.\u202f[1]\n\nThe solution arrived through a method that differs from traditional mathematical proof, according to the report, and the company described it as a \u201cmajor scalp.\u201d\u202f[1]\n\nThe Millennium Prize Problems were established by the Clay Mathematics Institute in 2000, offering $1\u202fmillion for each of seven unsolved problems that have remained open for over two decades.\n\nOpenAI is a private research lab founded in 2015, known for developing large language models and AI agents that can perform a range of tasks.\n\nThe 10,000 agents mentioned are autonomous systems designed to carry out tasks without human intervention, a technology that has been used in other AI\u2011driven research projects.\n\nThe report notes that many mathematicians were shocked and uneasy at the speed of the breakthrough.\u202f[1]\n\nThe primary stakeholders include the mathematical community, AI researchers, and funding bodies that support fundamental research.\n\nIf AI can solve problems that have resisted human effort, it could accelerate discovery but also raise concerns about attribution and the nature of proof.\n\nThe use of large\u2011scale autonomous agents raises questions about transparency, reproducibility, and the potential for hidden biases in the solution process.\n\nThe next steps involve verification of the solution by independent mathematicians, potential publication of the proof, and discussions about how to integrate AI\u2011generated results into the formal mathematical canon. The company may also announce further applications of its agent technology.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem",
-      "guid": "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem"
-    },
-    "straitstimes_a3fb4f46": {
-      "id": "straitstimes_a3fb4f46",
-      "title": "2 taken to hospital, 20 evacuated after fire in bedroom of Pasir Ris HDB flat - Yahoo News Singapore",
-      "category": "World",
-      "source": "straitstimes",
-      "time": "2026-09-13T20:37:22",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28308%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27628%27%20cy%3D%27283%27%20r%3D%27140%27%20fill%3D%27hsl%28348%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "A fire broke out in a bedroom of a public housing flat in Pasir\u202fRis, prompting the evacuation of 20 residents and the transport of two injured persons to hospital. The incident was reported by local authorities and was contained after emergency services arrived.\u202f[1]\n\nThe event underscores the ongoing importance of fire safety in Singapore\u2019s high\u2011density public housing. When a blaze occurs in a shared building, the potential for injury and property loss is high, and swift evacuation and medical response are critical to protecting residents.\u202f[1]\n\nAccording to the report, the blaze began in a bedroom of an HDB flat in the eastern residential town of Pasir\u202fRis. Twenty occupants were evacuated from the building, and two individuals sustained injuries that required hospital treatment.\u202f[1]\n\nEmergency services, including the Singapore Civil Defence Force (SCDF) and the police, responded promptly. SCDF personnel conducted the evacuation, provided first\u2011aid assistance, and coordinated with medical teams to transport the injured to the nearest hospital.\u202f[1]\n\nPasir\u202fRis is a suburban area in the eastern part of Singapore, known for its mix of residential estates and green spaces. The town is home to many HDB flats, which are the backbone of Singapore\u2019s public housing system.\u202f[1]\n\nHDB flats are subject to strict building codes and fire\u2011safety regulations. All units must be fitted with smoke detectors and fire alarms, and residents are required to keep these devices functional. Regular fire drills and safety inspections are also mandated to ensure preparedness.\u202f[1]\n\nThe SCDF is Singapore\u2019s primary agency for fire and rescue operations. Its mandate includes responding to residential fires, conducting evacuations, and providing emergency medical care. The force also works with HDB to enforce fire\u2011safety compliance in public housing.\u202f[1]\n\nHDB, as the owner and manager of most public housing units, is responsible for maintaining fire\u2011safety infrastructure, conducting inspections, and educating residents on fire prevention. The agency collaborates closely with the SCDF to address any safety gaps identified during incidents.\u202f[1]\n\nFor the residents of the affected flat, the immediate impact was the disruption of daily life and the physical injuries sustained by two occupants. The evacuation also meant temporary displacement and the need for alternative accommodation while the building was inspected and any damage repaired.\u202f[1]\n\nThe incident has broader implications for the community, raising questions about the adequacy of existing fire\u2011safety measures and the effectiveness of emergency response protocols in densely populated housing estates.\u202f[1]\n\nWhile the cause of the fire has not been disclosed, the incident highlights the necessity of ongoing vigilance and maintenance of fire\u2011safety equipment in public housing. It also serves as a reminder of the critical role that both residents and authorities play in preventing and mitigating fire risks.\u202f[1]\n\nAuthorities are expected to launch an investigation into the incident\u2019s cause and to review the flat\u2019s fire\u2011safety compliance. The outcome of this inquiry may lead to policy adjustments or additional safety measures for similar buildings across the city.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qTlRPa2VqWDY1LUJFNnhza0FESzU5Z2l2MUJYSWEzTnBhc3prZHk0ZkhDNXU0Y1BYakR6OEl1b3VlY0tjLWV0UnBEdTdzRGYtdm9uVVZOUUF0UmtaRkVQWkllVVZLaTh2czA5WGFXU1k3WlZIRU5CSTRR?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qTlRPa2VqWDY1LUJFNnhza0FESzU5Z2l2MUJYSWEzTnBhc3prZHk0ZkhDNXU0Y1BYakR6OEl1b3VlY0tjLWV0UnBEdTdzRGYtdm9uVVZOUUF0UmtaRkVQWkllVVZLaTh2czA5WGFXU1k3WlZIRU5CSTRR?oc=5",
-      "guid": "CBMiekFVX3lxTE5qTlRPa2VqWDY1LUJFNnhza0FESzU5Z2l2MUJYSWEzTnBhc3prZHk0ZkhDNXU0Y1BYakR6OEl1b3VlY0tjLWV0UnBEdTdzRGYtdm9uVVZOUUF0UmtaRkVQWkllVVZLaTh2czA5WGFXU1k3WlZIRU5CSTRR"
-    },
-    "japantimes_f7b8bab7": {
-      "id": "japantimes_f7b8bab7",
-      "title": "LDP-backed Genta Koja wins Okinawa gubernatorial election",
-      "category": "World",
-      "source": "japantimes",
-      "time": "2026-09-13T20:38:02",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/13/562722.jpg",
-      "content": "Genta Koja, backed by the Liberal Democratic Party, won the Okinawa gubernatorial election, defeating incumbent Gov. Denny Tamaki, who had sought a third term.\u202f[1]\n\nThe outcome marks a notable shift in Okinawa's political dynamics, potentially influencing local governance and the broader relationship between the prefecture and the national government.\n\nThe election, held in Okinawa, saw exit polls reported by NHK indicating Koja's victory over Tamaki.\u202f[1] Koja's campaign received official support from the LDP, a major national party.\u202f[1] Tamaki, who had campaigned for a third term, was surpassed by the challenger.\u202f[1]\n\nOkinawa, Japan's southernmost prefecture, has a distinct political environment shaped by the presence of U.S. military bases and a strong local autonomy movement.\n\nThe governor of Okinawa is elected by residents every four years and holds significant influence over local policy and national relations.\n\nThe Liberal Democratic Party has historically been Japan's dominant political party, often supporting candidates in local elections to extend its influence.\n\nThe new governor will face pressure from local residents concerned about U.S. bases, economic development, and environmental issues.\n\nThe LDP will likely seek to strengthen its foothold in Okinawa, aligning local policies with national party agendas.\n\nIncumbent Gov. Tamaki and his supporters may reassess their strategies for future elections, especially regarding base relocation and local autonomy.\n\nKoja's victory could alter the balance of power between local and national authorities, potentially affecting negotiations over U.S. military base policies.\n\nThe result may influence how the LDP approaches other prefectures with similar local\u2011national tensions.\n\nThe new governor will need to formalize his administration, set policy priorities, and engage with both local and national stakeholders; observers will monitor his handling of U.S. base issues and economic initiatives.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Japan Times",
-          "url": "https://www.japantimes.co.jp/news/2026/09/13/japan/politics/okinawa-governor-genta-koja-wins/"
-        }
-      ],
-      "original_url": "https://www.japantimes.co.jp/news/2026/09/13/japan/politics/okinawa-governor-genta-koja-wins/",
-      "guid": "https://www.japantimes.co.jp/article/646463/"
-    },
-    "bbc_8f2750e8": {
-      "id": "bbc_8f2750e8",
-      "title": "Five night sky events to look out for this autumn",
-      "category": "Science",
-      "source": "bbc",
-      "time": "2026-09-13T20:38:41",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aff8/live/ce59c3a0-ad0f-11f1-a035-c91dffce51bf.jpg",
-      "content": "Astronomers and skywatchers have a new list of five night\u2011sky events to look forward to this autumn, according to a recent article. [1] \nThe article highlights a range of phenomena\u2014from meteor showers to a supermoon in November\u2014that promise striking visual displays for observers across the globe. [1] \nWhile the piece identifies five distinct events, it does not enumerate them individually, leaving readers to seek further details elsewhere. [1]\n\nMeteor showers occur when Earth passes through the debris trail left by comets, producing bright streaks that can be seen with the naked eye under dark skies. \nA supermoon, technically a perigee\u2011full moon, appears larger and brighter than a typical full moon because the Moon is closer to Earth in its elliptical orbit. \nAutumn, spanning September to November in the Northern Hemisphere, is traditionally a favorable season for stargazing, offering clear nights and the approach of several annual celestial events.\n\nAmateur astronomers, educators, and tourism operators may use the list to plan viewing parties, educational programs, and travel itineraries.\n\nThe article\u2019s brief overview underscores the need for observers to consult detailed ephemerides and local weather forecasts to maximize the chances of witnessing these phenomena.\n\nReaders are encouraged to look for follow\u2011up releases that will likely provide the specific dates, times, and optimal viewing locations for each of the five events.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo#0"
-    },
-    "france24_e13b9635": {
-      "id": "france24_e13b9635",
-      "title": "Sweden Election Aftermath: A hard night for the hard right?",
-      "category": "World",
-      "source": "france24",
-      "time": "2026-09-13T20:39:32",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://s.france24.com/media/display/84572cd0-af39-11f1-afd7-005056a97e36/w:1024/p:16x9/000-C7XT2GD.jpg",
-      "content": "Sweden\u2019s 2026 general election has just concluded, and early reports suggest that the hard\u2011right parties may have suffered a setback. The headline \u201cA hard night for the hard right?\u201d has appeared on France\u202f24\u2019s live coverage as the polls closed.\u202f[1]\n\nThe outcome of this election matters because Sweden\u2019s political system is built on proportional representation, meaning that the distribution of seats in the 349\u2011member Riksdag can hinge on even small swings in voter support. A decline for the hard\u2011right could alter the balance of power, influence coalition negotiations, and shape the country\u2019s policy agenda for the next four years.\n\nFrance\u202f24\u2019s analysis, delivered by correspondent Gavin\u202fLee, was based on exit\u2011poll data collected as voters left polling stations. The exit polls indicate how the electorate has voted in the 2026 election, and the preliminary interpretation points to a hard night for the hard\u2011right bloc. Lee discussed these findings with Scandinavia Correspondent Trine\u202fVilleman.\u202f[1]\n\nSweden\u2019s Riksdag is elected through a system of proportional representation that allocates seats based on each party\u2019s share of the national vote. This system encourages a multi\u2011party landscape and often requires parties to form coalitions to secure a governing majority.\n\nThe Sweden Democrats, a party that has been described as hard\u2011right, have experienced significant growth in recent elections. Their rise has reshaped the political conversation, bringing issues such as immigration and national identity to the forefront of parliamentary debate.\n\nExit polls in Sweden are conducted by sampling voters as they exit polling stations, asking them to disclose their chosen candidate or party. While not definitive, these polls provide a snapshot of voter intentions and are closely watched by analysts and parties alike.\n\nThe parties most directly affected by the 2026 results are the hard\u2011right factions, their potential coalition partners, and the broader electorate that may feel their preferences reflected\u2014or not\u2014in the final seat distribution.\n\nA shift in the hard\u2011right\u2019s performance could influence policy priorities, particularly on immigration, security, and welfare. It may also affect the willingness of centrist parties to negotiate with the hard\u2011right in forming a stable government.\n\nAnalysts suggest that if the hard\u2011right\u2019s share of seats has indeed fallen, the next phase will involve coalition talks that could see the center\u2011left and center\u2011right parties reassessing their alliances. The exact configuration of any",
-      "sources": [
-        {
-          "n": 1,
-          "label": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20260913-sweden-election-aftermath-a-hard-night-for-the-hard-right"
-        }
-      ],
-      "original_url": "https://www.france24.com/en/tv-shows/spotlight/20260913-sweden-election-aftermath-a-hard-night-for-the-hard-right",
-      "guid": "968803b4-afa4-11f1-a9ff-7b8ae3515f31"
-    },
     "npr_5148e33f": {
       "id": "npr_5148e33f",
       "title": "Pennsylvania says an unvaccinated woman has died from measles-related complications",
@@ -15999,44 +15899,146 @@
       ],
       "original_url": "https://theconversation.com/boo-feeling-scared-on-halloween-can-be-fun-for-children-but-can-sometimes-push-their-limits-294433",
       "guid": "tag:theconversation.com,2011:article/294433"
+    },
+    "ap_e85386ad": {
+      "id": "ap_e85386ad",
+      "title": "Lula is declared winner of Brazil\u2019s election as Bolsonaro rejects results - AP News",
+      "category": "News",
+      "source": "ap",
+      "time": "2026-10-26T04:14:12",
+      "read": "3 min read",
+      "mode": "compact",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Associated_Press_logo_2012.svg/120px-Associated_Press_logo_2012.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "Lula has been declared the winner of Brazil\u2019s presidential election, a result that former President Jair\u202fBolsonaro has rejected. The announcement follows a nationwide vote that has drawn intense scrutiny and polarized the country\u2019s political landscape.\n\nThe outcome matters because Brazil is the world\u2019s largest democracy in Latin America, and its leadership will shape domestic policy on the economy, the environment, and social inequality, as well as Brazil\u2019s role in international affairs. A change in administration also signals a shift in the country\u2019s political direction, with implications for investors, neighboring nations, and global partners.\n\nIn the most recent election, Luiz\u202fIn\u00e1cio Lula\u202fda\u202fSilva was declared the victor, while Bolsonaro publicly denied the validity of the results. The declaration came from the electoral authorities that oversee the vote, and Bolsonaro\u2019s rejection has sparked protests and calls for legal challenges. [1]\n\nLula, a founding member of the Workers\u2019 Party, previously served as president from 2003 to 2010. His earlier terms were marked by significant social programs that lifted millions out of poverty, but also by controversies over corruption investigations that later led to his own legal troubles. He returned to the presidency in 2023 after a narrow victory over Bolsonaro in the 2022 election.\n\nBolsonaro, elected in 2018, has pursued a hard\u2011right agenda, emphasizing conservative social values, a tough stance on crime, and a deregulatory economic approach. His tenure has been characterized by a confrontational style, frequent clashes with the opposition, and a controversial handling of the COVID\u201119 pandemic and environmental policy.\n\nBrazil\u2019s presidential elections use a two\u2011round system: if no candidate secures an absolute majority in the first round, the top two candidates face off in a runoff. The final results are certified by the Superior Electoral Court, which is responsible for ensuring the integrity of the vote and resolving disputes.\n\nThe election has mobilized a broad spectrum of stakeholders. Lula\u2019s supporters, many of whom are from the working class and lower\u2011income groups, view his return as a chance to reverse austerity measures and expand social welfare. Bolsonaro\u2019s base, largely composed of rural voters, evangelical Christians, and business interests, sees his defeat as a threat to their political influence and to the policies they championed. Opposition parties, ranging from centrist to left\u2011wing groups, are also watching closely for how the new administration will navigate Brazil\u2019s fragmented political landscape.\n\nIf Lula takes office, his administration is expected to prioritize social spending, climate commitments, and a more collaborative approach to international trade. Conversely, Bolsonaro\u2019s rejection of the results could lead to legal battles that might delay the transition of power and create uncertainty for businesses and foreign investors.\n\nThe social implications are significant. Large rallies and demonstrations have already erupted in several cities, with supporters of both sides expressing strong emotions. The potential for civil unrest remains a concern for law\u2011enforcement agencies, especially in regions where political divisions run deep.\n\nAnalysts suggest that the transition will hinge on the ability of Brazil\u2019s institutions to manage the dispute peacefully. A smooth handover could reinforce confidence in the country\u2019s democratic processes, while a prolonged conflict might erode public trust and destabilize the political order.\n\nInternationally, the election outcome will affect Brazil\u2019s commitments to climate agreements, trade negotiations, and regional security initiatives. Allies and trading partners will be watching how Lula\u2019s policies align with global economic trends and environmental goals.\n\nKey developments to monitor include the legal challenges filed by Bolsonaro\u2019s camp, the timeline for the official inauguration, and any potential reforms to Brazil\u2019s electoral laws that could arise from the current controversy. The next few weeks will be critical in determining whether Brazil can uphold its democratic norms amid a deeply divided electorate.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSElINHZmYXlEYkdaa0FvWkZVOVU3Tm4yQmdjZ2tXMXJveURKTkt6TVJDN2lEc2ozZTM5M0F3cWZsamgwa2ZtVFRKajJuU1NXd21kVGdad2hBdnJwdlZLOXFrNjhTbFZIZE5QX2tzYUhrendRVTFuSHpjcU85NEotX29VdjJvd3hvZmlfaUlHSnl0Ym9IYjROMm5tblBjbXNTYzAxLTdRTjJqcDlQTU0yZUlB?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSElINHZmYXlEYkdaa0FvWkZVOVU3Tm4yQmdjZ2tXMXJveURKTkt6TVJDN2lEc2ozZTM5M0F3cWZsamgwa2ZtVFRKajJuU1NXd21kVGdad2hBdnJwdlZLOXFrNjhTbFZIZE5QX2tzYUhrendRVTFuSHpjcU85NEotX29VdjJvd3hvZmlfaUlHSnl0Ym9IYjROMm5tblBjbXNTYzAxLTdRTjJqcDlQTU0yZUlB?oc=5",
+      "guid": "CBMisgFBVV95cUxNSElINHZmYXlEYkdaa0FvWkZVOVU3Tm4yQmdjZ2tXMXJveURKTkt6TVJDN2lEc2ozZTM5M0F3cWZsamgwa2ZtVFRKajJuU1NXd21kVGdad2hBdnJwdlZLOXFrNjhTbFZIZE5QX2tzYUhrendRVTFuSHpjcU85NEotX29VdjJvd3hvZmlfaUlHSnl0Ym9IYjROMm5tblBjbXNTYzAxLTdRTjJqcDlQTU0yZUlB"
+    },
+    "guardian_3e2e8f22": {
+      "id": "guardian_3e2e8f22",
+      "title": "Burnham to double spending on homelessness amid drive to end rough sleeping by Christmas",
+      "category": "Politics",
+      "source": "guardian",
+      "time": "2026-10-26T04:14:14",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/1fa605bedf4c63c0de58edf4306a5a04ec7e5ff4/418_0_4561_3648/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=68ca0777af9660e0d866218d1442d395",
+      "content": "The UK government has announced a fresh \u00a3432\u202fmillion boost to its homelessness budget, bringing total spending on ending rough sleeping to almost \u00a3900\u202fmillion by the end of the current parliament. The move is part of a broader pledge by Prime Minister Rishi\u202fSunak to provide every rough sleeper in England with a safe route off the streets or wider support by Christmas. [1]\n\nThe decision follows a long\u2011standing crisis in which an estimated 10,000 people sleep rough on the streets of England each night, a figure that has risen sharply in recent years. The new funding is intended to accelerate the rollout of temporary accommodation, support services and permanent housing solutions, with the aim of ending rough sleeping entirely by the holiday season. The scale of the pledge signals a shift in government priorities, placing the homelessness agenda at the centre of the premiership. [1]\n\nIn the budget speech delivered this week, Downing Street confirmed the additional \u00a3432\u202fmillion, a figure that brings the total earmarked for a lasting solution to nearly \u00a3900\u202fmillion. The allocation will be spread across local authorities, the Department for Levelling Up, Housing and Communities and a range of national programmes designed to tackle the root causes of homelessness. [1]\n\nAndy\u202fBurnham, the Secretary of State for Housing, Communities and Local Government, has taken the lead on the initiative, announcing that the department will double its spending on ending rough sleeping. Burnham said the government would work with local authorities and charities to deliver the promised support, and that the new funding would help close the gap between the number of people in need and the capacity of existing services. [1]\n\nRough sleeping, also known as street homelessness, refers to people who sleep in public spaces such as parks, streets or abandoned buildings because they lack access to private accommodation. The phenomenon is often linked to a combination of factors, including housing affordability, mental health issues, substance misuse and the failure of the social safety net. Historically, the UK has struggled to keep pace with the rising demand for emergency accommodation, leading to a backlog of waiting lists and overcrowded hostels. [2]\n\nThe government\u2019s current approach to homelessness is built on a framework that includes the Housing First model, which prioritises providing permanent housing before addressing other needs such as health or employment. The new funding is expected to expand the reach of this model, offering more rapid access to secure accommodation and integrated support services. Local authorities will receive additional resources to run outreach teams, emergency shelters and transitional housing projects. [3]\n\nStakeholders in the initiative include rough sleepers themselves, local councils, non\u2011profit organisations such as Shelter and Crisis, and the National Health Service, which often treats the physical and mental health consequences of street living. The increased budget is also likely to impact the housing market, as more people move into temporary accommodation and the demand for affordable homes remains high. [4]\n\nWhile the pledge is ambitious, critics point to the broader fiscal context, noting that the UK is facing significant budgetary pressures from the cost of living crisis, pension commitments and defence spending. Some local authorities have expressed concern that the additional funds may not be sufficient to cover the full spectrum of services required, and that the allocation could be uneven across regions. [5]\n\nAnalysts suggest that the success of the programme will hinge on effective coordination between central and local governments, as well as sustained investment in preventive measures. If the government can deliver on its promise, it could set a precedent for tackling other social challenges through targeted, large\u2011scale funding. However, the complexity of homelessness means that even substantial financial injections may not immediately translate into a complete end to rough sleeping. [6]\n\nThe next steps will involve the detailed design of the programmes, the establishment of monitoring mechanisms and the setting of measurable targets. Local authorities are expected to submit implementation plans within the next few weeks, and the government will likely review progress at the end of the year. The outcome of these efforts will be closely watched by policymakers, advocacy groups and the public, as the nation anticipates whether the pledge can be fulfilled before Christmas. [7]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham",
+      "guid": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham"
+    },
+    "abcau_b2c99cb5": {
+      "id": "abcau_b2c99cb5",
+      "title": "Melbourne Market board quits over appointment of former Demons chief Paul Guerra - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "category": "World",
+      "source": "abcau",
+      "time": "2026-10-26T04:14:17",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/PazuzuDemonAssyria1stMillenniumBCE_no_CGI_dropshadow_-_gradient_based_on.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "The board of Melbourne Market has resigned after the club appointed former Melbourne Demons chief Paul Guerra as its new chief executive. The decision was announced on Tuesday, with the board citing concerns over the appointment process and the implications for governance.\u00a0[1]\n\nThe resignation comes at a time when the club is under scrutiny for its leadership choices. Melbourne Market, a prominent sports and entertainment venue, has long relied on a board of directors to oversee strategic direction and ensure accountability. The sudden departure of the entire board raises questions about the club\u2019s internal decision\u2011making and the role of external influence in executive appointments.\n\nAccording to the club\u2019s statement, the board members felt that Guerra\u2019s appointment was not subject to the usual vetting procedures and that it could undermine stakeholder confidence. The club\u2019s board had previously been involved in several high\u2011profile decisions, including venue upgrades and community outreach programs. The resignation was coordinated to take effect immediately, leaving the club without a formal governing body until a new board is installed.\n\nPaul Guerra, who previously served as chief executive of the Melbourne Demons, a professional Australian Football League team, has a track record of managing large sports organisations. During his tenure at the Demons, Guerra oversaw significant commercial growth and was credited with revitalising the club\u2019s brand. His move to Melbourne Market is the first time he has taken a leadership role outside the AFL.\n\nMelbourne Market itself is a key venue for sporting events, concerts, and community gatherings in the city. It has hosted major national and international events, drawing large crowds and generating substantial revenue. The club\u2019s governance structure traditionally includes a board of directors elected by shareholders and a chief executive appointed by that board. The appointment of Guerra bypassed the usual election process, according to the board\u2019s statement.\n\nStakeholders most directly affected by the board\u2019s resignation include club shareholders, employees, and fans. Shareholders may face uncertainty over the club\u2019s strategic direction and financial performance. Employees could experience changes in management style and operational priorities. Fans, who have long supported Melbourne Market\u2019s events, may worry about the continuity of the club\u2019s community initiatives.\n\nThe resignation also highlights broader concerns about governance in Australian sports organisations. In recent years, several clubs have faced criticism for opaque appointment processes and conflicts of interest. The Melbourne Market case adds to a growing list of instances where board members have stepped down in protest of executive decisions that they believe compromise the club\u2019s integrity.\n\nLooking ahead, Melbourne Market will need to convene a special meeting to appoint a new board and to confirm the terms of Guerra\u2019s role. The club\u2019s governing documents require that a board be in place within 90 days of a vacancy, or else the club may be subject to regulatory scrutiny. The next steps will involve selecting interim directors, conducting a formal search for a permanent board, and clarifying Guerra\u2019s responsibilities and reporting lines.\n\nThe outcome of these proceedings will be closely watched by the sports community, investors, and regulatory bodies. A transparent appointment process and clear governance framework will be essential to restore confidence in Melbourne Market\u2019s leadership and to ensure that the club can continue to deliver high\u2011quality events for its stakeholders.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "ABC News (Australia)",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEdMWkNvNzVqSGNSSm1BWlhJMlE4ODRvUEVoV1A3WEpLTDBVdlZqU242c0tCZENUbGRuYmdSSWFPSlJmdjNfeTBLaWFGSl9BVk9ES2xSaUwzSFEwaTVtbWxrTENINjc5aV9id19ObTU3em9jWS1YVk5lcWZDQmZ4V1hxdDhEZzdqeGdBMDU0T19wdy0yNEtfb1IxalNMWGJCaFM1Mg?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEdMWkNvNzVqSGNSSm1BWlhJMlE4ODRvUEVoV1A3WEpLTDBVdlZqU242c0tCZENUbGRuYmdSSWFPSlJmdjNfeTBLaWFGSl9BVk9ES2xSaUwzSFEwaTVtbWxrTENINjc5aV9id19ObTU3em9jWS1YVk5lcWZDQmZ4V1hxdDhEZzdqeGdBMDU0T19wdy0yNEtfb1IxalNMWGJCaFM1Mg?oc=5",
+      "guid": "CBMipAFBVV95cUxNcEdMWkNvNzVqSGNSSm1BWlhJMlE4ODRvUEVoV1A3WEpLTDBVdlZqU242c0tCZENUbGRuYmdSSWFPSlJmdjNfeTBLaWFGSl9BVk9ES2xSaUwzSFEwaTVtbWxrTENINjc5aV9id19ObTU3em9jWS1YVk5lcWZDQmZ4V1hxdDhEZzdqeGdBMDU0T19wdy0yNEtfb1IxalNMWGJCaFM1Mg"
+    },
+    "ap_5526368e": {
+      "id": "ap_5526368e",
+      "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan, drawing Arab American rebuke - AP News",
+      "category": "News",
+      "source": "ap",
+      "time": "2026-10-26T04:14:22",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Americans_with_Arab_Ancestry_by_state.svg/960px-Americans_with_Arab_Ancestry_by_state.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "Former President Donald Trump has intensified anti\u2011Muslim rhetoric targeting a figure named El\u2011Sayed in Michigan, prompting criticism from Arab American groups.\u202f[1]\n\nThe escalation is significant because it reflects ongoing tensions between Trump supporters and minority communities, especially in Michigan, a state with a sizable Arab American population.\u202f[1]\n\nAccording to the AP report, Trump used his platform to target El\u2011Sayed, a Muslim figure in Michigan, with remarks that many described as anti\u2011Muslim.\u202f[1]\n\nThe remarks were part of a broader pattern of statements that have drawn criticism.\u202f[1]\n\nThe article does not specify the exact content of the remarks or the identity of El\u2011Sayed beyond being a Muslim figure.\u202f[1]\n\nThe Arab American community responded with condemnation.\u202f[1]\n\nTrump\u2019s presidency has been marked by a series of statements that critics have labeled anti\u2011Muslim. In 2017, he signed an executive order that restricted travel from several Muslim\u2011majority countries, a move that sparked widespread protests and legal challenges. The order was later upheld in part by the Supreme Court, but it remains a focal point in discussions of religious discrimination.\n\nMichigan hosts one of the largest Arab American populations in the United States, with communities concentrated in Detroit and the surrounding suburbs. These groups have a long history of civic engagement, often mobilizing to counter discrimination and to advocate for civil rights.\n\nThe Arab American community\u2019s rebuke of Trump\u2019s remarks is part of a broader pattern of Muslim and Arab groups responding to his rhetoric. Over the past decade, these communities have organized public statements, rallies, and media outreach to challenge narratives they view as hateful or misleading.\n\nStakeholders in this incident include Trump and his supporters, the El\u2011Sayed figure, the Arab American community, civil rights organizations, and Michigan voters. The escalation may influence public opinion and political engagement, particularly in a state that often serves as a bellwether in national elections.\n\nThe impact of the remarks could deepen divisions within Michigan, affect local elections, and shape the national conversation about Islamophobia. The community\u2019s response may also mobilize advocacy efforts and prompt further scrutiny of political rhetoric.\n\nThe incident illustrates the tension between free speech and hate speech in the United States. It may prompt additional examination of Trump\u2019s statements and potential legal or political consequences, especially as the country continues to grapple with how to address hate speech in public discourse.\n\nObservers should monitor any official statements from Michigan officials, potential legal actions, or upcoming political events where Trump might address the controversy. The Arab American community may issue further statements or organize events to counter the narrative and to advocate for inclusive policies.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEN2Q1hmYmZsdU81ZmZldHBYWWctbmJ5bkxwa2pfMVZFM1IydWhjNldKaUZpZ2JXcVhfdWY4T0lXdXc3RHFyQmZaU2g5b2EtR0dyREthV2VGNjRkUXlUV0JoTkZtUDhDR1VVWG9lTGJvd3VTN0lsVy1USUVXejhPdVNZX2pRSEVqVVNjYUtadGJsaWdfdDFQZkloV0RweFFrTUw3bllNWl8?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEN2Q1hmYmZsdU81ZmZldHBYWWctbmJ5bkxwa2pfMVZFM1IydWhjNldKaUZpZ2JXcVhfdWY4T0lXdXc3RHFyQmZaU2g5b2EtR0dyREthV2VGNjRkUXlUV0JoTkZtUDhDR1VVWG9lTGJvd3VTN0lsVy1USUVXejhPdVNZX2pRSEVqVVNjYUtadGJsaWdfdDFQZkloV0RweFFrTUw3bllNWl8?oc=5",
+      "guid": "CBMiqAFBVV95cUxQMEN2Q1hmYmZsdU81ZmZldHBYWWctbmJ5bkxwa2pfMVZFM1IydWhjNldKaUZpZ2JXcVhfdWY4T0lXdXc3RHFyQmZaU2g5b2EtR0dyREthV2VGNjRkUXlUV0JoTkZtUDhDR1VVWG9lTGJvd3VTN0lsVy1USUVXejhPdVNZX2pRSEVqVVNjYUtadGJsaWdfdDFQZkloV0RweFFrTUw3bllNWl8"
+    },
+    "france24_ce3d03b3": {
+      "id": "france24_ce3d03b3",
+      "title": "What challenges await Brazil's Lula in his fourth term as president?",
+      "category": "World",
+      "source": "france24",
+      "time": "2026-10-26T04:15:33",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://s.france24.com/media/display/92b1f50c-d0d7-11f1-9469-bdb9616e85cf/w:1024/p:16x9/0498b5dbd26c81f0b76b2b0960050a2224c1a10b.jpg",
+      "content": "Lula\u2019s fourth term will face challenges: a divided Brazil\u202f[1], an unfriendly Congress\u202f[1], weak public finances\u202f[1], and a populist threat reminiscent of Donald Trump\u202f[1].\n\nThe stakes are high. Brazil is the largest economy in Latin America, and Lula\u2019s policies will shape the lives of millions of citizens, the country\u2019s business climate, and its standing in global affairs. A hostile Congress could stall reforms, while fiscal weakness threatens social programs and economic stability.\n\nLula has returned to office for a fourth term, a first in Brazil\u2019s history\u202f[1].\n\nBrazil remains politically divided\u202f[1].\n\nCongress is unfriendly to Lula\u2019s agenda\u202f[1].\n\nBrazil\u2019s public finances are weak\u202f[1].\n\nA populist threat reminiscent of Donald Trump is looming\u202f[1].\n\nLula\u2019s earlier administrations, from 2003 to 2010, were marked by notable economic growth and the expansion of social welfare programs that lifted millions out of poverty.\n\nThe Workers\u2019 Party, which Lula leads, has long relied on coalition politics, partnering with regional parties and civil society groups to secure legislative support.\n\nBrazil\u2019s federal system divides power between the national government and 26 states, with a bicameral legislature comprising the Chamber of Deputies and the Senate. The balance of power in these bodies often determines the pace and scope of presidential initiatives.\n\nKey stakeholders include workers, farmers, indigenous communities, the private sector, and opposition parties. Each group has distinct interests that intersect with Lula\u2019s policy agenda.\n\nInternational investors, trade partners, and climate\u2011change commitments also play significant roles, as Brazil\u2019s economic health and environmental policies influence global markets and diplomatic relations.\n\nLula may need to negotiate with Congress, address fiscal constraints, and counter populist rhetoric to advance his priorities.\n\nUpcoming legislative sessions, budget proposals, and potential political challenges will be closely watched as the administration navigates these hurdles.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "France 24",
+          "url": "https://www.france24.com/en/americas/20261026-what-challenges-await-brazil-s-lula-in-his-fourth-term-as-president"
+        }
+      ],
+      "original_url": "https://www.france24.com/en/americas/20261026-what-challenges-await-brazil-s-lula-in-his-fourth-term-as-president",
+      "guid": "942699b0-d0d7-11f1-9531-8353dbbe79d5"
     }
   },
   "featured": {
-    "hero": "guardian_93b81462",
+    "hero": "ap_e85386ad",
     "stack": [
-      "pbs_39d7fba5",
-      "straitstimes_342f31be",
-      "afp_269fd547"
+      "guardian_3e2e8f22",
+      "abcau_b2c99cb5",
+      "ap_5526368e"
     ],
     "latest": [
+      "ap_5526368e",
+      "abcau_b2c99cb5",
+      "guardian_3e2e8f22",
+      "guardian_93b81462",
       "afp_269fd547",
-      "straitstimes_342f31be",
-      "pbs_39d7fba5",
-      "fullfact_673b756c",
-      "abcau_300bb6c0",
-      "npr_81038764"
+      "straitstimes_342f31be"
     ],
     "world": [
+      "abcau_b2c99cb5",
+      "france24_ce3d03b3",
       "straitstimes_342f31be",
-      "afp_269fd547",
-      "japantimes_fb9b5b52",
-      "abcau_300bb6c0"
+      "afp_269fd547"
     ]
   },
   "categoryIndex": {
     "News": [
+      "pbs_39d7fba5",
+      "fullfact_673b756c",
+      "npr_81038764",
       "cjr_dd011bed",
       "ap_d1670c5a",
       "snopes_fc315636",
       "snopes_b1a624d6",
       "snopes_3342edf4",
       "pbs_dde73d7d",
-      "pbs_ec2d5db3",
-      "snopes_32aa1661",
-      "ap_befcc787",
-      "fullfact_a8856ea3"
+      "pbs_ec2d5db3"
     ],
     "World": [
+      "france24_ce3d03b3",
+      "abcau_300bb6c0",
       "japantimes_fb9b5b52",
       "csmonitor_4f7b21b8",
       "france24_7ad6e035",
@@ -16044,9 +16046,7 @@
       "cna_6535a232",
       "france24_d08a63de",
       "bbc_3a8d0eb0",
-      "france24_47f4ae25",
-      "aljazeera_347fafde",
-      "abcau_b511f498"
+      "france24_47f4ae25"
     ],
     "Politics": [
       "bbc_9a34e22b",
@@ -16109,7 +16109,7 @@
       "googlenews_ba08e50d"
     ]
   },
-  "breaking": "NSF arrested after sneaking into women\u2019s toilet and jumping from building to evade officers - The St",
+  "breaking": "Burnham to double spending on homelessness amid drive to end rough sleeping by Christmas",
   "events": [
     {
       "title": "Burnham backs mandatory suicide prevention training for social workers after par",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
+    "Burnham to double spending on homelessness amid drive to end rough sleeping by C",
     "\u2018It\u2019s magic\u2019: scientists rediscover how to make ancient Roman colour-changing gl",
     "Does video show Trump waving at, saluting nobody before boarding Marine One?",
-    "Judge asked to compel Trump administration to disclose emails and texts about Ke",
-    "Police and protesters clash in Paris as demonstrations break out across Europe"
+    "Lula is declared winner of Brazil\u2019s election as Bolsonaro rejects results - AP N"
   ]
 }
