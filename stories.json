@@ -1,65 +1,5 @@
 {
   "stories": {
-    "aljazeera_c8f92437": {
-      "id": "aljazeera_c8f92437",
-      "title": "Can China play peacemaker as Iran\u2019s foreign minister heads to Beijing?",
-      "category": "World",
-      "source": "aljazeera",
-      "time": "2026-09-15T16:44:21",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26126225540505-1-1778064409.jpg?resize=1200%2C675",
-      "content": "Iran\u2019s foreign minister is heading to Beijing amid escalating tensions with the United States, as Tehran and Beijing explore diplomatic paths.\u202f[1]\n\nThe trip signals Iran's attempt to seek diplomatic solutions and raises questions about China's role as a potential mediator in the Iran\u2011US standoff.\u202f[1]\n\nThe Iranian foreign minister\u2019s visit to Beijing follows a period of heightened tensions between Iran and the United States, with both sides engaging in a series of diplomatic and economic confrontations.\u202f[1] During the visit, the two sides are reportedly discussing possible avenues for easing tensions and exploring diplomatic solutions.\u202f[1]\n\nIran and the United States have been at odds for decades over issues ranging from Iran\u2019s nuclear program to regional influence.\n\nChina has historically positioned itself as a neutral actor in international disputes, often offering to mediate between conflicting parties.\n\nIran\u2019s foreign ministry is seeking to secure diplomatic gains, while the United States is monitoring the developments closely.\n\nChina\u2019s foreign ministry is tasked with maintaining its strategic interests in the Middle East and balancing relations with both Tehran and Washington.\n\nIf China succeeds in facilitating dialogue, it could reduce the risk of a broader regional conflict and open avenues for economic cooperation.\n\nHowever, the United States may view China\u2019s involvement as a challenge to its influence in the region, potentially prompting a recalibration of its own diplomatic strategy.\n\nThe visit underscores the complexity of the Iran\u2011US relationship and the growing importance of third\u2011party mediation in global diplomacy.\n\nIt also highlights the delicate balance China must maintain between its economic ties with Iran and its broader strategic partnership with the United States.\n\nObservers will be looking for formal statements from the Chinese foreign ministry, any agreements reached between Tehran and Beijing, and the United States\u2019 response in the coming weeks.\n\nThe outcome of this diplomatic engagement could shape the trajectory of Iran\u2011US relations for months to come, influencing sanctions policy, regional security dynamics, and the prospects for a renewed nuclear agreement.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss"
-        }
-      ],
-      "original_url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
-      "guid": "https://www.aljazeera.com/?t=1789480430"
-    },
-    "fullfact_f1679c50": {
-      "id": "fullfact_f1679c50",
-      "title": "False claims Bill Gates wrote an article on depopulating the earth with \u2018forced vaccines\u2019 recirculate",
-      "category": "News",
-      "source": "fullfact",
-      "time": "2026-09-15T21:06:49",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://fullfact.org/media/images/visit_of_bill_gates_to_the_europe.2a716f57.fill-1200x630.jpg",
-      "content": "Several posts on social media allege that Bill Gates authored an article advocating the use of vaccinations to depopulate the earth. The posts claim that Gates promoted \u201cforced vaccines\u201d as a population\u2011control strategy, but the allegations are unsubstantiated. The claim has circulated widely online, with no credible source confirming the existence of such an article. [1]\n\nThe spread of this misinformation matters because it targets a figure who is already a frequent subject of vaccine\u2011related conspiracy theories. When false narratives about public health interventions circulate, they can erode trust in vaccines and undermine efforts to control infectious diseases. The claim\u2019s reach highlights the broader challenge of combating misinformation in the digital age.\n\nThe posts surfaced on various social\u2011media platforms and were shared by users who presented the alleged article as evidence. They assert that Gates wrote about using vaccines to reduce the global population, framing the measure as a \u201cforced\u201d policy. The narrative is presented without any citation of a real publication or a link to the supposed article. The claim is therefore incorrect. [1]\n\nBill Gates is a co\u2011founder of Microsoft and a philanthropist who has directed substantial resources through the Bill & Melinda Gates Foundation toward global health initiatives, including vaccine research and distribution. His public work has focused on improving health outcomes in low\u2011 and middle\u2011income countries, rather than on population control. This background is widely documented in reputable biographies and foundation reports.\n\nVaccines are medical interventions that protect individuals and communities from infectious diseases. They undergo rigorous testing and regulatory review before approval, and their deployment is guided by public\u2011health authorities worldwide. The scientific consensus supports vaccines as a safe and effective tool for preventing disease outbreaks.\n\nThe primary stakeholders affected by the false claim are the general public, healthcare providers, and public\u2011health policymakers. Misinformation that portrays vaccines as a tool for depopulation can fuel vaccine hesitancy, leading to lower uptake rates and increased vulnerability to preventable illnesses. Public\u2011health officials rely on accurate information to design communication strategies and maintain public confidence in vaccination programs.\n\nIf the claim gains traction, it could contribute to a decline in vaccination rates, potentially reversing gains made in controlling diseases such as measles, polio, and COVID\u201119. Reduced coverage can create conditions for outbreaks, strain health systems, and increase morbidity and mortality, especially among children and immunocompromised individuals. The public\u2011health implications of such misinformation underscore the need for timely, evidence\u2011based responses.\n\nFact\u2011checking organizations and reputable news outlets continue to monitor the claim\u2019s spread. No credible source has reported a Gates article on depopulation, and searches of Gates\u2019 official communications and major news archives have not yielded any such publication. The claim remains unverified, and authorities advise readers to consult reliable health\u2011information channels for accurate vaccine guidance.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Full Fact",
-          "url": "https://fullfact.org/health/bill-gates-vaccine-depopulation-article/"
-        }
-      ],
-      "original_url": "https://fullfact.org/health/bill-gates-vaccine-depopulation-article/",
-      "guid": "https://fullfact.org/health/bill-gates-vaccine-depopulation-article/"
-    },
-    "bbc_473d32c5": {
-      "id": "bbc_473d32c5",
-      "title": "'One in, one out' scheme costs \u00a356,000 per person returned to France, home secretary says",
-      "category": "Politics",
-      "source": "bbc",
-      "time": "2026-09-15T21:06:53",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f35/live/ccaf3c70-b137-11f1-8e7a-7b6c4dcbe4b5.jpg",
-      "content": "The UK Home Secretary has revealed that the \u201cone in, one out\u201d scheme, which returns asylum seekers to France, costs \u00a356,000 per person.\u202f[1]\n\nThe cost figure and comments on scaling up highlight the challenges facing the UK\u2019s asylum policy and raise questions about the scheme\u2019s sustainability.\u202f[1]\n\nShabana Mahmood, the Home Secretary, said the policy has been difficult to scale up and the numbers involved are still relatively small.\u202f[1]\n\nThe \u201cone in, one out\u201d scheme is a bilateral arrangement between the UK and France that aims to manage asylum claims by returning individuals who have been granted asylum in the UK to France.\n\nUnder the scheme, the UK identifies asylum seekers who have been granted protection and facilitates their return to France, where they can seek protection or reintegration.\n\nThe policy affects asylum seekers, the UK Home Office, and French authorities.\n\nFor individuals, the scheme means a return to France, which may involve challenges in reintegration and access to services.\n\nThe \u00a356,000 cost per person reflects administrative, logistical, and support expenses associated with the return process.\n\nThe high cost and difficulty scaling up suggest that the scheme may not be a cost\u2011effective solution for managing asylum flows.\n\nThe Home Office may review the scheme\u2019s viability and consider alternative approaches, with further data expected in upcoming parliamentary debates.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c8zxz31105l4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/c8zxz31105l4o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c8zxz31105l4o#0"
-    },
     "guardian_42624df5": {
       "id": "guardian_42624df5",
       "title": "\u2018It makes you feel helpless\u2019: patients and doctors cast doubt on standard treatment for endometriosis",
@@ -15999,22 +15939,82 @@
       ],
       "original_url": "https://www.theguardian.com/environment/2026/oct/27/homes-across-uk-to-get-low--or-no-interest-loans-to-fund-solar-panels-and-heat-pumps",
       "guid": "https://www.theguardian.com/environment/2026/oct/27/homes-across-uk-to-get-low--or-no-interest-loans-to-fund-solar-panels-and-heat-pumps"
+    },
+    "conversation_59a2aa24": {
+      "id": "conversation_59a2aa24",
+      "title": "School librarians are vanishing from Michigan schools just when they are needed most",
+      "category": "Science",
+      "source": "conversation",
+      "time": "2026-10-27T22:00:50",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://images.theconversation.com/files/765729/original/file-20261013-50-pcklkk.jpg?ixlib=rb-4.1.1&amp;rect=0%2C548%2C6566%2C3283&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "content": "School librarians are vanishing from Michigan schools just when they are needed most[1].\n\nThe loss of certified librarians threatens to erode students\u2019 reading proficiency and technological literacy, skills that educators say are essential for success in the 21st\u2011century classroom[1].\n\nMichigan\u2019s public schools are not required to employ certified librarians, a policy that has left many districts without dedicated library staff[1].\n\nIn the United States, school librarians traditionally curate reading lists, facilitate research skills, and provide guidance on digital resources. Their presence is often linked to higher student engagement with books and improved academic outcomes.\n\nMichigan\u2019s policy differs from many other states that mandate a librarian or library specialist in each school. The absence of a statutory requirement means districts can choose to allocate funds elsewhere, sometimes leaving libraries understaffed or even closed.\n\nStudents are the most immediate beneficiaries of a well\u2011run school library. A librarian can help students navigate complex research databases, teach critical evaluation of sources, and foster a love of reading that extends beyond the classroom.\n\nTeachers also rely on librarians to support curriculum goals, especially in subjects that demand extensive research or digital media production. Without a librarian, teachers may need to take on additional responsibilities that could detract from instructional time.\n\nThe broader impact of librarian shortages may manifest in lower reading scores and reduced digital fluency among students, potentially widening existing achievement gaps.\n\nStakeholders\u2014including parents, educators, and policy makers\u2014are watching for any legislative or budgetary changes that could address the gap. Some school boards have begun to explore partnerships with local libraries or volunteer programs to fill the void.\n\nThe next steps will likely involve discussions at the state level about whether to mandate librarian positions or provide targeted funding to support library services in schools that currently lack them.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Conversation",
+          "url": "https://theconversation.com/school-librarians-are-vanishing-from-michigan-schools-just-when-they-are-needed-most-291339"
+        }
+      ],
+      "original_url": "https://theconversation.com/school-librarians-are-vanishing-from-michigan-schools-just-when-they-are-needed-most-291339",
+      "guid": "tag:theconversation.com,2011:article/291339"
+    },
+    "googlenews_a2b20540": {
+      "id": "googlenews_a2b20540",
+      "title": "S&P 500 posts back-to-back winning days as chips rally and oil prices slide: Live updates - CNBC",
+      "category": "Business",
+      "source": "googlenews",
+      "time": "2026-10-27T22:00:56",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/3840px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "The S&P\u202f500 posted back\u2011to\u2011back winning days as chip stocks rallied and oil prices fell, marking a day of mixed market activity.\u202f[1]\n\nThe gains reflect renewed optimism around artificial intelligence and technology, while falling oil prices signal easing geopolitical tensions, affecting investors across sectors.\u202f[1]\n\nOn a recent trading day, the S&P\u202f500 edged up, the Nasdaq recorded its best day in nearly a month, and the Dow ended flat. Tech stocks were higher, while oil cooled after comments from Iran. US stock futures gained.\u202f[1]\n\nThe rally in chip stocks for a second consecutive day reflects renewed optimism around artificial intelligence.\u202f[1]\n\nThe S&P\u202f500 is a broad index of 500 large\u2011cap U.S. companies, designed to track the overall health of the American equity market. The Nasdaq Composite, heavily weighted toward technology firms, often serves as a barometer for the tech sector\u2019s performance. The Dow Jones Industrial Average tracks 30 major industrial companies and is frequently cited as a gauge of the broader market.\n\nOil prices are highly sensitive to geopolitical developments. Recent comments from Iranian officials have influenced market sentiment, leading to a decline in crude prices.\n\nThe resurgence of interest in artificial intelligence has driven investment in semiconductor and software companies, boosting their stock prices and contributing to the broader market rally.\n\nTechnology investors and companies benefit from the rally, while oil producers face lower revenues due to falling prices.\n\nWall Street traders and portfolio managers adjust positions based on the mixed signals from equities and commodities, balancing exposure to growth sectors with risk management.\n\nThe market\u2019s mixed performance may indicate cautious optimism among investors, balancing growth prospects with geopolitical risks.\n\nContinued volatility could affect portfolio allocations, especially for those heavily weighted in tech or energy sectors.\n\nInvestors will look to upcoming earnings reports, Fed policy statements, and further geopolitical developments for clues on market direction.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01a2Ywbm5HbkhhaXZtYlM2S1pUVnJOZHphMFNEQUZTS2lQQURWbzdWTDRmYi1INFVtVExqNUV1S3JVblo2Q2hOalpnUW83Xzk4cGJrZnYyYzl0ZUxrT2s5eEoyX0VxVmwxZjVyalBzcXBKYXhaTGtB0gF8QVVfeXFMTTdtcmVVc3VlM04tY1dHN1c1SXRaRnFXM2c1SVpEaE14UW1ScTRRYWZsR1I1ZDNmM3RJNXhkcFV0eGU1dXItUDEwNWZHZlpZTE5pQWI1Rzd2UElyQ0J6N21CbHZ5WnRrZHFYWEl5aWZtUW9jZjhnY0pPbVpQZA?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01a2Ywbm5HbkhhaXZtYlM2S1pUVnJOZHphMFNEQUZTS2lQQURWbzdWTDRmYi1INFVtVExqNUV1S3JVblo2Q2hOalpnUW83Xzk4cGJrZnYyYzl0ZUxrT2s5eEoyX0VxVmwxZjVyalBzcXBKYXhaTGtB0gF8QVVfeXFMTTdtcmVVc3VlM04tY1dHN1c1SXRaRnFXM2c1SVpEaE14UW1ScTRRYWZsR1I1ZDNmM3RJNXhkcFV0eGU1dXItUDEwNWZHZlpZTE5pQWI1Rzd2UElyQ0J6N21CbHZ5WnRrZHFYWEl5aWZtUW9jZjhnY0pPbVpQZA?oc=5",
+      "guid": "CBMid0FVX3lxTE01a2Ywbm5HbkhhaXZtYlM2S1pUVnJOZHphMFNEQUZTS2lQQURWbzdWTDRmYi1INFVtVExqNUV1S3JVblo2Q2hOalpnUW83Xzk4cGJrZnYyYzl0ZUxrT2s5eEoyX0VxVmwxZjVyalBzcXBKYXhaTGtB0gF8QVVfeXFMTTdtcmVVc3VlM04tY1dHN1c1SXRaRnFXM2c1SVpEaE14UW1ScTRRYWZsR1I1ZDNmM3RJNXhkcFV0eGU1dXItUDEwNWZHZlpZTE5pQWI1Rzd2UElyQ0J6N21CbHZ5WnRrZHFYWEl5aWZtUW9jZjhnY0pPbVpQZA"
+    },
+    "googlenews_5b76d29f": {
+      "id": "googlenews_5b76d29f",
+      "title": "Why did the Seahawks trade for Quenton Nelson? Are the Colts just getting started? - ESPN",
+      "category": "Sports",
+      "source": "googlenews",
+      "time": "2026-10-27T22:02:49",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Quenton_Nelson.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "The Seattle Seahawks have added a Pro\u202fBowl guard to their roster by trading for Quenton Nelson from the Indianapolis Colts, a move announced just before the NFL trade deadline. The transaction also saw the Seahawks release guard Christian Haynes, clearing a roster spot for the veteran lineman.\n\nThe acquisition is significant for Seattle, which has struggled to find a reliable interior lineman in recent seasons. Adding Nelson, who has earned Pro\u202fBowl honors, is expected to bolster the Seahawks\u2019 run\u2011blocking scheme and provide veteran leadership on the offensive line. For Indianapolis, the trade may signal a willingness to retool the line and create cap space for future moves.\n\nIn the trade, the Seahawks sent unspecified assets to the Colts in exchange for Nelson. The exact details of the package were not disclosed in the reporting. The Seahawks also waived Christian Haynes, a move that frees a roster spot for Nelson\u2019s arrival. The trade was officially announced ahead of the NFL deadline, giving both teams time to adjust their rosters before the final cut.\n\nAnalysts reviewing the trade have graded it as more favorable for Seattle than for Indianapolis. The evaluation suggests that the Seahawks\u2019 acquisition of a proven Pro\u202fBowl guard outweighs the Colts\u2019 return, which has not been detailed in the public report.\n\nQuenton Nelson has established himself as one of the league\u2019s premier guards, earning Pro\u202fBowl recognition for his performance with the Colts. His presence on the line is expected to improve Seattle\u2019s offensive protection and run\u2011blocking efficiency.\n\nThe Seahawks\u2019 offensive line has been a point of concern, with injuries and inconsistent play limiting the team\u2019s offensive output. Bringing in a player of Nelson\u2019s caliber is intended to address these deficiencies and provide stability for the offensive unit.\n\nIndianapolis, meanwhile, has a strong offensive line but has been exploring options to refresh its roster. The trade may be part of a broader strategy to manage salary cap constraints and prepare for future draft picks.\n\nStakeholders in the trade include the coaching staffs of both teams, who must integrate Nelson into Seattle\u2019s system and evaluate the impact of his experience. Players on both rosters will feel the ripple effects of the roster adjustments, while fans of each franchise will watch to see how the trade shapes the teams\u2019 competitive prospects.\n\nFor Seattle, Nelson\u2019s arrival is expected to enhance the guard position, potentially improving the team\u2019s run game and pass protection. The veteran\u2019s experience could also mentor younger linemen and elevate overall line performance.\n\nThe Colts may benefit from the trade by freeing up a roster spot and possibly gaining future draft capital, though the specifics of the return remain undisclosed. The move could also signal Indianapolis\u2019s openness to further roster changes as the season progresses.\n\nThe trade\u2019s grading indicates that analysts view the Seahawks\u2019 gain as more advantageous, suggesting that the team\u2019s immediate needs are better addressed by Nelson\u2019s addition. This assessment may influence how fans and observers evaluate the Seahawks\u2019 competitiveness in the short term.\n\nLooking ahead, the trade deadline remains a critical juncture for both franchises. The Seahawks will need to integrate Nelson into their offensive scheme quickly, while the Colts may announce additional moves or draft strategies. The outcome of this trade will be closely monitored as the season unfolds.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVRSWmdUSEJlLW1ENzZpamdGUlE4VDZ4RVQ2QmhsblZXX3IwUXluZ21KQ1YtR2ZLb3BoMW1IRFY5eEhMWmtjaUhWY3Q1Wk1McDlkcVVHMERaNDJoZm5OaS1qYzRxX2RyZ1BwQ2NvSmVtZ19lWEdMMlRhYVNPaHBiU1puU1FZczd4VUFjWTJEWmhxQ2loOGRBVw?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVRSWmdUSEJlLW1ENzZpamdGUlE4VDZ4RVQ2QmhsblZXX3IwUXluZ21KQ1YtR2ZLb3BoMW1IRFY5eEhMWmtjaUhWY3Q1Wk1McDlkcVVHMERaNDJoZm5OaS1qYzRxX2RyZ1BwQ2NvSmVtZ19lWEdMMlRhYVNPaHBiU1puU1FZczd4VUFjWTJEWmhxQ2loOGRBVw?oc=5",
+      "guid": "CBMimAFBVV95cUxQZVRSWmdUSEJlLW1ENzZpamdGUlE4VDZ4RVQ2QmhsblZXX3IwUXluZ21KQ1YtR2ZLb3BoMW1IRFY5eEhMWmtjaUhWY3Q1Wk1McDlkcVVHMERaNDJoZm5OaS1qYzRxX2RyZ1BwQ2NvSmVtZ19lWEdMMlRhYVNPaHBiU1puU1FZczd4VUFjWTJEWmhxQ2loOGRBVw"
     }
   },
   "featured": {
-    "hero": "nature_c0bbf03e",
+    "hero": "conversation_59a2aa24",
     "stack": [
-      "bbc_71c6a468",
-      "googlenews_9d35c2b8",
-      "bbc_c9233769"
+      "googlenews_a2b20540",
+      "googlenews_5b76d29f",
+      "nature_c0bbf03e"
     ],
     "latest": [
+      "googlenews_5b76d29f",
+      "googlenews_a2b20540",
+      "nature_c0bbf03e",
       "bbc_c9233769",
       "googlenews_9d35c2b8",
-      "bbc_71c6a468",
-      "bbc_e460ef36",
-      "irishtimes_9b8f3450",
-      "dw_ae9baffc"
+      "bbc_71c6a468"
     ],
     "world": [
       "straitstimes_e3b55f39",
@@ -16037,6 +16037,8 @@
       "cjr_dd011bed"
     ],
     "World": [
+      "irishtimes_9b8f3450",
+      "dw_ae9baffc",
       "straitstimes_e3b55f39",
       "abcau_13a21c1b",
       "aljazeera_bb375e04",
@@ -16044,11 +16046,10 @@
       "bbc_7d42a630",
       "dw_54eec86e",
       "france24_0bf1fd14",
-      "smh_cfbe0b8a",
-      "abcau_b2c99cb5",
-      "csmonitor_9e9136e6"
+      "smh_cfbe0b8a"
     ],
     "Politics": [
+      "bbc_e460ef36",
       "guardian_55a9378d",
       "guardian_1b3c4ebf",
       "guardian_3e2e8f22",
@@ -16057,8 +16058,7 @@
       "guardian_08d17c99",
       "guardian_e91375ff",
       "bbc_c063c16a",
-      "guardian_16ac9490",
-      "bbc_ddcd2565"
+      "guardian_16ac9490"
     ],
     "Sports": [
       "googlenews_cf928711",
@@ -16109,7 +16109,7 @@
       "googlenews_8c28fa61"
     ]
   },
-  "breaking": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+  "breaking": "School librarians are vanishing from Michigan schools just when they are needed most",
   "events": [
     {
       "title": "Localized ceasefire brokered by Melania Trump starts as Nordic leaders speak to ",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
     "Judge says DOJ illegally fired the daughter of former FBI director Comey",
-    "AI-hallucinated citations should be treated as research misconduct",
-    "UK and EU officials to discuss freedom of movement"
+    "S&P 500 posts back-to-back winning days as chips rally and oil prices slide: Liv",
+    "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+    "School librarians are vanishing from Michigan schools just when they are needed "
   ]
 }
