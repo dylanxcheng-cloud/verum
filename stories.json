@@ -1,125 +1,5 @@
 {
   "stories": {
-    "googlenews_019afad1": {
-      "id": "googlenews_019afad1",
-      "title": "Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years - Yahoo Finance",
-      "category": "Business",
-      "source": "googlenews",
-      "time": "2026-09-16T11:16:38",
-      "read": "3 min read",
-      "mode": "long",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28304%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27504%27%20cy%3D%27178%27%20r%3D%27140%27%20fill%3D%27hsl%28344%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "The Federal Reserve is poised to raise its benchmark federal\u2011funds rate for the first time in three years, a move that is expected to defy President Trump\u2019s calls for lower borrowing costs.\u202f[1] The decision, anticipated by markets and confirmed by bond traders, will mark a significant shift in U.S. monetary policy after a prolonged period of accommodative rates.\u202f[1]\n\nThe potential hike matters because it will directly influence the cost of borrowing for consumers, businesses, and the government, and it will shape expectations for inflation, employment, and the overall trajectory of the economy.\u202f[1] A higher policy rate typically cools spending and can temper price gains, while also affecting the valuation of equities, the performance of fixed\u2011income securities, and the strength of the dollar.\u202f[1]\n\nLive coverage of the Fed\u2019s policy meeting has highlighted growing anticipation among market participants.\u202f[1] Analysts note that bond traders are convinced the central bank will lift rates, citing signals from the Fed\u2019s own communications and the persistence of inflationary pressures.\u202f[1] The consensus is that the decision will come at the end of the meeting, followed by a formal statement outlining the new policy stance.\u202f[1]\n\nThe Fed\u2019s policy rate, the federal\u2011funds rate, has been kept near zero for the past three years in an effort to support economic recovery after the COVID\u201119 pandemic.\u202f[1] The decision to raise rates would end this era of ultra\u2011low rates and reflect the Fed\u2019s assessment that inflationary pressures have become entrenched.\u202f[1] The dual mandate of the Federal Reserve\u2014to promote maximum employment and stable prices\u2014guides its policy choices, and the current environment suggests that the Fed believes inflation is likely to remain above its 2\u202f% target.\u202f[1]\n\nThe broader context includes the Fed\u2019s recent statements that inflation has become \u201cstubborn\u201d and that the economy has shown resilience in the labor market.\u202f[1] These observations underpin the expectation that the central bank will act to prevent inflation from becoming a long\u2011term threat.\u202f[1] The decision will also be interpreted as a signal to the markets that the Fed is willing to tighten policy to maintain price stability.\u202f[1]\n\nStakeholders most directly affected by a rate hike include borrowers\u2014homeowners, auto\u2011loan holders, and businesses seeking credit\u2014as well as savers and investors.\u202f[1] Higher rates raise the cost of mortgages and business loans, potentially slowing investment and consumption.\u202f[1] Conversely, savers may benefit from higher yields on deposits and fixed\u2011income instruments, while bond prices are likely to fall as yields rise.\u202f[1] The equity market may experience volatility as higher rates can reduce the present value of future earnings.\u202f[1]\n\nThe implications of a rate increase extend beyond the domestic economy.\u202f[1] A stronger dollar, often a consequence of higher U.S. rates, can affect global trade balances and the competitiveness of U.S. exporters.\u202f[1] International investors may adjust portfolio allocations in response to the new U.S. policy stance, influencing capital flows and exchange rates worldwide.\u202f[1] Moreover, the Fed\u2019s action could prompt other central banks to reassess their own policy positions in light of changing global inflation dynamics.\u202f[1]\n\nLooking ahead, market participants will closely monitor the Fed\u2019s official statement for the exact magnitude of the rate hike and any accompanying guidance on future policy.\u202f[1] The next key dates include the release of the Fed\u2019s policy statement at the conclusion of the meeting, followed by the release of the minutes and the subsequent policy meeting scheduled for later in the year.\u202f[1] Investors and policymakers will also watch for any signals regarding the Fed\u2019s forward guidance on the pace of tightening and its outlook for inflation and employment.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmZ6ZWVGendWVHM4dm1raHp1ckZOaGpHd2Y3SmNVYXRIUzhlMEI3b1lKNFhuTU5EMWVEc3dDb2FpTWU0SlJjSTJ1RTFmR29wdzJ4bGgtMW9xVkxtNnpoX0Z2TjNic0R4SXF5ZXZtc2RYMXktNFFGWEQtY1ZhQkpDY2pneWNKWURHRm84MFBnVF9qZmNMSktfRm1aUUZjbmk3bEh4SVdMNElkWHRlWHlRdHpwY3E4VGxSTFE?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmZ6ZWVGendWVHM4dm1raHp1ckZOaGpHd2Y3SmNVYXRIUzhlMEI3b1lKNFhuTU5EMWVEc3dDb2FpTWU0SlJjSTJ1RTFmR29wdzJ4bGgtMW9xVkxtNnpoX0Z2TjNic0R4SXF5ZXZtc2RYMXktNFFGWEQtY1ZhQkpDY2pneWNKWURHRm84MFBnVF9qZmNMSktfRm1aUUZjbmk3bEh4SVdMNElkWHRlWHlRdHpwY3E4VGxSTFE?oc=5",
-      "guid": "CBMiugFBVV95cUxOdmZ6ZWVGendWVHM4dm1raHp1ckZOaGpHd2Y3SmNVYXRIUzhlMEI3b1lKNFhuTU5EMWVEc3dDb2FpTWU0SlJjSTJ1RTFmR29wdzJ4bGgtMW9xVkxtNnpoX0Z2TjNic0R4SXF5ZXZtc2RYMXktNFFGWEQtY1ZhQkpDY2pneWNKWURHRm84MFBnVF9qZmNMSktfRm1aUUZjbmk3bEh4SVdMNElkWHRlWHlRdHpwY3E4VGxSTFE"
-    },
-    "guardian_dedeedaa": {
-      "id": "guardian_dedeedaa",
-      "title": "Burnham must show markets he\u2019s not just \u2018tax and spend socialist with better TikTok\u2019, says top economist \u2013 UK politics live",
-      "category": "Politics",
-      "source": "guardian",
-      "time": "2026-09-16T11:17:03",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/1849ea6d18fdd653276b9356d7490fbca3c86f91/927_364_3295_2636/master/3295.jpg?width=140&quality=85&auto=format&fit=max&s=9715b35cab6a9eb7681b4db20c5fb28e",
-      "content": "Former Bank of England chief economist warned Andy\u202fBurnham that he must prove to financial markets he can cut spending, lest the country be seen as a \u201ctax and spend socialist with better TikTok\u201d\u202f[1].\n\nThe comment comes as Burnham prepares to meet NATO secretary\u2011general Mark\u202fRutte, a meeting that could signal the UK\u2019s stance on defence and fiscal policy to investors and allies alike\u202f[1].\n\nDefence Secretary Wes\u202fStreeting posted on social media ahead of the meeting, underscoring the domestic political focus on the UK\u2019s role in the broader NATO strategy\u202f[1].\n\nThe economist\u2019s warning reflects concerns that a perceived lack of fiscal restraint could undermine confidence in the UK\u2019s economic outlook and its ability to fund defence commitments\u202f[1].\n\n\u201cOnce we cut defence expenditure to the extent where our security is imperilled, we have no houses, we have no hospitals, we have no schools. We have a heap of cinders,\u201d former Labour minister Denis\u202fHealey warned in the past, a sentiment echoed in the current debate\u202f[1].\n\nBritain is leading, along with NATO allies, in pushing back against Russia\u2019s campaign of aggression, a stance that the UK has reiterated in recent statements\u202f[1].\n\nNATO has declared it will not be intimidated by Russia\u2019s hostile actions, signalling a firm collective defence posture\u202f[1].\n\nRussia\u2019s objective, according to the source, is to stop the UK from helping Ukraine, but the UK\u2019s response is expected to be to increase support for Kyiv\u202f[1].\n\nRussia\u2019s actions are described as a sign of weakness and a symptom of President\u202fPutin\u2019s failure in Ukraine, framing the conflict as a strategic misstep for Moscow\u202f[1].\n\nTo maintain a transatlantic alliance, NATO is reportedly becoming more European, with a shift toward greater European leadership within the alliance\u202f[1].\n\nThe concept of \u201cNATO\u202f3.0\u201d involves Europe and Canada increasing spending, production, and security contributions, aiming to balance the burden across member states\u202f[1].\n\nBurnham, who has recently taken the helm of the UK government, faces the dual task of managing domestic fiscal policy while coordinating with NATO on defence strategy. The former Bank of England economist\u2019s remarks highlight the scrutiny that leaders of major economies face when proposing expansive spending programmes.\n\nFinancial markets, UK taxpayers, NATO allies, and Russia are all stakeholders in this unfolding narrative. Market confidence hinges on perceptions of fiscal prudence, while defence budgets will directly affect the UK\u2019s ability to meet its NATO commitments.\n\nIf Burnham fails to reassure investors, the pound could weaken and borrowing costs might rise, potentially constraining the government\u2019s fiscal flexibility. Conversely, a clear commitment to spending cuts could bolster investor confidence and support the UK\u2019s defence objectives.\n\nKey developments to watch include Burnham\u2019s meeting with Rutte, the forthcoming UK budget announcement, and the formal adoption of the NATO\u202f3.0 framework, all of which will shape the trajectory of UK defence and fiscal policy in the coming months.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/politics/live/2026/sep/16/lisa-nandy-x-andy-burnham-labour-reform-uk-politics-latest-news-updates"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/politics/live/2026/sep/16/lisa-nandy-x-andy-burnham-labour-reform-uk-politics-latest-news-updates",
-      "guid": "https://www.theguardian.com/politics/live/2026/sep/16/lisa-nandy-x-andy-burnham-labour-reform-uk-politics-latest-news-updates"
-    },
-    "irishtimes_95161bbb": {
-      "id": "irishtimes_95161bbb",
-      "title": "Teenager arrested after firearm and ammunition found in Dublin",
-      "category": "World",
-      "source": "irishtimes",
-      "time": "2026-09-16T11:17:41",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://www.irishtimes.com/resizer/v2/62OV6SZOERH5TOQERFIS6Z54TY.jpg?auth=9c36ac2b294d007bce27d5304e5b262819377e69af7120df38e7f66c4bf1c2c6&smart=true&width=630&height=350",
-      "content": "A teenager was arrested after Garda\u00ed found a firearm and ammunition in Lucan, Dublin, following a public order incident on Tuesday evening. [1]\n\nThe arrest underscores ongoing concerns about firearms in Dublin and the role of Garda\u00ed in maintaining public order.\n\nGarda\u00ed were dispatched to Lucan after reports of a public order incident. The officers discovered a firearm and several rounds of ammunition during their search. The teenager present at the scene was taken into custody. The incident took place in the evening of a Tuesday.\n\nDublin, Ireland's capital, has strict gun control laws that prohibit the possession of firearms without a license. The Garda S\u00edoch\u00e1na is responsible for enforcing these laws and responding to public order incidents.\n\nLucan is a suburban area in South Dublin, known for its residential communities and local amenities.\n\nPublic order incidents in Ireland can involve disturbances, fights, or other disruptions that threaten community safety. Garda\u00ed are trained to assess the situation and take appropriate action, including searching for weapons.\n\nThe teenager faces potential charges under the Firearms Act, which can carry significant penalties. The local community may feel increased concern about safety. Garda\u00ed must balance enforcement with community relations.\n\nParents and guardians of the teenager may be involved in legal proceedings and may seek support from legal counsel. The broader public may monitor the case as a reflection of gun control enforcement.\n\nIf the teenager is charged, the case could set a precedent for how minor offenders are treated in firearm possession cases. It may also influence public debate on gun control measures.\n\nThe incident highlights the need for ongoing vigilance in suburban areas where firearms can be hidden. It also raises questions about how effectively Garda\u00ed can prevent such incidents before they occur.\n\nThe Garda\u00ed investigation will likely determine whether the firearm was illegally obtained and whether other individuals are involved. A court hearing is expected in the coming weeks, and the outcome will be closely watched by law\u2011enforcement and policy groups.\n\nIn Ireland, possession of a firearm without a license is a criminal offense that can result in up to ten years in prison. The legal process involves a preliminary hearing, possible indictment, and trial.\n\nGarda\u00ed often conduct follow\u2011up searches of the suspect's residence or vehicle to locate additional weapons or evidence.\n\nThe Garda\u00ed's response to public order incidents is guided by the Police Act and the Public Order Act, which outline the powers and limits of arrest and search.\n\nThe arrest of a teenager in Lucan after a firearm and ammunition were found illustrates the challenges of enforcing gun laws in Dublin and the importance of swift police action in maintaining public safety.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Irish Times",
-          "url": "https://www.irishtimes.com/crime-law/2026/09/16/teenager-arrested-after-firearm-and-ammunition-found-in-dublin/"
-        }
-      ],
-      "original_url": "https://www.irishtimes.com/crime-law/2026/09/16/teenager-arrested-after-firearm-and-ammunition-found-in-dublin/",
-      "guid": "https://www.irishtimes.com/crime-law/2026/09/16/teenager-arrested-after-firearm-and-ammunition-found-in-dublin/"
-    },
-    "conversation_11f7d94f": {
-      "id": "conversation_11f7d94f",
-      "title": "Pardoned by Trump and escaping charges at home, ex-Honduran leader\u2019s case shows a nation\u2019s struggle for sovereignty",
-      "category": "Science",
-      "source": "conversation",
-      "time": "2026-09-16T16:35:48",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "https://images.theconversation.com/files/759970/original/file-20260915-50-akwjkd.jpg?ixlib=rb-4.1.1&amp;rect=0%2C85%2C1024%2C512&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "content": "Juan Orlando Hern\u00e1ndez, the former president of Honduras, was pardoned by former U.S. President Donald\u202fTrump and has avoided criminal prosecution both in the United States and in his own country, a development that underscores the difficulties Honduras faces in asserting its sovereignty and building a robust democratic system under the long\u2011standing influence of Washington. [1]\n\nThe case matters because it illustrates how external power dynamics can shape the domestic legal landscape of a sovereign state. When a former head of state escapes accountability, it erodes public confidence in the rule of law and signals that political elites may still be shielded by powerful allies. The situation also raises questions about the extent to which U.S. foreign policy, historically intertwined with Central American politics, can affect the pursuit of justice in partner nations. [1]\n\nHern\u00e1ndez, who led Honduras from 2014 to 2022, faced a series of criminal indictments in the United States on charges related to drug trafficking and money laundering. While those cases were pending, the former president returned to Honduras, where he was also subject to domestic investigations. In a move that drew international attention, Trump granted Hern\u00e1ndez a presidential pardon, effectively nullifying the U.S. charges. Meanwhile, Honduran authorities dropped or postponed their own prosecutions, allowing Hern\u00e1ndez to remain free and untroubled by legal proceedings. [1]\n\nHonduras has a long history of political instability, with frequent coups, corruption scandals, and a heavy reliance on U.S. aid and diplomatic support. The country\u2019s strategic position in Central America and its role as a transit route for narcotics have made it a focal point for U.S. counter\u2011drug initiatives. Over the past decades, U.S. administrations have often intervened in Honduran politics, supporting leaders who align with American interests, sometimes at the expense of local democratic norms. [1]\n\nThe pardon and subsequent legal exoneration of Hern\u00e1ndez highlight the complex relationship between Honduras and the United States. While the U.S. has historically promoted democratic governance and human rights in the region, its strategic priorities\u2014particularly in counter\u2011drug efforts\u2014have at times overridden these principles. The case demonstrates how U.S. influence can create a protective shield for political actors who might otherwise face domestic accountability. [1]\n\nHonduran citizens, civil society groups, and the international community are the primary stakeholders in this scenario. For ordinary Hondurans, the perceived impunity of former leaders can deepen cynicism toward the political system and discourage civic engagement. For the United States, the situation tests the credibility of its commitment to democratic values abroad, especially when its own policies appear to facilitate the escape of alleged criminals. The international community, including regional bodies such as the Organization of American States, watches closely to gauge whether such incidents will affect broader efforts to strengthen governance and rule of law in the region. [1]\n\nThe implications of Hern\u00e1ndez\u2019s escape from legal accountability are far\u2011reaching. It signals a potential erosion of the principle that no individual, regardless of rank, is above the law\u2014a cornerstone of democratic governance. Moreover, it may embolden other political actors in Honduras and neighboring countries to seek similar protections, further weakening institutional checks and balances. The case also raises concerns about the effectiveness of U.S. foreign policy tools that rely on diplomatic leverage rather than judicial cooperation to address transnational crime. [1]\n\nLooking ahead, observers will monitor whether Honduras initiates new legal proceedings against Hern\u00e1ndez or other former officials, and whether the U.S. will revisit its policy on presidential pardons for foreign nationals. The next steps will also involve assessing reforms aimed at insulating the Honduran judiciary from political interference and strengthening mechanisms for international cooperation on criminal matters. The outcome of these developments will be critical for determining whether Honduras can move toward a more accountable and sovereign democratic system.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Conversation",
-          "url": "https://theconversation.com/pardoned-by-trump-and-escaping-charges-at-home-ex-honduran-leaders-case-shows-a-nations-struggle-for-sovereignty-290009"
-        }
-      ],
-      "original_url": "https://theconversation.com/pardoned-by-trump-and-escaping-charges-at-home-ex-honduran-leaders-case-shows-a-nations-struggle-for-sovereignty-290009",
-      "guid": "tag:theconversation.com,2011:article/290009"
-    },
-    "googlenews_c2df5a76": {
-      "id": "googlenews_c2df5a76",
-      "title": "Billionaires Mark Zuckerberg And Jensen Huang Push Back On AI Slowdown Calls - Forbes",
-      "category": "Business",
-      "source": "googlenews",
-      "time": "2026-09-16T16:35:54",
-      "read": "3 min read",
-      "mode": "long",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28149%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27269%27%20cy%3D%27128%27%20r%3D%27140%27%20fill%3D%27hsl%28189%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Mark Zuckerberg and Jensen Huang, two of the most influential figures in technology, have publicly opposed recent calls to slow the pace of artificial\u2011intelligence development. Their joint stance signals a pushback against a growing movement that urges regulators to impose stricter limits on AI research and deployment. [1]\n\nThe debate over whether AI should be slowed has intensified as concerns about safety, ethics, and societal impact grow. Zuckerberg and Huang\u2019s comments come at a time when several high\u2011profile companies and researchers are calling for a pause or more rigorous oversight to prevent unintended consequences. Their opposition underscores the divide between those who see rapid progress as essential and those who argue that unchecked development could pose serious risks. [1]\n\nZuckerberg\u2019s remarks were made during a televised interview with KRON4, where he specifically targeted Anthropic\u2014a startup known for its focus on AI safety\u2014as part of the broader discussion on AI slowdown. He criticized the company\u2019s approach, suggesting that its cautionary stance may hinder progress. [1]\n\nHuang delivered a similarly assertive message at Dreamforce, the annual Salesforce conference, where he declared, \u201cNow we can know everything and do anything.\u201d The statement reflects his confidence in the capabilities of current AI systems and his belief that further restrictions would be unnecessary. [1]\n\nDreamforce, scheduled to take place at San Francisco\u2019s Moscone Center, is expected to attract about 50,000 visitors, making it one of the largest technology conferences in the world. The event provides a platform for industry leaders to showcase new products and discuss emerging trends. [1]\n\nThe pushback from Zuckerberg and Huang highlights the broader tension within the tech community. Some leaders argue that AI\u2019s potential benefits\u2014such as advances in medicine, climate science, and productivity\u2014outweigh the risks, while others call for a pause to address safety concerns. [1]\n\nAI slowdown calls typically arise from fears that rapid deployment of powerful models could lead to misuse, exacerbate inequality, or produce unpredictable outcomes. Proponents of a slowdown argue that more time is needed to develop robust safety protocols and governance frameworks. [no footnote]\n\nConversely, those who oppose a slowdown emphasize the competitive advantage of staying ahead in AI research. They contend that delays could allow other countries or companies to dominate the field, potentially leaving the United States and its allies behind. [no footnote]\n\nStakeholders in this debate include major tech firms such as Meta and Nvidia, which are at the forefront of AI development, as well as smaller startups like Anthropic that prioritize safety. Policymakers, academic researchers, and the public also have a vested interest in determining how AI should be regulated. [no footnote]\n\nThe impact of this debate extends beyond corporate strategy. Public perception of AI\u2019s safety and benefits can influence funding decisions, regulatory priorities, and the direction of future research. The voices of high\u2011profile leaders like Zuckerberg and Huang carry significant weight in shaping these outcomes. [no footnote]\n\nLooking ahead, the conversation around AI slowdown is likely to intensify as new models are released and as governments begin to consider formal regulatory frameworks. The positions taken by Zuckerberg and Huang may shape the arguments presented in upcoming policy discussions. [no footnote]\n\nObservers should watch for forthcoming statements from regulatory bodies, potential legislative proposals, and the next wave of AI breakthroughs, all of which will test the feasibility and desirability of a slowdown approach. The outcome of these developments will determine whether the industry moves toward tighter oversight or continues to prioritize rapid innovation. [no footnote]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPblVWTjFtbV95YmlkOTAwWHBKZjNwNzdYZy1oMFJHVktEWVl6YkJLT3FsMnhtQ0VVbHRnTWY5MElFYjl2aWJfamdYbWZ0eElHZk4xRmhtMWNpQkVGOWlhVGloak5scXV5ZXp3R2Rmb0ZGM0JkNk5HNzlDTHY4clI3ZnhNZDdzVmhZaFZCUzdXS0lkTWU0eWV1VjBCLWtwR1VZUUJhTXJRMGRNZ09yMlNxeWFVR3psNjJFbFBMdXpJamw0a2VXOGc?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPblVWTjFtbV95YmlkOTAwWHBKZjNwNzdYZy1oMFJHVktEWVl6YkJLT3FsMnhtQ0VVbHRnTWY5MElFYjl2aWJfamdYbWZ0eElHZk4xRmhtMWNpQkVGOWlhVGloak5scXV5ZXp3R2Rmb0ZGM0JkNk5HNzlDTHY4clI3ZnhNZDdzVmhZaFZCUzdXS0lkTWU0eWV1VjBCLWtwR1VZUUJhTXJRMGRNZ09yMlNxeWFVR3psNjJFbFBMdXpJamw0a2VXOGc?oc=5",
-      "guid": "CBMixgFBVV95cUxPblVWTjFtbV95YmlkOTAwWHBKZjNwNzdYZy1oMFJHVktEWVl6YkJLT3FsMnhtQ0VVbHRnTWY5MElFYjl2aWJfamdYbWZ0eElHZk4xRmhtMWNpQkVGOWlhVGloak5scXV5ZXp3R2Rmb0ZGM0JkNk5HNzlDTHY4clI3ZnhNZDdzVmhZaFZCUzdXS0lkTWU0eWV1VjBCLWtwR1VZUUJhTXJRMGRNZ09yMlNxeWFVR3psNjJFbFBMdXpJamw0a2VXOGc"
-    },
-    "bbc_2557d386": {
-      "id": "bbc_2557d386",
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "category": "World",
-      "source": "bbc",
-      "time": "2026-09-16T16:36:26",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e43/live/ff225e50-b1b7-11f1-b1d1-571ed4d7ff2c.jpg",
-      "content": "Twenty-one people were killed when a war\u2011damaged building in Gaza collapsed, including eight children, rescuers have reported. Dozens more are missing beneath the rubble of the structure, which had housed roughly ten families before the collapse. The building had been struck by an Israeli air raid last year, and the damage it sustained eventually led to its sudden failure. [1]\n\nThe incident underscores the continuing humanitarian toll of the Gaza conflict, where civilian structures are repeatedly targeted and the population faces daily threats to life and safety. The loss of life and the uncertainty surrounding the missing persons highlight the urgent need for effective rescue operations and protective measures for residents in conflict zones. [1]\n\nAccording to rescue teams on the scene, the building was hit by an Israeli strike in the previous year, leaving it structurally compromised. The collapse occurred recently, killing 21 people, eight of whom were children. The rubble now conceals dozens of individuals who are believed to be trapped inside, and the families who once lived there are now left without homes or loved ones. [1]\n\nGaza has endured a prolonged period of hostilities, during which Israeli air strikes have frequently targeted infrastructure and residential areas. Buildings that survive initial blasts often suffer from weakened foundations and compromised structural integrity, making them vulnerable to collapse under subsequent stress or even normal use. [1]\n\nThe collapse itself was triggered by the cumulative damage inflicted by the earlier strike. When a building\u2019s load\u2011bearing elements are weakened, even minor disturbances\u2014such as vibrations from nearby activity or the weight of occupants\u2014can cause a sudden failure. The resulting debris can bury those inside, complicating rescue efforts. [1]\n\nRescue teams have been working around the clock to clear the rubble and locate survivors. They report that the search is hampered by the depth and density of the debris, as well as the risk of further collapse. The teams are coordinating with local authorities and humanitarian organizations to provide medical care to the injured and to account for the missing. [1]\n\nThe families who once lived in the building are among the most directly affected stakeholders. Their loss of homes, loved ones, and community ties compounds the broader suffering experienced by Gaza\u2019s civilian population. Israeli forces, responsible for the initial strike, and international humanitarian groups are also stakeholders, as their actions and responses shape the trajectory of rescue and relief operations. [1]\n\nThe human impact is profound: the death toll includes children, amplifying the tragedy for the community. The missing persons add a layer of uncertainty and fear, as families await news of their relatives. The psychological trauma inflicted on survivors and witnesses is likely to have long\u2011term effects on the local population. [1]\n\nThe incident raises questions about the safety of civilian structures in conflict zones and the responsibilities of parties that conduct military operations. It also highlights the challenges of conducting rescue operations in densely populated, war\u2011torn areas where buildings may be structurally unsound. [1]\n\nLooking ahead, the focus will remain on the ongoing search for the missing, the medical treatment of the injured, and the assessment of the building\u2019s structural damage. Authorities and humanitarian agencies will need to coordinate closely to ensure that rescue efforts are efficient and that survivors receive the necessary support. The outcome of these efforts will likely influence future policies on building safety and civilian protection in conflict zones. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o#0"
-    },
     "googlenews_2d8cc6d2": {
       "id": "googlenews_2d8cc6d2",
       "title": "F1 announces 2027 calendar - with Monaco among 10 sprint races - Motorsport.com",
@@ -15999,32 +15879,154 @@
       ],
       "original_url": "https://www.cjr.org/the-interview/indias-crackdown-on-the-press-fatima-khan-new-delhi-press-freedom-diminish-supreme-court-surya-kant-cockroach-janta-godi-media.php",
       "guid": "https://www.cjr.org/?p=123851"
+    },
+    "snopes_b0bdaf4d": {
+      "id": "snopes_b0bdaf4d",
+      "title": "Is Nicki Minaj a U.S. citizen? What we know about her immigration status",
+      "category": "News",
+      "source": "snopes",
+      "time": "2026-10-28T22:25:44",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/10/nicki_minaj.png",
+      "content": "Nicki\u202fMinaj\u2019s recent call for her followers to back Republican candidates in the midterm elections has sparked a debate over whether the rapper is even eligible to vote. Some users on social media argued that Minaj cannot legally cast a ballot because she is not a U.S. citizen. [1]\n\nThe controversy highlights how celebrity political endorsements can become flashpoints when the personal legal status of the endorser is unclear. It also raises questions about the responsibilities of public figures who influence voter behavior. [1]\n\nIn the weeks leading up to the midterms, Minaj posted a message on her social\u2011media accounts urging fans to support Republican candidates. The post was widely shared and prompted comments from a segment of users who claimed that Minaj\u2019s lack of U.S. citizenship would make her ineligible to vote. [1]\n\nU.S. law requires voters in federal elections to be citizens. Non\u2011citizens, including permanent residents, are barred from casting ballots. This legal requirement is the basis for the claim that Minaj could not legally vote if she is not a citizen. [general context]\n\nCelebrity endorsements can shape voter turnout, especially among younger demographics who may look to popular figures for guidance. When a celebrity\u2019s legal status is questioned, the influence of their endorsement can be called into question. [general context]\n\nThe debate involves several stakeholders: Minaj herself, her fan base, the Republican and Democratic parties, and voters who rely on celebrity voices to inform their choices. Each group has a different interest in the outcome of the discussion. [general context]\n\nIf Minaj were indeed a non\u2011citizen, her endorsement would be a legal misstep, but the claim remains unverified. The available reporting does not specify her citizenship status. [1]\n\nThe situation underscores the need for public figures to clarify their eligibility when engaging in political advocacy. Without clear evidence, speculation can undermine the credibility of both the endorser and the political message. [analysis]\n\nNo official statements have been released regarding Minaj\u2019s citizenship status, and no legal action has been announced. The next steps may involve her management team or a public record search to confirm her eligibility. [analysis]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Snopes",
+          "url": "https://www.snopes.com/news/2026/10/28/nicki-minaj-us-citizen/"
+        }
+      ],
+      "original_url": "https://www.snopes.com/news/2026/10/28/nicki-minaj-us-citizen/",
+      "guid": "https://www.snopes.com/news/2026/10/28/nicki-minaj-us-citizen/"
+    },
+    "economist_c16e74fa": {
+      "id": "economist_c16e74fa",
+      "title": "Donald Trump may love the Middle East to death",
+      "category": "World",
+      "source": "economist",
+      "time": "2026-10-28T22:25:48",
+      "read": "4 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "Donald Trump\u2019s public statements and policy moves have repeatedly suggested a deep interest in the Middle East, a region that has long been a focal point of U.S. foreign policy. In a recent commentary, the author notes that \u201cDonald Trump may love the Middle East to death\u201d and that \u201cthe folly of wanting a Middle East run by nationalist strongmen and made rich by global commerce\u201d is a central concern. [1] The piece argues that the combination of nationalist leadership and an economy driven by global trade presents a problematic vision for the region\u2019s future.\n\nThe issue matters because the United States remains a key diplomatic, military, and economic partner in the Middle East. How U.S. leaders view the region shapes aid, security cooperation, and trade agreements, while the rise of nationalist leaders and the integration of global commerce influence regional stability and prosperity. Understanding Trump\u2019s stance and the critique of nationalist strongmen offers insight into potential shifts in U.S. engagement and the broader geopolitical landscape.\n\nAccording to the commentary, Trump\u2019s apparent affection for the Middle East is evident in his past actions, such as the historic Abraham Accords that normalized relations between Israel and several Arab states. The author also highlights the criticism that a Middle East dominated by nationalist strongmen\u2014leaders who prioritize national sovereignty and often adopt hardline stances\u2014paired with an economy driven by global commerce, is fraught with challenges. [1] These observations frame the debate over the region\u2019s political and economic direction.\n\nThe United States has long pursued a policy of balancing engagement with restraint in the Middle East. Historically, U.S. administrations have supported allies like Israel and Saudi Arabia while attempting to mediate conflicts in Iraq, Syria, and Yemen. Trump\u2019s approach, characterized by a willingness to break with traditional diplomatic norms, has altered the dynamics of U.S. involvement in the region, as seen in his decision to move the U.S. embassy to Jerusalem and his outreach to Iran\u2019s leadership.\n\nNationalist strongmen have become prominent figures across the Middle East. Leaders such as Israeli Prime Minister Benjamin Netanyahu, Turkish President Recep Tayyip Erdo\u011fan, and Saudi Crown Prince Mohammed bin Salman have pursued policies that emphasize national identity, sovereignty, and, at times, authoritarian control. These leaders often resist external influence and prioritize domestic consolidation of power, which can lead to tensions with neighboring states and international partners.\n\nGlobal commerce remains a cornerstone of the Middle East\u2019s economy. The region\u2019s vast oil reserves have historically attracted foreign investment and shaped international trade routes. In recent years, diversification efforts\u2014such as Saudi Arabia\u2019s Vision 2030 and the United Arab Emirates\u2019 focus on technology and tourism\u2014illustrate attempts to reduce dependence on hydrocarbons and integrate more fully into the global economy. These economic strategies often intersect with nationalist agendas, creating a complex interplay between domestic politics and international markets.\n\nStakeholders in this evolving landscape include the United States, which seeks to maintain influence and secure strategic interests; Middle Eastern governments, which navigate internal politics and external pressures; nationalist leaders, who wield significant domestic power; and global investors, who are drawn to the region\u2019s resource wealth and emerging markets. Each group\u2019s priorities can align or clash, shaping policy outcomes and regional stability.\n\nThe potential impact of Trump\u2019s perceived fondness for the Middle East could manifest in increased diplomatic engagement, expanded military cooperation, or new trade initiatives. However, the presence of nationalist strongmen may complicate these efforts, as such leaders often resist external interference and prioritize nationalistic narratives. Simultaneously, the integration of global commerce offers opportunities for economic growth but also exposes the region to market volatility and geopolitical competition.\n\nAnalyzing the commentary\u2019s critique, it becomes clear that the combination of nationalist leadership and global commerce can create a volatile mix. Nationalist strongmen may use economic gains to consolidate power, potentially at the expense of democratic institutions and regional cooperation. Conversely, the pursuit of global commerce can foster interdependence that mitigates conflict but also invites external actors to influence domestic affairs.\n\nThe implications of this dynamic suggest a possible shift in alliances and economic integration. If nationalist leaders successfully harness global commerce, they may strengthen their domestic legitimacy and alter traditional power balances. However, this could also lead to increased regional competition, especially if economic disparities widen or if external powers intervene to protect their interests.\n\nLooking ahead, observers should monitor upcoming U.S. policy announcements regarding the Middle East, particularly any new trade agreements or security pacts. Additionally, forthcoming elections and political developments in key Middle Eastern countries will reveal how nationalist leaders navigate the tension between domestic authority and global economic participation. The outcomes of these events will shape the region\u2019s trajectory and the United States\u2019 role within it.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Economist",
+          "url": "https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death"
+        }
+      ],
+      "original_url": "https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death",
+      "guid": "e791b133-5567-4bb7-ba2a-c8986a74f727"
+    },
+    "guardian_e5d81eb3": {
+      "id": "guardian_e5d81eb3",
+      "title": "Nigel Farage skips budget in Commons over seating \u2018altercation\u2019 concerns",
+      "category": "Politics",
+      "source": "guardian",
+      "time": "2026-10-28T22:25:52",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/d1d3f335ec36d7cf55e9647aee896c6f56281d4d/1083_123_3809_3047/master/3809.jpg?width=140&quality=85&auto=format&fit=max&s=c7c1696b369c33246a1b522ca8b5a35d",
+      "content": "Nigel Farage, the leader of Reform\u202fUK, did not attend the Chancellor\u2019s first budget in the House of Commons, saying he feared a \u201cphysical altercation\u201d with another MP over seating arrangements. [1]\n\nThe incident has drawn attention to the party\u2019s stance on foreign aid and cryptocurrency taxation, as Farage publicly expressed surprise at the \u00a310\u202fbillion earmarked for Ukraine and reiterated Reform\u202fUK\u2019s push to cut taxes for crypto investors. [1]\n\nDuring the budget session, the Chancellor presented the first fiscal plan of the year, which included a \u00a310\u202fbillion pledge to support Ukraine. Farage was absent from the chamber and later held a press conference to explain his absence. [1]\n\nIn that briefing, he said he was \u201cshocked\u201d by the allocation to Ukraine and doubled down on his party\u2019s policy to reduce tax on cryptocurrency transactions. [1]\n\nIn the United Kingdom, the budget is traditionally delivered by the Chancellor in the House of Commons, where MPs debate and vote on fiscal measures.\n\nSeating arrangements in the Commons follow established protocols, but disputes over where MPs sit have occasionally led to heated exchanges.\n\nReform\u202fUK, founded in 2021, positions itself as a right\u2011leaning party focused on reducing government spending and promoting individual liberty.\n\nThe party has long advocated for lower taxes on cryptocurrency transactions, arguing that high tax rates stifle innovation and investment.\n\nMPs across the political spectrum, constituents of Reform\u202fUK, and the broader UK public are affected by the budget\u2019s allocations and the party\u2019s policy positions.\n\nThe \u00a310\u202fbillion pledge to Ukraine reflects the UK government\u2019s commitment to international aid and defense support, a point of contention for some opposition parties.\n\nFarage\u2019s absence and public statements may influence perceptions of Reform\u202fUK\u2019s priorities and its willingness to engage in parliamentary debate.\n\nThe party\u2019s stance on crypto taxation could shape future legislative proposals and affect the UK\u2019s position in the global crypto market.\n\nThe next parliamentary session will see the formal vote on the budget, and Reform\u202fUK may introduce its own amendments or policy proposals, particularly regarding crypto taxation.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/28/nigel-farage-reform-uk-budget-commons-seating-row-ukraine-crypto"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/uk-news/2026/oct/28/nigel-farage-reform-uk-budget-commons-seating-row-ukraine-crypto",
+      "guid": "https://www.theguardian.com/uk-news/2026/oct/28/nigel-farage-reform-uk-budget-commons-seating-row-ukraine-crypto"
+    },
+    "guardian_ef655072": {
+      "id": "guardian_ef655072",
+      "title": "Perimenopause is everywhere. How do you know if you\u2019re in it? - video",
+      "category": "Science",
+      "source": "guardian",
+      "time": "2026-10-28T22:26:14",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/fe27c5981dc3cb88af36503d0f6724e622bdb1e2/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4e89f78d5b31b10a0104dff21b30d5c8",
+      "content": "Perimenopause has become a hot topic, with celebrities sharing their experiences and doctors offering tips and advice online. Yet, alongside the growing awareness, a rising number of women are encountering misinformation about treatments such as hormone\u2011replacement therapy (HRT). [1]\n\nThe surge in public discussion matters because the information women receive can shape their health choices. When guidance is unclear or inaccurate, it can lead to unnecessary anxiety or the use of ineffective or harmful therapies. [1]\n\nThe video in question follows journalist Madeleine Finlay as she interviews two experts. Dr\u202fPaula Briggs, a consultant in sexual and reproductive health, explains why experts have raised an alarm about misinformation. Science correspondent Nicola\u202fDavis provides the facts on symptoms, tests and treatments. [1]\n\nDr\u202fBriggs points out that the proliferation of online content has made it easier for myths to spread, especially regarding HRT. She stresses that professional guidance is essential to navigate the complex landscape of perimenopausal care. [1]\n\nDavis outlines the core medical facts that underpin treatment decisions. She discusses the range of symptoms women may experience, the diagnostic tests that can confirm perimenopause, and the evidence\u2011based options for managing symptoms. [1]\n\nPerimenopause is the transitional phase before menopause, during which a woman\u2019s ovaries gradually produce less estrogen. This hormonal shift can last several years and marks the beginning of the final stage of reproductive life. (General context)\n\nWomen in perimenopause often report a variety of symptoms, from hot flashes and night sweats to mood changes and sleep disturbances. Doctors typically use a combination of medical history, symptom diaries, and blood tests to assess hormone levels and confirm the diagnosis. (General context)\n\nTreatment options vary. While HRT can effectively alleviate many symptoms, it is not suitable for everyone. Alternatives such as lifestyle changes, non\u2011hormonal medications, and complementary therapies are also discussed in clinical settings. (General context)\n\nThe primary stakeholders in this conversation are women experiencing perimenopause, healthcare providers who diagnose and treat the condition, and the pharmaceutical industry that develops HRT products. (General context)\n\nWhen misinformation spreads, women may either avoid beneficial treatments or pursue unproven remedies that carry risks. This can lead to prolonged discomfort and a loss of trust in medical advice. (General context)\n\nThe situation underscores the need for clear, evidence\u2011based public health messaging. Media outlets, professional societies, and patient advocacy groups all have a role in ensuring that accurate information reaches those who need it. (Analysis)\n\nLooking ahead, clinicians and researchers are working on refining guidelines for diagnosing and treating perimenopause. Upcoming studies and updated recommendations will likely shape how women and doctors approach this common yet often misunderstood phase of life. (What to watch next)",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/science/video/2026/oct/27/perimenopause-is-everywhere-how-do-you-know-if-youre-in-it-video"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/science/video/2026/oct/27/perimenopause-is-everywhere-how-do-you-know-if-youre-in-it-video",
+      "guid": "https://www.theguardian.com/science/video/2026/oct/27/perimenopause-is-everywhere-how-do-you-know-if-youre-in-it-video"
+    },
+    "bbc_96413248": {
+      "id": "bbc_96413248",
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "category": "World",
+      "source": "bbc",
+      "time": "2026-10-28T22:26:18",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2148/live/b9f2de90-d31d-11f1-b441-2b33b063138f.jpg",
+      "content": "Survivors of a train crash in Toledo province, Spain, described the incident as shocking, panicked, and angry. [1]\n\nThe accident, which occurred on a Wednesday, has drawn attention to rail safety and the authorities\u2019 response to such incidents.\n\nThe crash took place in Toledo province, a region located south of Madrid. Survivors reported feeling shocked by the sudden event, panicked as the train came to an abrupt halt, and angry at the circumstances that led to the disaster.\n\nSpain operates one of the densest rail networks in Europe, with high\u2011speed lines connecting major cities and regional services serving smaller towns. The country\u2019s rail system is governed by stringent safety regulations that include advanced signaling, speed limits, and emergency protocols designed to prevent accidents.\n\nTrain operators are required to maintain rigorous maintenance schedules and to train staff in emergency response. Passengers are typically briefed on safety procedures before departure, and emergency exits are clearly marked throughout the carriages.\n\nThe crash has affected a range of stakeholders: passengers who were on board, the train operator responsible for the service, local authorities who manage emergency response, and the families of those who were injured or lost. The incident has disrupted travel plans and caused emotional distress among those involved.\n\nThe event is likely to prompt an investigation by national rail safety regulators and local law enforcement. The train operator may issue statements regarding the cause of the crash and the measures it will take to prevent future incidents.\n\nThe accident underscores the importance of continuous oversight of rail safety and transparent communication with the public during emergencies. It also highlights the need for ongoing investment in infrastructure and staff training to maintain high safety standards.\n\nAuthorities are expected to release preliminary findings in the coming days, and the train operator is likely to provide updates on service restoration and support for affected passengers. The public will be watching for the official investigation report and any policy changes that may result from this tragedy.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o#0"
+    },
+    "npr_f5cbfc20": {
+      "id": "npr_f5cbfc20",
+      "title": "Trump administration wants to remove regulations on a super planet-heating gas",
+      "category": "News",
+      "source": "npr",
+      "time": "2026-10-28T22:26:48",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5751x3235+0+300/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2Ff8%2F279a0562421d99fc8fa1bcc883cb%2Fap22314703965213.jpg",
+      "content": "The Trump administration has announced plans to roll back a Biden\u2011era rule that aimed to cut methane emissions from the oil and gas sector. [1]\n\nThe move could undermine progress on climate targets and affect the industry\u2019s compliance costs and environmental impact. [1]\n\nIn a recent statement, the administration signaled its intent to remove the regulation, which would have required oil and gas operators to reduce methane leaks. [1] The rule was part of the Biden administration\u2019s broader climate strategy. [1]\n\nMethane is a potent greenhouse gas, roughly 28 times more effective than carbon dioxide over a 100\u2011year period. The oil and gas industry is a major source of methane emissions, and the rule was designed to address this by setting limits and requiring monitoring.\n\nOil and gas companies would face fewer regulatory burdens if the rule is removed, while environmental groups argue the regulation is essential for meeting climate goals.\n\nRemoving the rule could lead to higher methane emissions, potentially slowing progress toward national and international climate commitments.\n\nThe rollback could signal a shift in federal climate policy and affect investor confidence in clean energy initiatives.\n\nThe administration will likely formalize the change in upcoming regulatory filings, and the EPA may issue a notice of proposed rulemaking. Stakeholders will monitor the timeline and potential legal challenges.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NPR",
+          "url": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane"
+        }
+      ],
+      "original_url": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
+      "guid": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane"
     }
   },
   "featured": {
-    "hero": "googlenews_8b07cb5b",
+    "hero": "snopes_b0bdaf4d",
     "stack": [
-      "conversation_7f4fd8f9",
-      "japantimes_654f482e",
-      "bbc_41bc3761"
+      "economist_c16e74fa",
+      "guardian_e5d81eb3",
+      "guardian_ef655072"
     ],
     "latest": [
+      "guardian_ef655072",
+      "guardian_e5d81eb3",
+      "economist_c16e74fa",
+      "googlenews_8b07cb5b",
       "bbc_41bc3761",
-      "japantimes_654f482e",
-      "conversation_7f4fd8f9",
-      "reuters_510ded18",
-      "snopes_8b1852cf",
-      "berkeleyuniv_0068e637"
+      "japantimes_654f482e"
     ],
     "world": [
+      "economist_c16e74fa",
+      "bbc_96413248",
       "japantimes_654f482e",
-      "reuters_510ded18",
-      "bangkokpost_8e9945bd",
-      "straitstimes_e3b55f39"
+      "reuters_510ded18"
     ]
   },
   "categoryIndex": {
     "News": [
+      "npr_f5cbfc20",
+      "snopes_8b1852cf",
       "cjr_66bd2eba",
       "ap_36c1ccbc",
       "pbs_2a1d2897",
@@ -16032,11 +16034,11 @@
       "npr_295f07fc",
       "ap_e85386ad",
       "ap_5526368e",
-      "pbs_39d7fba5",
-      "fullfact_673b756c",
-      "npr_81038764"
+      "pbs_39d7fba5"
     ],
     "World": [
+      "bbc_96413248",
+      "reuters_510ded18",
       "bangkokpost_8e9945bd",
       "irishtimes_9b8f3450",
       "dw_ae9baffc",
@@ -16044,9 +16046,7 @@
       "abcau_13a21c1b",
       "aljazeera_bb375e04",
       "aljazeera_5eaae997",
-      "bbc_7d42a630",
-      "dw_54eec86e",
-      "france24_0bf1fd14"
+      "bbc_7d42a630"
     ],
     "Politics": [
       "guardian_de65d08b",
@@ -16085,6 +16085,8 @@
       "guardian_acb816ac"
     ],
     "Science": [
+      "conversation_7f4fd8f9",
+      "berkeleyuniv_0068e637",
       "nasa_26d5647c",
       "conversation_59a2aa24",
       "nature_c0bbf03e",
@@ -16092,9 +16094,7 @@
       "npr_36ad96e0",
       "npr_6416e88f",
       "nature_a6b765ff",
-      "conversation_fa0ceb4c",
-      "guardian_93b81462",
-      "conversation_6d9eac8a"
+      "conversation_fa0ceb4c"
     ],
     "Business": [
       "googlenews_a2b20540",
@@ -16109,7 +16109,7 @@
       "googlenews_24206602"
     ]
   },
-  "breaking": "Takaichi and Merz pledge to boost economic security and tech cooperation",
+  "breaking": "Donald Trump may love the Middle East to death",
   "events": [
     {
       "title": "Fed meeting live updates: No hike expected, but all eyes on Warsh for what's nex",
@@ -16120,17 +16120,12 @@
       "title": "Localized ceasefire brokered by Melania Trump starts as Nordic leaders speak to ",
       "date": "2026-10-27",
       "source": "Verum News"
-    },
-    {
-      "title": "Shabana Mahmood launches review into murder of student Henry Nowak",
-      "date": "2026-10-26",
-      "source": "Verum News"
     }
   ],
   "mostRead": [
     "S&P 500 posts back-to-back winning days as chips rally and oil prices slide: Liv",
     "Push for Thai storage of CCTV footage",
-    "How religion collided with race and politics in Brazil\u2019s presidential election",
-    "Fed meeting live updates: No hike expected, but all eyes on Warsh for what's nex"
+    "Donald Trump may love the Middle East to death",
+    "Is Nicki Minaj a U.S. citizen? What we know about her immigration status"
   ]
 }
