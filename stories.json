@@ -1,125 +1,5 @@
 {
   "stories": {
-    "googlenews_814a024a": {
-      "id": "googlenews_814a024a",
-      "title": "Crypto industry reacts after Clarity Act fails Senate vote - CoinDesk",
-      "category": "Business",
-      "source": "googlenews",
-      "time": "2026-09-16T04:21:10",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Parliament-Ottawa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "content": "The United States Senate failed to advance the Clarity Act, a proposed piece of legislation aimed at regulating the cryptocurrency industry, in a cloture vote that ended debate on the bill and effectively blocked it from moving forward in the chamber. The vote\u2019s defeat represents a significant setback for the sector, which had been awaiting clearer federal guidance on digital asset issuers and exchanges.1\n\nThe outcome means that the Clarity Act will not be considered for a full vote in the Senate, leaving the regulatory framework for cryptocurrencies in its current state of uncertainty. The loss has prompted concern among crypto firms, investors, and industry advocates who had seen the bill as a step toward a more predictable legal environment.1\n\nThe cloture vote, which is required to end debate on a bill and bring it to a final vote, fell short of the threshold needed to proceed. The Clarity Act had been introduced to clarify the roles of the Securities and Exchange Commission and other agencies in overseeing digital asset transactions, and its failure effectively stalls that effort.1\n\nThe bill was first introduced in the early part of the legislative session, garnering support from a mix of lawmakers who viewed it as a necessary measure to protect consumers and ensure market integrity. However, it faced opposition from senators who argued that it was too prescriptive and could stifle innovation in the rapidly evolving crypto space.1\n\nA cloture vote requires a supermajority\u2014typically 60 senators\u2014to end debate. The failure of the Clarity Act indicates that a majority of senators voted against granting that supermajority, reflecting a lack of bipartisan consensus on the approach to crypto regulation.1\n\nIn the wake of the vote, representatives from exchanges, blockchain startups, and industry groups issued statements expressing disappointment and calling for continued dialogue with lawmakers to address the sector\u2019s regulatory needs.1\n\nThe bill\u2019s collapse leaves the industry in a precarious position, as the absence of a unified federal framework means that firms must navigate a patchwork of state and federal rules, potentially increasing compliance costs and market uncertainty.1\n\nStakeholders most directly affected include cryptocurrency exchanges, token issuers, institutional investors, and the broader financial technology ecosystem. The Securities and Exchange Commission may still pursue other regulatory actions, but the lack of a clear legislative path complicates long\u2011term planning for these entities.1\n\nCompeting interests in the debate have centered on balancing consumer protection with fostering innovation. Some legislators argue that the Clarity Act\u2019s provisions could be too restrictive, while others maintain that robust regulation is essential to prevent fraud and protect investors.1\n\nThe failure of the Clarity Act suggests that bipartisan support for a comprehensive crypto bill remains elusive, and it underscores the challenges of legislating in a sector that evolves faster than traditional regulatory processes.1\n\nLooking ahead, lawmakers may consider reintroducing the bill in a revised form, or alternative proposals could emerge to address the regulatory gaps. The Securities and Exchange Commission and state regulators are likely to continue their oversight activities, and the industry will be watching for any new legislative or regulatory developments that could shape the future of digital asset markets.1",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlM2YVQtX2p0b0tVNzhmcWx1enlLb2RrLU1IUHlyS2hHRkJYSVJKY3kzbGh4X3htYzVzQVlpWmVEOE5nNTVJZF9Hcml5SWJiNmUxVERWWEM1ZzVLYi1TWHEyaFFGTUp3NHBlNXpZbUI1M3VadHFfdUx0RGFyc3lBS0VhcEtRTHdqZTk4NzhUNzVEN0ZMV01wdUJPaDBrSEVsTlFhSnc0a012aVJBSGNjb2JQUjg?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlM2YVQtX2p0b0tVNzhmcWx1enlLb2RrLU1IUHlyS2hHRkJYSVJKY3kzbGh4X3htYzVzQVlpWmVEOE5nNTVJZF9Hcml5SWJiNmUxVERWWEM1ZzVLYi1TWHEyaFFGTUp3NHBlNXpZbUI1M3VadHFfdUx0RGFyc3lBS0VhcEtRTHdqZTk4NzhUNzVEN0ZMV01wdUJPaDBrSEVsTlFhSnc0a012aVJBSGNjb2JQUjg?oc=5",
-      "guid": "CBMitAFBVV95cUxPNlM2YVQtX2p0b0tVNzhmcWx1enlLb2RrLU1IUHlyS2hHRkJYSVJKY3kzbGh4X3htYzVzQVlpWmVEOE5nNTVJZF9Hcml5SWJiNmUxVERWWEM1ZzVLYi1TWHEyaFFGTUp3NHBlNXpZbUI1M3VadHFfdUx0RGFyc3lBS0VhcEtRTHdqZTk4NzhUNzVEN0ZMV01wdUJPaDBrSEVsTlFhSnc0a012aVJBSGNjb2JQUjg"
-    },
-    "csmonitor_3f8e3c7c": {
-      "id": "csmonitor_3f8e3c7c",
-      "title": "A traffic stop could lead to much more, as ICE deputizes local law enforcement",
-      "category": "World",
-      "source": "csmonitor",
-      "time": "2026-09-16T04:21:30",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://images.csmonitor.com/csm/2026/09/NOKTROOPERS_lede.jpg?alias=standard_900x600",
-      "content": "ICE has broadened its reach by deputizing state and local law\u2011enforcement officers, a move that could turn a routine traffic stop into a trigger for immigration enforcement actions.\u202f[1]\n\nThe shift raises questions about the evolving role of local police in federal immigration enforcement and the potential impact on communities that rely on routine traffic stops for safety and order.\u202f[1]\n\nAccording to the reporting, the U.S. Immigration and Customs Enforcement (ICE) agency has entered into agreements with state and local law\u2011enforcement agencies that grant deputized officers federal authority to enforce immigration laws.\u202f[1]\n\nThese agreements specifically allow deputized officers to conduct immigration checks during traffic stops, giving them the power to detain or arrest individuals suspected of violating immigration statutes.\u202f[1]\n\nICE is a federal agency within the Department of Homeland Security that is tasked with enforcing immigration laws, investigating immigration fraud, and managing the removal of individuals who are unlawful immigrants.\n\nDeputization is a legal mechanism that temporarily extends federal authority to local officers, enabling them to act as ICE agents while retaining their local jurisdiction and responsibilities.\n\nHistorically, ICE has relied on local partners to conduct enforcement operations, especially in areas where federal resources are limited. The use of deputized officers has been a part of that partnership model for several years.\n\nLocal police departments, state law\u2011enforcement agencies, and federal immigration officials are the primary stakeholders in these agreements, each with distinct roles and responsibilities.\n\nImmigrant communities and civil\u2011rights organizations are also key stakeholders, concerned about how the expanded authority may affect their safety and civil liberties.\n\nThe expanded deputization could lead to more frequent immigration checks during routine traffic stops, potentially increasing the number of detentions and arrests in communities that have historically seen limited federal immigration activity.\n\nFrom an analytical perspective, the agreements may alter the standard procedures for traffic stops, requiring officers to incorporate immigration status checks into their routine protocols. This could also affect the allocation of resources and training for local officers.\n\nLooking ahead, the next steps include monitoring how local agencies implement the deputization agreements, any legal challenges that arise, and the potential for policy reviews by federal and state authorities.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Christian Science Monitor",
-          "url": "https://www.csmonitor.com/USA/2026/0915/immigration-ice-trump-oklahoma?icid=rss"
-        }
-      ],
-      "original_url": "https://www.csmonitor.com/USA/2026/0915/immigration-ice-trump-oklahoma?icid=rss",
-      "guid": "175f48c99fac49b51be59dc72f776f07"
-    },
-    "dw_fc09d97c": {
-      "id": "dw_fc09d97c",
-      "title": "Supporting acts pull out of Ed Sheeran's tour over dropping Macklemore",
-      "category": "World",
-      "source": "dw",
-      "time": "2026-09-16T04:23:42",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://static.dw.com/image/77941028_6.jpg",
-      "content": "Macklemore was dropped from Ed\u202fSheeran\u2019s tour, and several supporting acts have announced they will no longer perform on the tour.\u202f[1]\n\nThe move has sparked debate about the intersection of politics and popular music, as the decision to remove a headline act over a political stance raises questions about artistic freedom, audience expectations, and the role of promoters in shaping touring lineups.\u202f[1]\n\nAccording to reports, Macklemore was dropped because of his pro\u2011Palestinian stance, amid accusations that his comments were antisemitic.\u202f[1] Sheeran said the removal was not his decision but that of the tour\u2019s promoters.\u202f[1]\n\nIn response, several supporting acts have announced they will pull out of the tour, citing disagreement with the decision.\u202f[1]\n\nEd\u202fSheeran\u2019s tours are among the largest in the world, drawing millions of fans across continents. The structure of a major tour typically involves a headline performer, a set of supporting acts, and a team of promoters who handle logistics, scheduling, and contractual arrangements.\n\nMacklemore, whose real name is Ben\u202fHaggerty, has built a career as a rapper and activist. He has been outspoken on a range of social issues, including his support for Palestinian rights, which has drawn both praise and criticism.\n\nAccusations of antisemitism in the context of the pro\u2011Palestinian debate have surfaced in various public forums, with critics arguing that certain statements can be interpreted as hostile toward Jewish people. The specific allegations against Macklemore were not detailed in the reports.\n\nThe stakeholders in this situation include Ed\u202fSheeran, who is the headlining artist; Macklemore, the dropped act; the supporting acts who have withdrawn; the tour\u2019s promoters, who made the booking decision; fans, who may be disappointed or outraged; and sponsors and venues, who may face reputational or financial consequences.\n\nFans of Ed\u202fSheeran and Macklemore may feel a sense of loss or betrayal, especially if they purchased tickets in anticipation of seeing both performers. The withdrawal of supporting acts could also affect the overall concert experience and potentially reduce ticket sales.\n\nFor the promoters, the decision to drop an artist can carry legal and financial risks, including breach of contract claims from the artist or their management, as well as potential backlash from the public and media.\n\nThis episode illustrates how political positions can influence",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Deutsche Welle",
-          "url": "https://www.dw.com/en/supporting-acts-pull-out-of-ed-sheeran-s-tour-over-dropping-macklemore/a-79284880?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "original_url": "https://www.dw.com/en/supporting-acts-pull-out-of-ed-sheeran-s-tour-over-dropping-macklemore/a-79284880?maca=en-rss-en-all-1573-rdf",
-      "guid": "https://www.dw.com/en/supporting-acts-pull-out-of-ed-sheeran-s-tour-over-dropping-macklemore/a-79284880?maca=en-rss-en-all-1573-rdf"
-    },
-    "googlenews_dedbb222": {
-      "id": "googlenews_dedbb222",
-      "title": "Shohei Ohtani takes first swings since landing on IL, Dodgers still hopeful he can return before playoffs - Yahoo Sports",
-      "category": "Sports",
-      "source": "googlenews",
-      "time": "2026-09-16T11:15:51",
-      "read": "3 min read",
-      "mode": "long",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dodgers_at_Nationals_%2853677192000%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "content": "Shohei Ohtani took his first swings since joining the injured list, a move that has reignited hopes that the Los\u202fAngeles Dodgers could see him back on the field before the postseason begins. The two\u2011way star\u2019s return would add both pitching and hitting firepower to a roster already brimming with talent. [1]\n\nThe Dodgers\u2019 playoff ambitions hinge on the health of their star player. A return from injury would give the team a dual threat that could tilt the balance in tight games, while a prolonged absence would force the club to adjust its lineup and pitching rotation. The organization\u2019s optimism about Ohtani\u2019s recovery underscores the importance of his role in the club\u2019s postseason strategy. [1]\n\nDuring a recent practice session, Ohtani stepped up to the tee and swung for the first time since he was placed on the injured list. The sight of the Japanese star in action, even in a limited capacity, was a significant moment for the Dodgers\u2019 coaching staff and fans alike. [1]\n\nOhtani has publicly stated that he wants to keep pitching, a priority that reflects his unique position as one of the few players in Major League Baseball who regularly contributes both on the mound and at the plate. His determination to stay on the mound is a key factor in the team\u2019s planning for the remainder of the season. [1]\n\nThe Dodgers\u2019 front office remains hopeful that Ohtani can return before the playoffs, a timeline that would allow him to contribute to the team\u2019s postseason push. The organization\u2019s confidence is rooted in the player\u2019s recent progress and the medical team's assessment of his recovery trajectory. [1]\n\nHowever, the star\u2019s body has raised concerns that may force the Dodgers to rethink their approach. The team\u2019s medical staff and coaching staff are monitoring his physical condition closely, and any setbacks could alter the club\u2019s roster decisions and game plans. [1]\n\nIn addition to his pitching ambitions, Ohtani has begun a hitting progression that suggests a return to the lineup is still within reach. The player\u2019s recent swings indicate that he is regaining his offensive form, which is crucial for a team that relies on his power and versatility. [1]\n\nYet, the situation remains fluid. Ohtani\u2019s recent reversal in his status has shattered earlier expectations about his playoff future, leaving the Dodgers and their supporters uncertain about the timeline for his return. The shift in his status underscores the unpredictable nature of player health and recovery. [1]\n\nOhtani\u2019s dual role as a pitcher and hitter has made him a rare asset in modern baseball. His presence on the injured list means the Dodgers must navigate roster rules that allow teams to temporarily remove injured players while retaining their rights. The injured list is a standard mechanism in Major League Baseball that provides teams with flexibility to manage player health without losing roster spots.\n\nThe Dodgers\u2019 roster decisions will be influenced by the rules governing the injured list, as well as by the need to maintain depth in both pitching and hitting. The team\u2019s coaching staff must balance the desire to protect Ohtani\u2019s health with the competitive demands of the remainder of the season.\n\nStakeholders in this situation include Ohtani himself, the Dodgers\u2019 management, the coaching staff, and the fan base. Each group has a vested interest in the player\u2019s recovery timeline, as it directly impacts the team\u2019s performance and the player\u2019s career trajectory.\n\nIf Ohtani returns, he could provide a significant boost to the Dodgers\u2019 offense and pitching staff, potentially altering the dynamics of the team\u2019s lineup and rotation. His presence would also have a psychological impact on opponents, who must prepare for a player capable of influencing games in multiple ways.\n\nConversely, if Ohtani\u2019s recovery stalls, the Dodgers may need to adjust their strategy by promoting other pitchers or hitters, or by acquiring new talent through trades or free agency. The team\u2019s ability to adapt will be crucial in maintaining competitiveness as the season progresses.\n\nLooking ahead, the Dodgers will monitor Ohtani\u2019s medical evaluations and training progress over the next few weeks. Key dates include the next scheduled game and the deadline for roster adjustments before the postseason. The organization\u2019s next steps will determine whether Ohtani can rejoin the lineup in time to contribute to the Dodgers\u2019 playoff aspirations.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaklZSWxvd29peWtmTzN4NC12UDY2TGp4aGU3ZkJ5Vmc4Z2E3bDVFcXRTdXF0M2dxUlY0cnNWVXRFdWlaV3pkVExSZ3QxdXdqUlZ3bjZQdmhhQmhnX0YwRmRQSWhxeW42WlMydzF2djlldnZGZVd4MU9lNTNHMHptQlJ4WmFZT3hvTTF2VFhjOHpvQW91TEVtNm1iRDVMNmhiMEVoRzhGLTJheHZab3kxVWFhWXB5T0IyM3gtUlJXNml3U3h2NEhwSzVqcGNwR1NkSHhUY0hqRk56a1Q1UzVhLTNUbG95dlVOaGpyYw?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaklZSWxvd29peWtmTzN4NC12UDY2TGp4aGU3ZkJ5Vmc4Z2E3bDVFcXRTdXF0M2dxUlY0cnNWVXRFdWlaV3pkVExSZ3QxdXdqUlZ3bjZQdmhhQmhnX0YwRmRQSWhxeW42WlMydzF2djlldnZGZVd4MU9lNTNHMHptQlJ4WmFZT3hvTTF2VFhjOHpvQW91TEVtNm1iRDVMNmhiMEVoRzhGLTJheHZab3kxVWFhWXB5T0IyM3gtUlJXNml3U3h2NEhwSzVqcGNwR1NkSHhUY0hqRk56a1Q1UzVhLTNUbG95dlVOaGpyYw?oc=5",
-      "guid": "CBMi7AFBVV95cUxPaklZSWxvd29peWtmTzN4NC12UDY2TGp4aGU3ZkJ5Vmc4Z2E3bDVFcXRTdXF0M2dxUlY0cnNWVXRFdWlaV3pkVExSZ3QxdXdqUlZ3bjZQdmhhQmhnX0YwRmRQSWhxeW42WlMydzF2djlldnZGZVd4MU9lNTNHMHptQlJ4WmFZT3hvTTF2VFhjOHpvQW91TEVtNm1iRDVMNmhiMEVoRzhGLTJheHZab3kxVWFhWXB5T0IyM3gtUlJXNml3U3h2NEhwSzVqcGNwR1NkSHhUY0hqRk56a1Q1UzVhLTNUbG95dlVOaGpyYw"
-    },
-    "smh_41b9ae79": {
-      "id": "smh_41b9ae79",
-      "title": "Private owners circle Cheika-led Waratahs as Hoiles locks in as deputy - SMH.com.au",
-      "category": "World",
-      "source": "smh",
-      "time": "2026-09-16T11:15:54",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28227%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27227%27%20cy%3D%27213%27%20r%3D%27140%27%20fill%3D%27hsl%28267%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Private investors are reportedly eyeing the New South Wales Waratahs, with former Australian national coach Michael\u202fCheika still at the helm, while a new deputy, Hoiles, has been confirmed in the club\u2019s leadership team.\u202f[1]\n\nThe move could signal a significant shift in the ownership and management of one of Australia\u2019s premier rugby franchises, potentially affecting players, fans, and the broader Super\u202fRugby competition.\n\nAccording to a report, private owners are \u201ccircling\u201d the Waratahs, indicating interest in acquiring or investing in the club. Cheika remains the head coach, and Hoiles has been appointed as deputy. The article does not disclose the identities of the owners or the terms of the arrangement.\u202f[1]\n\nThe Waratahs compete in Super\u202fRugby, the top professional rugby union competition in the Southern Hemisphere, and have a history of fluctuating performance and varied ownership structures.\n\nMichael\u202fCheika, who took over the Waratahs in 2021, has led the team through recent seasons and is a former coach of the Australian national side.\n\nThe article does not provide details on Hoiles\u2019 background or prior roles.\n\nPlayers, staff, fans, sponsors, and the Australian Rugby Union may be impacted by any ownership change, as new investment could bring shifts in strategy, staffing, and club operations.\n\nIf the deal proceeds, it could alter the competitive balance in Super\u202fRugby and influence the Waratahs\u2019 long\u2011term prospects, potentially affecting recruitment, training facilities, and financial stability.\n\nThe next steps will involve negotiations, regulatory approvals, and potential announcements from the Waratahs\u2019 board, with stakeholders awaiting confirmation of the owners\u2019 identities and the scope of the investment.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Sydney Morning Herald",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeG0tQ29zbnVWdkIyRFJ5RFlLeXh2MmRsUDN5ZDZLbDNhZ1ZSRGk0bDRQcWEwMGIxb0kxX1AzMHVwWFhIM1d4QzZDanFueXp3a0FDOXVQYzBnZlQwb01MU1NLaHF4Y2JxbE5valBLVC1DdTlETXR1a0VuYWQtSzRYY3VtOXBvMkxfVjJfQ2VyOWNSbTJKRmd0X1ZmQV90ajdXeUVqZ3NHTmlFQ2Z4amVUbXQ0NHZOQUpoSnhrbTJibmg4bkZIUURPY1ViLXA?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeG0tQ29zbnVWdkIyRFJ5RFlLeXh2MmRsUDN5ZDZLbDNhZ1ZSRGk0bDRQcWEwMGIxb0kxX1AzMHVwWFhIM1d4QzZDanFueXp3a0FDOXVQYzBnZlQwb01MU1NLaHF4Y2JxbE5valBLVC1DdTlETXR1a0VuYWQtSzRYY3VtOXBvMkxfVjJfQ2VyOWNSbTJKRmd0X1ZmQV90ajdXeUVqZ3NHTmlFQ2Z4amVUbXQ0NHZOQUpoSnhrbTJibmg4bkZIUURPY1ViLXA?oc=5",
-      "guid": "CBMizAFBVV95cUxNeG0tQ29zbnVWdkIyRFJ5RFlLeXh2MmRsUDN5ZDZLbDNhZ1ZSRGk0bDRQcWEwMGIxb0kxX1AzMHVwWFhIM1d4QzZDanFueXp3a0FDOXVQYzBnZlQwb01MU1NLaHF4Y2JxbE5valBLVC1DdTlETXR1a0VuYWQtSzRYY3VtOXBvMkxfVjJfQ2VyOWNSbTJKRmd0X1ZmQV90ajdXeUVqZ3NHTmlFQ2Z4amVUbXQ0NHZOQUpoSnhrbTJibmg4bkZIUURPY1ViLXA"
-    },
-    "guardian_9e0f7d40": {
-      "id": "guardian_9e0f7d40",
-      "title": "Mayors and other local leaders could be given powers to oversee water firms",
-      "category": "Politics",
-      "source": "guardian",
-      "time": "2026-09-16T11:15:58",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/e693034b932e894545c053f7cdc25ee6f7056e76/53_0_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=7971b0e851865d66b0e47390b57ec002",
-      "content": "The UK government is considering giving mayors and other local leaders oversight powers over water firms.[1]\n\nIf enacted, the proposals would allow local politicians to influence how water companies spend money and to hold their executives accountable for service costs and environmental performance, potentially reshaping the sector\u2019s relationship with consumers and communities.\n\nThe proposals would allow local leaders to direct some parts of water companies\u2019 spending.[1] They would also hold water company bosses to account over bills and sewage discharges.[1] These measures are part of a broader plan to bring utilities under greater public control.[1]\n\nWater services in the UK are provided by a handful of privately owned companies that operate under a regulatory framework established in the 1980s.\n\nThe Office of Water Services (Ofwat) sets price caps and monitors performance, while the Environment Agency oversees environmental compliance.\n\nMayors and council leaders traditionally manage local services such as waste collection and transport, but have had limited influence over water provision.\n\nEarlier proposals for local control of utilities have surfaced intermittently, including calls for the re\u2011nationalisation of water services in certain regions.\n\nWater companies would face new oversight mechanisms that could alter budgeting priorities and strategic decisions.\n\nConsumers could experience changes in tariff structures and service quality as local leaders adjust spending priorities.\n\nEnvironmental organisations may welcome greater local scrutiny of sewage discharges, potentially tightening environmental standards.\n\nGreater local oversight could improve responsiveness to community concerns and align spending with local priorities.\n\nHowever, the introduction of political oversight may increase bureaucratic complexity and risk politicisation of technical decisions.\n\nThe government is expected to publish detailed proposals and invite public consultation in the coming months.\n\nIf the proposals gain traction, a legislative package could be introduced in Parliament before the next budget cycle, with key dates still to be announced.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/sep/16/mayors-and-other-local-leaders-could-be-given-powers-to-oversee-water-firms"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/business/2026/sep/16/mayors-and-other-local-leaders-could-be-given-powers-to-oversee-water-firms",
-      "guid": "https://www.theguardian.com/business/2026/sep/16/mayors-and-other-local-leaders-could-be-given-powers-to-oversee-water-firms"
-    },
     "googlenews_019afad1": {
       "id": "googlenews_019afad1",
       "title": "Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years - Yahoo Finance",
@@ -15999,32 +15879,153 @@
       ],
       "original_url": "https://www.theguardian.com/uk-news/2026/oct/27/john-healey-budget-help-with-cost-of-living-deferring-decisions-on-tax-and-spending",
       "guid": "https://www.theguardian.com/uk-news/2026/oct/27/john-healey-budget-help-with-cost-of-living-deferring-decisions-on-tax-and-spending"
+    },
+    "googlenews_8b07cb5b": {
+      "id": "googlenews_8b07cb5b",
+      "title": "Fed meeting live updates: No hike expected, but all eyes on Warsh for what's next - CNBC",
+      "category": "Business",
+      "source": "googlenews",
+      "time": "2026-10-28T12:30:55",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/3840px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "The Federal Reserve\u2019s October policy meeting concluded with a decision to keep interest rates unchanged, a move that surprised some market participants who had expected a modest hike. The meeting\u2019s outcome was closely watched because it comes at a time when the Fed is balancing persistent inflationary pressures against the backdrop of an upcoming midterm election. In addition, the meeting\u2019s focus on Governor Christopher Warsh\u2019s comments has drawn attention to the potential for future policy shifts.\u00a0[1]\n\nThe decision matters for a broad range of stakeholders. For households, the cost of borrowing for mortgages, auto loans, and credit cards will remain at current levels, which could influence spending and saving decisions. For businesses, the stability of rates provides a predictable environment for investment and financing. For the political landscape, the Fed\u2019s stance may affect campaign narratives around the economy and influence voter sentiment as the midterms approach.\u00a0[3]\n\nDuring the meeting, Fed officials reiterated that the current policy rate remains too high to curb inflation but not high enough to trigger a recession. The central bank\u2019s statement emphasized that the decision to hold rates steady reflects a cautious approach to monetary policy, given the uncertainty surrounding inflation trends and the economic impact of the election cycle. Governor Warsh\u2019s remarks, which highlighted the need for continued vigilance, were singled out by analysts as a potential signal that the Fed may revisit its stance in the coming months.\u00a0[5]\n\nIn a separate development, a federal judge in Los Angeles ruled that a prosecutor appointed by former President Donald Trump is not serving legally. The ruling centers on questions of appointment authority and the legality of the prosecutor\u2019s tenure. While the case is distinct from monetary policy, it underscores ongoing legal challenges related to appointments made during the Trump administration.\u00a0[2]\n\nThe Federal Reserve\u2019s primary mandate is to promote maximum employment, stable prices, and moderate long\u2011term interest rates. The institution meets quarterly to assess economic data and decide on the federal funds target rate, a key lever that influences borrowing costs across the economy. The policy decision is typically announced with a statement that outlines the Fed\u2019s assessment of economic conditions and its outlook for future policy.\u00a0[4]\n\nChristopher Warsh has served as a member of the Federal Open Market Committee since 2019 and is known for his data\u2011driven approach to monetary policy. His comments during the October meeting were interpreted by some as an indication that the Fed may consider tightening policy more aggressively if inflation does not show signs of easing. Warsh\u2019s role as a senior policymaker places him at the center of discussions about the Fed\u2019s future path.\u00a0[5]\n\nThe Fed\u2019s decision to hold rates steady has implications for financial markets. Bond yields, which are sensitive to expectations of future policy, may adjust in response to the Fed\u2019s stance, while equity markets could interpret the decision as a sign of continued economic resilience or, conversely, as a warning of potential tightening. Investors will be watching the Fed\u2019s subsequent communications for clues about the timing and magnitude of any future rate changes.\u00a0[1]\n\nThe judge\u2019s ruling on the Los Angeles prosecutor has ramifications for the legal community and the broader debate over the legitimacy of appointments made during the Trump administration. The decision may prompt further scrutiny of other appointments and could influence ongoing investigations into the conduct of former officials. The outcome of the case will likely be monitored by legal scholars and policymakers concerned with the rule of law and the integrity of federal appointments.\u00a0[2]\n\nLooking ahead, the Fed\u2019s next meeting will be a key event for markets and policymakers. Analysts expect the central bank to provide more detail on its inflation outlook and to clarify whether it intends to maintain the current stance or shift toward tightening. The political calendar will also play a role, as the midterm elections could influence the Fed\u2019s assessment of labor market conditions and fiscal policy expectations.\u00a0[3]\n\nThe legal case involving the Los Angeles prosecutor will continue to unfold as the court considers the arguments presented by both sides. The outcome could set a precedent for how appointment authority is interpreted in future cases and may affect the functioning of the Department of Justice. Observers will be watching for any appeals or further judicial decisions that could alter the ruling\u2019s impact.\u00a0[2]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tMUlxMlhyZGowTmtxUW9oU1NrQjU1UzBWd0pobmpmdG83UHBURXhSSkgydEdTZnFJY2J2VFpJOGZGOWJlMGc5VEhxaW5EVmRYZ2NHZHJPZXhhV3NSazdDb0NpSWZMc3hBMnBYS210Nm5PNzRJTWfSAXtBVV95cUxPRWNadTVHenE4RU90Q0FxX0lOWjJWamVmRm4xUnk1cVJlZkFaeDRjX21iX1FKZEhYRmZVWFBPWDhUQks0elVQbjU5U2NVbTdGNWdsS1Y0Slo2SE9zTFhjc2EwQU9EaHRoR3pWN3Y2UmM2TmswVUxTODJObXc?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tMUlxMlhyZGowTmtxUW9oU1NrQjU1UzBWd0pobmpmdG83UHBURXhSSkgydEdTZnFJY2J2VFpJOGZGOWJlMGc5VEhxaW5EVmRYZ2NHZHJPZXhhV3NSazdDb0NpSWZMc3hBMnBYS210Nm5PNzRJTWfSAXtBVV95cUxPRWNadTVHenE4RU90Q0FxX0lOWjJWamVmRm4xUnk1cVJlZkFaeDRjX21iX1FKZEhYRmZVWFBPWDhUQks0elVQbjU5U2NVbTdGNWdsS1Y0Slo2SE9zTFhjc2EwQU9EaHRoR3pWN3Y2UmM2TmswVUxTODJObXc?oc=5",
+      "guid": "CBMidkFVX3lxTE1tMUlxMlhyZGowTmtxUW9oU1NrQjU1UzBWd0pobmpmdG83UHBURXhSSkgydEdTZnFJY2J2VFpJOGZGOWJlMGc5VEhxaW5EVmRYZ2NHZHJPZXhhV3NSazdDb0NpSWZMc3hBMnBYS210Nm5PNzRJTWfSAXtBVV95cUxPRWNadTVHenE4RU90Q0FxX0lOWjJWamVmRm4xUnk1cVJlZkFaeDRjX21iX1FKZEhYRmZVWFBPWDhUQks0elVQbjU5U2NVbTdGNWdsS1Y0Slo2SE9zTFhjc2EwQU9EaHRoR3pWN3Y2UmM2TmswVUxTODJObXc"
+    },
+    "conversation_7f4fd8f9": {
+      "id": "conversation_7f4fd8f9",
+      "title": "How religion collided with race and politics in Brazil\u2019s presidential election",
+      "category": "Science",
+      "source": "conversation",
+      "time": "2026-10-28T12:31:00",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://images.theconversation.com/files/768433/original/file-20261027-52-3kiu9g.jpg?ixlib=rb-4.1.1&amp;rect=0%2C270%2C3239%2C1619&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "content": "Religion has become an important factor in Brazilian politics, but to see the whole picture, one must analyze diversity within churches, a political scientist writes. [1]\n\nThe growing influence of religious affiliation on voting patterns and political endorsements has made the internal composition of religious communities a key variable for understanding electoral outcomes.\n\nThe political scientist\u2019s recent analysis highlights that while religion is a significant factor, the heterogeneity of beliefs and priorities within major churches can lead to divergent political preferences among their members.\n\nBrazil\u2019s religious landscape is dominated by Catholicism, but evangelical Protestantism has expanded rapidly over the past few decades, alongside smaller streams of Pentecostalism, Afro\u2011Brazilian religions, and indigenous faiths.\n\nHistorically, the Catholic Church has played a prominent role in social and political life, but the rise of evangelical denominations has shifted the balance of religious influence, with leaders often publicly endorsing candidates and mobilizing congregations.\n\nThe electoral system in Brazil allows for broad participation, and religious leaders can use their platforms to shape public opinion, though they do not have formal political power.\n\nPoliticians seek the support of religious groups to secure votes, while religious leaders aim to protect their communities\u2019 interests and promote moral agendas; voters navigate these influences when deciding whom to support.\n\nCivil society organizations monitor the intersection of faith and politics to ensure that religious influence does not undermine democratic principles or marginalize minority voices.\n\nThe diversity within churches means that a single religious endorsement does not guarantee uniform support; internal debates over social issues such as abortion, education, and economic policy can split congregations.\n\nThis fragmentation may reduce the predictability of religious voting blocs, prompting political parties to tailor messages to specific subgroups within larger denominations.\n\nUpcoming national elections will test how religious diversity shapes campaign strategies; observers will look for patterns in endorsements, voter turnout among different faith communities, and any shifts in policy priorities.\n\nUnderstanding the nuanced composition of Brazil\u2019s religious communities is essential for accurately assessing the role of faith in politics and for anticipating how these dynamics will influence future electoral outcomes.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Conversation",
+          "url": "https://theconversation.com/how-religion-collided-with-race-and-politics-in-brazils-presidential-election-294761"
+        }
+      ],
+      "original_url": "https://theconversation.com/how-religion-collided-with-race-and-politics-in-brazils-presidential-election-294761",
+      "guid": "tag:theconversation.com,2011:article/294761"
+    },
+    "japantimes_654f482e": {
+      "id": "japantimes_654f482e",
+      "title": "Takaichi and Merz pledge to boost economic security and tech cooperation",
+      "category": "World",
+      "source": "japantimes",
+      "time": "2026-10-28T12:31:40",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/28/571022.jpg",
+      "content": "Japanese Economy Minister Takaichi and German official Merz announced a joint commitment to strengthen economic security and technology cooperation, while expressing grave concern over economic coercion. [1]\n\nThe pledge signals a coordinated effort by two of the world\u2019s largest economies to protect supply chains for critical minerals and advanced technologies amid growing geopolitical tensions. [1]\n\nIn the announcement, the leaders outlined plans to deepen collaboration in research, development, and policy coordination, aiming to reduce reliance on external suppliers for essential materials. [1]\n\nThey also warned that arbitrary export restrictions and retaliatory measures on critical minerals threaten the stability of global trade and could undermine the resilience of both nations\u2019 industrial bases. [1]\n\nEconomic security generally refers to a country\u2019s capacity to maintain access to essential goods and services, especially when faced with political pressure or market disruptions.\n\nCritical minerals\u2014such as lithium, cobalt, and rare earth elements\u2014are indispensable for batteries, electronics, and defense systems, making their supply chains a strategic priority for industrialized nations.\n\nIn recent years, several countries have employed export controls as a tool of coercion, prompting concerns about the vulnerability of global supply chains and the potential for trade disputes.\n\nStakeholders in this initiative include technology firms, mining companies, and defense contractors in both Japan and Germany, as well as consumers who depend on a stable flow of advanced components.\n\nBy fostering joint research and development, the two governments hope to create domestic capabilities that lessen dependence on foreign sources for critical materials.\n\nThe pledge also raises questions about how the governments will navigate existing trade agreements and regulatory frameworks, particularly in the context of multilateral commitments.\n\nStrengthening cooperation could enhance resilience against supply chain shocks, but it may also prompt other nations to adopt similar protective measures, potentially intensifying economic competition.\n\nBoth governments are expected to outline concrete steps\u2014such as joint research initiatives or policy alignment\u2014within the coming months, with key milestones likely set for the end of the fiscal year.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/28/takaichi-merz-meeting/"
+        }
+      ],
+      "original_url": "https://www.japantimes.co.jp/business/2026/10/28/takaichi-merz-meeting/",
+      "guid": "https://www.japantimes.co.jp/article/648371/"
+    },
+    "bbc_41bc3761": {
+      "id": "bbc_41bc3761",
+      "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+      "category": "Politics",
+      "source": "bbc",
+      "time": "2026-10-28T12:32:09",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7041/live/3d52f8e0-d23a-11f1-a701-fddedf244c16.jpg",
+      "content": "The first budget presented by Chancellor John\u202fHealey will centre on the cost of living, particularly energy bills, and will include announcements on devolution\u202f[1].\n\nThe focus on energy costs and devolution reflects the government's priority to address the ongoing cost\u2011of\u2011living crisis and to adjust the balance of fiscal power across the United Kingdom.\n\nChris\u202fMason said the budget should help deliver the Prime Minister's promises\u202f[1], and that support on the cost of living, especially energy bills, will be central to John\u202fHealey's first Budget\u202f[1]. He also noted that announcements on devolution will be a key element of the budget\u202f[1].\n\nThe UK budget is an annual event in which the Chancellor outlines fiscal policy, spending plans and tax proposals. John\u202fHealey, who succeeded Rishi\u202fSunak, will be presenting his first budget as the new Chancellor of the Exchequer\u202f[1].\n\nThe cost\u2011of\u2011living crisis has been a major concern for households, with energy prices rising sharply in recent years. Devolution refers to the transfer of powers from the central government to the devolved administrations in Scotland, Wales, Northern Ireland and, in some cases, local authorities.\n\nHouseholds and consumers stand to benefit from any measures that reduce energy bills, while energy suppliers and the wider economy may face adjustments to pricing and regulation. Devolved governments will be directly affected by any changes to the distribution of fiscal responsibilities.\n\nIf the budget delivers on its promises, it could provide short\u2011term relief for households and signal a shift in the government's fiscal priorities. However, the extent of the measures and their long\u2011term impact remain to be seen.\n\nThe inclusion of devolution announcements may alter the balance of power between Westminster and the devolved administrations, potentially reshaping how fiscal policy is implemented across the UK.\n\nThe budget will be presented by John\u202fHealey in the coming weeks, and parliament will debate the proposals and any accompanying legislation. Observers will be watching for the specific details of the energy\u2011support measures and the scope of the devolution changes.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o#0"
+    },
+    "nasa_26d5647c": {
+      "id": "nasa_26d5647c",
+      "title": "APOD: 2026 October 28 \u2013 The Mutual Occultation of Ganymede and Io",
+      "category": "Science",
+      "source": "nasa",
+      "time": "2026-10-28T12:32:49",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/occultation.jpeg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "content": "The Astronomy Picture of the Day (APOD) archive for October\u202f28,\u202f2026 features an image titled \u201cThe Mutual Occultation of Ganymede and Io.\u201d[1] The entry includes a brief explanation written by a professional astronomer, as is customary for APOD posts.[1] APOD is a daily online gallery that showcases a different image or photograph of the cosmos each day, accompanied by a short explanatory note that contextualizes the image for a general audience.[1] The site also offers an archive searchable by date, a calendar view, and an RSS feed for updates.[1]\n\nThe title of the APOD entry indicates that the image depicts a mutual occultation\u2014a celestial event in which one body passes in front of another, blocking its light from the observer\u2019s point of view. In this case, the two bodies involved are Ganymede and Io, the two largest moons of Jupiter. The term \u201cmutual occultation\u201d is used in astronomy to describe such alignments between orbiting bodies that are visible from Earth or from a spacecraft. The APOD description would likely explain the geometry of the event and its significance for studying the moons\u2019 orbits and physical characteristics.\n\nGanymede is the largest moon in the Solar System, with a diameter of about 5,268\u202fkm, and it possesses a magnetic field and a thin oxygen atmosphere. Io, by contrast, is the most volcanically active body known, with dozens of active volcanoes that spew sulfur and sulfur dioxide. Both moons orbit Jupiter in a complex gravitational dance, and their relative positions can produce brief occultations that are of interest to astronomers studying their dynamics and surface features.\n\nThe APOD entry\u2019s brief explanation would have been written by a professional astronomer, as the site\u2019s policy requires that each image be accompanied by a concise, scientifically accurate note. The explanation would aim to make the phenomenon accessible to a broad audience, avoiding technical jargon while still conveying the key scientific points. The APOD platform is widely used by educators, students, and amateur astronomers to illustrate astronomical concepts and to highlight recent discoveries.\n\nBecause the APOD archive is publicly accessible, the image and its accompanying note can be viewed by anyone with internet access. The calendar view allows users to navigate to past entries, while the RSS feed provides updates when new images are posted. The APOD archive serves as a historical record of astronomical imagery and public outreach efforts over the years.\n\nThe mutual occultation of Ganymede and Io is a rare event that occurs only when the orbital planes of the two moons align in a particular way. Such events are valuable for refining orbital models and for testing theories about the gravitational interactions between Jupiter\u2019s moons. While the APOD entry does not provide detailed data on the event\u2019s timing or observational parameters, it highlights the broader scientific interest in these dynamic interactions.\n\nThe APOD entry for October\u202f28,\u202f2026 thus serves as a snapshot of a specific astronomical phenomenon, presented in a format that balances scientific accuracy with public accessibility. By featuring the mutual occultation of Ganymede and Io, the entry underscores the ongoing fascination with Jupiter\u2019s moons and the complex gravitational choreography that governs their motions.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/"
+        }
+      ],
+      "original_url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
+      "guid": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/"
+    },
+    "cjr_66bd2eba": {
+      "id": "cjr_66bd2eba",
+      "title": "India\u2019s Crackdown on the Press",
+      "category": "News",
+      "source": "cjr",
+      "time": "2026-10-28T12:33:38",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://www.cjr.org/wp-content/uploads/2026/10/Fatima.jpg",
+      "content": "Fatima Khan, an independent journalist from New Delhi[1], says press freedom is diminishing in India[1], but she has hope for Gen\u202fZ[1].\n\nKhan\u2019s remarks highlight concerns about the state of media freedom in India and the potential for younger journalists to drive change.\n\nKhan said that press freedom is diminishing in India[1]. She also expressed hope that Gen\u202fZ will help sustain independent journalism[1].\n\nPress freedom is the ability of journalists to report without censorship or fear of retaliation. Independent journalism plays a key role in democratic societies by providing information and holding power to account. In India, independent journalists have historically contributed to public debate, but the current environment is described as increasingly restrictive.\n\nJournalists, media organizations, and the public are directly affected by changes in press freedom. A decline in press freedom can limit the range of perspectives available to the public. Younger journalists, especially Gen\u202fZ, may use digital tools to continue reporting in ways that circumvent traditional barriers.\n\nIf press freedom continues to erode, the diversity of viewpoints in Indian media could narrow, affecting public discourse. Conversely, a vibrant Gen\u202fZ presence could revitalize investigative reporting and foster new narratives.\n\nObservers will monitor future developments in media regulation and the engagement of younger journalists to assess the trajectory of press freedom in India.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Columbia Journalism Review",
+          "url": "https://www.cjr.org/the-interview/indias-crackdown-on-the-press-fatima-khan-new-delhi-press-freedom-diminish-supreme-court-surya-kant-cockroach-janta-godi-media.php"
+        }
+      ],
+      "original_url": "https://www.cjr.org/the-interview/indias-crackdown-on-the-press-fatima-khan-new-delhi-press-freedom-diminish-supreme-court-surya-kant-cockroach-janta-godi-media.php",
+      "guid": "https://www.cjr.org/?p=123851"
     }
   },
   "featured": {
-    "hero": "reuters_510ded18",
+    "hero": "googlenews_8b07cb5b",
     "stack": [
-      "bangkokpost_8e9945bd",
-      "berkeleyuniv_0068e637",
-      "snopes_8b1852cf"
+      "conversation_7f4fd8f9",
+      "japantimes_654f482e",
+      "bbc_41bc3761"
     ],
     "latest": [
+      "bbc_41bc3761",
+      "japantimes_654f482e",
+      "conversation_7f4fd8f9",
+      "reuters_510ded18",
       "snopes_8b1852cf",
-      "berkeleyuniv_0068e637",
-      "bangkokpost_8e9945bd",
-      "conversation_59a2aa24",
-      "googlenews_5b76d29f",
-      "googlenews_a2b20540"
+      "berkeleyuniv_0068e637"
     ],
     "world": [
+      "japantimes_654f482e",
       "reuters_510ded18",
       "bangkokpost_8e9945bd",
-      "straitstimes_e3b55f39",
-      "dw_ae9baffc"
+      "straitstimes_e3b55f39"
     ]
   },
   "categoryIndex": {
     "News": [
+      "cjr_66bd2eba",
       "ap_36c1ccbc",
       "pbs_2a1d2897",
       "pbs_930026e6",
@@ -16033,10 +16034,10 @@
       "ap_5526368e",
       "pbs_39d7fba5",
       "fullfact_673b756c",
-      "npr_81038764",
-      "cjr_dd011bed"
+      "npr_81038764"
     ],
     "World": [
+      "bangkokpost_8e9945bd",
       "irishtimes_9b8f3450",
       "dw_ae9baffc",
       "straitstimes_e3b55f39",
@@ -16045,8 +16046,7 @@
       "aljazeera_5eaae997",
       "bbc_7d42a630",
       "dw_54eec86e",
-      "france24_0bf1fd14",
-      "smh_cfbe0b8a"
+      "france24_0bf1fd14"
     ],
     "Politics": [
       "guardian_de65d08b",
@@ -16061,6 +16061,7 @@
       "guardian_e91375ff"
     ],
     "Sports": [
+      "googlenews_5b76d29f",
       "googlenews_cf928711",
       "googlenews_625a75cb",
       "googlenews_575566fb",
@@ -16069,8 +16070,7 @@
       "googlenews_2080f10d",
       "googlenews_6c926ebd",
       "googlenews_c9f26861",
-      "googlenews_09c4145a",
-      "googlenews_609afc05"
+      "googlenews_09c4145a"
     ],
     "Health": [
       "guardian_6d434309",
@@ -16085,6 +16085,8 @@
       "guardian_acb816ac"
     ],
     "Science": [
+      "nasa_26d5647c",
+      "conversation_59a2aa24",
       "nature_c0bbf03e",
       "bbc_c9233769",
       "npr_36ad96e0",
@@ -16092,11 +16094,10 @@
       "nature_a6b765ff",
       "conversation_fa0ceb4c",
       "guardian_93b81462",
-      "conversation_6d9eac8a",
-      "nasa_5202d740",
-      "bbc_bf3599e8"
+      "conversation_6d9eac8a"
     ],
     "Business": [
+      "googlenews_a2b20540",
       "googlenews_9d35c2b8",
       "googlenews_04950b0d",
       "googlenews_7c59f067",
@@ -16105,12 +16106,16 @@
       "googlenews_94cd2476",
       "googlenews_b3e810dc",
       "googlenews_118bd6f4",
-      "googlenews_24206602",
-      "googlenews_897065f2"
+      "googlenews_24206602"
     ]
   },
-  "breaking": "Grand jury declines to indict former White House aide Cassidy Hutchinson, source says - Reuters",
+  "breaking": "Takaichi and Merz pledge to boost economic security and tech cooperation",
   "events": [
+    {
+      "title": "Fed meeting live updates: No hike expected, but all eyes on Warsh for what's nex",
+      "date": "2026-10-28",
+      "source": "Verum News"
+    },
     {
       "title": "Localized ceasefire brokered by Melania Trump starts as Nordic leaders speak to ",
       "date": "2026-10-27",
@@ -16125,7 +16130,7 @@
   "mostRead": [
     "S&P 500 posts back-to-back winning days as chips rally and oil prices slide: Liv",
     "Push for Thai storage of CCTV footage",
-    "Judge says DOJ illegally fired the daughter of former FBI director Comey",
-    "Grand jury declines to indict former White House aide Cassidy Hutchinson, source"
+    "How religion collided with race and politics in Brazil\u2019s presidential election",
+    "Fed meeting live updates: No hike expected, but all eyes on Warsh for what's nex"
   ]
 }
