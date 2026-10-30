@@ -1,125 +1,5 @@
 {
   "stories": {
-    "guardian_6fb944b3": {
-      "id": "guardian_6fb944b3",
-      "title": "\u2018Very messy eaters\u2019: scientists solve the mystery of when black holes \u2018burp\u2019",
-      "category": "Science",
-      "source": "guardian",
-      "time": "2026-09-17T16:41:53",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/bc2d290b83bde779fa04b02b439e787744cc0d4b/136_0_1438_1152/master/1438.jpg?width=140&quality=85&auto=format&fit=max&s=610ac64f1509e59f9ed461c16bfe5b7d",
-      "content": "Scientists have solved the mystery of when black holes \u201cburp,\u201d revealing that the powerful jets they launch after feeding on stars occur in two distinct phases.\u202f[1]\n\nThe finding clarifies the timing of jet ejections, a key piece in understanding how black holes influence their host galaxies and the intergalactic medium.\u202f[1]\n\nThe research shows that after a black hole consumes stellar material, it emits jets in two separate stages during its feeding cycle.\u202f[1] The jets blast material enormous distances in space.\u202f[1]\n\nBlack holes are extremely dense objects whose gravity is so strong that nothing, not even light, can escape once it crosses the event horizon, the boundary of no return.\u202f[1] The event horizon marks the point beyond which escape would require faster\u2011than\u2011light travel.\u202f[1]\n\nWhen matter falls toward a black hole, it typically forms an accretion disk that spirals inward, heating up and emitting radiation.\n\nFrom the accretion disk, some of the material is accelerated along magnetic field lines and expelled as relativistic jets, which can extend for thousands of light\u2011years.\n\nThe feeding cycle of a black hole involves periods of active accretion interspersed with quieter phases, during which the rate of matter falling in changes.\n\nAstrophysicists studying galaxy evolution will find the new timing model useful for linking black hole activity to star formation rates.\n\nThe discovery may help refine simulations of galaxy feedback, where jets heat surrounding gas and regulate the growth of galaxies.\n\nUnderstanding the two\u2011phase jet ejection could also inform searches for high\u2011energy neutrinos and gravitational waves associated with black hole accretion events.\n\nFuture observations with high\u2011resolution radio telescopes are expected to test the two\u2011phase model by tracking jet evolution in real time.\n\nWhile the study resolves a long\u2011standing question about the timing of black hole jets, further work will be needed to map the detailed physics of each phase.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy",
-      "guid": "https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy"
-    },
-    "bbc_b52112da": {
-      "id": "bbc_b52112da",
-      "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
-      "category": "Health",
-      "source": "bbc",
-      "time": "2026-09-17T16:41:56",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e519/live/c64517f0-b20a-11f1-a430-4d16ee157c41.jpg",
-      "content": "Enhertu, a drug that can extend life by an average of seven months for breast cancer patients, has been added to the NHS in England, following its two\u2011year use in Scotland.\u202f[1]\n\nThe addition of Enhertu to the national health service marks a significant step for patients with HER2\u2011positive breast cancer, offering a new therapeutic option that was previously limited to a single region.\u202f[1]\n\nThe NHS in England has approved the use of Enhertu, a targeted therapy that has been prescribed in Scotland for more than two years, making it now available to patients across the country.\u202f[1]\n\nEnhertu is a conjugated antibody\u2011drug that targets HER2 receptors, delivering a cytotoxic agent directly to cancer cells.\n\nThe NHS evaluates drugs through a rigorous process that includes assessment of clinical efficacy, safety, and cost\u2011effectiveness before adding them to the national formulary.\n\nIn Scotland, Enhertu was introduced into clinical practice after clinical trials demonstrated its benefit in extending survival for patients with advanced breast cancer.\n\nPatients stand to benefit directly from the drug's ability to extend life expectancy, while clinicians gain an additional tool in managing difficult\u2011to\u2011treat cancers.\n\nThe pharmaceutical company that manufactures Enhertu will now have a larger patient base in England, potentially affecting sales and research funding.\n\nWith the drug now accessible nationwide, more patients may receive treatment earlier in their disease course, potentially improving outcomes.\n\nHowever, the NHS will need to monitor the drug's real\u2011world effectiveness and manage its budgetary implications, as the cost of targeted therapies can be substantial.\n\nThe availability of Enhertu may prompt updates to national treatment guidelines and encourage further research into combination therapies.\n\nHealth authorities will likely track patient outcomes and safety data over the coming months, and clinicians will be advised on prescribing criteria and monitoring protocols.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c60qx4v825glo#0"
-    },
-    "googlenews_43dfc45a": {
-      "id": "googlenews_43dfc45a",
-      "title": "Testosterone scripts for women rise, along with denials and delays - CNN",
-      "category": "Health",
-      "source": "googlenews",
-      "time": "2026-09-17T16:41:59",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Google_News_icon.svg/960px-Google_News_icon.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "content": "Testosterone prescriptions for women have risen, and insurers are responding with more denials and longer wait times, a CNN report notes. [1]\n\nThe trend matters because hormone therapy can be a critical component of treatment for women with low libido, fatigue, or certain endocrine disorders. When coverage is denied or delayed, patients may experience worsening symptoms or seek alternative, potentially less effective, treatments.\n\nAccording to the CNN article, the number of testosterone scripts written for women has increased, while the rate of insurance denials and the length of processing delays have also climbed. [1]\n\nTestosterone is a sex hormone that, although traditionally associated with men, can be prescribed to women for specific medical indications. Its use in women is less common than estrogen or progesterone therapy, and clinicians must often navigate complex approval processes.\n\nCoverage of testosterone therapy for women varies widely across insurance plans. Some carriers list it as an off\u2011label use, leading to higher scrutiny and a greater likelihood of denial. Administrative hurdles can extend the time between prescription and medication receipt.\n\nThe primary stakeholders in this issue are women who require hormone therapy, the clinicians who prescribe it, and the insurance companies that determine coverage. Each group has distinct concerns: patients seek timely access, doctors aim to provide evidence\u2011based care, and insurers balance cost control with medical necessity.\n\nThe rise in prescriptions may signal growing recognition of women's hormone needs, but the accompanying denials and delays could widen health disparities. Women who cannot obtain coverage may experience prolonged symptoms or resort to unregulated supplements.\n\nIf insurers maintain current denial and delay practices, untreated hormonal deficiencies could lead to long\u2011term health risks, including decreased bone density, cardiovascular complications, and reduced quality of life.\n\nHealthcare regulators and professional societies are reviewing guidelines for hormone therapy in women, and upcoming policy proposals may alter coverage decisions. Monitoring changes in insurance policies and clinical guidelines will be key to understanding how access to testosterone therapy evolves.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtVEVsRklnTGdJSVRWTGdYTnBvQ2oyMDBIalNZTjVaYVQwNjVxNVFsYlNQejVFTm1taW5oN1htbE8yOWdxLUN6MmJDenlPWXUxZEh5MVVmcmNWRFEyQTN3RkVnVHo1bFNiUzZmV0p0eWp0WU5fMG1HRkNn?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtVEVsRklnTGdJSVRWTGdYTnBvQ2oyMDBIalNZTjVaYVQwNjVxNVFsYlNQejVFTm1taW5oN1htbE8yOWdxLUN6MmJDenlPWXUxZEh5MVVmcmNWRFEyQTN3RkVnVHo1bFNiUzZmV0p0eWp0WU5fMG1HRkNn?oc=5",
-      "guid": "CBMiekFVX3lxTFAtVEVsRklnTGdJSVRWTGdYTnBvQ2oyMDBIalNZTjVaYVQwNjVxNVFsYlNQejVFTm1taW5oN1htbE8yOWdxLUN6MmJDenlPWXUxZEh5MVVmcmNWRFEyQTN3RkVnVHo1bFNiUzZmV0p0eWp0WU5fMG1HRkNn"
-    },
-    "fullfact_f63dc2b0": {
-      "id": "fullfact_f63dc2b0",
-      "title": "Edited video of South Tower on 9/11 circulates again",
-      "category": "News",
-      "source": "fullfact",
-      "time": "2026-09-17T16:42:33",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://fullfact.org/media/images/Untitled_-_17_September_2026_at_1.e01d5153.fill-1200x630.png",
-      "content": "An edited video of the South Tower on 9/11 has resurfaced online, suggesting the building was not struck by a plane. Experts confirm the footage has been altered to remove the aircraft.\n\nThe resurfacing of the manipulated clip underscores the ongoing challenge of misinformation surrounding the 9/11 attacks, a subject that remains emotionally charged and politically relevant.\n\nThe clip, originally showing the South Tower during the 9/11 attack, has been circulated again on social media platforms. The video appears to omit the airplane that struck the tower, leading some viewers to conclude the tower was not hit. Forensic analysis indicates that the footage has been edited to remove the plane.\n\nThe September 11 attacks involved the hijacking of four commercial airplanes, two of which struck the Twin Towers in New York City. The South Tower was hit by a commercial airliner, causing its collapse and the death of nearly 3,000 people.\n\nThe video in question was originally recorded during the attack and has been used in various contexts. Video editing tools can remove or alter elements in footage, making it difficult for viewers to discern authenticity.\n\nThe families of victims, survivors, and the broader public are affected by misinformation that can distort the historical record. Misinformation can also influence political discourse and public policy.\n\nThe resurfacing of the edited clip demonstrates the need for media literacy and fact\u2011checking. It also highlights the role of social media platforms in monitoring and removing false content.\n\nFact\u2011checkers and platforms are monitoring the spread of the clip, and authorities may investigate the source of the edit.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Full Fact",
-          "url": "https://fullfact.org/us/edited-video-south-tower-9-11/"
-        }
-      ],
-      "original_url": "https://fullfact.org/us/edited-video-south-tower-9-11/",
-      "guid": "https://fullfact.org/us/edited-video-south-tower-9-11/"
-    },
-    "npr_c613cd87": {
-      "id": "npr_c613cd87",
-      "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
-      "category": "Science",
-      "source": "npr",
-      "time": "2026-09-17T16:42:55",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2F18%2Fa352fcd141f49138bc6be686189d%2Fhess.jpg",
-      "content": "An Arizona medical examiner has begun a new protocol to track heat\u2011related deaths, a move that highlights a national gap in how climate\u2011fueled fatalities are recorded. No single system across the United States consistently tracks deaths caused by extreme heat or other climate\u2011related events, the examiner\u2019s work suggests. [1]\n\nThe lack of uniform data hampers public\u2011health responses to rising temperatures. Without reliable counts of heat deaths, officials cannot gauge the true burden of heat on communities, allocate resources, or evaluate the effectiveness of heat\u2011action plans. The new protocol could provide the evidence needed to protect vulnerable populations. [1]\n\nThe protocol was introduced by the state\u2019s chief medical examiner, who noted that many heat deaths are currently misclassified or omitted from official statistics. The examiner\u2019s office will now systematically record temperature, time of day, and environmental conditions at the time of death, as well as any pre\u2011existing health conditions that may have contributed. [1]\n\nMedical examiners are responsible for determining the cause and manner of death in cases that are sudden, unexplained, or involve potential legal implications. They conduct autopsies, review medical histories, and issue death certificates that feed into national mortality databases. [2]\n\nHeat deaths occur when the body\u2019s thermoregulatory mechanisms fail, often in the context of prolonged exposure to high temperatures, inadequate hydration, or underlying health problems. Climate change has increased the frequency and intensity of heat waves, especially in the Southwest, raising the risk of fatal heat exposure. [3]\n\nCurrently, death certificates rely on the attending physician\u2019s assessment of the immediate cause of death, which may not capture the environmental trigger. Moreover, coding practices vary by state, leading to inconsistent reporting of heat\u2011related fatalities. [4]\n\nThe new protocol seeks to standardize the documentation of heat deaths by incorporating specific fields for temperature and environmental conditions. This approach mirrors best practices used in other jurisdictions for tracking disease outbreaks, where detailed exposure data improve surveillance. [5]\n\nStakeholders include public\u2011health agencies that design heat\u2011action plans, emergency medical services that respond to heat emergencies, and community groups advocating for heat\u2011resilient infrastructure. Accurate data would inform building codes, workplace safety regulations, and public\u2011awareness campaigns. [6]\n\nResearchers studying the health impacts of climate change also stand to benefit. Reliable mortality data would enable epidemiologists to quantify the relationship between temperature spikes and death rates, strengthening the evidence base for climate\u2011adaptation policies. [7]\n\nThe implications of Arizona\u2019s initiative could extend beyond state borders. If the protocol proves effective, it may serve as a model for other states to adopt similar tracking systems, potentially leading to a national standard for recording climate\u2011fueled deaths. [8]\n\nCritics may point to the resource demands of implementing new data fields and training staff, but proponents argue that the long\u2011term public\u2011health gains outweigh the initial costs. The balance between data accuracy and administrative burden will likely shape the protocol\u2019s adoption. [9]\n\nLooking ahead, the medical examiner\u2019s office plans to publish preliminary findings after a year of data collection. These results could prompt federal agencies, such as the Centers for Disease Control and Prevention, to consider guidance on climate\u2011related mortality surveillance. [10]\n\nThe next steps will involve evaluating the protocol\u2019s feasibility, assessing its impact on death\u2011certificate accuracy, and determining whether other jurisdictions will replicate the approach. As heat waves become more common, the need for consistent, actionable data on heat deaths will only grow. [11]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "NPR",
-          "url": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner"
-        }
-      ],
-      "original_url": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner",
-      "guid": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner"
-    },
-    "snopes_670c103c": {
-      "id": "snopes_670c103c",
-      "title": "Claim Democrats shot 4 presidents, MLK Jr. and Charlie Kirk gets the facts wrong",
-      "category": "News",
-      "source": "snopes",
-      "time": "2026-09-17T16:43:13",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/09/abraham_lincoln_donald_trump_dr_martin_luther_king_jr_and_john_f_kennedy.jpg",
-      "content": "A claim that Democrats shot four presidents has circulated, but it is false.[1]\n\nThe spread of misinformation about political violence can distort public perception and influence policy debates.\n\nThe claim circulated, and MLK Jr. and Charlie Kirk got the facts wrong.[1]\n\nThe claim perpetuates the falsehood that political violence generally comes from the left.[1]\n\nData shows the opposite.[1]\n\nPolitical violence is defined as violent acts motivated by ideological or partisan goals.\n\nData on political violence is collected through law enforcement reports, academic studies, and media coverage.\n\nHistorically, incidents of politically motivated violence have occurred across the ideological spectrum.\n\nVoters, policy makers, and communities are stakeholders affected by misinformation about political violence.\n\nMisinformation can shape public perception, influence policy debates, and affect community safety.\n\nThe spread of false claims about left\u2011leaning violence may lead to misdirected policy responses.\n\nPolicymakers may allocate resources based on inaccurate threat assessments.\n\nFact\u2011checking organizations are monitoring the claim, and future reporting will clarify the true distribution of political violence.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Snopes",
-          "url": "https://www.snopes.com/fact-check/democrats-assassination-attempts-charlie-kirk-presidents/"
-        }
-      ],
-      "original_url": "https://www.snopes.com/fact-check/democrats-assassination-attempts-charlie-kirk-presidents/",
-      "guid": "https://www.snopes.com/fact-check/democrats-assassination-attempts-charlie-kirk-presidents/"
-    },
     "reuters_8e7fd57f": {
       "id": "reuters_8e7fd57f",
       "title": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say - Reuters",
@@ -15999,32 +15879,153 @@
       ],
       "original_url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
       "guid": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo#0"
+    },
+    "guardian_2d96e702": {
+      "id": "guardian_2d96e702",
+      "title": "How rising seas transformed dry land into Venice lagoon",
+      "category": "Science",
+      "source": "guardian",
+      "time": "2026-10-30T05:17:14",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/a26dc348d4fdf229697b246ebc55e37e4f5246b9/808_0_5192_4155/master/5192.jpg?width=140&quality=85&auto=format&fit=max&s=17f05d39fdf45cd407fc1e2e32066d00",
+      "content": "The latest research shows that the land on which Venice now stands was once far inland, and that rising sea levels over the last 10,000 years have submerged much of the ancient Adriatic coast. [1]\n\nThis finding reshapes our understanding of the region\u2019s geological history and has implications for how we think about sea\u2011level change and its impact on human settlements.\n\nThe research team led by Samuele Ongaro at the University of Southampton used seismic surveys and sediment cores from coastal basins in northern Italy, Slovenia, and northern Croatia to reconstruct past sea levels and landscapes. [1]\n\nThey found that ancient hills and swamps that once dotted the area have disappeared as the sea rose. [1]\n\nThe study shows that the land where Venice now sits was once many miles inland. [1]\n\nThe sea\u2011level rise over the last 10,000 years has dramatically reshaped the northern Adriatic coastline. [1]\n\nThe Adriatic Sea is a shallow basin that has experienced significant sea\u2011level changes since the last glacial maximum.\n\nThe use of seismic data and sediment cores allows scientists to trace the history of coastal environments and reconstruct past sea levels.\n\nThe findings fit into a broader pattern of postglacial sea\u2011level rise across Europe.\n\nThe research is relevant to historians, geologists, and coastal managers in the region.\n\nThe study may inform future planning for Venice and other low\u2011lying areas.\n\nThe research underscores the long\u2011term nature of sea\u2011level change and its capacity to transform landscapes.\n\nFurther studies may refine the timeline of sea\u2011level rise and examine how ancient human populations adapted to these changes.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon",
+      "guid": "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon"
+    },
+    "japantimes_6e763246": {
+      "id": "japantimes_6e763246",
+      "title": "Is the viral book rave real? We go to the second event to investigate.",
+      "category": "World",
+      "source": "japantimes",
+      "time": "2026-10-30T05:17:17",
+      "read": "3 min read",
+      "mode": "compact",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571395.jpg",
+      "content": "The Jucy Book Rave, a literary gathering that went viral for staging a reading in a Shimokitazawa livehouse, has announced a second event. The original gathering drew attention for its unconventional venue, and the organizers are now bringing the format back to the same neighborhood.\n\nThe event\u2019s popularity illustrates a growing trend of blending literary culture with the indie music scene that characterizes Shimokitazawa, a Tokyo district known for its caf\u00e9s, record shops, and small performance spaces. By choosing a livehouse\u2014a venue traditionally reserved for musicians\u2014to host a book reading, the organizers tapped into a niche audience that values experimental cultural experiences.\n\nThe first Jucy Book Rave took place in a livehouse in Shimokitazawa, where participants gathered to read aloud passages from a selected book while the venue\u2019s ambient lighting and acoustics added a unique atmosphere. The unusual setting sparked online discussion and shares across social media, propelling the event into viral status.\u00b9\n\nFollowing the success of the inaugural event, the organizers confirmed that a second Jucy Book Rave will be held. While the source does not specify the exact date or whether the same venue will be used, the announcement signals a commitment to continuing the format.\u00b2\n\nBook raves, also known as reading parties or literary circles, have become a popular way for readers to engage with texts in a communal setting. Traditionally held in libraries, caf\u00e9s, or bookstores, the format encourages participants to read aloud, fostering a shared appreciation of language and narrative.\n\nLivehouses in Japan are small, often intimate venues that host live music, comedy, and other performances. Their flexible spaces and community-oriented atmosphere make them attractive for alternative events that seek to break out of conventional settings.\n\nShimokitazawa\u2019s reputation as a hub for indie culture and creative expression provides a fertile backdrop for experimental events like the Jucy Book Rave. The neighborhood\u2019s blend of music venues, vintage shops, and literary caf\u00e9s creates a cross\u2011pollination of audiences.\n\nStakeholders in the event include the event organizers, the authors whose works are featured, the venue owners, and the local community. For the venue, hosting a book rave can diversify its programming and attract a different demographic, potentially increasing foot traffic during off\u2011peak hours.\n\nFor readers and literary enthusiasts, the event offers an alternative to traditional book clubs, providing a more dynamic and socially engaging experience. The choice of a livehouse may also appeal to those who enjoy the sensory aspects of music venues, such as lighting and acoustics, which can enhance the reading experience.\n\nThe organizers\u2019 decision to hold a second event suggests that the model was successful enough to warrant repetition. It also indicates that there is a sustained interest in hybrid cultural events that combine literature with the ambiance of music venues.\n\nLooking ahead, the next steps for the Jucy Book Rave will likely involve finalizing the venue, selecting the book to be read, and coordinating with authors or literary agents. The organizers may also consider expanding the format to other neighborhoods or venues, depending on the reception of the second event.\n\nThe Jucy Book Rave\u2019s return underscores a broader movement toward unconventional literary events that challenge traditional notions of where and how books are read. Whether this format will become a staple in Shimokitazawa\u2019s cultural calendar remains to be seen, but the upcoming event will be a key indicator of its viability.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/culture/2026/10/30/books/jucy-book-rave-tokyo-event/"
+        }
+      ],
+      "original_url": "https://www.japantimes.co.jp/culture/2026/10/30/books/jucy-book-rave-tokyo-event/",
+      "guid": "https://www.japantimes.co.jp/article/648454/"
+    },
+    "ap_cf495f6b": {
+      "id": "ap_cf495f6b",
+      "title": "Justice Department subpoenas California officials in escalation of its scrutiny of elections - AP News",
+      "category": "News",
+      "source": "ap",
+      "time": "2026-10-30T05:17:20",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Associated_Press_logo_2012.svg/120px-Associated_Press_logo_2012.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "The U.S. Justice Department has issued subpoenas to officials in California as part of an intensified federal review of the state\u2019s election processes.\u202f[1]\n\nThe move signals that the federal government is paying close attention to how California conducts its elections, a state that routinely sets trends for the nation. The subpoenas could prompt a deeper examination of the state\u2019s voting rules, ballot\u2011processing procedures, and other election\u2011related practices.\n\nAccording to the Justice Department\u2019s action, the subpoenas request documents and testimony from California officials. The request is part of a broader investigation that the department has been pursuing, indicating a systematic effort to assess election integrity across the state.\u202f[1]\n\nThe Department of Justice can issue subpoenas under federal law to compel the production of evidence in investigations. In the context of elections, such subpoenas are often used to gather information about campaign finance, voter registration, ballot handling, and other aspects that could affect the fairness and transparency of the electoral process. California\u2019s election system, which administers millions of votes each cycle, has previously been the subject of federal scrutiny, though the specifics of those prior investigations are not detailed here.\n\nCalifornia\u2019s state and local election officials are now the focus of federal attention. The subpoenas may affect how these officials manage elections, potentially leading to changes in procedures or increased oversight. Voters in the state could experience shifts in how ballots are processed or how election results are reported, depending on the outcome of the investigation.\n\nThe subpoenas could result in findings that prompt reforms or legal challenges. If the Justice Department uncovers irregularities, it may recommend changes to state law or pursue enforcement actions. Conversely, the state could contest the subpoenas, leading to court battles over the scope of federal authority in election matters.\n\nObservers will watch for the Justice Department\u2019s next steps, including any additional subpoenas or public statements. California officials may respond by submitting the requested documents or filing objections. The timeline for any court rulings or further investigations remains unclear at this stage.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNakFiOVpxcFZlUUh1dGhCMDhvRUFkbDBzV1ZlUEZzeDZ0bS1CVkMtUVBCT3EyVktzTzQxbndDVTRGVVc2LVkwRjlGQ0VPYktiN1VNREpIQmFDQ195WEJiRmQ0SDJzdEVBWE0tWjVLSEtzQVdUSi1LRFFuSXRLOTlIM2ZpOHVHVjBuN25kVFNqZ3VCNHR4Rkk0ckJKdDd1NnltdWtPbVdGYmpKRGdsRUVZ?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNakFiOVpxcFZlUUh1dGhCMDhvRUFkbDBzV1ZlUEZzeDZ0bS1CVkMtUVBCT3EyVktzTzQxbndDVTRGVVc2LVkwRjlGQ0VPYktiN1VNREpIQmFDQ195WEJiRmQ0SDJzdEVBWE0tWjVLSEtzQVdUSi1LRFFuSXRLOTlIM2ZpOHVHVjBuN25kVFNqZ3VCNHR4Rkk0ckJKdDd1NnltdWtPbVdGYmpKRGdsRUVZ?oc=5",
+      "guid": "CBMirwFBVV95cUxNakFiOVpxcFZlUUh1dGhCMDhvRUFkbDBzV1ZlUEZzeDZ0bS1CVkMtUVBCT3EyVktzTzQxbndDVTRGVVc2LVkwRjlGQ0VPYktiN1VNREpIQmFDQ195WEJiRmQ0SDJzdEVBWE0tWjVLSEtzQVdUSi1LRFFuSXRLOTlIM2ZpOHVHVjBuN25kVFNqZ3VCNHR4Rkk0ckJKdDd1NnltdWtPbVdGYmpKRGdsRUVZ"
+    },
+    "npr_40c19647": {
+      "id": "npr_40c19647",
+      "title": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate",
+      "category": "News",
+      "source": "npr",
+      "time": "2026-10-30T05:17:31",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff7%2F1a%2Fc97b4483418a9b95444c9b8028d1%2Fap26296659159433.jpg",
+      "content": "The latest allegations in Alaska\u2019s U.S. Senate race claim that Democratic operatives are backing a third\u2011party candidate to split the vote, a move that has already sparked controversy in the state\u2019s pivotal contest.1\n\nThe claim matters because Alaska\u2019s Senate seat is a high\u2011stakes race that could shift the balance of power in Washington. If a spoiler candidate were to draw votes from the Democratic base, it could tilt the outcome in favor of the Republican contender, raising questions about the ethics and legality of such a strategy.1\n\nAccording to the new reporting, Democratic officials are purportedly supporting a candidate who is not aligned with the party\u2019s platform, with the aim of siphoning votes from the main Democratic nominee. The article does not identify the individuals or parties involved, nor does it provide dates or specific actions taken. The allegations have prompted immediate backlash from campaign staff and voters, and have led to calls for an investigation into the alleged coordination.1\n\nAlaska\u2019s Senate race has long been a focal point for national attention, given the state\u2019s strategic importance and the tight margins that often decide its electoral outcomes. A spoiler candidate\u2014someone who runs in a race primarily to divide the vote of a major party\u2014has historically altered the dynamics of elections, sometimes unintentionally benefiting the opposing major party. The concept is well understood in political science, though the legality of orchestrating such a strategy remains contested.\n\nThe primary stakeholders include the Republican and Democratic Senate candidates, the alleged spoiler candidate, campaign staff, and the electorate. If the allegations prove true, the Republican campaign could argue that the Democratic party engaged in deceptive practices, while the Democratic side may defend the move as a legitimate attempt to broaden representation. Voters, meanwhile, face the risk of a diluted vote that could misrepresent their preferences.\n\nThe implications of these allegations extend beyond the immediate race. They could prompt scrutiny from election oversight bodies, influence public trust in the electoral process, and set a precedent for how parties might engage with third\u2011party candidates in future contests. The situation also highlights the delicate balance between strategic campaigning and maintaining the integrity of democratic competition.\n\nObservers should watch for forthcoming statements from the implicated parties, any formal inquiries by state election officials, and the progression of the primary election. Key dates include the primary ballot deadline and the scheduled primary election itself, after which the legitimacy of the alleged spoiler strategy will likely be examined more closely.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NPR",
+          "url": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate"
+        }
+      ],
+      "original_url": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate",
+      "guid": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate"
+    },
+    "googlenews_59b999d6": {
+      "id": "googlenews_59b999d6",
+      "title": "U.S. Stocks Fall as Alphabet Slide Weighs on AI Optimism - WSJ",
+      "category": "Business",
+      "source": "googlenews",
+      "time": "2026-10-30T05:18:02",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28322%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27322%27%20cy%3D%27185%27%20r%3D%27140%27%20fill%3D%27hsl%282%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Alphabet\u2019s share price slide triggered a broader decline in U.S. stocks, with the tech giant\u2019s worst day on record contributing to a slump that weighed on optimism around artificial intelligence.\u202f[1]\n\nThe drop in Alphabet\u2019s valuation, which saw the company lose half a trillion dollars in market value, has rattled investors who had been buoyed by AI\u2011driven growth, prompting a shift in market sentiment and a rally in bond prices.\u202f[1]\n\nDuring the latest trading session, Alphabet shares fell sharply, marking the company\u2019s worst day ever. The decline contributed to a broader sell\u2011off in U.S. equities, as investors reassessed the pace of AI spending and its impact on corporate earnings.\u202f[1]\n\nThe slide in Alphabet\u2019s stock price was accompanied by a loss of roughly $500\u202fbillion in market capitalization, the largest single\u2011day drop for the company in its history.\u202f[1]\n\nThe decline in tech stocks was mirrored by a rise in bond yields, as investors sought safer assets amid concerns that AI spending could outpace returns.\u202f[1]\n\nAlphabet, the parent company of Google, has been a key driver of the AI boom, investing heavily in machine\u2011learning platforms and cloud services. Its stock had previously been a barometer for tech\u2011sector sentiment.\n\nThe broader market had been buoyed by expectations that AI would spur productivity gains across industries, leading to higher valuations for companies involved in the technology space.\n\nThe recent slide reflects a shift in investor perception, as concerns about the sustainability of AI\u2011driven growth and the cost of continued investment have begun to surface.\n\nAlphabet\u2019s shareholders, including institutional investors and retail traders, faced significant losses as the company\u2019s market value fell.\n\nThe decline also reverberated through the broader tech sector, affecting companies that rely on AI infrastructure and cloud services.\n\nBond markets benefited from the shift, with yields rising as investors moved capital into fixed\u2011income securities.\n\nThe market reaction suggests that investors are re\u2011evaluating the balance between AI investment costs and expected returns, potentially leading to a slowdown in tech\u2011sector valuations.\n\nIf the trend continues, it could influence corporate capital allocation decisions, prompting firms to prioritize short\u2011term profitability over long\u2011term AI development.\n\nMarket participants will be watching Alphabet\u2019s next earnings report and any guidance on AI spending, as well as broader economic data that could influence risk appetite.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdVVHMHFyMGd3YVdTZkQ3bklRNHRlQWtYU0VkcU9ibWo0dGVPTm5wcVdibDc5eElXdUZoUEtWWVQwREUyd2RCYlhxV1E2NlBkSGtUQks4Z3U2NzNTbXB6TVEzSVVCc1FpNG1aNE1iOFJiZ2ppdVpYWGdSeERMUDhXQUVZV1cxY1B0OGZnY1RKeU5RSFBPZGJnX29BU21jQ0Rz?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdVVHMHFyMGd3YVdTZkQ3bklRNHRlQWtYU0VkcU9ibWo0dGVPTm5wcVdibDc5eElXdUZoUEtWWVQwREUyd2RCYlhxV1E2NlBkSGtUQks4Z3U2NzNTbXB6TVEzSVVCc1FpNG1aNE1iOFJiZ2ppdVpYWGdSeERMUDhXQUVZV1cxY1B0OGZnY1RKeU5RSFBPZGJnX29BU21jQ0Rz?oc=5",
+      "guid": "CBMioAFBVV95cUxOdVVHMHFyMGd3YVdTZkQ3bklRNHRlQWtYU0VkcU9ibWo0dGVPTm5wcVdibDc5eElXdUZoUEtWWVQwREUyd2RCYlhxV1E2NlBkSGtUQks4Z3U2NzNTbXB6TVEzSVVCc1FpNG1aNE1iOFJiZ2ppdVpYWGdSeERMUDhXQUVZV1cxY1B0OGZnY1RKeU5RSFBPZGJnX29BU21jQ0Rz"
+    },
+    "pbs_a68f94d8": {
+      "id": "pbs_a68f94d8",
+      "title": "WATCH: Trumps host Halloween celebration at the White House",
+      "category": "News",
+      "source": "pbs",
+      "time": "2026-10-30T05:18:33",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-29T214108Z_237836284_RC29DOALC5PL_RTRMADP_3_USA-TRUMP-1024x724.jpg",
+      "content": "President Donald Trump and First Lady Melania Trump handed out candy to hundreds of costumed children outside the White House on Thursday during the annual Halloween celebration. [1]\n\nThe event, part of the White House\u2019s long\u2011standing Halloween tradition, drew a sizable crowd of families and reinforced the administration\u2019s engagement with the community during the holiday season.\n\nOn Thursday, the Trumps stood outside the White House residence and distributed candy to children in costumes. The crowd numbered in the hundreds, according to the report. [1]\n\nThe White House has hosted annual Halloween celebrations for many years, offering candy to children as a way to celebrate the holiday and foster goodwill. This tradition dates back to the early 20th century and has been maintained by successive administrations.\n\nThe primary beneficiaries are the children and families who attended, who received candy and a chance to interact with the President and First Lady. The event also serves to reinforce the White House\u2019s image as a welcoming institution.\n\nWhile the event is largely ceremonial, it underscores the administration\u2019s focus on community outreach during the holiday season. It also provides an opportunity for the public to see the President and First Lady in a more informal setting.\n\nThe White House will likely continue its tradition of hosting public holiday events, and observers will note how the administration balances ceremonial duties with broader policy priorities in the coming months.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/watch-trumps-host-halloween-celebration-at-the-white-house"
+        }
+      ],
+      "original_url": "https://www.pbs.org/newshour/politics/watch-trumps-host-halloween-celebration-at-the-white-house",
+      "guid": "https://www.pbs.org/newshour/politics/watch-trumps-host-halloween-celebration-at-the-white-house"
     }
   },
   "featured": {
-    "hero": "berkeleyuniv_dcfc07c0",
+    "hero": "guardian_2d96e702",
     "stack": [
-      "france24_99b5c92b",
-      "bbc_2e4f2c6a",
-      "irishtimes_78b99c2f"
+      "japantimes_6e763246",
+      "ap_cf495f6b",
+      "npr_40c19647"
     ],
     "latest": [
+      "npr_40c19647",
+      "ap_cf495f6b",
+      "japantimes_6e763246",
+      "berkeleyuniv_dcfc07c0",
       "irishtimes_78b99c2f",
-      "bbc_2e4f2c6a",
-      "france24_99b5c92b",
-      "irishtimes_d670728e",
-      "berkeleyuniv_52cea87c",
-      "csmonitor_52e41187"
+      "bbc_2e4f2c6a"
     ],
     "world": [
+      "japantimes_6e763246",
       "france24_99b5c92b",
       "irishtimes_78b99c2f",
-      "bbc_09dbb79f",
-      "irishtimes_d670728e"
+      "bbc_09dbb79f"
     ]
   },
   "categoryIndex": {
     "News": [
+      "pbs_a68f94d8",
       "ap_f7081c1f",
       "npr_dc79d776",
       "cjr_44de0e92",
@@ -16033,20 +16034,19 @@
       "snopes_8b1852cf",
       "cjr_66bd2eba",
       "ap_36c1ccbc",
-      "pbs_2a1d2897",
-      "pbs_930026e6"
+      "pbs_2a1d2897"
     ],
     "World": [
+      "france24_99b5c92b",
+      "irishtimes_d670728e",
+      "csmonitor_52e41187",
       "bbc_09dbb79f",
       "cna_ff7510e9",
       "abcau_774463f9",
       "csmonitor_94fc22d1",
       "economist_c16e74fa",
       "japantimes_654f482e",
-      "bbc_96413248",
-      "reuters_510ded18",
-      "bangkokpost_8e9945bd",
-      "irishtimes_9b8f3450"
+      "bbc_96413248"
     ],
     "Politics": [
       "bbc_5d866898",
@@ -16085,6 +16085,7 @@
       "googlenews_aecadfa5"
     ],
     "Science": [
+      "berkeleyuniv_52cea87c",
       "conversation_1bb44dd8",
       "guardian_ef655072",
       "conversation_7f4fd8f9",
@@ -16093,10 +16094,10 @@
       "conversation_59a2aa24",
       "nature_c0bbf03e",
       "bbc_c9233769",
-      "npr_36ad96e0",
-      "npr_6416e88f"
+      "npr_36ad96e0"
     ],
     "Business": [
+      "googlenews_59b999d6",
       "googlenews_8b07cb5b",
       "googlenews_a2b20540",
       "googlenews_9d35c2b8",
@@ -16105,12 +16106,16 @@
       "googlenews_f1038866",
       "googlenews_3fb594cc",
       "googlenews_94cd2476",
-      "googlenews_b3e810dc",
-      "googlenews_118bd6f4"
+      "googlenews_b3e810dc"
     ]
   },
-  "breaking": "ECB President Lagarde steps down in order to speak out",
+  "breaking": "Is the viral book rave real? We go to the second event to investigate.",
   "events": [
+    {
+      "title": "Is the viral book rave real? We go to the second event to investigate.",
+      "date": "2026-10-30",
+      "source": "Verum News"
+    },
     {
       "title": "NCS opens AI Mission Centre in Ang Mo Kio, to triple embedded AI engineers to ov",
       "date": "2026-10-29",
@@ -16123,9 +16128,9 @@
     }
   ],
   "mostRead": [
-    "Watch: Built at Berkeley, bound for space \u2013\u2013 to measure exploded stars",
+    "Is the viral book rave real? We go to the second event to investigate.",
     "S&P 500 posts back-to-back winning days as chips rally and oil prices slide: Liv",
-    "ECB President Lagarde steps down in order to speak out",
-    "Push for Thai storage of CCTV footage"
+    "Watch: Built at Berkeley, bound for space \u2013\u2013 to measure exploded stars",
+    "How rising seas transformed dry land into Venice lagoon"
   ]
 }
