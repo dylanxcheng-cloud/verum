@@ -1,125 +1,5 @@
 {
   "stories": {
-    "bbc_ddc41e8b": {
-      "id": "bbc_ddc41e8b",
-      "title": "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
-      "category": "Science",
-      "source": "bbc",
-      "time": "2026-09-19T20:24:08",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae7c/live/e294bb70-b35b-11f1-b949-71f91f81d1ab.jpg",
-      "content": "Michael Sheen met with the first minister to discuss allegations that toxic waste had been dumped illegally, a meeting the actor described as constructive and \u201cearly days but really encouraging\u201d [1].\n\nThe conversation has drawn attention because the claims involve potential environmental and public\u2011health risks that could affect local communities and the region\u2019s regulatory framework. Sheen\u2019s involvement signals that the issue has reached the highest levels of government, raising the possibility of formal investigations or policy responses.\n\nAccording to the reporting, Sheen and the first minister held a private meeting focused on the toxic\u2011dumping allegations. Sheen said the discussion was constructive and that, while it was still early in the process, the outcome was encouraging [1]. No further details about the meeting\u2019s content, timing, or location were disclosed by the sources.\n\nToxic\u2011dumping claims typically arise when communities or environmental groups allege that hazardous materials have been disposed of in violation of national or regional regulations. Such allegations can trigger investigations by environmental agencies, lead to remediation efforts, and sometimes result in legal action against responsible parties. Sheen has previously used his public profile to raise awareness about environmental issues, which may explain his engagement in this matter.\n\nThe first minister is the head of government for a devolved jurisdiction within the United Kingdom, responsible for a range of policy areas including environmental protection. The office holds authority over the enforcement of waste\u2011management regulations and can initiate inquiries or legislative changes in response to credible allegations of illegal dumping.\n\nStakeholders in the situation include local residents who may be exposed to contaminated sites, environmental advocacy groups monitoring the situation, and businesses that could be implicated in the alleged dumping. Sheen\u2019s public endorsement of the issue may amplify community concerns and pressure the first minister\u2019s office to act, while industry groups may seek clarification or defend their compliance records.\n\nIf the meeting leads to a formal inquiry, it could result in the identification of contaminated sites, the removal of hazardous materials, and the implementation of stricter oversight of waste disposal. The outcome may also influence future policy on environmental accountability and the role of public figures in advocating for regulatory change.\n\nThe meeting\u2019s characterization as constructive suggests that the first minister\u2019s office is receptive to the concerns raised, but the phrase \u201cearly days\u201d indicates that substantive actions are not yet underway. Observers will need to monitor subsequent statements from the first minister\u2019s office, any announcements of investigations, and the timeline for potential remediation efforts.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cke87n51563po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/cke87n51563po?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cke87n51563po#0"
-    },
-    "economist_9c177596": {
-      "id": "economist_9c177596",
-      "title": "Agreeing to make AI safer may be impossible",
-      "category": "World",
-      "source": "economist",
-      "time": "2026-09-19T20:24:20",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/960px-Flag_of_the_People%27s_Republic_of_China.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "content": "Experts say that while it is technically possible to make AI safer, achieving international agreement on safety protocols may be impossible because of disagreements between U.S. labs and regulators, and between the U.S. and China. [1]\n\nThe debate has implications for global governance of AI, national security, and the pace of technological innovation. It raises questions about how emerging technologies can be governed when key stakeholders have divergent priorities and when geopolitical rivalries intensify.\n\nRecent reports indicate that U.S. research laboratories claim they can develop safety measures, but federal agencies have expressed concerns about oversight and deployment. [1] Meanwhile, diplomatic channels between Washington and Beijing have stalled over differing priorities for AI regulation. [1] These tensions suggest that consensus on safety standards may remain elusive.\n\nArtificial\u2011intelligence safety refers to technical and policy measures designed to reduce the risk of harmful outcomes from advanced AI systems. In the United States, national laboratories conduct cutting\u2011edge research and often collaborate with industry, while federal agencies such as the Department of Energy and the National Science Foundation set policy and funding priorities. The U.S. government also coordinates with international partners through forums like the Global Partnership on AI, but the relationship with China has been strained by trade disputes, concerns over intellectual property, and divergent views on technology governance.\n\nThe laboratories that lead AI research are driven by scientific curiosity and the pursuit of breakthroughs, whereas regulatory bodies focus on risk assessment, public safety, and compliance with existing laws. This institutional split can lead to conflicting agendas: labs may push for rapid deployment of new models, while regulators may demand rigorous testing and transparency. The U.S.\u2013China divide adds another layer, as each country promotes its own approach to AI development and regulation, often with limited cooperation.\n\nStakeholders include researchers, policymakers, industry leaders, and the general public. For researchers, the lack of clear safety guidelines can hinder collaboration and slow progress. Policymakers face the challenge of balancing innovation with risk mitigation. Companies that develop AI products must navigate a patchwork of domestic and international regulations, which can increase compliance costs and affect competitiveness. The public, meanwhile, may experience both the benefits of AI applications and the risks of unintended consequences.\n\nThe situation suggests that technical feasibility alone does not guarantee policy alignment. Even if laboratories can implement safety protocols, without coordinated oversight and international agreement, those protocols may not be adopted consistently. This fragmentation could lead to uneven safety standards, creating loopholes that adversarial actors might exploit.\n\nIn the coming months, the U.S. government is expected to release updated guidance on AI safety, while diplomatic efforts to engage China on shared standards may resume. Key questions remain: Will the U.S. and China find common ground on safety frameworks? How will federal agencies reconcile their oversight priorities with the pace of laboratory research? The answers will shape the trajectory of AI governance worldwide.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Economist",
-          "url": "https://www.economist.com/international/2026/09/15/agreeing-to-make-ai-safer-may-be-impossible"
-        }
-      ],
-      "original_url": "https://www.economist.com/international/2026/09/15/agreeing-to-make-ai-safer-may-be-impossible",
-      "guid": "b3550d6e-c712-4659-bec2-0e5b42baf9b0"
-    },
-    "pbs_6e5e711f": {
-      "id": "pbs_6e5e711f",
-      "title": "Congo begins Ebola vaccinations for health workers in the epicenter of the outbreak",
-      "category": "News",
-      "source": "pbs",
-      "time": "2026-09-19T20:24:44",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-16T144444Z_226795097_RC2EGNAD8RRF_RTRMADP_3_HEALTH-EBOLA-WHO-1024x640.jpg",
-      "content": "Congo has begun vaccinating health workers in the epicenter of an ongoing Ebola outbreak with the Ervebo vaccine.\u202f[1]\n\nThe move aims to protect front\u2011line responders and curb transmission in a region that remains at high risk.\n\nThe campaign, launched in the outbreak\u2019s core area, prioritizes medical staff and other workers directly involved in the response.\u202f[1]\n\nHealth workers and other front\u2011line workers in the Ebola response are being prioritized to receive the Ervebo vaccine that was effective in past Ebola outbreaks caused by a different, more common type of virus.\u202f[1]\n\nEbola virus disease is a severe hemorrhagic fever that can cause high mortality rates.\n\nThe Ervebo vaccine is a recombinant vesicular stomatitis virus\u2013Zaire ebolavirus vaccine that has been approved for use in several countries.\n\nThe vaccine is administered as a single dose and is designed to induce immunity within a few weeks.\n\nPrevious use of Ervebo in outbreaks of a more common Ebola virus strain demonstrated its effectiveness in reducing case numbers.\n\nThe decision to vaccinate health workers follows WHO guidance that recommends protecting those at highest risk of exposure.\n\nHealth workers in the epicenter face daily exposure to infected patients and contaminated materials, making them vulnerable to infection.\n\nBy vaccinating these workers, the campaign seeks to maintain essential health services and prevent workforce shortages.\n\nThe rollout also involves coordination with international partners who supply the vaccine and provide logistical support.\n\nChallenges include ensuring adequate vaccine supply, training staff on administration, and monitoring for side effects.\n\nIf successful, the vaccination of front\u2011line responders could reduce the overall transmission rate and accelerate the containment of the outbreak.\n\nThe next steps will involve scaling up the vaccination to additional health facilities, tracking coverage, and evaluating the impact on case numbers.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/world/congo-begins-ebola-vaccinations-for-health-workers-in-the-epicenter-of-the-outbreak"
-        }
-      ],
-      "original_url": "https://www.pbs.org/newshour/world/congo-begins-ebola-vaccinations-for-health-workers-in-the-epicenter-of-the-outbreak",
-      "guid": "https://www.pbs.org/newshour/world/congo-begins-ebola-vaccinations-for-health-workers-in-the-epicenter-of-the-outbreak"
-    },
-    "bbc_e1348f96": {
-      "id": "bbc_e1348f96",
-      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "category": "Science",
-      "source": "bbc",
-      "time": "2026-09-20T04:27:15",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
-      "content": "President Donald\u202fJ.\u202fTrump announced that the United States will establish an \u201cAI Force\u201d and appoint an artificial\u2011intelligence tsar, while assuring that his administration will not in any way hinder or stifle the growth of the technology.\u202f[1]\n\nThe move signals a renewed federal focus on artificial intelligence, a field that has accelerated rapidly in recent years and is now central to debates over national security, economic competitiveness, and ethical governance. The announcement is likely to shape how the U.S. coordinates research, regulation, and industry engagement in AI.\n\nIn a statement delivered at an unspecified event, Trump said the U.S. would form an AI Force and appoint an AI tsar. He also emphasized that the administration would not impede AI development.\u202f[1]\n\nArtificial intelligence refers to computer systems that can perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision\u2011making, and language translation. The technology has moved from academic research to commercial products and defense applications, prompting governments worldwide to consider how best to foster innovation while addressing risks.\n\nThe concept of an AI Force suggests a coordinated body of experts and officials tasked with overseeing AI initiatives across federal agencies. While the president did not detail its structure, the term implies a cross\u2011agency effort to align policy, funding, and standards.\n\nAn AI tsar is a high\u2011ranking official who would oversee national AI strategy, ensuring that federal agencies work together and that policy decisions reflect a unified vision. The title has been used in other contexts to denote senior leadership in technology policy.\n\nTech companies, research institutions, and venture capital firms stand to be directly affected by any new federal coordination. A central body could streamline access to funding and regulatory guidance, potentially accelerating product development and deployment.\n\nNational security agencies and defense contractors are also key stakeholders. AI has significant implications for military capabilities, cyber defense, and intelligence gathering, and a unified federal approach could enhance strategic readiness.\n\nThe broader public, including consumers and workers, will watch for how the AI Force and tsar balance innovation with safeguards. Concerns about privacy, bias, and job displacement are central to the debate over how much oversight is appropriate.\n\nThe announcement may influence the U.S. position in the global AI race. By signaling a coordinated federal strategy, the administration could strengthen the country\u2019s competitiveness against nations that are investing heavily in AI research and infrastructure.\n\nWhether the AI Force will be staffed, funded, and empowered in a way that encourages rapid progress while mitigating risks remains to be seen. The next steps will likely involve formal appointments, budget allocations, and the drafting of policy guidelines.\n\nObservers should watch for the official appointment of the AI tsar, the establishment of the AI Force\u2019s mandate, and any accompanying legislation or executive orders that clarify the scope of federal involvement in AI development.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o#0"
-    },
-    "guardian_0162c093": {
-      "id": "guardian_0162c093",
-      "title": "\u2018I feel like I\u2019m cancelling out her life\u2019: the wrenching work of clearing out a parent\u2019s home",
-      "category": "Health",
-      "source": "guardian",
-      "time": "2026-09-20T04:27:18",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/06509a48907a09ba6466ca3797dcfcff355ee2f3/0_229_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=93470e3a77097cb962786e4c0ea6ca1a",
-      "content": "Ellen Rogers is clearing out her mother\u2019s long\u2011standing terrace house in Camperdown after Fay Rogers\u2019 death, making painful decisions about what to keep, discard or donate. [1]\n\nThe task of sorting a parent\u2019s belongings can be emotionally taxing, especially when the items are tied to memories and the house has been a lifelong home. [1]\n\nFay Rogers died in May at the age of 97 after living in the same terrace house in Camperdown her whole life. Rogers, who grew up there, returned three years ago to act as a live\u2011in carer for her mother and is now cleaning out the house so it can be sold. [1]\n\nOne of the hardest choices Rogers faced was deciding what to do with a floral dressing gown and matching bedspread that had been purchased by Fay shortly after her marriage in 1952. She placed the items in a garbage bag to be sent to a charity shop, saying she feels \u201cso bad.\u201d [1]\n\nThe house is filled with a wide array of items, from old love letters to pieces of string and countless cards. Rogers describes the sheer volume as overwhelming. [1]\n\nThe bedroom ensemble, a coordinated set of a floral dressing gown and matching bedspread, was a notable purchase made by Fay following her 1952 wedding. [1]\n\nSorting the contents of the home involves dividing items into categories such as family keepsakes, rubbish, and charity donations, each decision carrying an emotional weight for Rogers. [1]\n\nStakeholders in this process include Rogers herself, the estate, potential buyers of the property, and the charity shop that will receive donated items. The emotional impact on Rogers is significant, as she navigates the loss of her mother and the practicalities of estate clearance. [1]\n\nRogers\u2019 goal is to sell the property, and clearing out the house is a prerequisite for that sale. [1]\n\nThe experience highlights the broader emotional toll of estate clearance, the role of charity shops in repurposing items, and the risk of losing personal memories in the process. [1]\n\nMoving forward, Rogers will continue to sort the remaining items, with deadlines for the sale looming and decisions about the fate of the rest of the household goods still pending. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/society/ng-interactive/2026/sep/20/i-feel-like-im-cancelling-out-her-life-the-wrenching-work-of-clearing-out-a-parents-home"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/society/ng-interactive/2026/sep/20/i-feel-like-im-cancelling-out-her-life-the-wrenching-work-of-clearing-out-a-parents-home",
-      "guid": "https://www.theguardian.com/society/ng-interactive/2026/sep/20/i-feel-like-im-cancelling-out-her-life-the-wrenching-work-of-clearing-out-a-parents-home"
-    },
-    "reuters_accdebd7": {
-      "id": "reuters_accdebd7",
-      "title": "Paramount could settle with states over Warner Bros. as soon as this weekend, sources say - CNBC",
-      "category": "World",
-      "source": "reuters",
-      "time": "2026-09-20T04:27:20",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Warner_Bros._Discovery_%28symbol%29.svg/960px-Warner_Bros._Discovery_%28symbol%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "content": "Paramount could settle with states over Warner\u202fBros. as soon as this weekend, sources say.\u202f[1]\n\nThe possibility of a settlement this week would bring an end to a lawsuit that has drawn the attention of several state governments and the broader film\u2011distribution industry. A resolution could shape how major studios negotiate with state regulators and affect the legal landscape for future disputes involving content rights and distribution agreements.\n\nThe lawsuit, filed by a group of states, alleges that Paramount failed to meet certain obligations related to Warner\u202fBros. content. While the specific claims are not detailed in the reporting, the parties have reportedly been in negotiations, and a settlement could be reached as early as the upcoming weekend. No financial terms or other conditions have been disclosed.\n\nParamount Pictures, a long\u2011standing player in Hollywood\u2019s studio system, has historically partnered with Warner\u202fBros. on various distribution and licensing deals. State governments sometimes bring legal action against corporations when they believe contractual or regulatory obligations have been breached, though the precise nature of this case remains unspecified.\n\nThe parties most directly affected are Paramount and the states that brought the suit. The film industry at large watches closely, as a settlement could influence future contractual practices and the balance of power between studios and state regulators. Consumers are unlikely to see immediate changes, but the outcome could affect the availability and pricing of certain content in the future.\n\nIf a settlement is reached, it would likely avoid a protracted court battle and the associated costs for both sides. It could also provide a framework for resolving similar disputes, potentially encouraging more collaborative approaches between studios and state authorities.\n\nThe next steps will involve finalizing the terms of any settlement agreement and obtaining approval from the relevant state attorneys general. The outcome will be announced in the coming days, and any remaining legal filings will be scheduled accordingly.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObzlJVXZCRzducU44bDdzWjJLWnV4RmtwQkpmNE41cEkwVGtLVDNOSkNYcUIxU1hzd19oZEZ4VzA0WUlaOGFWMklEbWxua2haNkZpMS1Pa3kzd0x2cEZ0Ykw4V0lIQnRnNDV2NDJlak5seUs5WGdLdUtsaVlFVENVejI5NU84OUFFWmdFN3BfQmRxRk1lbE43TUd0SFJ5WGh2Q19PcndzaFNuZE1HbmfSAbMBQVVfeXFMTkhhb2tXd2hUdWowZ3ItY0I3cVNKRElpam5VVGQ0WTZ0QkFpM0cybE9IOUJKOU1VeTJEOHVZQ1VBRHplV2V5UnNvck04c2FPRXZVbjhSbF9mM29VRHFEemVaLW1hbHc1OFhMcnJ1a09xVE1ZREZTUHJITTJWWno1SjZMby1mWTBIY05Zdmt0cm5QXzBpWTJkREJ0U3c4QVZtYi1mMVlhd2ZFM2ZUUW5zaXZVZ0k?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObzlJVXZCRzducU44bDdzWjJLWnV4RmtwQkpmNE41cEkwVGtLVDNOSkNYcUIxU1hzd19oZEZ4VzA0WUlaOGFWMklEbWxua2haNkZpMS1Pa3kzd0x2cEZ0Ykw4V0lIQnRnNDV2NDJlak5seUs5WGdLdUtsaVlFVENVejI5NU84OUFFWmdFN3BfQmRxRk1lbE43TUd0SFJ5WGh2Q19PcndzaFNuZE1HbmfSAbMBQVVfeXFMTkhhb2tXd2hUdWowZ3ItY0I3cVNKRElpam5VVGQ0WTZ0QkFpM0cybE9IOUJKOU1VeTJEOHVZQ1VBRHplV2V5UnNvck04c2FPRXZVbjhSbF9mM29VRHFEemVaLW1hbHc1OFhMcnJ1a09xVE1ZREZTUHJITTJWWno1SjZMby1mWTBIY05Zdmt0cm5QXzBpWTJkREJ0U3c4QVZtYi1mMVlhd2ZFM2ZUUW5zaXZVZ0k?oc=5",
-      "guid": "CBMirgFBVV95cUxObzlJVXZCRzducU44bDdzWjJLWnV4RmtwQkpmNE41cEkwVGtLVDNOSkNYcUIxU1hzd19oZEZ4VzA0WUlaOGFWMklEbWxua2haNkZpMS1Pa3kzd0x2cEZ0Ykw4V0lIQnRnNDV2NDJlak5seUs5WGdLdUtsaVlFVENVejI5NU84OUFFWmdFN3BfQmRxRk1lbE43TUd0SFJ5WGh2Q19PcndzaFNuZE1HbmfSAbMBQVVfeXFMTkhhb2tXd2hUdWowZ3ItY0I3cVNKRElpam5VVGQ0WTZ0QkFpM0cybE9IOUJKOU1VeTJEOHVZQ1VBRHplV2V5UnNvck04c2FPRXZVbjhSbF9mM29VRHFEemVaLW1hbHc1OFhMcnJ1a09xVE1ZREZTUHJITTJWWno1SjZMby1mWTBIY05Zdmt0cm5QXzBpWTJkREJ0U3c4QVZtYi1mMVlhd2ZFM2ZUUW5zaXZVZ0k"
-    },
     "snopes_384968b8": {
       "id": "snopes_384968b8",
       "title": "Did Ilhan Omar marry her brother? No evidence backing Mullin's claim",
@@ -15999,28 +15879,148 @@
       ],
       "original_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSVhNc1B0blFGWEhzMEgtSHVnMXQtaUJTTkVPcmxGZWk4Vk5HUURkeFhRVDNuZGdlX2dqM0wtSlItS0VkdzdDYlhzQXlTUlN2cXpKbFd5cEhYZFFCMGtBYVlWTDRIZkh5Z3hxWDQ3QlJhNXhTRzA4Q2twS2hJRUQ1QnB5N2FZdE9nQXJ6YWN6V0lvWHRoOTJpWHBUd283UFZs?oc=5",
       "guid": "CBMioAFBVV95cUxNSVhNc1B0blFGWEhzMEgtSHVnMXQtaUJTTkVPcmxGZWk4Vk5HUURkeFhRVDNuZGdlX2dqM0wtSlItS0VkdzdDYlhzQXlTUlN2cXpKbFd5cEhYZFFCMGtBYVlWTDRIZkh5Z3hxWDQ3QlJhNXhTRzA4Q2twS2hJRUQ1QnB5N2FZdE9nQXJ6YWN6V0lvWHRoOTJpWHBUd283UFZs"
+    },
+    "france24_6ee5cc7e": {
+      "id": "france24_6ee5cc7e",
+      "title": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
+      "category": "World",
+      "source": "france24",
+      "time": "2026-11-02T05:29:05",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://s.france24.com/media/display/c665287a-bb41-11f1-9424-177f79e345bf/w:1024/p:16x9/2026-09-28T094246Z-237616975-RC28SNAUGKNH-RTRMADP-3-BRITAIN-USA-FAIRFORD.jpg",
+      "content": "Over Halloween weekend, a series of shootings in nightlife districts and near university campuses across the United States left at least six people dead and dozens wounded, with Dallas reporting the highest casualty count.\u202f[1]\n\nThe incidents underscore the persistent risk of gun violence during large public celebrations, affecting not only the victims and their families but also the broader communities that rely on nightlife venues and campus life for social and economic activity.\u202f[1]\n\nThe shootings occurred in nightlife districts and near university campuses during the Halloween period, a time when many Americans gather for parties and events. At least six people were killed and dozens injured, and Dallas recorded the highest number of casualties among the affected locations.\u202f[1]\n\nPolice in several states are actively investigating the incidents, and some suspects remain at large.\u202f[1]\n\nHalloween weekend is traditionally a period of heightened social activity, with many people attending parties, bars, and campus events. The increased foot traffic and alcohol consumption can create environments where conflicts are more likely to erupt into violence.\n\nGun violence has been a persistent issue in the United States, with law enforcement agencies routinely responding to shootings in public spaces. Investigations typically involve collecting forensic evidence, interviewing witnesses, and identifying suspects through surveillance footage and other investigative techniques.\n\nThe primary stakeholders in these events include residents of nightlife districts, university students and staff, law\u2011enforcement officers, and policymakers tasked with balancing public safety and individual rights. The incidents also impact local businesses that depend on nightlife and campus tourism.\n\nThe shootings have resulted in loss of life, physical injuries, and a heightened sense of fear among those who frequented the affected areas. The emotional toll on survivors and families, as well as the economic repercussions for venues and nearby businesses, are significant.\n\nThe pattern of violence during a holiday that encourages public gathering may prompt renewed discussions about gun control measures, security protocols at nightlife venues, and campus safety initiatives. It also raises questions about how communities can better prepare for and respond to sudden outbreaks of gun violence.\n\nInvestigations are ongoing, with authorities continuing to search for the remaining suspects and to determine the motives behind the attacks. The next steps will likely involve further evidence collection, witness interviews, and coordination across state lines to address the multi\u2011jurisdictional nature of the incidents.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "France 24",
+          "url": "https://www.france24.com/en/americas/20261102-halloween-weekend-shootings-across-us-leave-at-least-six-dead-dozens-wounded"
+        }
+      ],
+      "original_url": "https://www.france24.com/en/americas/20261102-halloween-weekend-shootings-across-us-leave-at-least-six-dead-dozens-wounded",
+      "guid": "32cb14f4-d657-11f1-904b-b798d30cad20"
+    },
+    "irishtimes_c1739809": {
+      "id": "irishtimes_c1739809",
+      "title": "Man charged with murder of Somali national at Kerry Ipas centre",
+      "category": "World",
+      "source": "irishtimes",
+      "time": "2026-11-02T05:29:58",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://www.irishtimes.com/resizer/v2/NQLONRJNBBE45N6QTURPNQNMTQ.jpg?auth=a27f34fd59937af15b2d3584a0c9a87f38a92570790c19ae0e5271a85caa4a02&smart=true&width=630&height=350",
+      "content": "A man has been charged with murder after a Somali national was killed at the Kerry Ipas centre, and he is also charged with causing harm to another man at Ballymullen Barracks in Tralee.\u202f[1] The dual charges bring the case to the attention of both the civilian and military communities in County Kerry.\u202f[1]\n\nThe indictment underscores concerns about safety at community support facilities and at military installations, and it highlights the seriousness with which Irish prosecutors treat violent offences. The case also illustrates the legal process that follows a fatal incident involving a vulnerable individual.\u202f[1]\n\nAccording to the Garda\u00ed, the defendant was arrested following an investigation into the death of a Somali national at the Kerry Ipas centre. The same individual is charged with causing harm to another man at Ballymullen Barracks.\u202f[1] The charges were announced by the Department of Justice after the police completed their inquiry into the incidents.\u202f[1]\n\nIpas is a national charity that provides support for people with intellectual disabilities, operating centres across Ireland, including the Kerry location. The organisation offers residential, day\u2011care and therapeutic services to individuals who require ongoing assistance.\u202f[general context]\n\nBallymullen Barracks is a Royal Irish Regiment base in Tralee, used for training and accommodation of troops. The site hosts a range of military activities and is staffed by both soldiers and civilian personnel.\u202f[general context]\n\nThe families of the victims, the Ipas community, the military community, and the broader public are all affected by the incident. The case raises questions about the adequacy of security measures and the protection of vulnerable individuals in both civilian and military settings.\u202f[analysis]\n\nThe charges may prompt investigations into security protocols at both sites, and could lead to reviews of safety measures for residents of community centres and for personnel stationed at military bases.\u202f[analysis]\n\nThe case underscores the need for robust security and support for vulnerable populations in community settings, and for the military to maintain safe environments for its personnel. It also highlights the importance of swift investigative and prosecutorial action in violent crimes.\u202f[analysis]\n\nThe defendant will likely appear before a court for arraignment, and further details will emerge as the investigation proceeds. The next steps will include a bail hearing and the scheduling of a trial, with the outcome dependent on the evidence presented by the prosecution.\u202f[analysis]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/courts/2026/11/01/man-charged-with-murder-of-somali-national-at-kerry-asylum-seeker-accommodation/"
+        }
+      ],
+      "original_url": "https://www.irishtimes.com/crime-law/courts/2026/11/01/man-charged-with-murder-of-somali-national-at-kerry-asylum-seeker-accommodation/",
+      "guid": "https://www.irishtimes.com/crime-law/courts/2026/11/01/man-charged-with-murder-of-somali-national-at-kerry-asylum-seeker-accommodation/"
+    },
+    "bbc_93d63c13": {
+      "id": "bbc_93d63c13",
+      "title": "Spill from vandalised home oil tank kills 13 birds",
+      "category": "Science",
+      "source": "bbc",
+      "time": "2026-11-02T05:30:00",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b9/live/727760b0-d47e-11f1-b441-2b33b063138f.jpg",
+      "content": "A spill from a vandalised home oil tank earlier this week killed 13 birds and injured a number of others.\u202f[1]\n\nThe incident underscores the vulnerability of local wildlife to accidental chemical releases and highlights the broader environmental risks posed by unsecured household fuel storage.\n\nThe spill occurred when a home oil tank, which had been vandalised, ruptured and released its contents into the surrounding area. 13 birds were reported dead and a further number were injured by the oil.\u202f[1]\n\nOil tanks are commonly installed in residential settings to store heating oil or other petroleum products. When damaged or tampered with, they can leak or rupture, releasing oil that is toxic to birds and other wildlife.\n\nLocal wildlife observers, homeowners, and environmental agencies are all stakeholders in the aftermath of the spill. The incident raises concerns for the health of the local bird population and for the safety of residents who may have stored oil on their property.\n\nThe death and injury of 13 birds represent a measurable loss to the local avian community, potentially affecting breeding and feeding patterns in the area.\n\nThe spill may also contaminate nearby soil and water sources, necessitating cleanup efforts and possibly prompting legal or regulatory action against the vandalism.\n\nAuthorities are expected to investigate the vandalism, coordinate cleanup operations, and monitor the affected area for ongoing environmental impacts.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go#0"
+    },
+    "france24_57845028": {
+      "id": "france24_57845028",
+      "title": "Russia and Ukraine accuse each other of hacking emergency alert apps",
+      "category": "World",
+      "source": "france24",
+      "time": "2026-11-02T05:30:35",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://s.france24.com/media/display/01e27286-d5fa-11f1-9fb6-695cb59fade5/w:1024/p:16x9/6a3c233d865056dcf34ec2006538c9fc902893e3.jpg",
+      "content": "Russia and Ukraine have accused each other of hacking emergency alert applications as a local ceasefire in the war\u2019s eastern Kherson region expired on Sunday. The cyber\u2011attacks were reported shortly after the ceasefire ended, with both sides blaming the other for compromising civilian alert systems.1\n\nThe accusations come amid warnings of renewed fighting and a signal from Kyiv that it could halt strikes on Russian oil refineries in exchange for U.S. Patriot missiles.1\n\nEmergency alert apps are used by governments to broadcast warnings about natural disasters, military threats, and other emergencies to the public. The Kherson ceasefire, which had been in place for a limited period, was intended to reduce hostilities in the region. The war in eastern Ukraine has involved ongoing clashes between Russian\u2011backed separatists and Ukrainian forces since 2014.\n\nThe cyber\u2011attacks raise concerns about the security of civilian communication infrastructure during armed conflict. Both sides have warned that any escalation could lead to increased civilian casualties and further destabilization.\n\nThe potential halt of strikes on Russian oil refineries, coupled with the U.S. supplying Patriot missile systems to Ukraine, reflects the broader geopolitical stakes. The exchange of military actions and diplomatic concessions illustrates how cyber incidents can intersect with conventional warfare and international arms agreements.\n\nThe situation remains fluid. The next steps are likely to involve diplomatic talks, monitoring of cyber incidents, and a reassessment of the ceasefire terms in Kherson.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "France 24",
+          "url": "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked"
+        }
+      ],
+      "original_url": "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked",
+      "guid": "a0ced658-d65b-11f1-ae13-8b30643331f8"
+    },
+    "bbc_154c386e": {
+      "id": "bbc_154c386e",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "category": "World",
+      "source": "bbc",
+      "time": "2026-11-02T05:30:39",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg",
+      "content": "The Ukrainian Air Force said its air\u2011raid alert app had been hacked, sending users a false radiation warning. [1] Within hours, Russian authorities announced that their own app had also been compromised, with counterfeit alerts sent to users inside Russia. [1]\n\nThe incident highlights the growing vulnerability of digital civil\u2011defence systems that civilians rely on for real\u2011time safety information. In both countries, mobile apps deliver warnings about incoming air raids, enabling residents to seek shelter quickly.\n\nAccording to the Air Force, the app was compromised and a false radiation threat was pushed to users. [1] The breach was discovered when users reported receiving the warning. [1] The app\u2019s primary function is to notify civilians of imminent air attacks, a critical tool in the ongoing conflict.\n\nRussian officials later confirmed that their own air\u2011raid alert app had been hacked, with fake warnings disseminated to users across the country. [1] Like Ukraine\u2019s system, the Russian app is intended to provide timely alerts to the population.\n\nAir\u2011raid alert apps are a key component of civil\u2011defence infrastructure in both Ukraine and Russia. They use mobile notifications to inform citizens of threats, allowing them to take protective action. The conflict has increased reliance on such digital systems to safeguard civilians.\n\nThe stakeholders most directly affected are the civilians who depend on these apps for safety, the Ukrainian Air Force and Russian authorities responsible for maintaining them, and the cybersecurity teams tasked with protecting the systems. The hacks also raise concerns for the broader public, who may lose confidence in official warning mechanisms.\n\nThe false radiation warning could have caused panic among Ukrainian users, while the counterfeit Russian alerts may have led to confusion about real threats. [1] Both incidents undermine trust in the reliability of official warning systems. [1] The governments are investigating the breaches. [1]\n\nThe hacks demonstrate vulnerabilities in the digital infrastructure that could be exploited by hostile actors. [1] They highlight the need for stronger cybersecurity measures in civil alert systems. [1] The incidents may prompt a review of security protocols and the implementation of additional safeguards. [1]\n\nInvestigations by Ukrainian and Russian cybersecurity agencies are underway. [1] Officials are expected to release further details on the nature of the hacks and any remedial steps. [1] The next update may come from the Ukrainian Air Force or the Russian Ministry of Digital Development. [1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo#0"
+    },
+    "economist_8f61588e": {
+      "id": "economist_8f61588e",
+      "title": "The War Room newsletter: The best warplanes in history",
+      "category": "World",
+      "source": "economist",
+      "time": "2026-11-02T05:31:17",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/StevnsfortetWarRoom.JPG/3840px-StevnsfortetWarRoom.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "The War Room newsletter \u201cThe best warplanes in history\u201d was recently released by senior editor Richard\u202fCockett, who takes readers on a survey of the most iconic aircraft that have shaped aerial combat over the past century.\u202f[1] The piece promises a concise look at the planes that have earned reputations for speed, firepower, and innovation.\u202f[1]\n\nThe newsletter arrives at a time when interest in military aviation is high, with new documentaries and museum exhibits drawing attention to the technological leaps that have defined modern warfare. By spotlighting the most celebrated warplanes, Cockett offers a curated overview that can serve both aviation enthusiasts and scholars seeking a quick reference to the aircraft that have left lasting marks on history.\u202f[1]\n\nCockett\u2019s article begins with a brief introduction to the criteria he uses to rank the planes, such as combat effectiveness, technological breakthroughs, and cultural impact. He then lists the aircraft in descending order, providing a snapshot of each model\u2019s service record and key achievements. The format is straightforward, with short paragraphs and clear headings that guide the reader through the evolution of air power from the early biplanes of World War\u202fI to the stealth fighters of the 21st\u202fcentury.\u202f[1]\n\nWhile the newsletter does not delve into exhaustive technical details, it situates each aircraft within the broader context of its era. Readers learn how the introduction of jet engines in the 1940s revolutionized speed and altitude, or how the development of radar and electronic countermeasures in the Cold War era shifted the focus from sheer firepower to survivability and stealth. These explanations help readers understand why certain planes are considered milestones in aviation history.\u202f[1]\n\nThe primary audience for this newsletter is likely aviation hobbyists, military historians, and students of technology. For professionals in defense procurement or aerospace engineering, the piece offers a quick refresher on the legacy designs that continue to influence contemporary aircraft development. The article also serves as a useful primer for journalists covering defense topics, providing a concise reference to the most influential warplanes.\u202f[1]\n\nBecause the newsletter is a secondary source, it does not present new data or primary research. Instead, it synthesizes existing historical accounts and expert analyses into a readable format. This approach makes the content accessible without sacrificing accuracy, aligning with the War Room\u2019s reputation for well\u2011sourced, factual reporting.\u202f[1]\n\nLooking ahead, readers can expect further installments that explore other facets of military aviation, such as unmanned aerial vehicles, air defense systems, or the evolution of aircraft manufacturing. The War Room\u2019s editorial team may also release comparative studies that examine how technological advances in one era influenced design choices in subsequent periods.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Economist",
+          "url": "https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history"
+        }
+      ],
+      "original_url": "https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history",
+      "guid": "8e32ce64-e7ce-4ac9-a3bf-2129b59a9d6c"
     }
   },
   "featured": {
-    "hero": "npr_c12ba4ed",
+    "hero": "france24_6ee5cc7e",
     "stack": [
-      "nature_86593c56",
-      "aljazeera_fbc25b7e",
-      "dw_ddc25ed9"
+      "irishtimes_c1739809",
+      "bbc_93d63c13",
+      "france24_57845028"
     ],
     "latest": [
+      "france24_57845028",
+      "bbc_93d63c13",
+      "irishtimes_c1739809",
+      "npr_c12ba4ed",
       "dw_ddc25ed9",
-      "aljazeera_fbc25b7e",
-      "nature_86593c56",
-      "guardian_766c6af4",
-      "aljazeera_74325159",
-      "googlenews_1894fbb1"
+      "aljazeera_fbc25b7e"
     ],
     "world": [
-      "aljazeera_fbc25b7e",
-      "dw_ddc25ed9",
-      "abcau_be36b1f8",
-      "aljazeera_74325159"
+      "france24_6ee5cc7e",
+      "irishtimes_c1739809",
+      "france24_57845028",
+      "bbc_154c386e"
     ]
   },
   "categoryIndex": {
@@ -16037,16 +16037,16 @@
       "ap_cf495f6b"
     ],
     "World": [
+      "economist_8f61588e",
+      "bbc_154c386e",
+      "aljazeera_74325159",
       "abcau_be36b1f8",
       "irishtimes_880a2bb0",
       "france24_f0440023",
       "csmonitor_68f49600",
       "cna_ca6870d8",
       "straitstimes_5e062fd9",
-      "straitstimes_68050fa7",
-      "aljazeera_a18883ef",
-      "guardian_b662e1eb",
-      "japantimes_259b963e"
+      "straitstimes_68050fa7"
     ],
     "Politics": [
       "bbc_2e4f2c6a",
@@ -16085,6 +16085,8 @@
       "bbc_2cbcdded"
     ],
     "Science": [
+      "nature_86593c56",
+      "guardian_766c6af4",
       "guardian_64a147f1",
       "npr_16814973",
       "nature_45b18a7f",
@@ -16092,11 +16094,10 @@
       "guardian_5dcb6750",
       "conversation_956747a5",
       "guardian_2d96e702",
-      "bbc_25a77402",
-      "berkeleyuniv_dcfc07c0",
-      "berkeleyuniv_52cea87c"
+      "bbc_25a77402"
     ],
     "Business": [
+      "googlenews_1894fbb1",
       "googlenews_07c7c88b",
       "googlenews_91273319",
       "googlenews_59b999d6",
@@ -16105,11 +16106,10 @@
       "googlenews_9d35c2b8",
       "googlenews_04950b0d",
       "googlenews_7c59f067",
-      "googlenews_f1038866",
-      "googlenews_3fb594cc"
+      "googlenews_f1038866"
     ]
   },
-  "breaking": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+  "breaking": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
   "events": [
     {
       "title": "Is the viral book rave real? We go to the second event to investigate.",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
+    "Halloween weekend shootings across US leave at least six dead, dozens wounded",
+    "Man charged with murder of Somali national at Kerry Ipas centre",
     "Labour\u2019s pledge to level-up minimum wage for under-20s before next election in d",
-    "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them ",
-    "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-",
-    "Briefing Chat: Dog years: could longevity science extend your pets' lives?"
+    "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them "
   ]
 }
