@@ -1,105 +1,5 @@
 {
   "stories": {
-    "bbc_0eb41f4d": {
-      "id": "bbc_0eb41f4d",
-      "title": "Smart beds and motion sensors - is this the future of dementia care?",
-      "category": "Health",
-      "source": "bbc",
-      "time": "2026-09-21T04:25:35",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a178/live/a9e7df60-ad15-11f1-826f-933990eae6f0.jpg",
-      "content": "Jyoti and Bharat Patel are testing a suite of dementia\u2011care technologies that includes motion sensors embedded in socks, a smart bed, and devices placed throughout their home.\u202f[1]\n\nThe experiment reflects a growing interest in using unobtrusive technology to support people with dementia and their caregivers. If the devices can reliably monitor movement and alert staff to falls or wandering, they could reduce the need for constant supervision and improve safety.\n\nIn the Patels\u2019 home, the sensors in the socks track gait and balance, the smart bed records sleep patterns and pressure changes, and additional motion detectors around the house monitor activity levels and detect unusual movements. The family is evaluating how well the system captures data and how quickly alerts reach caregivers.\n\nDementia, a progressive neurological disorder, often leads to memory loss, confusion, and impaired mobility. Traditional care relies heavily on human observation, which can be labor\u2011intensive and inconsistent. Technology that passively records behavior offers a potential supplement to these methods.\n\nSmart beds typically incorporate pressure sensors and temperature probes that map how a person shifts during sleep. Motion sensors, whether in wearable form or placed in rooms, use infrared or acoustic detection to track movement patterns. Together, these devices can create a continuous profile of a person\u2019s daily activity.\n\nThe primary stakeholders in this approach are the patients, who may benefit from increased safety and autonomy, and their caregivers, who could gain peace of mind and reduced workload. Technology developers and healthcare providers also have a stake, as successful deployment could open new markets and improve care standards.\n\nPotential benefits include early detection of falls, better sleep monitoring, and data that can inform personalized care plans. Challenges involve ensuring data privacy, maintaining device accuracy in varied home environments, and integrating alerts into existing care workflows.\n\nWhile the Patels\u2019 trial is still in early stages, it illustrates a broader trend toward integrating wearable and environmental sensors into dementia care. If the technology proves reliable, it could shift the balance from reactive to proactive management of the condition.\n\nThe next steps for the Patels will likely involve collecting more data over several weeks, refining alert thresholds, and testing the system\u2019s response time. Their findings may inform larger studies and guide regulatory approvals for consumer\u2011grade dementia\u2011care devices.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c3056d456gro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/c3056d456gro?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c3056d456gro#0"
-    },
-    "npr_1d7c8cc7": {
-      "id": "npr_1d7c8cc7",
-      "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
-      "category": "News",
-      "source": "npr",
-      "time": "2026-09-21T04:27:11",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5266x2962+0+549/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2F81%2F8aa962b54221ad8ec82e05992ed3%2Fap652341088737.jpg",
-      "content": "Ten lions were found dead inside Tanzania\u2019s Ngorongoro Conservation Area, and authorities suspect the animals were poisoned. The discovery of the carcasses has raised alarms about the growing problem of wildlife poisoning across East Africa.\n\nThe incident is significant because it threatens the conservation of one of the region\u2019s most iconic predators and underscores a broader pattern of illegal poisonings that jeopardise biodiversity and the tourism industry that depends on healthy wildlife populations.\n\nThe lions were located in the Ngorongoro Conservation Area, a popular wildlife reserve that attracts visitors from around the world. The exact cause of death has not yet been confirmed, but preliminary investigations point to the use of poison as the likely factor. The bodies were found in a cluster, suggesting a coordinated act rather than isolated incidents.\n\nNgorongoro Conservation Area is a UNESCO World Heritage site that encompasses the Ngorongoro Crater, a volcanic caldera that supports a dense concentration of wildlife, including lions, elephants, and zebras. The area is managed by the Tanzania Wildlife Research Institute and is a major contributor to the country\u2019s tourism revenue.\n\nPoisoning of wildlife has been documented in several East African countries, including Kenya and Uganda, where farmers and herders sometimes use toxic substances to protect livestock or to reduce competition for resources. These incidents often go unreported or are under\u2011investigated, leading to gaps in data about the scale of the problem.\n\nThe deaths affect multiple stakeholders. Conservationists worry about the loss of a significant portion of the local lion population, which could disrupt predator\u2011prey dynamics. Local communities that rely on tourism for income may face economic losses if the reserve\u2019s reputation is damaged. Government agencies, such as the Tanzania Wildlife Research Institute, are responsible for investigating the cause and enforcing wildlife protection laws.\n\nIf the suspected poisoning is confirmed, it could prompt stricter enforcement of anti\u2011poisoning regulations and increased monitoring of the reserve. The incident may also influence international funding decisions, as donors often tie financial support to evidence of effective wildlife protection.\n\nAuthorities have begun an investigation to determine the exact cause of death and to identify any individuals or groups responsible for the alleged poisoning. The investigation is expected to involve forensic analysis of the carcasses and interviews with local residents. The next public update is anticipated within the coming weeks, as officials seek to provide clarity and reassure stakeholders that measures are being taken to prevent future incidents.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "NPR",
-          "url": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania"
-        }
-      ],
-      "original_url": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
-      "guid": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania"
-    },
-    "bbc_5cad1296": {
-      "id": "bbc_5cad1296",
-      "title": "What food items should you stock up on in case of an emergency?",
-      "category": "Science",
-      "source": "bbc",
-      "time": "2026-09-21T04:27:41",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1639/live/7f44b520-b379-11f1-bc1f-3f186ca4140c.jpg",
-      "content": "The UK government has urged citizens to stock up on canned goods amid concerns that extreme weather could disrupt food supplies.[1]\n\nThe advice signals a shift in emergency preparedness, as climate change increases the likelihood of severe weather events that can affect grocery stores and distribution networks.[1]\n\nIn a recent announcement, the government recommended that households keep a supply of canned foods, which are shelf\u2011stable and can be stored for months.[1]\n\nCanned goods are preserved by heating and sealing, which prevents spoilage and extends shelf life.\n\nEmergency food supplies typically include items that do not require refrigeration and can be prepared with minimal resources.\n\nConsumers are advised to consider the long\u2011term storage of canned goods, as they can help maintain nutrition during supply disruptions.\n\nRetailers may see increased demand for canned products, which could affect inventory and pricing.\n\nThe government\u2019s guidance may prompt a shift in consumer purchasing patterns, potentially leading to higher stockpiling of shelf\u2011stable foods.\n\nIf extreme weather events become more frequent, the reliance on canned goods could become a standard part of household emergency kits.\n\nThe government may issue further recommendations on emergency food supplies and may monitor supply chain resilience in the coming months.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c20veglyjp8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/c20veglyjp8o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c20veglyjp8o#0"
-    },
-    "googlenews_6f1f440a": {
-      "id": "googlenews_6f1f440a",
-      "title": "Millions take calcium and vitamin D for bone health. A major review finds little benefit - ScienceDaily",
-      "category": "Health",
-      "source": "googlenews",
-      "time": "2026-09-21T12:31:09",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28105%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27305%27%20cy%3D%27263%27%20r%3D%27140%27%20fill%3D%27hsl%28145%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Millions of people take calcium and vitamin D supplements to protect bone health, but a recent comprehensive review suggests the expected benefits may be minimal.[1]\n\nThe finding challenges long\u2011standing recommendations that encourage supplementation for osteoporosis prevention and raises questions about public health guidance.\n\nThe review examined a broad range of studies and concluded that supplementation did not significantly reduce fracture risk, indicating that the protective effect of calcium and vitamin D may be smaller than previously thought.[1]\n\nCalcium and vitamin D are essential nutrients that support bone mineralization. For decades, health authorities have promoted their intake to prevent osteoporosis, especially among older adults.\n\nPatients, clinicians, and policymakers rely on evidence to guide supplement use. The new findings may influence prescribing practices and consumer behavior, prompting a reevaluation of routine supplementation.\n\nIf supplementation offers limited protection, resources could be redirected toward other preventive measures such as weight\u2011bearing exercise and dietary changes.\n\nResearchers are calling for further high\u2011quality trials to clarify the role of calcium and vitamin D, and health agencies may revise guidelines accordingly.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MeThrNEVlSVo4aXRYSzFYcGx6andaVVU0cG0wcnhwMjduVXU4Y0lRWWthSjZNSHMtVlVEZUhHTlZQTW1OSWpiQVdKMjRTTkQwSE5DaHdoT0xzZFVnam03a2JSRUNVZXd3QzhKRzNaZw?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MeThrNEVlSVo4aXRYSzFYcGx6andaVVU0cG0wcnhwMjduVXU4Y0lRWWthSjZNSHMtVlVEZUhHTlZQTW1OSWpiQVdKMjRTTkQwSE5DaHdoT0xzZFVnam03a2JSRUNVZXd3QzhKRzNaZw?oc=5",
-      "guid": "CBMib0FVX3lxTE1MeThrNEVlSVo4aXRYSzFYcGx6andaVVU0cG0wcnhwMjduVXU4Y0lRWWthSjZNSHMtVlVEZUhHTlZQTW1OSWpiQVdKMjRTTkQwSE5DaHdoT0xzZFVnam03a2JSRUNVZXd3QzhKRzNaZw"
-    },
-    "pbs_10fc50cf": {
-      "id": "pbs_10fc50cf",
-      "title": "World leaders meet at UN as planet grapples with war, runaway AI and climate shocks",
-      "category": "News",
-      "source": "pbs",
-      "time": "2026-09-21T12:31:13",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-16T163315Z_579928687_RC2QXKA4XP9K_RTRMADP_3_SUDAN-POLITICS-UN-1024x683.jpg",
-      "content": "World leaders convened at the United Nations this week, confronting a trio of escalating crises\u2014ongoing wars, the rapid development of autonomous artificial intelligence, and a surge of climate\u2011related shocks\u2014amid a global atmosphere of bitter divisions.\u202f[1]\n\nThe gathering matters because the decisions made here could shape international security protocols, the governance of emerging technologies, and the financing of climate adaptation efforts. The outcomes may influence how states coordinate responses to conflict, regulate AI systems, and meet climate\u2011mitigation targets.\n\nThe UN General Assembly, the main deliberative body of the United Nations, brings together representatives from all 193 member states. During this session, delegates discussed the pressing threats that the world faces, from armed conflicts that destabilize regions to the potential misuse of autonomous weapons and the increasing frequency of extreme weather events.\n\nThe Assembly\u2019s agenda reflects a long history of multilateral engagement on global challenges. Since its inception in 1945, the General Assembly has served as a forum for states to negotiate and adopt resolutions on a wide range of issues, from human rights to economic development.\n\nWar remains a persistent source of instability, with conflicts in multiple regions continuing to displace populations and strain international resources. The rapid pace of AI development has raised concerns about the deployment of autonomous systems in military and civilian contexts, prompting calls for new governance frameworks. Climate shocks\u2014such as heatwaves, floods, and storms\u2014have intensified, underscoring the urgency of climate resilience measures.\n\nStakeholders in these debates include national governments, international organizations, technology firms, and civil society groups. Each brings distinct priorities: governments seek to protect national interests, tech companies aim to navigate regulatory uncertainty, and activists push for robust safeguards against misuse.\n\nThe Assembly\u2019s deliberations could lead to the adoption of new resolutions, the allocation of funding for conflict prevention, the establishment of AI oversight bodies, and the strengthening of climate finance mechanisms. While resolutions are not legally binding, they carry significant political weight and can influence national policy.\n\nHowever, the deep divisions among member states pose a challenge to consensus. Divergent geopolitical interests, differing assessments of technological risks, and varied climate commitments have historically impeded swift action on these fronts.\n\nLooking ahead, the UN Security Council will likely convene to address specific conflict zones, while the General Assembly may host side events focused on AI ethics and climate finance. The outcomes of these meetings will be closely watched by policymakers, industry leaders, and advocacy groups.\n\nThe next few weeks will test the diplomatic resolve of the international community. Whether the Assembly can forge meaningful agreements on AI governance, conflict resolution, and climate adaptation remains to be seen, but the stakes for global stability and sustainability are unmistakably high.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/world/world-leaders-meet-at-un-as-planet-grapples-with-war-runaway-ai-and-climate-shocks"
-        }
-      ],
-      "original_url": "https://www.pbs.org/newshour/world/world-leaders-meet-at-un-as-planet-grapples-with-war-runaway-ai-and-climate-shocks",
-      "guid": "https://www.pbs.org/newshour/world/world-leaders-meet-at-un-as-planet-grapples-with-war-runaway-ai-and-climate-shocks"
-    },
     "dw_d124c9ca": {
       "id": "dw_d124c9ca",
       "title": "Germany news: Trial starts of ex-Transport Minister Scheuer",
@@ -15999,32 +15899,134 @@
       ],
       "original_url": "https://www.dw.com/en/can-us-midterm-election-really-change-trump-s-iran-policy/a-79840683?maca=en-rss-en-all-1573-rdf",
       "guid": "https://www.dw.com/en/can-us-midterm-election-really-change-trump-s-iran-policy/a-79840683?maca=en-rss-en-all-1573-rdf"
+    },
+    "bbc_229ce94e": {
+      "id": "bbc_229ce94e",
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "category": "World",
+      "source": "bbc",
+      "time": "2026-11-03T23:05:31",
+      "read": "3 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png",
+      "content": "Seven flights across Europe were inspected for explosives after separate suspected bomb threats were received by authorities. [1] The incidents involved aircraft in Poland, Spain, Bulgaria, and Italy, each of which underwent security checks following the alerts. [1]\n\nThe events underscore the ongoing vigilance required in aviation security and the routine procedures that airlines and airports employ when faced with potential threats. [1] They also highlight how a single threat can trigger a chain of responses that affect passengers, airlines, and national security agencies.\n\nAuthorities reported that they received separate bomb threat communications concerning seven different flights. [1] The nature of the communications\u2014whether phone calls, emails, or other messages\u2014was not disclosed. The flights were identified only by their country of origin or destination: Poland, Spain, Bulgaria, and Italy. [1]\n\nIn Poland, a flight was inspected for explosives after a threat was reported. [1] In Spain, a separate flight underwent a similar inspection. [1] A flight in Bulgaria was also checked for potential explosives following a distinct threat. [1] In Italy, another aircraft was subjected to an explosive detection procedure after a separate alert. [1]\n\nThe checks were carried out by security personnel using standard equipment such as X\u2011ray scanners and explosive detection dogs. [1] The procedures likely involved a thorough search of the aircraft\u2019s cargo holds and passenger areas, as well as a review of the flight\u2019s documentation and passenger manifests.\n\nBomb threats have long prompted airlines and airports to maintain rigorous screening protocols. [General context] When a threat is received, the standard response includes notifying law enforcement, conducting a comprehensive search of the aircraft, and, if necessary, diverting the flight to an alternate airport.\n\nEuropean aviation security is coordinated by the European Aviation Safety Agency and national authorities, who set guidelines for threat detection and response. [General context] These guidelines require airlines to have contingency plans for bomb threats, including rapid communication with security agencies and clear procedures for passenger safety.\n\nThe standard procedure for a bomb threat involves a coordinated effort between airline staff, airport security, and law enforcement. [General context] This coordination ensures that any potential explosive device is identified and neutralized before the aircraft takes off.\n\nPassengers on the affected flights were subject to additional security procedures, which could have caused delays and increased anxiety. [General context] Airlines had to manage the balance between maintaining safety and minimizing disruption to travelers.\n\nAirlines and airport operators faced operational disruptions and the need to communicate effectively with passengers and regulators. [General context] They also had to review their threat response protocols to ensure compliance with national and European security standards.\n\nSecurity agencies in each country were involved in investigating the origins of the threats and coordinating the response. [General context] Their work included tracing the source of the alerts and determining whether the threats were credible or part of a broader pattern.\n\nThe incidents highlight the persistent threat of terrorism and the importance of robust security measures in aviation. [General context] They also illustrate how even a single threat can trigger a widespread security response across multiple countries.\n\nRepeated bomb threats may lead to increased scrutiny of airline security practices and potentially spur investment in advanced detection technologies. [General context] Authorities may also review legal frameworks governing threat reporting and the penalties for making false or malicious alerts.\n\nIn the coming weeks, investigators will likely continue to trace the origins of the threats, while airlines will review and possibly update their threat response protocols. The next steps may include public statements from aviation authorities and updates on any changes to security procedures. [General context]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo#0"
+    },
+    "guardian_fc060f35": {
+      "id": "guardian_fc060f35",
+      "title": "Andy Burnham to unveil EU trade deals worth billions of pounds",
+      "category": "Politics",
+      "source": "guardian",
+      "time": "2026-11-03T23:05:48",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/a3bcb1206777f0bbd79cf66d8fe6a3f511a15650/422_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6672ef460ec8e45417c648bf11f56030",
+      "content": "Andy Burnham is preparing to announce a series of EU trade deals worth billions of pounds that cover everything from youth visas to pet passports, signalling a push for a closer relationship with Brussels.[1]\n\nThe agreements will affect a range of stakeholders, including UK farmers, travellers, young people and environmental groups.[1]\n\nBurnham\u2019s announcement is set against the backdrop of a scheduled meeting between the Prime Minister and European counterparts in Brussels on 20\u202fNovember, during which the three deals have reportedly been all but agreed. The agreements would allow farmers to sell freely to the continent and enable travellers to take their animals abroad more easily.[1]\n\nSince the United Kingdom left the European Union in 2020, the two sides have negotiated a comprehensive trade and cooperation agreement that covers goods, services, and regulatory alignment. The new deals build on that framework, extending cooperation to areas that were previously governed by separate arrangements, such as pet passports, youth mobility programmes and emissions targets.\n\nNegotiations for the new agreements involve a coordinated effort between the UK Department for International Trade and the European Commission, with each side reviewing technical details and ensuring that the arrangements comply with existing EU rules. The phrase \u201ccloser relationship\u201d refers to a broader alignment of standards and procedures that would reduce administrative barriers for businesses and individuals.\n\nFarmers stand to benefit from the removal of tariff and non\u2011tariff barriers that currently restrict the sale of UK produce in the EU market. By allowing free movement of goods, the deal could expand market access for British agricultural producers and potentially increase their competitiveness against EU rivals.\n\nTravellers, particularly those who own pets, will find it easier to move across borders thanks to the updated pet passport system. The agreement also introduces a new youth visa scheme that would simplify travel for young people between the UK and EU member states, potentially boosting tourism and cultural exchange.\n\nThe emissions component of the deals aims to align the UK\u2019s climate commitments with those of the EU, ensuring that both sides pursue comparable targets for greenhouse\u2011gas reductions. This alignment could influence the regulatory environment for industries such as energy, transport and manufacturing, which are subject to emissions standards.\n\nStakeholders with divergent interests include UK businesses that may welcome increased market access but also face heightened competition from EU firms; EU authorities that seek to protect their internal market while maintaining trade openness; and environmental groups that monitor the environmental impact of expanded trade and emissions policies.\n\nIf finalized, the agreements could provide a measurable economic boost by opening new markets for UK goods and services, while also reinforcing regulatory coherence across the UK\u2011EU border. Politically, the deals signal a willingness to deepen ties with Brussels, potentially influencing future negotiations on broader issues such as security cooperation and data protection.\n\nThe next key development will be the Prime Minister\u2019s meeting with European counterparts on 20\u202fNovember, where the final details of the agreements are expected to be confirmed. Following that, the UK government will likely publish the full texts of the deals and open a period of public consultation before they are formally ratified.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
+      "guid": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit"
+    },
+    "bbc_5a4c1d62": {
+      "id": "bbc_5a4c1d62",
+      "title": "Mahmood refuses to put cost on care worker settlement climbdown",
+      "category": "Politics",
+      "source": "bbc",
+      "time": "2026-11-03T23:06:30",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7457/live/a8002b30-d768-11f1-a956-ff083523ef77.png",
+      "content": "Home Secretary Mahmood has declined to disclose the financial cost of reversing a planned extension to the waiting period for care workers to obtain settlement status. [1]\n\nThe decision, announced amid concerns over the UK\u2019s care workforce, signals a shift in immigration policy that could affect thousands of overseas workers and the NHS. [1]\n\nThe government had proposed extending the waiting period for care workers seeking settlement, but the Home Secretary has now abandoned that plan. He said the full cost of this change will be presented at a later date. [1]\n\nThe settlement scheme for care workers was introduced to address shortages in the health and social care sector. It allows workers who have lived and worked in the UK for a certain period to apply for permanent residence.\n\nThe proposed extension would have increased the waiting period from 12 to 18 months, a move that was intended to tighten immigration controls but faced criticism from care providers and workers.\n\nThe Home Secretary's refusal to provide a cost estimate at this stage has raised questions about the fiscal impact of the policy reversal. [1]\n\nCare workers, many of whom rely on the settlement scheme to secure long\u2011term residency, are directly affected. The NHS and care homes, which depend on overseas staff, may see changes in recruitment patterns.\n\nEmployers have expressed concern that the lack of clarity could disrupt staffing plans, while workers fear uncertainty about their future status.\n\nWithout a clear cost figure, it is difficult to assess how the policy change will influence government budgeting and the broader immigration strategy. The decision may also signal a more flexible approach to settlement rules.\n\nThe Home Secretary indicated that the cost details will be released in the future, suggesting that a formal assessment is underway. [1]\n\nThe government is expected to publish a detailed cost analysis in the coming weeks, and further statements may clarify the timeline for the policy's implementation. [1]\n\nThe policy reversal comes amid broader debates over immigration and the NHS workforce, with opposition parties calling for clearer commitments to support overseas staff.\n\nThe Home Secretary's stance may reflect a balancing act between fiscal prudence and the need to maintain a robust care workforce.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo#0"
+    },
+    "googlenews_cf84c5bf": {
+      "id": "googlenews_cf84c5bf",
+      "title": "Hackers behind $6.3bn Binance heist \u2018used malware and bogus job interviews\u2019 - The Guardian",
+      "category": "Business",
+      "source": "googlenews",
+      "time": "2026-11-03T23:07:36",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28236%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27596%27%20cy%3D%2799%27%20r%3D%27140%27%20fill%3D%27hsl%28276%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "A cyber\u2011attack that stole $6.3\u202fbillion in cryptocurrency from Binance, the world\u2019s largest digital\u2011asset exchange, was carried out by hackers who deployed malware and staged fake job interviews to gain access to the firm\u2019s systems. The operation, which has been described as the largest hack in the history of crypto\u2011assets, was revealed in a series of reports that traced the attackers\u2019 tactics back to a single Binance engineer who believed he was being interviewed for a new position. The attackers then used the opportunity to install malicious software and exfiltrate funds. The co\u2011CEO of Binance, Richard Teng, confirmed that the criminals had also employed an artificial\u2011intelligence tool to facilitate the theft. All of these details were reported by The Guardian, NPR, Bloomberg and the Washington Post.\u00b9\n\nThe loss of $6.3\u202fbillion in digital assets has reverberated across the cryptocurrency market, shaking investor confidence and prompting regulators to re\u2011examine the security protocols of exchanges. The incident underscores the vulnerability of even the most heavily guarded platforms to sophisticated social\u2011engineering attacks and highlights the need for stricter verification processes for internal access. It also raises questions about the adequacy of current cyber\u2011security frameworks in the rapidly evolving crypto ecosystem.\u00b9\n\nAccording to the reports, the attackers first targeted a Binance engineer who was approached under the pretense of a job interview. The engineer, believing the interaction to be legitimate, provided the attackers with credentials that allowed them to infiltrate Binance\u2019s internal network. Once inside, the hackers deployed malware designed to harvest sensitive data and facilitate the transfer of funds. The malware\u2019s presence was later discovered during routine security audits, but by that time the attackers had already moved $6.3\u202fbillion worth of cryptocurrency out of Binance\u2019s wallets.\u00b9\n\nThe hackers\u2019 use of a bogus job interview was a key element of the breach. By posing as a recruiter, they were able to bypass initial security checks and gain the engineer\u2019s trust. The engineer\u2019s subsequent actions\u2014such as granting access to secure systems\u2014were instrumental in allowing the attackers to install the malware. The operation also involved an AI tool that helped the hackers identify and exploit vulnerabilities within Binance\u2019s infrastructure. The combination of social engineering, malware, and AI made the breach both swift and difficult to detect.\u00b9\n\nBinance, founded in 2017 by Changpeng Zhao, has grown to become the largest cryptocurrency exchange by trading volume. The platform supports a wide range of digital assets and offers services such as spot trading, futures, and staking. Despite its prominence, Binance has faced scrutiny over its security practices and regulatory compliance. The recent heist has intensified calls for more robust security measures and greater transparency in the handling of customer funds.\u00b9\n\nMalware, in this context, refers to malicious software designed to infiltrate a computer system without the user\u2019s knowledge. In the Binance case, the malware was used to harvest credentials and facilitate the transfer of funds. The attackers\u2019 use of a fake job interview illustrates a broader trend in cyber\u2011crime, where social\u2011engineering tactics are combined with technical exploits to bypass security controls. The AI tool reportedly helped the hackers automate parts of the attack, such as scanning for vulnerable systems and crafting phishing messages.\u00b9\n\nStakeholders in the incident include Binance\u2019s customers, who risk losing their funds; the broader cryptocurrency market, which may experience volatility; and regulators, who may impose new requirements on exchanges. Binance\u2019s leadership has pledged to investigate the breach and strengthen its security posture. The incident also raises concerns for other exchanges that may be targeted using similar tactics, potentially leading to a wave of cyber\u2011attacks across the industry.\u00b9\n\nThe implications of the heist extend beyond the immediate financial loss. It highlights the fragility of digital asset custodianship and the potential for large-scale theft when internal controls are compromised. The incident may prompt exchanges to adopt multi\u2011factor authentication, stricter verification for internal access, and more rigorous monitoring of anomalous activity. It also underscores the need for industry\u2011wide standards for cyber\u2011security and incident response.\u00b9\n\nBinance has announced that it is cooperating with law enforcement agencies and cybersecurity firms to trace the stolen funds and identify the perpetrators. The company has also pledged to enhance its internal security protocols, including tighter controls on employee access and more comprehensive employee training on phishing and social\u2011engineering threats. The investigation is ongoing, and regulators are expected to review Binance\u2019s security practices in the coming weeks.\u00b9",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaEV0bUVQaFRQSnQwSzNSX2JZc2dKckR3M1RGRE9aZ0hWUzBBVVpQMU9JWk90MVJRajJHV1dMaGptOGZ2NW1BQmpyNDhVLUgwTWFoS0JFRlhidDhhYU9BdWRpQWVsX1J6ZFRndG8xaTlIWWRPaXc0ODg1SV9JSG9Rb0c5OUI3S3Nhd19uTTVlQ3htblFDTk81cU1ORS1tQmkwaXpMSnVOdEZqbkxjbnQzSS1NdDJnZzZDT05z?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaEV0bUVQaFRQSnQwSzNSX2JZc2dKckR3M1RGRE9aZ0hWUzBBVVpQMU9JWk90MVJRajJHV1dMaGptOGZ2NW1BQmpyNDhVLUgwTWFoS0JFRlhidDhhYU9BdWRpQWVsX1J6ZFRndG8xaTlIWWRPaXc0ODg1SV9JSG9Rb0c5OUI3S3Nhd19uTTVlQ3htblFDTk81cU1ORS1tQmkwaXpMSnVOdEZqbkxjbnQzSS1NdDJnZzZDT05z?oc=5",
+      "guid": "CBMiuwFBVV95cUxOaEV0bUVQaFRQSnQwSzNSX2JZc2dKckR3M1RGRE9aZ0hWUzBBVVpQMU9JWk90MVJRajJHV1dMaGptOGZ2NW1BQmpyNDhVLUgwTWFoS0JFRlhidDhhYU9BdWRpQWVsX1J6ZFRndG8xaTlIWWRPaXc0ODg1SV9JSG9Rb0c5OUI3S3Nhd19uTTVlQ3htblFDTk81cU1ORS1tQmkwaXpMSnVOdEZqbkxjbnQzSS1NdDJnZzZDT05z"
+    },
+    "snopes_ceb89cea": {
+      "id": "snopes_ceb89cea",
+      "title": "Are 2 Mike Rogers staffers registered agents for Israel?",
+      "category": "News",
+      "source": "snopes",
+      "time": "2026-11-03T23:09:00",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/11/do_mike_rogers_staffers_abigail_ronson_and_jesse_stokes_work_for_the_israeli_government.png",
+      "content": "Government filings confirm that Abigail Ronson and Jesse Stokes, who have worked as strategists for Congressman Mike\u202fRogers\u2019 campaign, were foreign agents for Israel.\u202f[1]\n\nThe revelation raises questions about the extent of foreign influence in U.S. political campaigns and could affect Rogers\u2019 standing among voters and colleagues.\n\nThe filings, released by the Department of Justice, list Ronson and Stokes as foreign agents for Israel, noting their roles as strategists in Rogers\u2019 campaign.\u202f[1]\n\nThe documents were filed under the Foreign Agents Registration Act (FARA), which requires individuals acting on behalf of foreign principals to disclose their activities, fees, and the foreign entity they represent.\n\nMike Rogers, a U.S. Representative from Michigan, has served in Congress for several terms and has been involved in national policy debates on defense and technology.\n\nA campaign strategist\u2019s duties typically include crafting messaging, coordinating outreach, and shaping policy positions to align with a candidate\u2019s platform.\n\nUnder FARA, failure to register as a foreign agent can lead to civil penalties and, in some cases, criminal charges.\n\nThe disclosure may prompt scrutiny from ethics committees or the House Committee on Ethics, which oversees conduct of members and their staff.\n\nStakeholders include Rogers\u2019 campaign, his constituents, and the broader political community, all of whom may reassess the candidate\u2019s affiliations and transparency.\n\nThe case illustrates the ongoing debate over foreign influence in U.S. elections and the enforcement of FARA, especially as the law has seen renewed attention in recent years.\n\nRogers may issue a statement; the Department of Justice may investigate; and the House Ethics Committee may review the matter, with potential implications for the campaign\u2019s future strategy.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Snopes",
+          "url": "https://www.snopes.com/fact-check/mike-rogers-staffers-israel-agents/"
+        }
+      ],
+      "original_url": "https://www.snopes.com/fact-check/mike-rogers-staffers-israel-agents/",
+      "guid": "https://www.snopes.com/fact-check/mike-rogers-staffers-israel-agents/"
     }
   },
   "featured": {
-    "hero": "berkeleyuniv_bc215657",
+    "hero": "bbc_229ce94e",
     "stack": [
-      "guardian_71aa4cfe",
-      "nature_0a1680c8",
-      "aljazeera_7e90665d"
+      "guardian_fc060f35",
+      "bbc_5a4c1d62",
+      "googlenews_cf84c5bf"
     ],
     "latest": [
+      "googlenews_cf84c5bf",
+      "bbc_5a4c1d62",
+      "guardian_fc060f35",
+      "berkeleyuniv_bc215657",
       "aljazeera_7e90665d",
-      "nature_0a1680c8",
-      "guardian_71aa4cfe",
-      "ap_759fef20",
-      "irishtimes_641eb911",
-      "bbc_b75fad3a"
+      "nature_0a1680c8"
     ],
     "world": [
+      "bbc_229ce94e",
       "aljazeera_7e90665d",
       "dw_e96f1d81",
-      "irishtimes_641eb911",
-      "bbc_4909dfc7"
+      "irishtimes_641eb911"
     ]
   },
   "categoryIndex": {
     "News": [
+      "snopes_ceb89cea",
+      "ap_759fef20",
       "npr_c12ba4ed",
       "ap_1bb9681e",
       "fullfact_c4b2f5cc",
@@ -16032,11 +16034,10 @@
       "pbs_6fe0a0a5",
       "snopes_e2a78fc5",
       "npr_9d6d4582",
-      "pbs_6fe3db45",
-      "fullfact_50a7c348",
-      "npr_40c19647"
+      "pbs_6fe3db45"
     ],
     "World": [
+      "irishtimes_641eb911",
       "dw_e96f1d81",
       "bangkokpost_c0d80792",
       "bbc_4909dfc7",
@@ -16045,8 +16046,7 @@
       "guardian_efe8a232",
       "irishtimes_c1739809",
       "dw_ddc25ed9",
-      "aljazeera_fbc25b7e",
-      "economist_8f61588e"
+      "aljazeera_fbc25b7e"
     ],
     "Politics": [
       "bbc_2e4f2c6a",
@@ -16073,6 +16073,7 @@
       "googlenews_c9f26861"
     ],
     "Health": [
+      "guardian_71aa4cfe",
       "googlenews_00a30957",
       "guardian_6e8d0293",
       "bbc_44698303",
@@ -16081,10 +16082,10 @@
       "googlenews_edf89194",
       "guardian_6d434309",
       "googlenews_e6408a8e",
-      "bbc_2b027f38",
-      "guardian_0745f57d"
+      "bbc_2b027f38"
     ],
     "Science": [
+      "bbc_b75fad3a",
       "nasa_88d37520",
       "nature_12da2a13",
       "npr_b50726d4",
@@ -16093,8 +16094,7 @@
       "nature_86593c56",
       "guardian_766c6af4",
       "guardian_64a147f1",
-      "npr_16814973",
-      "nature_45b18a7f"
+      "npr_16814973"
     ],
     "Business": [
       "googlenews_2357af60",
@@ -16109,7 +16109,7 @@
       "googlenews_7c59f067"
     ]
   },
-  "breaking": "Iran commander sets out five conditions for regional security",
+  "breaking": "Seven flights across Europe targeted by suspected bomb threats",
   "events": [
     {
       "title": "Is the viral book rave real? We go to the second event to investigate.",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
+    "Andy Burnham to unveil EU trade deals worth billions of pounds",
+    "Seven flights across Europe targeted by suspected bomb threats",
     "Hometown Remix jerseys receive rave reviews from NHL players - NHL.com",
-    "Pennsylvania\u2019s Grand Canyon",
-    "In parallel mouse studies, researchers fail to replicate many reported effects o",
-    "Rent rises of up to 88% still passing in England despite Renters\u2019 Reform Act"
+    "Pennsylvania\u2019s Grand Canyon"
   ]
 }
