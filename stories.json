@@ -1,125 +1,5 @@
 {
   "stories": {
-    "bbc_782d5a41": {
-      "id": "bbc_782d5a41",
-      "title": "Martha's Rule rolled out at every A&E department in England",
-      "category": "Health",
-      "source": "bbc",
-      "time": "2026-09-22T16:42:23",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d0/live/df827690-b5c5-11f1-abb5-85e9be42cb76.jpg",
-      "content": "The \u201cMartha\u2019s Rule\u201d has been implemented in every Accident & Emergency (A&E) department across England.\u202f[1] The policy, named after 13\u2011year\u2011old Martha\u202fMills, follows a tragic case in which her family reported that their concerns about her care were ignored before she died.\u202f[1]\n\nThe rule is intended to improve how emergency departments respond to families\u2019 worries and to ensure that such concerns are taken seriously.\u202f[1] By mandating that staff acknowledge and address family input, the policy seeks to prevent the kind of oversight that led to Martha\u2019s death.\n\nThe rollout began this week, with all A&E units required to adopt the new procedures immediately.\u202f[1] Hospitals have been instructed to train staff on the rule\u2019s requirements and to establish clear channels for families to voice concerns.\n\nA&E departments are the frontline of emergency care in the UK, handling a wide range of urgent medical situations.\u202f[1] The introduction of Martha\u2019s Rule reflects a broader effort to strengthen accountability and communication in these high\u2011pressure settings.\n\nPatients, their families, and the medical teams that serve them are the primary stakeholders.\u202f[1] The rule places a new responsibility on clinicians to listen to families and to document their concerns, while also providing families with a clearer path to raise issues.\n\nIf the rule is followed, it could restore confidence in emergency services and reduce the risk of similar oversights.\u202f[1] The policy\u2019s success will depend on consistent application and ongoing oversight.\n\nHealth authorities will monitor compliance over the coming months and may adjust the rule as needed.\u202f[1] The next step will be a review of implementation outcomes and any reported incidents that test the new guidelines.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo#0"
-    },
-    "npr_5b7c2626": {
-      "id": "npr_5b7c2626",
-      "title": "This 'fire amoeba' pushes the limit of what's possible for complex life",
-      "category": "News",
-      "source": "npr",
-      "time": "2026-09-22T16:43:04",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1021x574+0+41/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F97%2F5d98a1b647ebab46a93dc60e8c2c%2Fcopy-of-cell-alt-cover.jpg",
-      "content": "Scientists have found a species they've named the fire amoeba, which is capable of reproducing at 145\u202f\u00b0F and continuing to move up to temperatures of 147\u202f\u00b0F\u2014a record for complex eukaryotic life. [1]\n\nThe discovery pushes the known temperature limits for eukaryotes and may influence research in evolutionary biology, biotechnology, and the search for life beyond Earth.\n\nThe finding was made by a team of researchers who identified a species they named the fire amoeba. The organism can reproduce at 145\u202f\u00b0F and continue to move at temperatures up to 147\u202f\u00b0F. [1] The record for complex eukaryotic life is 147\u202f\u00b0F. [1]\n\nAmoebae are single\u2011cell eukaryotes that move by extending pseudopodia and engulf food through phagocytosis. They are found in diverse habitats, from freshwater ponds to soil.\n\nEukaryotic cells contain a nucleus and membrane\u2011bound organelles, distinguishing them from prokaryotes. Most eukaryotes cannot survive above 100\u202f\u00b0F, making the fire amoeba an exceptional case.\n\nThermophilic organisms that thrive at high temperatures are typically bacteria or archaea. The fire amoeba represents the first eukaryote known to reproduce and move at temperatures approaching 150\u202f\u00b0F.\n\nMicrobiologists and evolutionary biologists will examine the genetic adaptations that enable the fire amoeba to withstand extreme heat.\n\nBiotechnologists may explore enzymes from the fire amoeba that function at high temperatures for industrial processes.\n\nThe discovery suggests that eukaryotic life can adapt to extreme thermal environments, which informs models of early Earth conditions and the potential for life on hot planetary bodies.\n\nThe record challenges the long\u2011standing boundary between prokaryotic and eukaryotic thermophiles and may prompt a reevaluation of the limits of cellular life.\n\nFuture research will focus on the organism\u2019s genome, protein stability, and metabolic pathways that support high\u2011temperature reproduction and motility.\n\nScientists are expected to publish detailed genomic data and conduct experiments to test the fire amoeba\u2019s resilience, while exploring its ecological niche and potential applications.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "NPR",
-          "url": "https://www.npr.org/2026/09/22/nx-s1-5977044/fire-amoeba-extremophile-eukaryote-life"
-        }
-      ],
-      "original_url": "https://www.npr.org/2026/09/22/nx-s1-5977044/fire-amoeba-extremophile-eukaryote-life",
-      "guid": "https://www.npr.org/2026/09/22/nx-s1-5977044/fire-amoeba-extremophile-eukaryote-life"
-    },
-    "bbc_b5ecd784": {
-      "id": "bbc_b5ecd784",
-      "title": "New EU industry rules would damage UK, warns Burnham",
-      "category": "Politics",
-      "source": "bbc",
-      "time": "2026-09-22T16:43:48",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9f0/live/e15023e0-b684-11f1-97fb-8d66d3951490.jpg",
-      "content": "The United Kingdom\u2019s prime minister has warned that a set of new industry rules proposed by the European Union could damage the UK\u2019s economy. He said he would raise his concerns with the European Commission President at a forthcoming meeting. [1]\n\nThe warning comes at a time when the UK is still negotiating its post\u2011Brexit relationship with the EU. Any new regulatory framework that the EU implements could affect UK businesses that trade with EU member states, potentially creating new compliance costs or trade barriers. The prime minister\u2019s remarks signal that the UK government is actively monitoring EU policy developments that could impact its economic interests. [1]\n\nDuring a brief statement, the prime minister said that the EU\u2019s proposed rules would be detrimental to the UK. He added that he would bring the issue to the attention of the European Commission President when they meet later in the week. The source does not provide details about the specific rules or the timing of the meeting. The prime minister\u2019s comments are the first public indication that the UK government is preparing to challenge the EU\u2019s regulatory agenda. [1]\n\nThe EU has a long history of setting industry standards that member states must follow. These rules cover a wide range of sectors, from manufacturing and technology to environmental and safety regulations. After leaving the EU, the UK negotiated a trade and cooperation agreement that allows for continued access to the single market, but the UK is no longer bound by EU directives. The new rules therefore represent a potential shift in the regulatory landscape that could affect UK exporters and manufacturers. (General context)\n\nUK industry has benefited from the ability to set its own standards while still accessing the EU market. However, the UK must still meet certain EU requirements to maintain tariff\u2011free trade. The prime minister\u2019s warning suggests that the UK is concerned that the EU\u2019s new rules might impose additional obligations on UK firms, potentially undermining the advantages gained from the post\u2011Brexit trade agreement. (General context)\n\nThe primary stakeholders in this situation are UK businesses that export to the EU, the UK government, and EU regulatory bodies. UK firms could face higher compliance costs or new administrative burdens if the EU\u2019s rules are applied to trade with the UK. The UK government, meanwhile, must balance the need to protect its economic interests with the desire to maintain a constructive relationship with the EU. (General context)\n\nIf the EU\u2019s industry rules are implemented without UK participation, UK companies may need to adjust their supply chains or product specifications to meet new standards. This could lead to increased costs, reduced competitiveness, or delays in market access. The UK government\u2019s decision to raise concerns with the European Commission President could influence how the EU approaches the rules, potentially leading to negotiations or adjustments that consider UK interests. (General context)\n\nThe implications of the prime minister\u2019s warning are largely speculative at this point. It is unclear whether the EU will alter its regulatory plans in response to the UK\u2019s concerns. However, the statement signals that the UK is prepared to engage diplomatically to protect its economic interests. (General context)\n\nThe next key development will be the meeting between the UK prime minister and the European Commission President. The outcome of that discussion could shape the trajectory of the EU\u2019s industry rules and their impact on UK trade. The UK government will likely monitor the EU\u2019s legislative process closely and may seek further diplomatic engagement if the rules are adopted. (General context)",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo#0"
-    },
-    "japantimes_298719db": {
-      "id": "japantimes_298719db",
-      "title": "Two North Korea members of Asian Games seek asylum in Japan, report says",
-      "category": "World",
-      "source": "japantimes",
-      "time": "2026-09-22T21:08:15",
-      "read": "4 min read",
-      "mode": "compact",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/22/564495.jpg",
-      "content": "Two members of North Korea\u2019s delegation to the Aichi\u2011Nagoya Asian Games sought asylum in Japan, a report said, citing a Japanese official. The two were among a 180\u2011member North Korean delegation that arrived for the games, which opened Saturday. The report did not identify the individuals\u2019 roles within the delegation. The Japanese official said the asylum claims were made at the airport upon arrival. The source did not provide further details about the asylum process or the individuals\u2019 reasons for seeking refuge.\n\nThe incident is significant because it highlights the complex intersection of international sport, migration policy, and diplomatic relations. As the Asian Games draw athletes and officials from across the continent, the event becomes a focal point for broader geopolitical tensions. The asylum claims could prompt a review of Japan\u2019s procedures for handling foreign nationals from North Korea and may influence future diplomatic engagement between the two countries.\n\nAccording to the report, the two North Korean delegation members filed for asylum immediately after arriving in Japan. The delegation, comprising 180 people, was part of the official North Korean team that traveled to the Aichi\u2011Nagoya Asian Games, which began on Saturday. The Japanese official confirmed that the asylum requests were made at the airport, but did not disclose the individuals\u2019 identities or the specific grounds for their claims. The report did not indicate whether the individuals were athletes, coaches, or officials.\n\nThe Asian Games are a multi\u2011sport event organized by the Olympic Council of Asia and held every four years. The 2026 edition in Aichi\u2011Nagoya brought together athletes from 45 Asian countries and territories. North Korea has participated in previous Asian Games, sending athletes and support staff to compete in various sports. The 180\u2011member delegation in 2026 included competitors, coaches, medical staff, and administrative personnel, reflecting the country\u2019s typical delegation size for the event.\n\nNorth Korea\u2019s participation in the Asian Games has historically been limited by political and economic constraints. The country has used sporting events as a platform for international engagement, but its athletes often face restrictions on travel and communication. The presence of a large delegation in 2026 indicates a continued commitment to the Games, despite ongoing sanctions and diplomatic isolation.\n\nJapan\u2019s asylum system is administered by its immigration authorities, who assess claims based on international law and domestic policy. Individuals who arrive in Japan and declare a desire for asylum are typically placed in temporary accommodation while their cases are reviewed. The process can involve interviews, documentation checks, and coordination with foreign ministries. The Japanese official\u2019s statement suggests that the two North Korean individuals followed the standard procedure for asylum seekers.\n\nStakeholders in this situation include the North Korean delegation, the Japanese immigration authorities, and the broader international community. The North Korean government may view the asylum claims as a breach of its delegation\u2019s integrity, potentially prompting a diplomatic protest. Japan, meanwhile, must balance its humanitarian obligations with its diplomatic relations with North Korea and its allies. The incident may also attract attention from other countries observing the Asian Games.\n\nThe impact on the games themselves is likely minimal, as the two individuals were not competing athletes. However, the incident could influence the perception of the Games as a safe and neutral venue for international sport. If the asylum claims are upheld, it may set a precedent for other athletes or officials from politically sensitive countries to seek refuge during major sporting events.\n\nFrom a diplomatic perspective, the asylum claims could strain Japan\u2011North Korea relations, especially if the North Korean government perceives the action as a violation of its sovereignty. The incident may also prompt Japan to review its protocols for handling delegation members from countries with complex human rights records. The situation could lead to increased scrutiny of North Korean athletes\u2019 treatment and the conditions under which they travel abroad.\n\nThe broader implications include potential shifts in Japan\u2019s asylum policy toward North Korean nationals. If the two individuals are granted asylum, it may encourage others to follow suit, creating a new dynamic in how sporting delegations are managed. Conversely, if the claims are denied, it could reinforce existing protocols and discourage future asylum attempts. The outcome will likely influence how host nations prepare for the presence of delegations from politically sensitive states.\n\nObservers should watch for official statements from the Japanese immigration authorities regarding the status of the asylum claims. The next steps will involve the review process, which could take several weeks. The North Korean government may issue a formal response, and diplomatic channels may be activated to address the incident. The resolution of the case will be a key indicator of how Japan balances humanitarian concerns with diplomatic considerations in the context of international sporting events.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Japan Times",
-          "url": "https://www.japantimes.co.jp/news/2026/09/22/japan/politics/north-korea-asian-games-asylum-japan/"
-        }
-      ],
-      "original_url": "https://www.japantimes.co.jp/news/2026/09/22/japan/politics/north-korea-asian-games-asylum-japan/",
-      "guid": "https://www.japantimes.co.jp/article/646858/"
-    },
-    "bbc_5fde2b64": {
-      "id": "bbc_5fde2b64",
-      "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-      "category": "Politics",
-      "source": "bbc",
-      "time": "2026-09-22T21:08:23",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efbc/live/4e7c88d0-b696-11f1-bc1f-3f186ca4140c.jpg",
-      "content": "Sir Ed Davey, the leader of the Liberal Democrats, announced that he would raise the UK\u2019s income\u2011tax thresholds if he were to become prime minister, and he linked that pledge to the country\u2019s return to the European Union\u2019s single market. The promise was made during a speech to the party\u2019s annual conference, where Davey outlined a broader economic agenda that he said would benefit \u201cmillions\u201d of taxpayers.\u202f[1]\n\nThe proposal is significant because it ties a concrete fiscal policy to a larger political goal\u2014rejoining the EU single market. If the Liberal Democrats were to win a governing mandate, the tax\u2011threshold increase would directly affect the bottom\u2011 and middle\u2011income brackets, potentially reducing the tax burden for a large segment of the population. The move also signals the party\u2019s willingness to use fiscal policy to win support in a post\u2011Brexit Britain where many voters are concerned about the cost of living.\u202f[1]\n\nIn his address, Davey explained that the UK\u2019s current personal allowance\u2014the amount of income that is tax\u2011free\u2014has been frozen for several years. He said that, should the Liberal Democrats lead the government, he would lift that threshold to restore the tax relief that was lost when the UK left the EU. The speech also emphasized that the tax cut would be part of a broader strategy to make the UK more competitive within the single market, including reforms to trade, regulation, and investment.\u202f[1]\n\nThe Liberal Democrats have long campaigned for a return to the EU single market, arguing that it would provide businesses with greater access to European customers and reduce regulatory friction. The party\u2019s tax policy proposals are therefore framed as complementary to its pro\u2011EU stance, suggesting that a single\u2011market membership would be a prerequisite for the fiscal changes Davey promised.\u202f[1]\n\nThe UK\u2019s tax system is structured around a series of thresholds that determine how much income is taxed at each rate. The personal allowance is the most widely known threshold, and its level has been a point of political debate for decades. While the Liberal Democrats have not disclosed the exact figure they would propose, the party\u2019s statement that \u201cmillions\u201d would benefit implies a substantial increase. The available reporting does not specify the exact threshold amounts or the fiscal impact of the change.\u202f[1]\n\nKey stakeholders in this proposal include ordinary taxpayers, small and medium\u2011sized enterprises, and the broader UK economy. A higher tax threshold would reduce the tax bill for many households, potentially increasing disposable income and consumer spending. Businesses could also benefit from a more stable and predictable tax environment, especially if the UK\u2019s single\u2011market status improves trade flows. Conversely, the government would need to consider the revenue loss from the threshold increase and how it would be offset, perhaps through spending cuts or other tax measures.\u202f[1]\n\nThe Liberal Democrats\u2019 pledge also raises questions about the feasibility of rejoining the EU single market. While the party has campaigned for a second referendum on EU membership, the political and legal hurdles remain significant. The tax proposal is therefore part of a broader political strategy that seeks to align fiscal policy with a pro\u2011EU agenda, but it will require substantial political will and negotiation with other parties to become law.\u202f[1]\n\nLooking ahead, the next major event that will shape the implementation of Davey\u2019s promise is the UK general election. If the Liberal Democrats secure a governing coalition, they will need to negotiate the details of the tax threshold increase with other parties and the Treasury. The party\u2019s conference speech also sets a deadline for policy development, as the Liberal Democrats aim to present a comprehensive economic plan before the next parliamentary session. The outcome of these negotiations will determine whether the promised tax cuts become a reality and how they will be financed.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o#0"
-    },
-    "bbc_3bf55f63": {
-      "id": "bbc_3bf55f63",
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
-      "category": "World",
-      "source": "bbc",
-      "time": "2026-09-22T21:09:03",
-      "read": "4 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6d/live/eb5cde20-b6af-11f1-bc1f-3f186ca4140c.jpg",
-      "content": "Morocco\u2019s next parliamentary election is already being shaped by a mix of football imagery, job\u2011creation pledges and anti\u2011Israel rhetoric, with the Spanish enclave of Ceuta playing a symbolic role in the campaign strategy. Young voters, who have historically turned out in lower numbers, are being courted through slogans that echo the nation\u2019s love of the sport, promises of new employment opportunities, and calls that rally against Israel\u2019s policies in the region.[1]\n\nThe focus on youth is significant because the demographic is a decisive factor in Morocco\u2019s political landscape. While older voters have traditionally dominated turnout, the country\u2019s 18\u2011 to 29\u2011year\u2011olds represent a growing segment of the electorate that could sway the balance between the ruling party and its challengers. By aligning campaign messages with the passions and concerns of this group, parties hope to secure a foothold that could determine the election\u2019s outcome.\n\nCampaign teams across the country have adopted football\u2011themed slogans that tap into the national passion for the sport. Phrases such as \u201cPlay for the Future\u201d and \u201cScore a New Job\u201d have appeared on posters, radio spots, and social media posts, linking the excitement of the game with the promise of economic advancement. These messages are designed to resonate with young Moroccans who see football as a unifying cultural force.[1]\n\nThe Spanish city of Ceuta, which borders Morocco on the northern coast, has become a symbolic backdrop for some of the campaign\u2019s messaging. Ceuta\u2019s status as a Spanish autonomous city and its proximity to Morocco make it a point of reference in discussions about border security, migration, and regional cooperation. Political actors have referenced Ceuta in their rhetoric to underscore issues of sovereignty and to appeal to nationalist sentiments among voters.[1]\n\nJob creation has emerged as a central pillar of the campaign promises aimed at the youth. Candidates have outlined broad plans to stimulate the economy, create new employment opportunities, and reduce the high unemployment rate that disproportionately affects young Moroccans. While the specific details of these proposals are still being refined, the emphasis on jobs signals a recognition that economic prospects are a key driver of voter motivation.[1]\n\nAlongside economic appeals, some campaign messages have taken a more confrontational stance toward Israel. Anti\u2011Israel rallying calls have surfaced in speeches, pamphlets, and online content, framing the country\u2019s foreign policy as a point of contention for the electorate. These calls reflect a broader regional debate about Morocco\u2019s diplomatic relationship with Israel, which has historically been a sensitive issue for many voters.[1]\n\nMorocco\u2019s political system is a constitutional monarchy with a multi\u2011party parliamentary structure. The king retains significant executive powers, while the elected parliament holds legislative authority. Elections are held every five years, and the most recent cycle saw a high level of public engagement, though youth turnout remained below the national average. The current election cycle is expected to follow the same procedural framework, with parties campaigning across the country to secure seats in the House of Representatives.[2]\n\nCeuta\u2019s role in Moroccan politics extends beyond symbolic references. As a Spanish territory, it is a point of diplomatic interaction between Morocco and the European Union, particularly concerning migration flows and border security. The city\u2019s presence in campaign rhetoric may be intended to highlight Morocco\u2019s strategic importance to European partners and to underscore the need for robust border management policies.[3]\n\nFootball is deeply ingrained in Moroccan society, with the national team\u2019s successes in the 1970s and 1990s leaving a lasting legacy. The sport\u2019s popularity provides a powerful platform for political messaging, as it unites diverse segments of the population. By invoking football imagery, campaigns aim to tap into a shared cultural identity that transcends class and regional differences.[4]\n\nMorocco\u2019s relationship with Israel has evolved over the past decade, culminating in the 2020 normalization agreement that opened diplomatic and economic ties. The agreement has been both praised for its potential economic benefits and criticized by segments of the population who view it as a betrayal of Arab solidarity. This ambivalence has made the issue a potent political lever in the current election cycle.[5]\n\nThe primary stakeholders in this electoral drama are the political parties, the young electorate, the Moroccan monarchy, and foreign actors such as Spain and Israel. Parties are leveraging football, jobs, and anti\u2011Israel sentiment to build coalitions, while the monarchy seeks to maintain stability and continuity. Foreign governments monitor the election closely, given its implications for regional security and diplomatic relations.[6]\n\nThe impact of these campaign strategies could be profound. If the youth vote shifts significantly in favor of parties that embrace football slogans and anti\u2011Israel rhetoric, the election could see a realignment of political power. Conversely, if voters reject these appeals, the election may reinforce the status quo, preserving the current balance between the monarchy and the ruling party.[7]\n\nFrom an analytical perspective, the convergence of sports, economics, and foreign policy in Morocco\u2019s election campaign illustrates a broader trend in contemporary politics: the use of culturally resonant symbols to mobilize specific demographic groups. The effectiveness of this approach will depend on how well parties can translate symbolic messaging into tangible policy proposals that address the real concerns of young voters.[8]\n\nObservers should watch for the official election date, the release of detailed policy platforms, and the outcome of any public debates that address the issues of jobs, border security, and Morocco\u2019s relationship with Israel. These developments will clarify whether the current campaign tactics translate into electoral success or merely serve as transient political noise.[9]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o#0"
-    },
     "cna_c6b99a5b": {
       "id": "cna_c6b99a5b",
       "title": "AI infrastructure firm Accelevation targets up to $5.4 billion valuation in US IPO - CNA",
@@ -15999,28 +15879,148 @@
       ],
       "original_url": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss",
       "guid": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo#0"
+    },
+    "abcau_210e16d9": {
+      "id": "abcau_210e16d9",
+      "title": "Federal Court challenge to Adelaide MotoGP circuit falls over - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "category": "World",
+      "source": "abcau",
+      "time": "2026-11-05T19:46:10",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28259%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27339%27%20cy%3D%27177%27%20r%3D%27140%27%20fill%3D%27hsl%28299%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "The Federal Court of Australia has dismissed a legal challenge to the Adelaide MotoGP circuit, a decision reported by ABC News. The ruling means that the temporary track, which hosts the world\u2011famous motorcycle racing event each year, will likely remain in place for the foreseeable future.\n\nThe outcome is significant for several reasons. The MotoGP race is a major draw for Adelaide, bringing in tourism revenue, media attention, and employment opportunities for local businesses. The court\u2019s decision also clarifies the legal standing of sporting event approvals in the face of environmental and community opposition, setting a precedent that could influence future disputes over large sporting venues.\n\nAccording to ABC News, the challenge was brought to the Federal Court by parties who argued that the construction and operation of the circuit violated environmental and planning regulations. The court found the case lacking in legal merit and dismissed it, thereby upholding the existing approval for the circuit. The decision was issued in a written judgment that did not detail the specific arguments of the parties, but it confirmed that the court did not see sufficient grounds to overturn the approval.\n\nThe Adelaide MotoGP circuit is a temporary track built on the Adelaide Parklands Circuit, a former Formula One venue. It has hosted the MotoGP event since 2010 and is known for its high\u2011speed layout and challenging corners. The circuit\u2019s construction and operation have previously attracted scrutiny from environmental groups and local residents concerned about noise, traffic, and ecological impact.\n\nStakeholders in the case include the event organizers, the South Australian government, local businesses that benefit from the influx of visitors, and community groups that have raised concerns about the environmental footprint of the race. The court\u2019s dismissal removes a major legal obstacle for the organizers and the state, but it does not preclude future appeals or other forms of protest.\n\nThe immediate impact of the ruling is that the MotoGP event can proceed as scheduled without the threat of a court injunction. However, the decision may prompt the parties who challenged the circuit to explore alternative legal avenues, such as appeals to the High Court or submissions to the Australian Competition and Consumer Commission.\n\nFrom a broader perspective, the case underscores the tension between economic development through high\u2011profile sporting events and the regulatory frameworks designed to protect environmental and community interests. The court\u2019s decision may embolden event organizers to pursue similar projects, while also encouraging regulators to tighten the criteria for approvals.\n\nLooking ahead, the next steps will involve the event organizers preparing for the 2024 MotoGP race, ensuring compliance with any environmental monitoring requirements, and potentially responding to any appeals that may arise. The court\u2019s ruling does not eliminate the possibility of future legal challenges, but it does provide a clear indication that the current approval stands.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "ABC News (Australia)",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVFuVFFxN0Nla0U1bUNSaE51NnExZW1jT19SNWhqX0dNVFlZOXZIZXJUcHlSQTBhRVQ5Zlk5MkZPbTFCMnZla3FyMEdjcUQ0MHlGbjFCb3U1NURpLWM0dkxMQm9tU1NXbFZPai1sVG5PWHBWQ2JVcGpNRTJ6dGxQZXJHMTB0RWpvZTRZd3FGQU4wT2FiVWw0aHpFTWJwekd1OUJfSFhTU1FxUHNlcXRZ?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVFuVFFxN0Nla0U1bUNSaE51NnExZW1jT19SNWhqX0dNVFlZOXZIZXJUcHlSQTBhRVQ5Zlk5MkZPbTFCMnZla3FyMEdjcUQ0MHlGbjFCb3U1NURpLWM0dkxMQm9tU1NXbFZPai1sVG5PWHBWQ2JVcGpNRTJ6dGxQZXJHMTB0RWpvZTRZd3FGQU4wT2FiVWw0aHpFTWJwekd1OUJfSFhTU1FxUHNlcXRZ?oc=5",
+      "guid": "CBMirwFBVV95cUxPVVFuVFFxN0Nla0U1bUNSaE51NnExZW1jT19SNWhqX0dNVFlZOXZIZXJUcHlSQTBhRVQ5Zlk5MkZPbTFCMnZla3FyMEdjcUQ0MHlGbjFCb3U1NURpLWM0dkxMQm9tU1NXbFZPai1sVG5PWHBWQ2JVcGpNRTJ6dGxQZXJHMTB0RWpvZTRZd3FGQU4wT2FiVWw0aHpFTWJwekd1OUJfSFhTU1FxUHNlcXRZ"
+    },
+    "conversation_19e6a04d": {
+      "id": "conversation_19e6a04d",
+      "title": "How Amendment 3, vaccine mandates and school vouchers will shape Florida under the leadership of Byron Donalds",
+      "category": "Science",
+      "source": "conversation",
+      "time": "2026-11-05T19:46:13",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://images.theconversation.com/files/770092/original/file-20261104-64-4xnjft.jpg?ixlib=rb-4.1.1&amp;rect=0%2C519%2C4315%2C2157&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "content": "Florida\u2019s new Republican governor, Byron Donalds, has pledged to carry forward the agenda of his predecessor, Gov. Ron\u202fDeSantis, and his administration will focus on three key policy areas\u2014Amendment\u202f3, vaccine mandates, and school vouchers\u2014to shape the state\u2019s future.\u202f[1]\n\nThese policy priorities will affect Florida\u2019s political landscape, public health measures, and educational funding, influencing voters, businesses, and families across the state.\n\nDonald, a former U.S. Representative, won the gubernatorial race in November, securing the Republican nomination and the support of DeSantis\u2019 base. He campaigned on a platform that emphasized continuity with DeSantis\u2019 policies, particularly in areas that have drawn national attention.\u202f[1]\n\nAmendment\u202f3, a constitutional amendment that was recently ratified, is one of the central issues Donald plans to address. The amendment\u2019s provisions and its implications for state governance will be a key focus of his administration.\u202f[1]\n\nVaccine mandates, which have been a contentious issue in Florida, remain a priority for Donald. His administration intends to review and potentially adjust the state\u2019s approach to vaccination requirements for schools, businesses, and public institutions.\u202f[1]\n\nSchool vouchers, a policy that expands public funding for private education, also feature prominently in Donald\u2019s agenda. He has indicated that his administration will work to expand voucher programs and increase the flexibility of how families can use public funds for education.\u202f[1]\n\nFlorida has a history of partisan battles over constitutional amendments, public health mandates, and education funding. DeSantis\u2019 tenure has been marked by a focus on conservative reforms in these areas, setting a precedent for his successor.\n\nThe amendment process in Florida requires a two\u2011thirds majority in the legislature and a public vote, a process that has produced significant policy shifts in the past. Vaccine mandates have been implemented at various levels, from school districts to state agencies, and have faced legal challenges.\n\nSchool voucher programs in Florida have expanded over the past decade, with the state providing funds to parents who choose private schools. The policy has been both praised for increasing choice and criticized for diverting funds from public schools.\n\nFlorida residents, especially parents and students, will be directly affected by changes to voucher programs. Public school administrators and teachers may experience shifts in funding and enrollment.\n\nPublic health officials and businesses will be impacted by any adjustments to vaccine mandates, influencing workplace safety protocols and compliance requirements.\n\nPolitical actors, including the Florida Legislature and local school boards, will play a role in shaping how these policies are implemented and contested.\n\nIf Donald\u2019s administration successfully enacts the proposed changes, Florida could see a shift toward greater educational choice and a recalibration of public health measures that may affect the state\u2019s economic and social climate.\n\nThe long\u2011term effects of Amendment\u202f3 will depend on how its provisions are interpreted and enforced, potentially influencing Florida\u2019s governance structure and the balance of power between state and local authorities.\n\nKey upcoming steps include the state legislature\u2019s consideration of bills related to Amendment\u202f3, the review of vaccine mandate policies in the spring, and the rollout of expanded voucher programs in the fall. Observers will also monitor court challenges and public opinion surveys as the new administration takes shape.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Conversation",
+          "url": "https://theconversation.com/how-amendment-3-vaccine-mandates-and-school-vouchers-will-shape-florida-under-the-leadership-of-byron-donalds-295720"
+        }
+      ],
+      "original_url": "https://theconversation.com/how-amendment-3-vaccine-mandates-and-school-vouchers-will-shape-florida-under-the-leadership-of-byron-donalds-295720",
+      "guid": "tag:theconversation.com,2011:article/295720"
+    },
+    "pbs_b2449374": {
+      "id": "pbs_b2449374",
+      "title": "More than a dozen flights in Europe receive bomb threats that an official calls 'malicious' hoaxes",
+      "category": "News",
+      "source": "pbs",
+      "time": "2026-11-05T19:47:01",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-05T121720Z_1735986785_RC2NHOA0OVBI_RTRMADP_3_EUROPE-FLIGHTS-BELGIUM-1024x683.jpg",
+      "content": "More than a dozen European flights were targeted by bomb threats, but authorities say the alerts were malicious hoaxes with no evidence of dangerous materials. [1]\n\nThe incident underscores the persistent threat to aviation security and the importance of swift, measured responses to protect passengers and maintain confidence in air travel.\n\nThe threats were reported across multiple European carriers, affecting more than a dozen flights. [1] A British official described the alerts as \u201cmalicious\u201d hoaxes. [1] Investigators found no hazardous or suspicious materials. [1]\n\nBomb threats are a serious security concern for airlines and airports. They can trigger extensive investigations, flight disruptions, and heightened security measures.\n\nWhen a threat is received, airlines typically suspend the affected flight, conduct security sweeps, and coordinate with law enforcement and aviation authorities.\n\nNational security agencies, such as the police and aviation safety bodies, are responsible for assessing the credibility of the threat and determining the appropriate response.\n\nAirlines, passengers, and security agencies are directly impacted. Passengers may experience delays and increased scrutiny, while airlines face operational disruptions and potential reputational damage.\n\nThe immediate effect includes flight cancellations or diversions, additional security checks, and the psychological impact on travelers. The cost of these disruptions can be significant for airlines and airports.\n\nThe incident may prompt a review of threat detection systems and the implementation of stricter screening protocols to prevent future hoaxes.\n\nIt could also lead to policy discussions about balancing security measures with passenger convenience and the allocation of resources for threat investigation.\n\nInvestigators are likely to trace the source of the threats, and regulators may issue updated guidance for airlines. The timeline for any policy changes remains unclear.\n\nThe episode highlights the ongoing challenge of ensuring aviation security while preventing unnecessary panic, reminding stakeholders of the need for vigilance and cooperation.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/more-than-a-dozen-flights-in-europe-receive-bomb-threats-that-an-official-calls-malicious-hoaxes"
+        }
+      ],
+      "original_url": "https://www.pbs.org/newshour/world/more-than-a-dozen-flights-in-europe-receive-bomb-threats-that-an-official-calls-malicious-hoaxes",
+      "guid": "https://www.pbs.org/newshour/world/more-than-a-dozen-flights-in-europe-receive-bomb-threats-that-an-official-calls-malicious-hoaxes"
+    },
+    "fullfact_b91bb31e": {
+      "id": "fullfact_b91bb31e",
+      "title": "What\u2019s the value of the UK\u2019s trade with the US?",
+      "category": "News",
+      "source": "fullfact",
+      "time": "2026-11-05T19:47:20",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://fullfact.org/media/images/angela_eagle.21938b01.fill-1200x630.jpg",
+      "content": "On LBC, environment secretary Dame Angela\u202fEagle said the United Kingdom and the United States \u201cdo \u00a32.5\u202fbillion of business together\u201d\u202f[1]. However, the most recent trade statistics show that the annual value of UK\u2011US trade is more than a hundred times that figure\u202f[2].\n\nThe discrepancy between the minister\u2019s statement and the official data is significant because it touches on a key economic relationship that shapes policy, investment decisions, and public understanding of the UK\u2019s trade position.\n\nDuring a live LBC broadcast, Dame Angela\u202fEagle, who heads the Department for Environment, Food and Rural Affairs, made the \u00a32.5\u202fbillion claim. The comment was reported by the station and subsequently circulated in the media. The statement was presented as a snapshot of the bilateral trade volume.\n\nThe latest figures, released by the government\u2019s trade reporting agencies, place the total value of goods and services exchanged between the UK and the US at more than \u00a3250\u202fbillion per year\u2014over a hundred times the amount cited by the minister.\n\nThe UK and the US have long been each other\u2019s major trading partners. The United Kingdom is one of the United States\u2019 top five importers and a significant exporter of pharmaceuticals, financial services, and technology products. Conversely, the United States imports a wide range of UK goods and services, including aerospace components, creative content, and agricultural products.\n\nTrade data for the UK is compiled by the Office for National Statistics, which aggregates information from customs declarations, business surveys, and international trade reports. The figures are updated annually and are used by policymakers, businesses, and researchers to assess economic performance and to negotiate trade agreements.\n\nBusinesses on both sides of the Atlantic rely on accurate trade statistics to plan production, investment, and market entry strategies. UK exporters, for example, use the data to gauge demand in the US market, while US importers assess the competitiveness of UK suppliers. Policymakers also consult the figures when drafting trade policy and negotiating future agreements.\n\nPublic perception of trade relations can be influenced by high\u2011profile statements from government officials. A mischaracterization of the trade volume may lead to misunderstandings about the health of the bilateral economy, potentially affecting consumer confidence and investor sentiment.\n\nThe divergence between the minister\u2019s claim and the official data underscores the importance of precise communication from public officials. Accurate figures are essential for informed debate on trade policy, especially as the UK continues to negotiate post\u2011Brexit trade arrangements and seeks to strengthen ties with the United States.\n\nIn the coming weeks, the government is expected to clarify the context of Dame Angela\u202fEagle\u2019s statement. The Office for National Statistics may also release a detailed breakdown of the UK\u2011US trade figures, providing transparency on the components that contribute to the overall volume.\n\nStakeholders will be watching for any official response that reconciles the minister\u2019s comment with the statistical evidence, as well as for updates that may influence future trade negotiations and policy decisions.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Full Fact",
+          "url": "https://fullfact.org/politics/angela-eagle-us-uk-trade-2-5bn/"
+        }
+      ],
+      "original_url": "https://fullfact.org/politics/angela-eagle-us-uk-trade-2-5bn/",
+      "guid": "https://fullfact.org/politics/angela-eagle-us-uk-trade-2-5bn/"
+    },
+    "cna_7d67f186": {
+      "id": "cna_7d67f186",
+      "title": "Binance hack prompted US regulators to check in on bank systems, sources say - CNA",
+      "category": "World",
+      "source": "cna",
+      "time": "2026-11-05T19:47:51",
+      "read": "3 min read",
+      "mode": "compact",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Binance-BNB-Icon-Logo.wine.svg/1280px-Binance-BNB-Icon-Logo.wine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "Binance\u2019s recent security breach has triggered a review of banking systems by U.S. regulators, according to unnamed sources. The move comes after the cryptocurrency exchange reported a significant hack that compromised user accounts and assets. The regulators\u2019 inquiry is aimed at assessing whether banks that hold or process crypto-related funds have adequate safeguards in place. [1]\n\nThe incident is significant because it highlights the growing intersection between traditional financial institutions and the largely unregulated world of digital assets. If banks are found to be vulnerable, the fallout could affect not only crypto users but also the broader financial system that increasingly relies on digital currencies for settlement and custody. The review could prompt tighter oversight and new compliance requirements for banks that interface with crypto platforms.\n\nThe hack itself was first disclosed by Binance in a public statement that detailed the loss of user funds and the steps the exchange is taking to mitigate damage. While the exact scale of the breach remains unclear, the exchange confirmed that a number of accounts were compromised and that the attackers accessed sensitive data. The incident prompted a swift response from Binance\u2019s security team, which worked to isolate affected accounts and restore services. The exchange also announced that it would reimburse affected users and strengthen its security protocols.\n\nIn the wake of the breach, U.S. regulators\u2014including the Federal Reserve, the Federal Deposit Insurance Corporation (FDIC), and the Office of the Comptroller of the Currency (OCC)\u2014have reportedly initiated a review of banking systems that hold or process crypto assets. The review is intended to determine whether banks have adequate controls to prevent similar incidents and to assess the potential systemic risk posed by crypto-related activities. The regulators are also examining whether banks are following existing anti-money laundering (AML) and know\u2011your\u2011customer (KYC) requirements when dealing with crypto transactions.\n\nThe broader context of this development lies in the rapid expansion of the cryptocurrency market and the increasing integration of digital assets into mainstream finance. Banks have begun offering crypto custody services, facilitating crypto payments, and providing liquidity for crypto exchanges. These activities expose banks to new types of cyber risk, regulatory scrutiny, and potential reputational damage. The Binance hack underscores the need for robust security measures and clear regulatory guidance in this emerging sector.\n\nStakeholders in this review include banks that offer crypto-related services, crypto exchanges, and the users who rely on these platforms for trading and storage. Banks may face increased compliance costs and operational changes if regulators impose stricter controls. Crypto users could benefit from enhanced security and greater confidence in the safety of their assets, but they may also encounter higher fees or reduced service options as banks adjust to new regulatory requirements.\n\nThe implications of the regulators\u2019 review are still unfolding. If the inquiry reveals significant gaps in bank security or compliance, it could lead to new regulations that reshape how banks interact with the crypto industry. Conversely, a finding that existing safeguards are adequate may reassure market participants that the current regulatory framework is sufficient. The outcome will likely influence investor confidence and the pace of crypto adoption in the United States.\n\nLooking ahead, the next steps will involve the regulators releasing preliminary findings and possibly proposing new rules or guidelines. Banks will need to prepare for potential audits and to demonstrate that they meet the required security and compliance standards. Crypto exchanges, including Binance, will also be under scrutiny to ensure they maintain robust security protocols. The timeline for these developments remains uncertain, but stakeholders are closely monitoring the regulators\u2019 actions for any sign of forthcoming policy changes.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "CNA (Singapore)",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjVZcE1ESjNKRGlrczVoMzM3UnUxeHRRT1VkQWtwZVVQY19oamJIMUF1eUFpTVJ6RzJpenYyT1kxZ1JFemw1ellHMUQ5QlJOQTBLMkVrSk5tNV8tMjlFVExBekZLUk81SmxWYVR3SXZSUEFoTzFCa3ljQWlNdjViTUM0QU9FNnh0LWFyel9vU2hzYWYxWnAtQkJ0Q2JzcG1nVkdHNk94azJRTGRYS291d0o2WmI3WGxhcUE?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjVZcE1ESjNKRGlrczVoMzM3UnUxeHRRT1VkQWtwZVVQY19oamJIMUF1eUFpTVJ6RzJpenYyT1kxZ1JFemw1ellHMUQ5QlJOQTBLMkVrSk5tNV8tMjlFVExBekZLUk81SmxWYVR3SXZSUEFoTzFCa3ljQWlNdjViTUM0QU9FNnh0LWFyel9vU2hzYWYxWnAtQkJ0Q2JzcG1nVkdHNk94azJRTGRYS291d0o2WmI3WGxhcUE?oc=5",
+      "guid": "CBMiugFBVV95cUxQdjVZcE1ESjNKRGlrczVoMzM3UnUxeHRRT1VkQWtwZVVQY19oamJIMUF1eUFpTVJ6RzJpenYyT1kxZ1JFemw1ellHMUQ5QlJOQTBLMkVrSk5tNV8tMjlFVExBekZLUk81SmxWYVR3SXZSUEFoTzFCa3ljQWlNdjViTUM0QU9FNnh0LWFyel9vU2hzYWYxWnAtQkJ0Q2JzcG1nVkdHNk94azJRTGRYS291d0o2WmI3WGxhcUE"
+    },
+    "bbc_a9b7c727": {
+      "id": "bbc_a9b7c727",
+      "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
+      "category": "Health",
+      "source": "bbc",
+      "time": "2026-11-05T19:48:14",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e4/live/bcaf3470-d878-11f1-a364-a1fce50dd192.jpg",
+      "content": "Cocaine has become the leading cause of drug\u2011related deaths in England and Wales, surpassing heroin for the first time in recent history. [1]\n\nThe shift signals a changing drug\u2011use landscape and raises concerns for public\u2011health authorities, emergency services, and communities that have long fought heroin\u2011related mortality. [1]\n\nRecent statistics show that deaths linked to cocaine use have nearly quadrupled over the past decade, while heroin\u2011related deaths have declined or plateaued. [1] The data covers England and Wales, the two constituent countries of the United Kingdom. [1]\n\nDrug deaths are recorded by coroners after investigations into sudden or unexpected deaths. The Office for National Statistics compiles these figures, which are used to guide policy and resource allocation.\n\nCocaine is a powerful stimulant that can cause cardiovascular collapse, seizures, and other acute medical complications. Heroin, an opioid, has historically been the most lethal drug in the UK, but changes in supply, purity, and user demographics have altered the pattern of fatalities.\n\nThe rise in cocaine\u2011related deaths affects emergency departments, which must be prepared for a different set of clinical presentations compared to opioid overdoses. Public\u2011health campaigns that previously focused on opioid harm reduction may need to broaden their scope.\n\nCommunities in urban areas, where cocaine use is more prevalent, may experience increased pressure on local services and a shift in the profile of drug\u2011related crime. Law\u2011enforcement agencies may need to adjust their strategies accordingly.\n\nThe quadrupling of cocaine deaths suggests that current prevention and treatment strategies may not be adequately addressing stimulant use. Policymakers may need to consider expanding harm\u2011reduction services, such as supervised consumption sites and targeted education campaigns.\n\nHealth authorities are expected to review the latest data in the coming months and may announce new initiatives aimed at curbing stimulant\u2011related mortality. The next national drug\u2011use survey could provide further insight into the drivers behind the trend.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo#0"
     }
   },
   "featured": {
-    "hero": "csmonitor_5ca20a1f",
+    "hero": "abcau_210e16d9",
     "stack": [
-      "bangkokpost_9185ebe4",
-      "bbc_63f1a1be",
-      "irishtimes_99250f2d"
+      "conversation_19e6a04d",
+      "pbs_b2449374",
+      "fullfact_b91bb31e"
     ],
     "latest": [
+      "fullfact_b91bb31e",
+      "pbs_b2449374",
+      "conversation_19e6a04d",
+      "csmonitor_5ca20a1f",
       "irishtimes_99250f2d",
-      "bbc_63f1a1be",
-      "bangkokpost_9185ebe4",
-      "straitstimes_bbd6cb96",
-      "afp_33e5afdc",
-      "guardian_eae5cd87"
+      "bbc_63f1a1be"
     ],
     "world": [
+      "abcau_210e16d9",
+      "cna_7d67f186",
       "csmonitor_5ca20a1f",
-      "bangkokpost_9185ebe4",
-      "irishtimes_99250f2d",
-      "straitstimes_bbd6cb96"
+      "bangkokpost_9185ebe4"
     ]
   },
   "categoryIndex": {
@@ -16037,16 +16037,16 @@
       "pbs_6fe0a0a5"
     ],
     "World": [
+      "cna_7d67f186",
+      "bangkokpost_9185ebe4",
+      "straitstimes_bbd6cb96",
+      "afp_33e5afdc",
+      "guardian_eae5cd87",
       "france24_91d43139",
       "irishtimes_5ff501bd",
       "straitstimes_09d60e6e",
       "reuters_df639e32",
-      "aljazeera_8b0f4461",
-      "dw_634e6d4f",
-      "bbc_229ce94e",
-      "reuters_08d33aed",
-      "aljazeera_7e90665d",
-      "irishtimes_641eb911"
+      "aljazeera_8b0f4461"
     ],
     "Politics": [
       "bbc_93c48242",
@@ -16073,6 +16073,7 @@
       "googlenews_c9f26861"
     ],
     "Health": [
+      "bbc_a9b7c727",
       "guardian_71aa4cfe",
       "googlenews_00a30957",
       "guardian_6e8d0293",
@@ -16081,8 +16082,7 @@
       "bbc_09bfd4ad",
       "googlenews_edf89194",
       "guardian_6d434309",
-      "googlenews_e6408a8e",
-      "bbc_2b027f38"
+      "googlenews_e6408a8e"
     ],
     "Science": [
       "berkeleyuniv_7e0efd51",
@@ -16109,7 +16109,7 @@
       "googlenews_04950b0d"
     ]
   },
-  "breaking": "Does MAGA have a future? After anti-Trump backlash in midterms, it may not.",
+  "breaking": "Federal Court challenge to Adelaide MotoGP circuit falls over - ABC News & Headlines \u2013 Australian Br",
   "events": [
     {
       "title": "Is the viral book rave real? We go to the second event to investigate.",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "Dej Kewkacha is the World's Best Pastry Chef 2026",
     "At UC Berkeley, they took part in the Free Speech Movement. Now they want to kee",
-    "Deal or escalation? Beaten in US midterms, Trump faces stark choice on Iran - Th",
-    "Does MAGA have a future? After anti-Trump backlash in midterms, it may not."
+    "Federal Court challenge to Adelaide MotoGP circuit falls over - ABC News & Headl",
+    "How Amendment 3, vaccine mandates and school vouchers will shape Florida under t",
+    "Dej Kewkacha is the World's Best Pastry Chef 2026"
   ]
 }
