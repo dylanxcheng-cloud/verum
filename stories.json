@@ -1,125 +1,5 @@
 {
   "stories": {
-    "snopes_87262227": {
-      "id": "snopes_87262227",
-      "title": "Is Trump adding his name to Ford's Theatre?",
-      "category": "News",
-      "source": "snopes",
-      "time": "2026-09-24T16:56:09",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/09/trump_fords_theatre_featured.jpg",
-      "content": "A claim that former President Donald\u202fTrump was adding his name to Ford\u2019s Theatre, the site of President Abraham Lincoln\u2019s assassination, began circulating online after a federal judge denied Trump\u2019s request to have his name displayed at the Kennedy Center. The claim has no basis in fact and appears to have been amplified by the timing of the court ruling.\n\nThe rumor matters because Ford\u2019s Theatre is a historic landmark and the Kennedy Center is a national cultural institution; both are protected by federal statutes that govern the use of their names and symbols. The spread of misinformation about such sites can mislead the public about the preservation of national heritage and the legal processes that protect it.\n\nThe rumor first appeared on social media after a federal judge in Washington, D.C., blocked Trump\u2019s attempt to add his name to the Kennedy Center\u2019s official list of honorees. The judge\u2019s decision was reported by several news outlets, and the story was quickly followed by posts claiming that Trump was also seeking to have his name inscribed on the plaque at Ford\u2019s Theatre. No official statement from the Kennedy Center or the Ford\u2019s Theatre Foundation confirmed any such request, and the claim was not supported by any documentation.\n\nFord\u2019s Theatre, located in Washington, D.C., was the site of President Lincoln\u2019s assassination in 1865. The building is now a museum and memorial, overseen by the Ford\u2019s Theatre Foundation, a nonprofit organization that maintains the historic site and its interpretive programs. The Kennedy Center, founded in 1962, serves as the nation\u2019s premier performing\u2011arts venue and is managed by the National Endowment for the Arts. Both institutions are subject to federal regulations that restrict the use of their names for commercial or political purposes.\n\nThe federal judge\u2019s ruling stemmed from a lawsuit filed by Trump\u2019s former campaign manager, who argued that the Kennedy Center had violated the First Amendment by refusing to display Trump\u2019s name on a plaque honoring former presidents. The court found that the Center\u2019s policy, which limits honorees to presidents who have left office, was a legitimate exercise of its discretion and did not infringe on free speech. The decision was published in the U.S. District Court for the District of Columbia.\n\nStakeholders in the matter include the Ford\u2019s Theatre Foundation, the Kennedy Center, historians, and the public. The Foundation is responsible for preserving the integrity of the site and ensuring that any additions to its memorials meet strict historical criteria. The Kennedy Center\u2019s policy on honorees is designed to maintain a consistent standard for recognition. Politically, the dispute highlights the broader debate over how public institutions can honor contemporary figures without compromising their historical mission.\n\nThe court\u2019s decision clarifies that federal cultural institutions retain the authority to set criteria for honorees, and that attempts to alter those criteria for political gain are unlikely to succeed. It also underscores the importance of verifying claims before they are shared widely, especially when they involve nationally significant sites.\n\nThe next step will be to monitor any further attempts by Trump or his allies to seek recognition at federal cultural institutions. The Kennedy Center\u2019s policy remains unchanged, and the Ford\u2019s Theatre Foundation has not announced any plans to add new names to its memorials. The public can expect continued scrutiny of any future proposals that might affect the historical integrity of these sites.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Snopes",
-          "url": "https://www.snopes.com/news/2026/09/24/trump-fords-theatre/"
-        }
-      ],
-      "original_url": "https://www.snopes.com/news/2026/09/24/trump-fords-theatre/",
-      "guid": "https://www.snopes.com/news/2026/09/24/trump-fords-theatre/"
-    },
-    "googlenews_e03ff6bf": {
-      "id": "googlenews_e03ff6bf",
-      "title": "Bone density and the \"silent disease\": 4 things women should know about bone health - CBS News",
-      "category": "Health",
-      "source": "googlenews",
-      "time": "2026-09-24T16:56:23",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/CBS_News_2020_%28Stacked_II%29.svg/1280px-CBS_News_2020_%28Stacked_II%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "content": "A CBS News feature titled \u201cBone density and the \u2018silent disease\u2019: 4 things women should know about bone health\u201d has drawn attention to the importance of early detection and prevention of osteoporosis in women.\u202f[1]\n\nThe article frames osteoporosis as a silent disease that can cause fractures without warning, emphasizing that awareness and timely intervention are key to reducing the risk of serious injury.\n\nIn its coverage, the CBS piece outlines four main points: the prevalence of osteoporosis among women, the role of bone density testing, lifestyle measures to strengthen bones, and the impact of hormone replacement therapy on bone health.\u202f[1]\n\nComplementing this discussion, Verywell Health published an article titled \u201cWe Asked a Doctor When You Should Get Your First Bone Density Scan.\u201d The piece explains that doctors may recommend earlier testing for women who have risk factors such as a family history of fractures, low body weight, or a history of steroid use.\u202f[2]\n\nThe Majorca Daily Bulletin\u2019s article, \u201cThe Hormone Chapter: What HRT really does for your bones,\u201d examines how hormone replacement therapy can influence bone density, potentially reducing fracture risk in postmenopausal women.\u202f[3]\n\nBone density is measured by dual-energy X\u2011ray absorptiometry (DEXA) scans, which quantify the amount of mineral matter per square centimeter of bone.\u202f[4]\n\nOsteoporosis is defined by a T\u2011score of \u20132.5 or lower on a DEXA scan, indicating a significant loss of bone mass.\u202f[5]\n\nWomen, especially those approaching menopause, are the primary audience for these findings, as estrogen decline accelerates bone loss and increases fracture risk.\u202f[6]\n\nThe convergence of these articles suggests that clinicians should consider early bone density screening and discuss hormone replacement therapy options with patients, balancing benefits against potential risks.\u202f[7]\n\nLooking ahead, upcoming guidelines from the American College of Physicians may refine screening thresholds, and patients should stay informed about new research on bone health interventions.\u202f[8]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObkpPcWR5eTBXNWpNX2JzUkx0eS14TG03RUYyVVU1SlIxLXpJOG52eEs5cDNfaklHMUFpTEpzcWgtdEEweTlnWTdTMmtFcUVENElxQUpKdGJnc2VqUmxGUnZaajB1SllvNEFXcFFHa25sOFJWRWd3QVo0OW9sRVNGdmliTW9fMU0tT2NaQks3SQ?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObkpPcWR5eTBXNWpNX2JzUkx0eS14TG03RUYyVVU1SlIxLXpJOG52eEs5cDNfaklHMUFpTEpzcWgtdEEweTlnWTdTMmtFcUVENElxQUpKdGJnc2VqUmxGUnZaajB1SllvNEFXcFFHa25sOFJWRWd3QVo0OW9sRVNGdmliTW9fMU0tT2NaQks3SQ?oc=5",
-      "guid": "CBMijwFBVV95cUxObkpPcWR5eTBXNWpNX2JzUkx0eS14TG03RUYyVVU1SlIxLXpJOG52eEs5cDNfaklHMUFpTEpzcWgtdEEweTlnWTdTMmtFcUVENElxQUpKdGJnc2VqUmxGUnZaajB1SllvNEFXcFFHa25sOFJWRWd3QVo0OW9sRVNGdmliTW9fMU0tT2NaQks3SQ"
-    },
-    "straitstimes_fcb9ebcd": {
-      "id": "straitstimes_fcb9ebcd",
-      "title": "Singapore\u2019s semiconductor talent pipeline now starts in primary schools - The Straits Times",
-      "category": "World",
-      "source": "straitstimes",
-      "time": "2026-09-24T16:57:01",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://upload.wikimedia.org/wikipedia/en/8/89/The_Straits_Times_%28January_20%2C_2026%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "content": "Singapore is extending its semiconductor talent pipeline to the earliest stages of schooling, with primary schools now becoming the starting point for a national effort to nurture future engineers and technologists. The Straits Times reports that the initiative will introduce semiconductor\u2011related concepts and skills to students as young as six years old, marking a shift from the previous focus on secondary and tertiary education.\u202f[1]\n\nThe move reflects Singapore\u2019s ambition to secure a steady supply of skilled workers for its semiconductor industry, which is a cornerstone of the country\u2019s high\u2011technology economy. By embedding industry\u2011relevant learning in primary curricula, the government hopes to spark interest in science, technology, engineering and mathematics (STEM) from an early age and to build a talent pipeline that can meet the growing demand for advanced manufacturing and design roles.\n\nAccording to the report, the new program will be rolled out in partnership with the Ministry of Education and industry bodies such as the Semiconductor Industry Association. Schools will receive training for teachers and access to age\u2011appropriate resources that explain the basics of semiconductor devices, fabrication processes, and the role of chips in everyday technology. The initiative is part of a broader strategy to keep Singapore competitive in the global semiconductor supply chain.\n\nSingapore\u2019s semiconductor sector has long been a key driver of the nation\u2019s economic growth, with companies ranging from multinational giants to local start\u2011ups operating advanced fabrication facilities and design studios. The industry\u2019s success depends on a highly skilled workforce that can innovate and maintain the sophisticated manufacturing processes required for modern chips.\n\nStakeholders in the initiative include primary school teachers, students, parents, and the semiconductor industry. Teachers will need support to integrate new content into existing lesson plans, while students will benefit from early exposure to concepts that were previously reserved for higher\u2011level coursework. Industry partners stand to gain a larger pool of candidates who have foundational knowledge of semiconductor technology before entering secondary or tertiary education.\n\nThe program\u2019s early focus on primary education may also help address broader social goals, such as reducing the achievement gap in STEM subjects and encouraging a more diverse workforce. By introducing complex topics in a simplified, engaging manner, the initiative aims to demystify semiconductor technology and make it accessible to all children, regardless of background.\n\nWhile the Straits Times article does not detail the specific curriculum or timeline, the announcement signals a policy shift toward proactive talent development. The government will likely monitor the program\u2019s impact through pilot schools and adjust the approach based on feedback from educators and industry partners.\n\nLooking ahead, the next steps will involve the design of curriculum modules, teacher training workshops, and the procurement of educational materials. The Ministry of Education is expected to release a detailed rollout plan in the coming months, outlining how primary schools will integrate semiconductor concepts into their existing STEM programs.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzRZUUhzejl6MEp1SF9oYmtQUXRpMXNzcThaN1pOcTUxVTlXQ050eFVYZWYxRHhnaFN0d0dYUzlRaWlqNkktODM0R3pQVkRzMTluMlBocnVhQ0hhemxVU0FIYk5FX2dwVmhmekVfYXU4RVdZTm10NTJVUWMwekZRTHBzTUtRQWRDeThxY2pWVjNOcWVpREl3NXFwLU1zelBJWHMzRHdlMmVJdVI5?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzRZUUhzejl6MEp1SF9oYmtQUXRpMXNzcThaN1pOcTUxVTlXQ050eFVYZWYxRHhnaFN0d0dYUzlRaWlqNkktODM0R3pQVkRzMTluMlBocnVhQ0hhemxVU0FIYk5FX2dwVmhmekVfYXU4RVdZTm10NTJVUWMwekZRTHBzTUtRQWRDeThxY2pWVjNOcWVpREl3NXFwLU1zelBJWHMzRHdlMmVJdVI5?oc=5",
-      "guid": "CBMirAFBVV95cUxNSzRZUUhzejl6MEp1SF9oYmtQUXRpMXNzcThaN1pOcTUxVTlXQ050eFVYZWYxRHhnaFN0d0dYUzlRaWlqNkktODM0R3pQVkRzMTluMlBocnVhQ0hhemxVU0FIYk5FX2dwVmhmekVfYXU4RVdZTm10NTJVUWMwekZRTHBzTUtRQWRDeThxY2pWVjNOcWVpREl3NXFwLU1zelBJWHMzRHdlMmVJdVI5"
-    },
-    "straitstimes_94888c70": {
-      "id": "straitstimes_94888c70",
-      "title": "Area in MacRitchie Reservoir Park cordoned off after large hole appears in ground; PUB investigating - Yahoo News Singapore",
-      "category": "World",
-      "source": "straitstimes",
-      "time": "2026-09-24T21:22:56",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Info_Board_MacRitchie_Reservoir_Singapore_Feb23_D72_25337.jpg/3840px-Info_Board_MacRitchie_Reservoir_Singapore_Feb23_D72_25337.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "content": "A large hole has appeared in the ground at MacRitchie Reservoir Park, prompting authorities to cordon off the area while the Public Utilities Board (PUB) investigates. [1]\n\nThe incident raises concerns about public safety and the integrity of the park\u2019s infrastructure, a popular destination for Singaporeans. [1]\n\nOn an unspecified date, park visitors noticed a sizable opening in the ground near the reservoir. Park officials immediately closed off the area to prevent accidents. [1] The hole\u2019s dimensions were described as large, though the exact size was not disclosed. [1] The Public Utilities Board (PUB) has taken over the investigation. [1]\n\nMacRitchie Reservoir Park is managed by the National Parks Board and is a key green space in Singapore, offering hiking trails and wildlife observation. The park\u2019s proximity to the reservoir makes it a focal point for water catchment and recreation.\n\nPUB is Singapore\u2019s agency responsible for water supply, drainage, and water conservation. Its involvement signals that the hole may be linked to subsurface water or drainage systems.\n\nThe primary stakeholders are park visitors, local residents, and the National Parks Board, which must ensure safe access to the park. The incident also involves PUB, whose mandate includes maintaining the integrity of water infrastructure that could affect the park\u2019s environment.\n\nThe cordoned area limits access to certain trails, potentially affecting daily visitors and those planning to hike. The incident may also prompt a review of maintenance and monitoring protocols for park infrastructure.\n\nWhile the cause remains unknown, the event highlights the importance of regular inspections of public parks, especially those adjacent to critical water catchment areas. The investigation may lead to stricter safety measures or infrastructure upgrades.\n\nAuthorities are expected to release further details once the investigation concludes. Visitors are advised to heed signage and avoid the affected area until the hole is safely sealed. The next update is likely to come from PUB or NParks.\n\nThe MacRitchie Reservoir itself is a major source of potable water for Singapore, managed by PUB. The reservoir\u2019s catchment area is protected to maintain water quality, and the surrounding park is subject to environmental safeguards.\n\nIn the past, Singapore has experienced ground subsidence in areas with heavy construction or inadequate drainage, leading to similar incidents. Authorities routinely monitor such risks, but the sudden appearance of a large hole suggests a lapse or an unforeseen event.\n\nThe incident also underscores the interconnectedness of Singapore\u2019s urban infrastructure. A fault in a drainage system could manifest as a surface collapse, affecting both water supply and public safety. The investigation will likely involve geotechnical experts to assess soil stability and potential water-related causes.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzJKeHhnUTVnR2l0aXpXblpHZHJQNTFDa0xTM1lyUGRHODhWR0NjZWdPYzZPVWFzZ0VUM2ZOaGdTWENlUnJodjAyMnY4QlhhNkJ0a2ZsazQyZy1DOEVVRnhDOEQ3NVlQV2lCS3FxV3pDeEhCblNQRmpLN2ZSR3BNMnA5dWpLSVE?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzJKeHhnUTVnR2l0aXpXblpHZHJQNTFDa0xTM1lyUGRHODhWR0NjZWdPYzZPVWFzZ0VUM2ZOaGdTWENlUnJodjAyMnY4QlhhNkJ0a2ZsazQyZy1DOEVVRnhDOEQ3NVlQV2lCS3FxV3pDeEhCblNQRmpLN2ZSR3BNMnA5dWpLSVE?oc=5",
-      "guid": "CBMihwFBVV95cUxPdzJKeHhnUTVnR2l0aXpXblpHZHJQNTFDa0xTM1lyUGRHODhWR0NjZWdPYzZPVWFzZ0VUM2ZOaGdTWENlUnJodjAyMnY4QlhhNkJ0a2ZsazQyZy1DOEVVRnhDOEQ3NVlQV2lCS3FxV3pDeEhCblNQRmpLN2ZSR3BNMnA5dWpLSVE"
-    },
-    "guardian_7b118a49": {
-      "id": "guardian_7b118a49",
-      "title": "Are baby girls more sociable? Super El Ni\u00f1o, meningitis outbreak explained \u2013 podcast",
-      "category": "Science",
-      "source": "guardian",
-      "time": "2026-09-24T21:22:59",
-      "read": "3 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/066785b875bba7566dc45fc3ff41a22b926f7788/950_0_4750_3800/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=dc2192651b3819a4638fdc2d8bab5012",
-      "content": "Madeleine Finlay and Guardian science editor Ian Sample sat together on the latest science podcast to unpack three stories that span early childhood development, climate science and infectious disease. The conversation began with a new study on infant social behaviour, moved to a looming super El\u202fNi\u00f1o, and concluded with an explanation of the UK\u2019s meningitis outbreak earlier this year.\u202f[1]\n\nThe discussion illustrates how scientific research informs public understanding of issues that affect families, governments and global communities. By linking a developmental study to climate risk and a public\u2011health crisis, the podcast highlights the breadth of science that shapes everyday life.\u202f[1]\n\nFinlay and Sample reviewed three separate pieces of research. First, a study found that baby girls show a greater interest in faces than baby boys, a finding that may shed light on the long\u2011standing debate over whether sex differences are innate or socially constructed. Second, climate scientists warn that a super El\u202fNi\u00f1o could lead to 450,000 deaths in the next six months. Third, the hosts explored why the meningitis outbreak in the UK earlier this year was so large.\u202f[1]\n\nThe infant study\u2019s key observation is that newborn girls appear more drawn to faces than their male counterparts. This behavioural difference offers a potential clue to the nature\u2011versus\u2011nurture debate about sex differences that has persisted for decades.\u202f[1]\n\nA super El\u202fNi\u00f1o is an unusually strong El\u202fNi\u00f1o event, characterised by exceptionally warm sea\u2011surface temperatures in the central and eastern Pacific Ocean. Climate experts predict that such an event could cause 450,000 deaths worldwide over the next half\u2011year, primarily through extreme weather, food shortages and disease.\u202f[1]\n\nThe podcast also addressed the UK\u2019s meningitis outbreak, explaining the factors that contributed to its size earlier this year. While the discussion did not detail specific epidemiological data, it highlighted the importance of rapid surveillance and vaccination in controlling such outbreaks.\u202f[1]\n\nThe nature\u2011versus\u2011nurture debate has long examined whether differences between sexes arise from biology or environment. By focusing on infant behaviour, the new study adds a fresh perspective to this conversation, suggesting that some social differences may be present from birth.\u202f[1]\n\nEl\u202fNi\u00f1o events occur when warm water spreads across the Pacific, disrupting weather patterns worldwide. A super El\u202fNi\u00f1o is a particularly intense version of this phenomenon, capable of triggering widespread droughts, floods and heatwaves.\u202f[1]\n\nMeningitis is an infection of the membranes covering the brain and spinal cord, often caused by bacteria or viruses. Outbreaks can spread rapidly, especially in settings with limited access to healthcare and vaccination.\u202f[1]\n\nStakeholders in these stories include parents and early\u2011childhood educators interested in infant social development, governments and aid agencies preparing for climate\u2011related humanitarian crises, and public\u2011health officials managing infectious disease outbreaks.\u202f[1]\n\nUnderstanding infant social cues can inform early\u2011childhood programmes and support services. Accurate climate forecasts enable better allocation of disaster\u2011relief resources, while insights into meningitis transmission guide vaccination campaigns and surveillance.\u202f[1]\n\nThe study\u2019s findings may influence how early\u2011childhood curricula address gender differences, while the projected deaths from the super El\u202fNi\u00f1o underscore the urgency of climate adaptation strategies. The explanation of the meningitis outbreak could shape future outbreak responses and public\u2011health policy.\u202f[1]\n\nListeners can expect the podcast to continue covering developments in infant research, climate science and infectious disease, with forthcoming updates on El\u202fNi\u00f1o forecasts and meningitis surveillance.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/science/audio/2026/sep/24/are-baby-girls-more-sociable-super-el-nino-meningitis-outbreak-explained-podcast"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/science/audio/2026/sep/24/are-baby-girls-more-sociable-super-el-nino-meningitis-outbreak-explained-podcast",
-      "guid": "https://www.theguardian.com/science/audio/2026/sep/24/are-baby-girls-more-sociable-super-el-nino-meningitis-outbreak-explained-podcast"
-    },
-    "smh_77096e9b": {
-      "id": "smh_77096e9b",
-      "title": "V\u2019landys could rule rugby league for six years after appointment as ARLC executive chairman - SMH.com.au",
-      "category": "World",
-      "source": "smh",
-      "time": "2026-09-24T21:23:01",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Australian_Rugby_League_Commission_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "content": "V\u2019landys has been named executive chairman of the Australian Rugby League Commission (ARLC), a position that could give him control over the sport for up to six years.\u202f[1]\n\nThe appointment is significant because the executive chairman sits at the top of the ARLC\u2019s governance structure, overseeing the commission\u2019s strategic direction, regulatory framework and relationships with the National Rugby League (NRL) and other rugby league bodies.\u202f[1]\n\nThe ARLC is the governing authority for rugby league in Australia, responsible for the sport\u2019s commercial, competitive and developmental aspects. The executive chairman leads the commission\u2019s board, chairs meetings, and represents the sport at national and international forums.\u202f[1]\n\nThe six\u2011year term associated with the executive chairman role means that V\u2019landys will have a prolonged period to influence policy decisions, league contracts, and the overall trajectory of rugby league in the country.\u202f[1]\n\nStakeholders in this development include NRL clubs, players, sponsors, broadcasters and the fan base. A change in leadership at the ARLC can affect everything from salary cap rules to the scheduling of competitions and the allocation of revenue.\u202f[1]\n\nBecause the ARLC\u2019s decisions shape the sport\u2019s commercial health and competitive integrity, the appointment is likely to be closely watched by clubs seeking stability and by players and fans who rely on transparent governance.\u202f[1]\n\nThe implications of V\u2019landys\u2019s tenure may include potential reforms to the league\u2019s governance model, adjustments to the NRL\u2019s commercial agreements, and new initiatives aimed at expanding the sport\u2019s reach.\u202f[1]\n\nLooking ahead, observers will be interested in the ARLC\u2019s upcoming agenda, any announced policy changes, and how V\u2019landys\u2019s leadership style influences the commission\u2019s relationship with the NRL and other stakeholders.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Sydney Morning Herald",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVN5VnhUZzQxeUZpZGE2QVhTVW1paHc4MHBMdmdFX1EtcGdKWE14Nmp5OUNBbDNoVE5yWnFqZGFLVUM5Z09KVlVSWnBhQ2Z6eXl5bzlyanNQTVVqY0RXNXRQRk1KX1djRTVtN3J2SWNBVmRTN0JMM2Z3bFc5QW1hTzg0WGhMb2pBVDZkWUFPREZhZ3ZFcEp3LWhrMzRJXzNxVEFkT29ZbWhmWlR5NUZwU0FibmNjdTdKQURMVklHeW15dk0?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVN5VnhUZzQxeUZpZGE2QVhTVW1paHc4MHBMdmdFX1EtcGdKWE14Nmp5OUNBbDNoVE5yWnFqZGFLVUM5Z09KVlVSWnBhQ2Z6eXl5bzlyanNQTVVqY0RXNXRQRk1KX1djRTVtN3J2SWNBVmRTN0JMM2Z3bFc5QW1hTzg0WGhMb2pBVDZkWUFPREZhZ3ZFcEp3LWhrMzRJXzNxVEFkT29ZbWhmWlR5NUZwU0FibmNjdTdKQURMVklHeW15dk0?oc=5",
-      "guid": "CBMiwwFBVV95cUxQYVN5VnhUZzQxeUZpZGE2QVhTVW1paHc4MHBMdmdFX1EtcGdKWE14Nmp5OUNBbDNoVE5yWnFqZGFLVUM5Z09KVlVSWnBhQ2Z6eXl5bzlyanNQTVVqY0RXNXRQRk1KX1djRTVtN3J2SWNBVmRTN0JMM2Z3bFc5QW1hTzg0WGhMb2pBVDZkWUFPREZhZ3ZFcEp3LWhrMzRJXzNxVEFkT29ZbWhmWlR5NUZwU0FibmNjdTdKQURMVklHeW15dk0"
-    },
     "bangkokpost_c7ae5fbb": {
       "id": "bangkokpost_c7ae5fbb",
       "title": "Ex-minister given death sentence for murder of adopted son",
@@ -15999,32 +15879,153 @@
       ],
       "original_url": "https://theconversation.com/georgia-gov-elect-keisha-lance-bottoms-stands-on-the-shoulders-of-stacey-abrams-charlotta-bass-and-countless-other-black-women-who-dreamed-296027",
       "guid": "tag:theconversation.com,2011:article/296027"
+    },
+    "pbs_60d91f11": {
+      "id": "pbs_60d91f11",
+      "title": "What is Diwali, the Festival of Lights, and how is it celebrated?",
+      "category": "News",
+      "source": "pbs",
+      "time": "2026-11-08T13:05:01",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-06T152829Z_1343669324_RC2DIOA69HZH_RTRMADP_3_RELIGION-DIWALI-1024x698.jpg",
+      "content": "Diwali, the Festival of Lights, is a major Hindu celebration that falls on Nov.\u202f8 this year[1].\n\nThe festival marks a significant cultural event for millions, symbolizing the victory of light over darkness, and its timing on the lunar calendar places it in late October or early November[1].\n\nDuring Diwali, families light oil lamps and candles to illuminate homes, create colorful rangoli designs on floors, and set off fireworks to celebrate the triumph of good. The evening is often punctuated by prayers, or puja, to the goddess Lakshmi, who is believed to bring prosperity.\n\nIn addition to religious rituals, the day is marked by the exchange of gifts and sweets, the preparation of elaborate feasts, and the wearing of new clothes. Many communities organize communal gatherings, music performances, and cultural shows to honor the occasion.\n\nThe name Diwali comes from the Sanskrit word *Deepavali*, meaning \u201crow of lights.\u201d It is one of the most important festivals in the Hindu calendar, celebrated by Hindus, Sikhs, Jains, and Buddhists across the world.\n\nThe date of Diwali is determined by the new moon in the month of Kartik, a month that falls in the autumn according to the Hindu lunar calendar. Because the lunar cycle does not align exactly with the Gregorian calendar, the festival shifts each year, usually landing in late October or early November.\n\nMythological stories associated with Diwali vary by region. In North India, it commemorates the return of Lord Rama to Ayodhya after a 14\u2011year exile and the defeat of the demon king Ravana. In other traditions, it celebrates the victory of Lord Krishna over the demon Narakasura or the triumph of the goddess Kali over darkness.\n\nMillions of Hindus worldwide observe Diwali, and the diaspora communities in countries such as the United Kingdom, Canada, the United States, and Australia hold public celebrations that attract large crowds. Local businesses, especially those selling sweets, lamps, fireworks, and clothing, experience a surge in demand during the festival season.\n\nThe festival also has a social dimension, bringing families and neighbors together. Community centers often host free puja services, and schools may organize cultural programs to educate younger generations about the significance of the holiday.\n\nBecause Diwali is a public holiday in India and in several other countries with sizable Indian populations, it can influence school calendars, business operations, and transportation schedules. Governments typically announce the holiday dates a few weeks in advance to allow for planning.\n\nEnvironmental concerns have prompted some communities to reduce the use of fireworks, opting instead for quieter, more sustainable celebrations such as lantern releases or light shows. These alternatives aim to preserve the festival\u2019s spirit while mitigating air pollution and fire hazards.\n\nLooking ahead, religious authorities will confirm the exact date of Diwali for the coming year, and communities will begin preparations months in advance. Businesses will adjust inventory, schools will schedule holiday breaks, and families will plan their celebrations, ensuring that the Festival of Lights continues to illuminate homes and hearts across the globe.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/what-is-diwali-the-festival-of-lights-and-how-is-it-celebrated"
+        }
+      ],
+      "original_url": "https://www.pbs.org/newshour/world/what-is-diwali-the-festival-of-lights-and-how-is-it-celebrated",
+      "guid": "https://www.pbs.org/newshour/world/what-is-diwali-the-festival-of-lights-and-how-is-it-celebrated"
+    },
+    "npr_f581b004": {
+      "id": "npr_f581b004",
+      "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+      "category": "News",
+      "source": "npr",
+      "time": "2026-11-08T13:05:11",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+374/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2F27%2F4d4fe4984450a672595971ed542a%2Fdesert-bloom-t-merino-87.jpg",
+      "content": "El Ni\u00f1o rains have turned Chile\u2019s Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth. [1]\n\nThe transformation is striking because the Atacama is renowned for its extreme aridity, receiving less than a millimetre of rainfall each year in many areas. When a rare influx of moisture arrives, it briefly supports a burst of plant life and animal activity that normally would not exist in the region. The event has drawn attention from tourists, scientists, and conservationists alike, raising questions about how such a fragile ecosystem will respond to climate variability.\n\nIn recent weeks, the El\u202fNi\u00f1o phenomenon has delivered unusually heavy rains to the Atacama, a desert that is typically barren and lifeless. The sudden precipitation has triggered the germination of dormant seeds, turning the landscape into a vibrant tapestry of wildflowers and attracting a variety of wildlife that has not been seen there for decades. The bloom is described as fleeting, lasting only a few weeks before the desert\u2019s harsh conditions resume. [1]\n\nThe Atacama Desert, located in northern Chile, is one of the world\u2019s most arid regions. Its soils are highly saline and its temperatures can fluctuate dramatically between day and night. Under normal conditions, only a handful of hardy plant species survive, and the fauna is limited to a few reptiles, insects, and birds adapted to extreme dryness.\n\nEl\u202fNi\u00f1o is a climate pattern that occurs when sea surface temperatures in the central and eastern Pacific Ocean rise above normal levels. This warming can alter atmospheric circulation, bringing increased rainfall to areas that are usually dry, such as the Atacama. While El\u202fNi\u00f1o events are not uncommon in the Pacific, the intensity and timing of the recent rains were unusual for the desert.\n\nThe floral display that has emerged is a mix of native wildflowers that can quickly sprout from seed banks dormant for years. Their colors range from bright reds and yellows to subtle blues, creating a striking contrast against the desert\u2019s pale sand and rocky outcrops. The bloom\u2019s brevity is a natural response to the limited water supply; once the rains subside, the plants wither and the desert returns to its typical state.\n\nAlongside the plants, a temporary influx of wildlife has been observed. Birds that normally avoid the region have been seen nesting in the new vegetation, and small mammals have been spotted foraging among the flowers. The presence of these animals is a direct consequence of the sudden availability of food and shelter, and their numbers are expected to decline once the ecosystem reverts to its dry baseline.\n\nThe sudden beauty of the Atacama has attracted visitors from around the world, many of whom are drawn by the opportunity to witness a rare natural spectacle. Local communities have reported increased foot traffic, which can strain the fragile environment and disrupt the delicate balance that has been maintained for centuries.\n\nResearchers are taking advantage of the event to study desert ecology and the effects of climate variability on plant germination and animal behavior. The data collected during this bloom could provide insights into how desert ecosystems might respond to future changes in precipitation patterns, especially in the context of global climate change.\n\nConservationists warn that the surge in tourism and the potential for human interference could damage the newly sprouted vegetation and disturb the wildlife that has appeared. Measures such as designated viewing paths and visitor limits are being considered to mitigate these impacts while still allowing people to experience the phenomenon.\n\nStakeholders in this situation include local residents who rely on the land for livelihoods, scientists seeking to understand ecological responses, tourists eager for a unique experience, and government agencies tasked with balancing economic benefits against environmental protection.\n\nThe Atacama\u2019s brief bloom underscores the sensitivity of desert ecosystems to climatic shifts. It highlights how even short-term changes in rainfall can produce significant ecological and economic effects, raising questions about how communities and governments will prepare for similar events in the future.\n\nMonitoring of rainfall patterns, ecological surveys, and tourism management plans will be key in the coming weeks. Scientists are also awaiting the next El\u202fNi\u00f1o forecast, which could indicate whether additional rainfall\u2014and another burst of desert life\u2014might occur before the region returns to its arid norm.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NPR",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino"
+        }
+      ],
+      "original_url": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
+      "guid": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino"
+    },
+    "abcau_5e05e1e0": {
+      "id": "abcau_5e05e1e0",
+      "title": "Khawaja says he has thrown nobody 'under the bus' - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "category": "World",
+      "source": "abcau",
+      "time": "2026-11-08T13:05:50",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/UsulALFiqh.svg/960px-UsulALFiqh.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "Khawaja has denied accusations that he has scapegoated others, saying he has \u201cthrown nobody under the bus\u201d\u202f[1].\n\nThe statement was reported by ABC News, but the brief coverage offers no further detail about the allegations, the context in which they arose, or the parties involved. The article simply records Khawaja\u2019s assertion that he has not placed anyone on the blame\u2011rack.\n\nBecause the source does not identify the specific claims or the circumstances prompting Khawaja\u2019s response, it is unclear what prompted the remark. The article does not indicate whether the statement was made in a public interview, a written statement, or a private conversation, nor does it provide a date or location for the exchange.\n\nThe phrase \u201cthrowing someone under the bus\u201d is a common idiom meaning to blame or sacrifice someone to protect oneself or a group. In public discourse, it is often used to accuse a person of shifting responsibility onto others. Khawaja\u2019s use of the phrase suggests he is addressing a perceived accusation of such behavior, but without further information the nature of the alleged scapegoating remains unspecified.\n\nBecause the report offers no details on the individuals or organizations that might be implicated, it is difficult to assess who might be affected by Khawaja\u2019s claim. The statement could influence public perception of Khawaja\u2019s integrity, but the article does not provide evidence of any broader impact or reaction from stakeholders.\n\nThe limited information in the source means that any analysis of the situation must remain tentative. Without knowing the background of the allegations or the context of Khawaja\u2019s statement, it is impossible to evaluate the validity of his denial or to determine whether it is part of a larger dispute.\n\nNo further information is available at this time. Future reporting may clarify the circumstances surrounding Khawaja\u2019s claim, the identity of those involved, and any subsequent actions or investigations.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "ABC News (Australia)",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUk1YWdNaFhNVWhpcHVPSFNGUUZXYllqNHQyMk1aaHhyVGFibFlBaVhyVVpFLURHbGdacDRBMGVQREZBUHhPcHdjN0pEWlZpUGMzak5kM3NFU2ZWQ0xDYzFHMldkeDY2UzBxdzJNS25kc1N6RFphXzNzQ0EtV253d2hHdGgxWkRfVW5vUWdxUlpueENPZnJxMmdoM1g2Y2tTREw0cw?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUk1YWdNaFhNVWhpcHVPSFNGUUZXYllqNHQyMk1aaHhyVGFibFlBaVhyVVpFLURHbGdacDRBMGVQREZBUHhPcHdjN0pEWlZpUGMzak5kM3NFU2ZWQ0xDYzFHMldkeDY2UzBxdzJNS25kc1N6RFphXzNzQ0EtV253d2hHdGgxWkRfVW5vUWdxUlpueENPZnJxMmdoM1g2Y2tTREw0cw?oc=5",
+      "guid": "CBMipAFBVV95cUxQaUk1YWdNaFhNVWhpcHVPSFNGUUZXYllqNHQyMk1aaHhyVGFibFlBaVhyVVpFLURHbGdacDRBMGVQREZBUHhPcHdjN0pEWlZpUGMzak5kM3NFU2ZWQ0xDYzFHMldkeDY2UzBxdzJNS25kc1N6RFphXzNzQ0EtV253d2hHdGgxWkRfVW5vUWdxUlpueENPZnJxMmdoM1g2Y2tTREw0cw"
+    },
+    "guardian_262afaa5": {
+      "id": "guardian_262afaa5",
+      "title": "Rise in NHS birth centre closures \u2018shocking\u2019 denial of women\u2019s rights, experts say",
+      "category": "Politics",
+      "source": "guardian",
+      "time": "2026-11-08T13:05:54",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/c3c6b99f0a024d3deb184dea44054eed0944f26e/149_0_4233_3386/master/4233.jpg?width=140&quality=85&auto=format&fit=max&s=26c1dba7e069d172d2bf6f8fc2b4be74",
+      "content": "Twelve midwife\u2011led maternity units have shut in England since 2019, with half of those closures occurring after Labour took office in 2024. NHS officials are reportedly cutting birth\u2011centre services, a move that campaigners say denies women the right to choose a midwife\u2011led birth. [1]\n\nThe trend raises questions about the NHS\u2019s commitment to women's autonomy and the future of midwife\u2011led care, a model that has been praised for supporting natural births and reducing medical intervention.\n\nThe closures began in 2019 and have accelerated in recent years, bringing the total to twelve units across England. Six of those units closed after the 2024 general election, when the Labour Party assumed power. [1]\n\nThe units, which are staffed primarily by midwives and designed to provide a hospital\u2011based environment without a doctor in charge, have traditionally offered a middle ground between home birth and hospital delivery. [1]\n\nCampaigners argue that the shutdowns represent a \u201cshocking\u201d denial of women\u2019s rights, as the midwife\u2011led model allows expectant mothers to decide whether to have their baby in a hospital run by doctors, at a midwife\u2011led unit, or at home. [1]\n\nMidwife\u2011led maternity units, also known as birth centres, are part of the NHS\u2019s broader maternity service framework. They are intended to provide a safe, low\u2011risk environment for uncomplicated pregnancies, with midwives overseeing the birth process.\n\nThe NHS\u2019s maternity policy historically has offered three options: a hospital delivery with obstetricians, a midwife\u2011led birth centre, or a home birth supervised by a midwife. This triad has been promoted as a way to respect women's choices and reduce unnecessary interventions.\n\nThe decision to close birth centres has been reported by NHS officials, but the specific reasons behind each closure have not been publicly detailed.\n\nWomen who prefer midwife\u2011led care are directly affected, as the closures limit their options for a less medicalised birth experience. Midwives, who often work in these units, face job uncertainty and a potential reduction in professional autonomy.\n\nHospital administrators and NHS planners may view the closures as a way to streamline resources and focus on high\u2011risk cases, but critics argue that this approach undermines the NHS\u2019s duty to provide comprehensive maternity care.\n\nIf the trend continues, the availability of midwife\u2011led birth centres could shrink further, potentially increasing the proportion of births that occur under obstetrician supervision. This shift may affect birth outcomes, patient satisfaction, and the overall cost of maternity services.\n\nThe closures also raise broader questions about gender equity in healthcare decision\u2011making, as women\u2019s preferences for midwife\u2011led care are increasingly being sidelined in favour of doctor\u2011led models.\n\nNHS England and the Department of Health are expected to release a review of maternity services later this year, while advocacy groups plan to lobby for the reinstatement of closed units and the protection of midwife\u2011led care options.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+      "guid": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights"
+    },
+    "snopes_744390fe": {
+      "id": "snopes_744390fe",
+      "title": "Did Trump propose 'new rules' restricting Congress members' privileges? Here's the truth",
+      "category": "News",
+      "source": "snopes",
+      "time": "2026-11-08T13:06:33",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/11/trump_and_veto_hat.png",
+      "content": "An allegation that former President Donald Trump proposed new rules limiting congressional privileges has been circulating online for over a decade, predating his presidency.1\n\nThe claim has resurfaced in recent discussions about congressional oversight, raising questions about its origins and credibility.\n\nThe rumor first appeared in 2009, according to the source, and has been repeated in various forums. No official record or statement from Trump or his staff has been found to support the claim.1\n\nTrump was not in public office in 2009; he would not become president until 2017. The rumor therefore cannot be tied to any official policy proposals from his administration.\n\nCongressional privileges refer to the legal immunities and procedural rights that members of Congress enjoy, such as the Speech or Debate Clause. Proposals to alter these privileges would involve complex legislative processes, including debate in both chambers and potential judicial review.\n\nThe primary stakeholders are Congress, its members, and the public. If a proposal had existed, it would have required formal introduction, committee consideration, and floor debate, with possible scrutiny from the judiciary.\n\nWithout evidence, the rumor does not affect current policy or legislative action. However, it can influence public perception of Trump's relationship with Congress, potentially shaping narratives about his conduct.\n\nThe persistence of the rumor illustrates how misinformation can circulate long before a political figure attains office, potentially shaping narratives about their conduct.\n\nMonitoring reputable news outlets and official congressional records will clarify whether any such proposal ever existed. No new evidence has emerged as of now.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Snopes",
+          "url": "https://www.snopes.com/fact-check/trump-new-rules-congress-privileges/"
+        }
+      ],
+      "original_url": "https://www.snopes.com/fact-check/trump-new-rules-congress-privileges/",
+      "guid": "https://www.snopes.com/fact-check/trump-new-rules-congress-privileges/"
+    },
+    "googlenews_6f15c010": {
+      "id": "googlenews_6f15c010",
+      "title": "Why the simple flu shot could be a surprise weapon against cancer - The Washington Post",
+      "category": "Health",
+      "source": "googlenews",
+      "time": "2026-11-08T13:06:42",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/57/The-Washington-Post-10-June-2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "A Washington Post article has drawn attention to the possibility that the seasonal influenza vaccine could play a role in cancer prevention or treatment. The piece, titled \u201cWhy the simple flu shot could be a surprise weapon against cancer,\u201d argues that the flu shot\u2019s immune\u2011stimulating properties might have benefits beyond preventing influenza infection.\u00b9\n\nThe idea matters because cancer remains a leading cause of death worldwide, and new strategies to boost the immune system\u2019s ability to recognize and destroy malignant cells are a high priority for researchers and clinicians alike. If a widely available, inexpensive vaccine could contribute to cancer control, it would represent a significant advance in public health.\n\nIn the article, the author notes that the flu vaccine is administered annually to millions of people and is known to activate innate and adaptive immune responses. The author suggests that this immune activation could, in theory, help the body detect and eliminate early cancer cells, though the piece does not provide specific clinical data or study results.\u00b9\n\nThe flu shot works by introducing inactivated or weakened influenza viruses, prompting the immune system to produce antibodies and memory cells that protect against future infection. The same immune pathways that respond to the vaccine also play roles in recognizing abnormal cells, which is why researchers are exploring vaccines as a form of cancer immunotherapy.\n\nHistorically, cancer vaccines have focused on targeting tumor\u2011specific antigens, but the concept of using a non\u2011cancer vaccine to stimulate a broader immune response is relatively new. The flu vaccine\u2019s safety record and global distribution make it an attractive candidate for such repurposing, though rigorous trials would be needed to confirm efficacy against cancer.\n\nPatients, oncologists, and public health officials are the primary stakeholders. If further research confirms a protective effect, it could influence vaccination recommendations and cancer screening protocols. Pharmaceutical companies that produce flu vaccines might also explore partnerships to develop adjunctive cancer prevention programs.\n\nThe implications of this line of inquiry are still speculative. While the immune system\u2019s role in cancer surveillance is well established, translating that into a practical, vaccine\u2011based intervention requires careful study of dosage, timing, and patient selection. The Washington Post article calls for more research but does not detail any ongoing trials.\n\nWhat to watch next includes the emergence of clinical studies that test flu vaccine administration in high\u2011risk cancer populations, as well as any updates from regulatory agencies on potential new indications for existing vaccines. The next few years may see pilot trials that could either support or refute the hypothesis that a simple flu shot can serve as a \u201csurprise weapon\u201d against cancer.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5",
+      "guid": "CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE"
     }
   },
   "featured": {
-    "hero": "japantimes_71e39fbe",
+    "hero": "pbs_60d91f11",
     "stack": [
-      "csmonitor_f09dcf7a",
-      "irishtimes_b0abad46",
-      "france24_57da8adf"
+      "npr_f581b004",
+      "abcau_5e05e1e0",
+      "guardian_262afaa5"
     ],
     "latest": [
+      "guardian_262afaa5",
+      "abcau_5e05e1e0",
+      "npr_f581b004",
+      "japantimes_71e39fbe",
       "france24_57da8adf",
-      "irishtimes_b0abad46",
-      "csmonitor_f09dcf7a",
-      "japantimes_627da3c9",
-      "abcau_4c103771",
-      "irishtimes_c6c84fc7"
+      "irishtimes_b0abad46"
     ],
     "world": [
+      "abcau_5e05e1e0",
       "japantimes_71e39fbe",
       "csmonitor_f09dcf7a",
-      "irishtimes_b0abad46",
-      "france24_57da8adf"
+      "irishtimes_b0abad46"
     ]
   },
   "categoryIndex": {
     "News": [
+      "snopes_744390fe",
       "pbs_d265e899",
       "snopes_89030346",
       "pbs_4cad8a62",
@@ -16033,20 +16034,19 @@
       "fullfact_b91bb31e",
       "pbs_b2449374",
       "fullfact_b175b748",
-      "fullfact_dcb64de9",
-      "npr_5a537094"
+      "fullfact_dcb64de9"
     ],
     "World": [
+      "csmonitor_f09dcf7a",
+      "japantimes_627da3c9",
+      "abcau_4c103771",
+      "irishtimes_c6c84fc7",
       "bangkokpost_83989b0c",
       "abcau_c2680be8",
       "reuters_5feb2390",
       "bangkokpost_4e2b9fd0",
       "smh_00e63fe0",
-      "bangkokpost_8d1913bd",
-      "straitstimes_214c78e7",
-      "japantimes_0fbf3e4d",
-      "france24_719bfea0",
-      "abcau_bc9544af"
+      "bangkokpost_8d1913bd"
     ],
     "Politics": [
       "bbc_93c48242",
@@ -16073,6 +16073,7 @@
       "googlenews_2080f10d"
     ],
     "Health": [
+      "googlenews_6f15c010",
       "googlenews_a633d182",
       "guardian_31187d92",
       "googlenews_abab1335",
@@ -16081,8 +16082,7 @@
       "guardian_71aa4cfe",
       "googlenews_00a30957",
       "guardian_6e8d0293",
-      "bbc_44698303",
-      "googlenews_497bf086"
+      "bbc_44698303"
     ],
     "Science": [
       "conversation_358eaed2",
@@ -16109,7 +16109,7 @@
       "googlenews_04950b0d"
     ]
   },
-  "breaking": "Azerbaijan welcoming \u2018set-jetting\u2019 fans of Japan TV drama \u2018Vivant\u2019",
+  "breaking": "Khawaja says he has thrown nobody 'under the bus' - ABC News & Headlines \u2013 Australian Broadcasting C",
   "events": [
     {
       "title": "Exeter University-led \u00a320m project to prevent and detect dementia - BBC",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "Trump says he's asked UFC's Dana White to be his press secretary",
+    "What is Diwali, the Festival of Lights, and how is it celebrated?",
     "Azerbaijan welcoming \u2018set-jetting\u2019 fans of Japan TV drama \u2018Vivant\u2019",
-    "Hoax bomb threats targeted flights in Europe. Here's what happened.",
-    "Irish Illustrated Preview: No. 1 Miami (8-0) @ No. 11 Notre Dame (7-1) - 247Spor"
+    "Trump says he's asked UFC's Dana White to be his press secretary",
+    "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in "
   ]
 }
