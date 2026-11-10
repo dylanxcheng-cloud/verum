@@ -1,125 +1,5 @@
 {
   "stories": {
-    "bangkokpost_221358c1": {
-      "id": "bangkokpost_221358c1",
-      "title": "Democrats face identity test",
-      "category": "World",
-      "source": "bangkokpost",
-      "time": "2026-09-26T04:31:54",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://static.bangkokpost.com/media/content/dcx/2026/09/26/6242578_700.jpg",
-      "content": "The Democratic Party\u2019s recent decision to adopt a tougher stance on a Senate election\u2011fraud case has exposed a potentially costly fault line between its declared commitment to democratic institutions and the political identity of part of its traditional support base. [1]\n\nThe move could reshape the party\u2019s relationship with voters who have long been its backbone, raising questions about how the party balances institutional integrity with electoral strategy. [1]\n\nThe party announced the shift in a statement that called for a stricter approach to the Senate election\u2011fraud case, a legal dispute that has drawn national attention. The decision signals a departure from earlier positions and a willingness to confront allegations of irregularities head\u2011on. [1]\n\nThe Democratic Party has historically positioned itself as a defender of democratic institutions, advocating for transparent elections and the rule of law. Its base includes diverse groups, many of whom have supported the party\u2019s commitment to democratic norms.\n\nThe Senate election\u2011fraud case involves allegations of irregularities in a recent election, with legal proceedings underway. The case has been a point of contention among political observers.\n\nParty leadership, lawmakers, and supporters are all affected by the decision. It may influence the party\u2019s standing among voters who prioritize institutional integrity, while also potentially alienating those who view the case through a partisan lens.\n\nThe party\u2019s harder line could lead to increased scrutiny of its own practices and may prompt calls for reforms within the party\u2019s internal processes. It may also affect upcoming elections, as voters weigh the party\u2019s stance on election integrity.\n\nThe party faces a dilemma: uphold its stated commitment to democratic institutions while maintaining the political identity that has secured its electoral base. The decision may test the party\u2019s ability to navigate this tension without losing support.\n\nObservers will watch the Senate\u2019s review of the case, potential hearings, and the party\u2019s response to any findings. The party\u2019s communication strategy to voters and any adjustments in messaging for upcoming primaries will also be key points of focus.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Bangkok Post",
-          "url": "https://www.bangkokpost.com/thailand/politics/3326483/democrats-face-identity-test"
-        }
-      ],
-      "original_url": "https://www.bangkokpost.com/thailand/politics/3326483/democrats-face-identity-test",
-      "guid": ""
-    },
-    "smh_c77a2d49": {
-      "id": "smh_c77a2d49",
-      "title": "Squeezed skies: How avoiding war zones is driving up the cost of your flight - SMH.com.au",
-      "category": "World",
-      "source": "smh",
-      "time": "2026-09-26T04:31:56",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28226%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27306%27%20cy%3D%27123%27%20r%3D%27140%27%20fill%3D%27hsl%28266%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "The Sydney Morning Herald\u2019s recent piece, \u201cSqueezed skies: How avoiding war zones is driving up the cost of your flight,\u201d argues that airlines are rerouting flights to steer clear of conflict areas, and that this practice is pushing fares higher for passengers.\u00b9\n\nThe article\u2019s central claim is that the avoidance of war zones forces airlines to take longer routes, which in turn increases fuel consumption, crew costs, and ultimately ticket prices. While the piece does not provide specific data or examples, the idea is grounded in a well\u2011known industry practice: airlines routinely adjust flight paths to avoid airspace overlying active conflict zones for safety and regulatory reasons.\n\nBecause the source does not detail which routes have been altered or how much the cost has risen, the article leaves readers without concrete figures. It also does not name particular airlines or conflict zones, nor does it quote industry officials or regulatory bodies. The absence of such specifics means the piece remains an overview rather than an investigative report.\n\nIn general, airlines rely on the International Civil Aviation Organization\u2019s (ICAO) airspace maps and national aviation authorities to determine safe flight corridors. When a region becomes unstable, pilots and dispatchers consult updated NOTAMs (Notice to Airmen) and may divert to alternate routes that avoid the affected airspace. This can add several hundred nautical miles to a flight, raising fuel burn and crew duty time. Fuel is one of the largest operating costs for airlines, often accounting for 30\u201340\u202f% of total expenses, so even modest increases in mileage can translate into higher ticket prices.\n\nPassengers are the most directly affected stakeholders, as higher operating costs are typically passed on through fare adjustments. Airlines, meanwhile, must balance safety, regulatory compliance, and profitability, while governments may impose restrictions on air traffic over conflict zones. The broader aviation industry, including airport operators and ground handling firms, also feels the ripple effects of altered flight paths.\n\nThe potential implications of this trend include not only increased fares but also greater environmental impact due to higher fuel burn and emissions. Longer routes can also affect scheduling, airport slot availability, and crew rostering, adding complexity to airline operations.\n\nWhat to watch next is whether airlines will publicly disclose the extent of route changes and cost adjustments, and whether aviation regulators will issue new guidelines on operating over conflict zones. Airlines may also explore alternative fuel sources or more efficient aircraft to mitigate the cost impact of longer routes. The industry\u2019s response to these challenges will shape the future cost structure of international air travel.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Sydney Morning Herald",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRktLb09UTTRPWFBqLTZUT2NCVElJRFVjUGZaRlJzbzR2TFFtRlhjQmZ5SzlqMGpoOFFXSWIycmF4dEVpamxOVmd1YkhySUJpTEZQV044dU54ck1KVVVNRUFxcFJpMDdWQTlzejNkbTMzT21ua0xpV1IxN1p6WjFtXzczamRMVW1JRDBfckNVSU1Hb2FwWGM3UmVPd0RMa3JpMFVDSzFtdUxJZzVINGc2eThEbHJvWGxYelE0T3g1R3VGLVB1VlUwWjdSR1BISm8xazFVMg?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRktLb09UTTRPWFBqLTZUT2NCVElJRFVjUGZaRlJzbzR2TFFtRlhjQmZ5SzlqMGpoOFFXSWIycmF4dEVpamxOVmd1YkhySUJpTEZQV044dU54ck1KVVVNRUFxcFJpMDdWQTlzejNkbTMzT21ua0xpV1IxN1p6WjFtXzczamRMVW1JRDBfckNVSU1Hb2FwWGM3UmVPd0RMa3JpMFVDSzFtdUxJZzVINGc2eThEbHJvWGxYelE0T3g1R3VGLVB1VlUwWjdSR1BISm8xazFVMg?oc=5",
-      "guid": "CBMi1AFBVV95cUxPRktLb09UTTRPWFBqLTZUT2NCVElJRFVjUGZaRlJzbzR2TFFtRlhjQmZ5SzlqMGpoOFFXSWIycmF4dEVpamxOVmd1YkhySUJpTEZQV044dU54ck1KVVVNRUFxcFJpMDdWQTlzejNkbTMzT21ua0xpV1IxN1p6WjFtXzczamRMVW1JRDBfckNVSU1Hb2FwWGM3UmVPd0RMa3JpMFVDSzFtdUxJZzVINGc2eThEbHJvWGxYelE0T3g1R3VGLVB1VlUwWjdSR1BISm8xazFVMg"
-    },
-    "googlenews_e4ef4b95": {
-      "id": "googlenews_e4ef4b95",
-      "title": "Warnings go out about a new drug said to be 10 times more potent than Fentanyl - KDVR",
-      "category": "Health",
-      "source": "googlenews",
-      "time": "2026-09-26T04:32:44",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28178%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27258%27%20cy%3D%27157%27%20r%3D%27140%27%20fill%3D%27hsl%28218%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "A new opioid, cychlorphine, has prompted warnings from several media outlets and emergency responders after reports that it is up to ten times more potent than fentanyl.[1]\n\nThe drug\u2019s extreme potency raises the risk of fatal overdoses, especially if standard naloxone (Narcan) fails to reverse its effects.[6]\n\nUT students have warned about cychlorphine, citing social media accounts that highlight overdose incidents.[5] Local news outlets in Austin have reported that the substance may be circulating in counterfeit pills sold online.[3] Emergency medical services in the area have noted cases of Narcan\u2011resistant overdoses that could be linked to the drug.[6] The Austin police department has issued a public warning about the presence of cychlorphine.[2]\n\nA FOX\u202f7 Austin report titled \u201cWhat is cychlorphine?\u201d provides an overview of the drug.[4]\n\nFentanyl, a synthetic opioid first introduced in the 1970s, is already among the most potent painkillers in use. Its high potency has made it a leading contributor to overdose deaths, and it is typically countered with naloxone, a medication that can rapidly reverse opioid\u2011induced respiratory depression.\n\nCounterfeit pills containing unknown substances are frequently sold through online marketplaces and social media platforms. These illicit products often masquerade as prescription medications, making it difficult for users and healthcare providers to identify the exact drug and its potency.\n\nEMS observations of Narcan\u2011resistant overdoses suggest that cychlorphine may produce a level of respiratory depression that standard doses of naloxone cannot fully reverse, complicating emergency treatment protocols. [6]\n\nStudents, EMS personnel, police, and a local law center focused on social media victims are all monitoring the situation.[5][6][7]\n\nThe potential for fatal overdoses is heightened by the drug\u2019s potency and the possibility of Narcan resistance, which could lead to higher mortality rates among users who rely on emergency medical services.\n\nPublic health officials and emergency responders are urged to update treatment guidelines and increase public awareness about the risks associated with cychlorphine.\n\nInvestigations are underway to trace the supply chain of the counterfeit pills, and legal actions may be pursued against distributors and social media",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNEduWFBTQi00YmF3OW5uQVRvZDVORzd5dmZNZkR2WkFDT1RFQ0tDSnVhdGFlZ2tXSWJqRi1FUzk4VTg2Nmo5cm1vOVdVb0FOQk5VLUtJOURxdWR6U09qXzc1Y2MxUk1rZFV2cEJHSTJiR0hTMVpsbUtseTd6UVJNVVFPaXp0WkRfLXRPc1FQOERJNm83MG1pTnJyV0YyaUIzUmI4YWVhTUdjLUXSAbABQVVfeXFMTkUxZTN2SmhNRGN0VFBSSkJ2TXgzc01MN24zcHRIMmRiZE9kNXJTTzl2bDd4VHZhU3haU2c1Y3NQNnNpMmlvc19QVlhGOUFQeDNDaE1GRUFtZk5XMFVWVEg5UzlwWUVua3E3WElVNndEOE15OEpPa2J0aHB3RUQ3YXN1U0k5U3ZfU3pLbzFKemh5b3pZV2hycUg0SnhOdFlZMldoNDVLN0NjZ2JXckR4S3Y?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNEduWFBTQi00YmF3OW5uQVRvZDVORzd5dmZNZkR2WkFDT1RFQ0tDSnVhdGFlZ2tXSWJqRi1FUzk4VTg2Nmo5cm1vOVdVb0FOQk5VLUtJOURxdWR6U09qXzc1Y2MxUk1rZFV2cEJHSTJiR0hTMVpsbUtseTd6UVJNVVFPaXp0WkRfLXRPc1FQOERJNm83MG1pTnJyV0YyaUIzUmI4YWVhTUdjLUXSAbABQVVfeXFMTkUxZTN2SmhNRGN0VFBSSkJ2TXgzc01MN24zcHRIMmRiZE9kNXJTTzl2bDd4VHZhU3haU2c1Y3NQNnNpMmlvc19QVlhGOUFQeDNDaE1GRUFtZk5XMFVWVEg5UzlwWUVua3E3WElVNndEOE15OEpPa2J0aHB3RUQ3YXN1U0k5U3ZfU3pLbzFKemh5b3pZV2hycUg0SnhOdFlZMldoNDVLN0NjZ2JXckR4S3Y?oc=5",
-      "guid": "CBMiqwFBVV95cUxQNEduWFBTQi00YmF3OW5uQVRvZDVORzd5dmZNZkR2WkFDT1RFQ0tDSnVhdGFlZ2tXSWJqRi1FUzk4VTg2Nmo5cm1vOVdVb0FOQk5VLUtJOURxdWR6U09qXzc1Y2MxUk1rZFV2cEJHSTJiR0hTMVpsbUtseTd6UVJNVVFPaXp0WkRfLXRPc1FQOERJNm83MG1pTnJyV0YyaUIzUmI4YWVhTUdjLUXSAbABQVVfeXFMTkUxZTN2SmhNRGN0VFBSSkJ2TXgzc01MN24zcHRIMmRiZE9kNXJTTzl2bDd4VHZhU3haU2c1Y3NQNnNpMmlvc19QVlhGOUFQeDNDaE1GRUFtZk5XMFVWVEg5UzlwWUVua3E3WElVNndEOE15OEpPa2J0aHB3RUQ3YXN1U0k5U3ZfU3pLbzFKemh5b3pZV2hycUg0SnhOdFlZMldoNDVLN0NjZ2JXckR4S3Y"
-    },
-    "abcau_03b98fda": {
-      "id": "abcau_03b98fda",
-      "title": "AI data centre company starts development work without a permit - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "category": "World",
-      "source": "abcau",
-      "time": "2026-09-26T04:33:24",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%2893%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27293%27%20cy%3D%27231%27%20r%3D%27140%27%20fill%3D%27hsl%28133%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "An AI data centre company has begun construction work at a site without obtaining the required permit, according to an ABC News report. [1] The company is building an AI data centre. [1]\n\nThe incident raises questions about regulatory compliance and the oversight of rapidly expanding AI infrastructure in Australia.\n\nThe ABC report says the company started development work without a permit. The work began recently, although the exact date was not disclosed. The site is located in an area where permits are required for development.\n\nAI data centres are large facilities that house servers for machine\u2011learning workloads. They require planning permits in Australia to ensure compliance with environmental and zoning regulations. The permit process typically involves assessments of land use, environmental impact, and community consultation.\n\nThe company, its investors, and the local community may be affected by the lack of a permit. Regulators may investigate the breach, and the company could face legal action, fines, or a work stoppage. The incident could also influence public perception of the AI sector\u2019s adherence to Australian law.\n\nIf the company proceeds without a permit, it could face legal action that may delay the project and increase costs. The incident highlights the need for stricter enforcement of planning regulations for high\u2011profile technology projects.\n\nRegulatory authorities are likely to review the situation. The company may be required to apply for a permit retroactively, and the outcome will be announced in the coming weeks.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "ABC News (Australia)",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTJBQ2E2VHM3RTZuS3BNNGpMNXlEYTRlV05ZMEZ3QVM1aDlxZE01a3FIU09mZURwSG5YMEJONzdFdUhJeGpncnpPd2VZQzNxOXo5a0dvalluZDRFRDNVVGJqZzNGNWFwLW1XRDIxZUVweEN2eno2NEdGZkszUW1tbG9zbnZsSlhGbG1sTTYyamJoLXNLZ19nYjU5YjVveTlQVFB4Y2R4VDc5UQ?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTJBQ2E2VHM3RTZuS3BNNGpMNXlEYTRlV05ZMEZ3QVM1aDlxZE01a3FIU09mZURwSG5YMEJONzdFdUhJeGpncnpPd2VZQzNxOXo5a0dvalluZDRFRDNVVGJqZzNGNWFwLW1XRDIxZUVweEN2eno2NEdGZkszUW1tbG9zbnZsSlhGbG1sTTYyamJoLXNLZ19nYjU5YjVveTlQVFB4Y2R4VDc5UQ?oc=5",
-      "guid": "CBMiqgFBVV95cUxQOTJBQ2E2VHM3RTZuS3BNNGpMNXlEYTRlV05ZMEZ3QVM1aDlxZE01a3FIU09mZURwSG5YMEJONzdFdUhJeGpncnpPd2VZQzNxOXo5a0dvalluZDRFRDNVVGJqZzNGNWFwLW1XRDIxZUVweEN2eno2NEdGZkszUW1tbG9zbnZsSlhGbG1sTTYyamJoLXNLZ19nYjU5YjVveTlQVFB4Y2R4VDc5UQ"
-    },
-    "bangkokpost_be3dbba9": {
-      "id": "bangkokpost_be3dbba9",
-      "title": "Lisa on life beyond Blackpink",
-      "category": "World",
-      "source": "bangkokpost",
-      "time": "2026-09-26T11:09:29",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://static.bangkokpost.com/media/content/20260926/c1_3326600_700.jpg",
-      "content": "14\u2011year\u2011old Lalisa Lisa Manobal flew alone from Thailand to South Korea, chasing a dream of performing onstage long before Blackpink shattered streaming records and headlined Coachella.\u00b9\n\nLisa\u2019s solo journey illustrates the determination that underpins one of K\u2011pop\u2019s most celebrated idols and highlights the broader phenomenon of young trainees traveling across borders to pursue music careers.\n\nIn the years preceding Blackpink\u2019s global rise, Lisa boarded a flight from Thailand to South Korea, traveling alone to pursue her ambition of performing onstage. She later joined Blackpink, a group that has shattered streaming records and headlined Coachella.\u00b9\n\nK\u2011pop groups like Blackpink are formed through intensive trainee systems run by entertainment companies. Aspiring singers often relocate to South Korea at a young age to train in singing, dancing, and language skills.\n\nBlackpink debuted in 2016 and quickly rose to international prominence, becoming one of the world\u2019s best\u2011selling K\u2011pop acts. Their record\u2011breaking streaming numbers and appearance at Coachella in 2022 marked milestones for the genre.\n\nLisa\u2019s journey affects fans, the K\u2011pop industry, and the Thai music community. Her story inspires young performers in Thailand and other countries to pursue music careers abroad. The industry benefits from diverse talent, while fans gain a relatable narrative of perseverance.\n\nLisa\u2019s solo flight underscores the personal sacrifices made by young artists in pursuit of global success. It also reflects the growing internationalization of K\u2011pop, where talent from outside South Korea is increasingly integrated into mainstream acts.\n\nAs Blackpink continues to release new music and tour worldwide, Lisa\u2019s early experiences may influence her future projects and public engagements. Observers will note how her background shapes her role within the group and her solo endeavors.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Bangkok Post",
-          "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3326600/lisa-on-life-beyond-blackpink"
-        }
-      ],
-      "original_url": "https://www.bangkokpost.com/life/arts-and-entertainment/3326600/lisa-on-life-beyond-blackpink",
-      "guid": ""
-    },
-    "ap_b30999d1": {
-      "id": "ap_b30999d1",
-      "title": "Trump posts map showing \u2018Trump Strait\u2019 off Iran, and other Mideast developments - AP News",
-      "category": "News",
-      "source": "ap",
-      "time": "2026-09-26T11:09:39",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Associated_Press_logo_2012.svg/120px-Associated_Press_logo_2012.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "content": "Trump posted a map that he labeled \u201cTrump Strait\u201d off Iran, according to a recent AP report.\u202f[1] The map was shared on his account and also referenced other developments in the Middle East, though the details were not specified.\u202f[1]\n\nThe post is part of a broader pattern of Trump\u2019s commentary on Middle\u2011East geopolitics, in which he frequently uses social media to highlight issues he believes are important to U.S. interests.\n\nIn the post, Trump\u2019s map shows a narrow waterway off the coast of Iran that he calls \u201cTrump Strait.\u201d The map also includes other Middle\u2011East developments, but the AP report does not detail what those developments are.\u202f[1]\n\nA strait is a narrow passage of water that connects two larger bodies of water, often of strategic importance for maritime navigation and military positioning. The Middle East, which includes countries such as Iran, Iraq, Saudi Arabia, and the United Arab Emirates, has long been a focal point of international attention due to its oil reserves, geopolitical rivalries, and security concerns.\n\nStakeholders in any discussion about maritime geography in the region include the U.S. government, Iranian officials, neighboring Gulf states, and the broader international community that relies on shipping lanes that pass through the Persian Gulf and the Strait of Hormuz.\n\nThe map appears to be a symbolic gesture rather than an official policy statement. It does not represent a formal change in U.S. or Iranian maritime policy, nor does it indicate any new diplomatic initiative.\n\nWhile the map may influence public perception of U.S. engagement in the Middle East, it is unlikely to have a direct effect on diplomatic relations or on the strategic calculations of regional actors.\n\nObservers should watch for any subsequent official statements from U.S. or Iranian officials that might reference the map or the region\u2019s maritime boundaries, as well as any developments that could clarify the context of Trump\u2019s post.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3FURU1ld09YM0czSERoLWEtWEQwR1FSZm96NmpURkowVXNHQkRna0gzZEJXTWlKLUE5QW51U24tRFVHX2JDNUpvWVFyNWdGYVhaYThBVmJZMndzM1Z2eDVkVVViRG00M1k3YUpYdDE2azVBcmo4SmlhNDRSLW9Ra0taSTY1V0w3ektQdFpzQXhjTzNBNmxSalgxT0xGbC1y?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3FURU1ld09YM0czSERoLWEtWEQwR1FSZm96NmpURkowVXNHQkRna0gzZEJXTWlKLUE5QW51U24tRFVHX2JDNUpvWVFyNWdGYVhaYThBVmJZMndzM1Z2eDVkVVViRG00M1k3YUpYdDE2azVBcmo4SmlhNDRSLW9Ra0taSTY1V0w3ektQdFpzQXhjTzNBNmxSalgxT0xGbC1y?oc=5",
-      "guid": "CBMioAFBVV95cUxOY3FURU1ld09YM0czSERoLWEtWEQwR1FSZm96NmpURkowVXNHQkRna0gzZEJXTWlKLUE5QW51U24tRFVHX2JDNUpvWVFyNWdGYVhaYThBVmJZMndzM1Z2eDVkVVViRG00M1k3YUpYdDE2azVBcmo4SmlhNDRSLW9Ra0taSTY1V0w3ektQdFpzQXhjTzNBNmxSalgxT0xGbC1y"
-    },
     "nature_712ff651": {
       "id": "nature_712ff651",
       "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
@@ -15999,28 +15879,148 @@
       ],
       "original_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3lyMzJwdnl2WkRzbnM2UjAwT3ZSTUZDQTgzbzBiNnJnZWVaRXloREtmSl85dGhjRUZnd2lvUlpkWTFja3BoMHZwbDJIZXl0MWdkdnpwRGlwUHpkMUZ1Vzd4NnpKMWdrN29yczBZa19MSk41Y1lFZTJIT2NfSlVtQTUtMmROZFFqRm9BcFN3QVdpbEtWN29qM3hPOUVUTWI5QkdBQUdRSEhsZnM2NlJjRVZn?oc=5",
       "guid": "CBMisgFBVV95cUxPc3lyMzJwdnl2WkRzbnM2UjAwT3ZSTUZDQTgzbzBiNnJnZWVaRXloREtmSl85dGhjRUZnd2lvUlpkWTFja3BoMHZwbDJIZXl0MWdkdnpwRGlwUHpkMUZ1Vzd4NnpKMWdrN29yczBZa19MSk41Y1lFZTJIT2NfSlVtQTUtMmROZFFqRm9BcFN3QVdpbEtWN29qM3hPOUVUTWI5QkdBQUdRSEhsZnM2NlJjRVZn"
+    },
+    "france24_b4da6c84": {
+      "id": "france24_b4da6c84",
+      "title": "Trump ally Jim Jordan elected House Republican leader after midterm defeat",
+      "category": "World",
+      "source": "france24",
+      "time": "2026-11-10T23:03:43",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "https://s.france24.com/media/display/06f33884-dd55-11f1-8edc-29048b396e03/w:1024/p:16x9/AP26314801252851.jpg",
+      "content": "Jim Jordan was elected House Republican leader on Tuesday, defeating former Majority Leader Steve\u202fScalise 106\u201173 in a secret ballot, according to US media reports.\u202f[1] The new leader will replace Mike\u202fJohnson, who stepped down after Republicans lost control of both chambers of Congress in last week\u2019s midterm elections, and will guide the party in its role as the House opposition.\u202f[1]\n\nThe election marks a clear shift in the GOP\u2019s direction after the party\u2019s unexpected losses. With Jordan\u2019s reputation as a hard\u2011line ally of former President Donald\u202fTrump, the move signals a potential return to more confrontational tactics and a focus on the issues that energized Trump\u2019s base. The leadership change also underscores the urgency for the Republican caucus to regroup and define a strategy for the next congressional term.\n\nThe vote took place in a closed session on Tuesday. Members of the Republican caucus cast ballots in secret, a customary practice for House leadership contests. Jordan secured 106 votes, while Scalise received 73, giving Jordan a decisive majority. The tally was reported by several national outlets, confirming the outcome.\u202f[1]\n\nThe context for the leadership change is the GOP\u2019s loss of both the House and Senate in the recent midterm elections. Mike\u202fJohnson, who had served as the House Minority Leader, stepped down after the party\u2019s defeat. Jordan\u2019s election therefore represents a new chapter for the caucus as it transitions from a governing majority to an opposition role.\u202f[1]\n\nHouse Republican leadership elections are conducted by secret ballot among the party\u2019s members. The elected leader serves as the chief spokesperson and strategist for the caucus, coordinating legislative priorities and negotiating with the House majority. Historically, the position has been pivotal in shaping the party\u2019s agenda and public messaging.\n\nJim\u202fJordan has represented Ohio\u2019s 4th congressional district since 2007. He is known for his staunch conservative positions and close alignment with former President Trump\u2019s policy agenda. His long tenure in the House has seen him chair the House Judiciary Committee and play a key role in several high\u2011profile investigations.\n\nSteve\u202fScalise, the runner\u2011up, served as House Majority Leader from 2019 to 2023. He has been a prominent figure in GOP leadership, overseeing legislative negotiations during the Trump administration and the early Biden years. His experience in the majority role contrasts with Jordan\u2019s more combative reputation.\n\nFor the Republican caucus, Jordan\u2019s leadership may shift the party\u2019s approach to legislative negotiations, potentially favoring more aggressive tactics and a tighter alignment with Trump\u2011era priorities. The caucus will need to balance internal cohesion with the practicalities of operating in a House controlled by the opposition party.\n\nDemocrats will likely view Jordan\u2019s election as an opportunity to test the new leader\u2019s willingness to engage in bipartisan compromise. The dynamics between the two parties could influence the pace and content of upcoming legislative initiatives, including budget negotiations and policy reforms.\n\nJordan\u2019s leadership could shape the GOP\u2019s legislative agenda, especially on issues such as immigration, fiscal policy, and judicial appointments that align closely with Trump\u2019s platform. The party\u2019s strategy under his guidance will be closely monitored by both supporters and critics.\n\nThe next few weeks will see Jordan convene the Republican caucus to outline his priorities and establish a working agenda. Observers will watch for his first public statements, any changes in committee assignments, and how he positions the party in negotiations with House Democrats. The outcome of these early actions will set the tone for the GOP\u2019s role as the House opposition.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "France 24",
+          "url": "https://www.france24.com/en/americas/20261110-trump-jim-jordan-elected-house-republican-leader-midterm-defeat"
+        }
+      ],
+      "original_url": "https://www.france24.com/en/americas/20261110-trump-jim-jordan-elected-house-republican-leader-midterm-defeat",
+      "guid": "5208fbca-dd54-11f1-8f9a-4170e025bec9"
+    },
+    "guardian_d8db396c": {
+      "id": "guardian_d8db396c",
+      "title": "Tell us: did you move to the countryside for retirement and come to regret it?",
+      "category": "Health",
+      "source": "guardian",
+      "time": "2026-11-10T23:04:13",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/1bfe36ec52c04f4cef905393ad775ca769772df3/883_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=ab897bafe2979a18ee47ff960296da77",
+      "content": "Chris Whitty, England\u2019s chief medical officer, has warned that choosing to spend the later years of life in a rural setting can bring significant challenges for older adults.\u202f[1] He cautioned that the countryside\u2019s limited infrastructure may make it harder for seniors to access essential services and support as they age.\u202f[1]\n\nThe warning is aimed at people who are considering moving away from urban centres for retirement.\u202f[1] Whitty highlighted three main concerns: reduced access to healthcare facilities, scarce public transport options, and an increased risk of social isolation or dependence on others for everyday tasks.\u202f[1] These factors can compound the difficulties that many older adults already face, potentially affecting their health and wellbeing.\n\nIn the same statement, Whitty called on the public to share their own experiences.\u202f[1] He asked whether retirees who moved to the countryside found it harder to reach medical appointments, pharmacies, or community services.\u202f[1] The call also invited those who feel increasingly reliant on family or friends to navigate transport or obtain supplies to describe how that dependence has impacted their independence.\u202f[1] Additionally, Whitty sought stories from individuals who have returned to urban areas, citing isolation or lack of support in rural life as reasons for the move.\u202f[1]\n\nRural communities in England typically have fewer hospitals and fewer general practitioners per capita than urban areas.\u202f[1] Public transport schedules are often less frequent, and many rural routes are discontinued or operate only on demand.\u202f[1] These structural differences can mean that an elderly person living alone may need to travel long distances for routine check\u2011ups or emergency care, a situation that can be stressful and risky.\u202f[1]\n\nFamilies of older adults are also stakeholders in this issue.\u202f[1] When a retiree\u2019s mobility is limited, relatives may need to provide more frequent visits or assistance with errands, which can strain personal resources and time.\u202f[1] Healthcare providers, meanwhile, face the challenge of delivering care across dispersed populations, often relying on mobile clinics or telemedicine to bridge gaps.\u202f[1]\n\nThe potential isolation that Whitty mentioned is not merely a social concern; it can have tangible health consequences.\u202f[1] Studies have shown that social isolation is linked to higher rates of depression, cardiovascular disease, and mortality among seniors.\u202f[1] In rural settings, the lack of nearby friends or community groups can exacerbate these risks, especially when combined with limited transportation.\u202f[1]\n\nPolicy makers are taking note of Whitty\u2019s remarks.\u202f[1] The government has already announced plans to review rural health service provision, but concrete measures remain under discussion.\u202f[1] The public\u2019s input, as requested by Whitty, could inform future initiatives aimed at improving transport links, expanding telehealth services, or incentivising healthcare professionals to practice in rural areas.\u202f[1]\n\nThe next steps involve gathering the stories and data that Whitty has called for.\u202f[1] Residents who have experienced the challenges of rural ageing are encouraged to share their experiences through the official channels set up for this purpose.\u202f[1] The information collected will likely shape the forthcoming policy review and help identify priority areas for investment.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/nov/09/tell-us-did-you-move-to-the-countryside-for-retirement-and-come-to-regret-it"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/society/2026/nov/09/tell-us-did-you-move-to-the-countryside-for-retirement-and-come-to-regret-it",
+      "guid": "https://www.theguardian.com/society/2026/nov/09/tell-us-did-you-move-to-the-countryside-for-retirement-and-come-to-regret-it"
+    },
+    "bbc_287541f9": {
+      "id": "bbc_287541f9",
+      "title": "The swan sanctuary wetland fighting climate change",
+      "category": "Science",
+      "source": "bbc",
+      "time": "2026-11-10T23:04:18",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/8890dd70-d912-11f1-a81d-35e942472442.png",
+      "content": "A global campaign is underway to restore a swan sanctuary wetland that experts call a \u201csoggy secret weapon\u201d against climate change.\u202f[1]\n\nThe effort underscores how wetlands can sequester carbon, support wildlife, and buffer communities from extreme weather, offering a nature\u2011based solution that complements technological approaches.\n\nThe campaign, described as a worldwide initiative, focuses on rehabilitating a wetland that serves as a sanctuary for swans.\u202f[1] The project aims to reverse degradation and enhance the ecosystem\u2019s capacity to absorb greenhouse gases.\u202f[1]\n\nWetlands have long been recognized for their role in carbon sequestration, storing more carbon per unit area than forests. They also provide habitat for diverse species and protect shorelines.\n\nThe term \u201csoggy secret weapon\u201d reflects the growing recognition that restoring wetlands can be a powerful, low\u2011cost climate mitigation strategy.\u202f[1]\n\nConservation NGOs, local communities, and climate scientists are involved in the campaign. The restoration is expected to benefit biodiversity, water quality, and local livelihoods.\u202f[1]\n\nIf successful, the wetland could become a model for similar projects worldwide, demonstrating how nature can be leveraged to meet climate targets.\u202f[1]\n\nThe initiative underscores the need for integrated approaches that combine ecological restoration with policy support.\u202f[1] It also raises questions about funding, land use, and long\u2011term maintenance.\u202f[1]\n\nThe campaign is in early stages, with upcoming assessments of restoration techniques and community engagement plans.\u202f[1] Key milestones include securing permits and measuring carbon uptake over the next few years.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo#0"
+    },
+    "nature_4c70690d": {
+      "id": "nature_4c70690d",
+      "title": "A practically perfect plesiosaur",
+      "category": "Science",
+      "source": "nature",
+      "time": "2026-11-10T23:04:32",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03278-7/d41586-026-03278-7_15948434.jpg",
+      "content": "A newly highlighted fossil in Nature reveals a remarkably intact plesiosaur, offering unprecedented insight into the anatomy of this extinct marine reptile\u202f[1].\n\nThe find is significant because it provides a near\u2011complete specimen that can refine reconstructions of plesiosaur physiology and may illuminate evolutionary relationships within the group\u202f[1].\n\nThe fossil, described as \u201cvery well preserved,\u201d was featured in Nature\u2019s weekly archive pick on 10\u202fNovember\u202f2026\u202f[1]. The accompanying text notes that the specimen is accompanied by a Latin poem that describes an optical phenomenon\u202f[1].\n\nDetails about the fossil\u2019s provenance, age, or the identity of the discoverers are not provided in the brief summary\u202f[1].\n\nPlesiosaurs were large marine reptiles that lived during the Mesozoic Era, roughly 200 to 66\u202fmillion years ago. They are characterized by a broad, flat body, a short tail, and long necks with flippers.\n\nThe preservation of a plesiosaur skeleton in near\u2011complete condition is rare, as most finds are fragmentary due to the fragility of the bones and the conditions required for fossilization.\n\nLatin poetry has a long tradition of describing natural phenomena, from the works of classical authors to medieval scholars. The inclusion of a poem in a modern paleontological context is unusual and suggests a historical or cultural layer to the discovery.\n\nPaleontologists stand to benefit from the specimen\u2019s completeness, which could improve phylogenetic analyses and functional morphology studies.\n\nMuseums and educational institutions may use the specimen and the poem to engage the public in discussions of science and the humanities.\n\nThe combination of a pristine fossil and a literary text invites interdisciplinary collaboration between paleontologists, historians of science, and literary scholars.\n\nIf the poem indeed references an optical phenomenon, it may provide clues about the environmental conditions or cultural perceptions of the time when the poem was composed.\n\nFurther details are expected to appear in the full Nature article, which may include the fossil\u2019s exact stratigraphic context, measurements, and the poem\u2019s provenance.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Nature",
+          "url": "https://www.nature.com/articles/d41586-026-03278-7"
+        }
+      ],
+      "original_url": "https://www.nature.com/articles/d41586-026-03278-7",
+      "guid": "https://www.nature.com/articles/d41586-026-03278-7"
+    },
+    "bbc_69219009": {
+      "id": "bbc_69219009",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "category": "World",
+      "source": "bbc",
+      "time": "2026-11-10T23:05:30",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59a5/live/b9ccd5d0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
+      "content": "Najib Razak, former Malaysian prime minister, has been released from jail to house arrest after being convicted for his role in the 1MDB scandal.\u202f[1]\n\nThe move marks a significant shift in the legal proceedings surrounding one of Malaysia's most high\u2011profile corruption cases, affecting the political landscape and public trust in the nation's institutions.\u202f[1]\n\nThe 1MDB sovereign wealth fund scandal, described as a billion\u2011dollar corruption case, led to Najib's conviction for embezzling millions.\u202f[1] Following the conviction, he was sentenced to prison, but the court has now ordered his release to house arrest.\u202f[1] The house arrest will allow him to remain under surveillance while no longer confined to a prison facility.\n\nSovereign wealth funds are state\u2011owned investment vehicles that manage national savings and invest in a range of assets. The 1MDB fund was established in 2009 to promote economic development in Malaysia. Over the years, the fund became the center of a massive corruption investigation that uncovered misappropriations of billions of dollars.\n\nThe 1MDB scandal drew international attention, prompting investigations by the U.S. Department of Justice, the Malaysian authorities, and other agencies. The case highlighted weaknesses in Malaysia's financial oversight and governance structures.\n\nAs prime minister, Najib Razak was the chief executive of Malaysia and had significant influence over the 1MDB fund's operations. His conviction was a landmark moment in Malaysian politics, marking the first time a former prime minister was found guilty of corruption.\n\nThe Malaysian public, who have long demanded accountability for the misuse of public funds, are closely watching the case. Political opponents of Najib have used the scandal to challenge the ruling coalition's integrity. The international community, particularly investors, are concerned about the implications for Malaysia's financial reputation.\n\nThe house arrest may reduce the immediate legal pressure on Najib but does not absolve him of the conviction. It also raises questions about the enforcement of sentences in high\u2011profile corruption cases. The move could influence future judicial decisions regarding similar cases.\n\nAnalysts suggest that the decision to release Najib to house arrest could be seen as a compromise between the judiciary and the executive, balancing public demand for justice with political considerations. It may also affect the perception",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do#0"
+    },
+    "guardian_27b4810c": {
+      "id": "guardian_27b4810c",
+      "title": "Planned Tory welfare cuts \u2018a charter for human misery,\u2019 says Labour \u2013 as it happened",
+      "category": "Politics",
+      "source": "guardian",
+      "time": "2026-11-10T23:06:09",
+      "read": "5 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/fd4ac543ecc001e3687386d0783003e964a14e4b/128_165_3091_2473/master/3091.jpg?width=140&quality=85&auto=format&fit=max&s=21f0f247c8cda5a3a4b4e693ee3e700e",
+      "content": "The Conservative government has announced a new welfare policy that promises to cut \u00a336\u202fbillion from benefits, a move that has already drawn sharp criticism from opposition parties. The policy, titled *Welfare That Works*, was unveiled by the party\u2019s leadership and is set to reshape the UK\u2019s social safety net. The announcement was followed by a question\u2011and\u2011answer session in which ministers Ben\u202fBadenoch and Oliver\u202fWhately took inquiries from the press. A reporter from Sky News asked whether the UK should increase spending on job training and support, citing the Netherlands as an example of lower youth unemployment despite higher public investment in workforce development. All of these developments were reported on the same day. [1]\n\nThe proposed cuts are significant because they would affect the benefits received by millions of households across the country. If implemented, the policy could reduce the amount of financial assistance available to low\u2011income families, potentially increasing the number of people who rely on charitable support or who face greater financial hardship. Labour has already described the cuts as \u201ca charter for human misery,\u201d underscoring the political stakes of the policy. The scale of the reduction also raises questions about the government\u2019s broader strategy for balancing fiscal consolidation with social welfare. [1]\n\nDuring the launch, the Conservative leader presented the *Welfare That Works* policy document, which details the planned reductions in various benefit streams. The document outlines a total cut of \u00a336\u202fbillion, though it does not specify which benefits will be affected or how the reductions will be phased. The policy is positioned as part of the party\u2019s effort to encourage work and reduce dependency on state support. The announcement was accompanied by a briefing that highlighted the government\u2019s commitment to \u201cworking for the future\u201d and to creating a more efficient welfare system. [1]\n\nFollowing the presentation, Ben\u202fBadenoch, the Minister for Work and Pensions, and Oliver\u202fWhately, the Minister for Social Security, opened the floor to questions from journalists. The session was brief but intense, with reporters probing the details of the cuts and the expected impact on vulnerable populations. The ministers emphasized that the policy would be implemented gradually and that safeguards would be put in place to protect the most at\u2011risk groups. The Q&A session underscored the urgency of the debate and the need for clear answers from the government. [1]\n\nA key question posed by Rob Powell of Sky News focused on the UK\u2019s youth unemployment rate compared to that of the Netherlands. Powell highlighted that the Dutch government spends more on job training and support, yet enjoys a lower youth unemployment figure. He asked whether the UK should consider increasing its investment in workforce development to achieve similar outcomes. The question drew attention to the policy\u2019s emphasis on work incentives and the potential trade\u2011off between benefit reductions and job\u2011creation programs. [1]\n\nThe welfare system in the United Kingdom has long been a subject of political debate. Historically, the state has provided a range of benefits, including unemployment support, child allowances, and housing assistance, to safeguard citizens against economic hardship. Conservative governments have traditionally sought to reduce the size of the welfare state, arguing that smaller benefits encourage employment and reduce fiscal pressure. Labour, on the other hand, has often advocated for stronger safety nets and increased public spending on social services. The *Welfare That Works* policy represents a continuation of the Conservative approach to welfare reform. [1]\n\nBenefit cuts are typically calculated by assessing the total expenditure on various support schemes and determining a target reduction that aligns with fiscal objectives. Previous Conservative administrations have implemented similar measures, such as the 2010 welfare reforms that introduced Universal Credit and reduced certain benefit entitlements. These reforms were justified on the grounds of streamlining administration and promoting work. The current policy follows a similar trajectory, though the scale of the proposed cuts is larger than many earlier initiatives. [1]\n\nThe primary stakeholders in this debate are low\u2011income families, charitable organisations, and the Labour Party. Families who rely on benefits may experience increased financial strain if the cuts are enacted, potentially leading to higher rates of food insecurity and housing instability. Charities that provide emergency assistance could see a surge in demand for their services. Labour\u2019s opposition to the policy reflects its broader commitment to protecting social welfare and expanding public investment in support services. [1]\n\nThe potential impact of the policy extends beyond immediate financial assistance. By reducing benefit levels, the government may be aiming to incentivise employment, but the effectiveness of such an approach depends on the availability of suitable jobs and the adequacy of training programmes. If the cuts are not accompanied by sufficient investment in job creation and skills development, the policy could exacerbate unemployment, particularly among vulnerable groups. The question raised by Sky News highlights the importance of balancing benefit reductions with proactive support for workforce participation. [1]\n\nFrom an analytical perspective, the *Welfare That Works* policy could signal a shift toward a more market\u2011oriented welfare state, where the government reduces direct financial support in favour of mechanisms that encourage work. However, the success of this strategy will hinge on the design of accompanying measures, such as training and support services, and on the broader economic context. Critics argue that without robust safety nets, the policy risks widening inequality and undermining social cohesion. Proponents contend that it could reduce fiscal deficits and stimulate economic activity. [1]\n\nThe next steps for the policy will involve parliamentary scrutiny, where MPs will debate the details and implications of the proposed cuts. Key dates include the upcoming committee hearings and the scheduled vote on the policy\u2019s implementation. The government will also need to release a more detailed plan outlining the specific benefits to be reduced and the timeline for implementation. The outcome of these proceedings will determine whether the *Welfare That Works* policy moves from proposal to law and how it will shape the UK\u2019s welfare landscape in the coming years. [1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
+      "guid": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates"
     }
   },
   "featured": {
-    "hero": "irishtimes_936c02f8",
+    "hero": "france24_b4da6c84",
     "stack": [
-      "guardian_61f72f2e",
-      "bbc_9327dd41",
-      "googlenews_556006ff"
+      "guardian_d8db396c",
+      "bbc_287541f9",
+      "nature_4c70690d"
     ],
     "latest": [
+      "nature_4c70690d",
+      "bbc_287541f9",
+      "guardian_d8db396c",
+      "irishtimes_936c02f8",
       "googlenews_556006ff",
-      "bbc_9327dd41",
-      "guardian_61f72f2e",
-      "france24_601cca86",
-      "guardian_b70a4e55",
-      "aljazeera_241566f7"
+      "bbc_9327dd41"
     ],
     "world": [
+      "france24_b4da6c84",
+      "bbc_69219009",
       "irishtimes_936c02f8",
-      "france24_601cca86",
-      "aljazeera_241566f7",
-      "cna_96b26491"
+      "france24_601cca86"
     ]
   },
   "categoryIndex": {
@@ -16037,18 +16037,20 @@
       "pbs_4cad8a62"
     ],
     "World": [
+      "bbc_69219009",
+      "france24_601cca86",
+      "aljazeera_241566f7",
       "csmonitor_dee2d1e0",
       "cna_96b26491",
       "france24_bae82b20",
       "bbc_deae5694",
       "smh_cae1f298",
       "reuters_b6ef6ef2",
-      "csmonitor_871cfb51",
-      "reuters_73294673",
-      "abcau_5e05e1e0",
-      "japantimes_71e39fbe"
+      "csmonitor_871cfb51"
     ],
     "Politics": [
+      "guardian_27b4810c",
+      "guardian_b70a4e55",
       "guardian_262afaa5",
       "bbc_93c48242",
       "bbc_5a4c1d62",
@@ -16056,9 +16058,7 @@
       "bbc_2e4f2c6a",
       "bbc_5d866898",
       "guardian_d3f21064",
-      "guardian_e5d81eb3",
-      "bbc_41bc3761",
-      "guardian_de65d08b"
+      "guardian_e5d81eb3"
     ],
     "Sports": [
       "googlenews_0cc2e750",
@@ -16085,6 +16085,7 @@
       "googlenews_00a30957"
     ],
     "Science": [
+      "guardian_61f72f2e",
       "bbc_f04cb296",
       "nasa_b5cc9706",
       "conversation_8fbd3729",
@@ -16093,8 +16094,7 @@
       "nasa_d03b6ce6",
       "bbc_72cd9bd3",
       "berkeleyuniv_e9c07ddd",
-      "npr_cce401af",
-      "nature_27981e70"
+      "npr_cce401af"
     ],
     "Business": [
       "googlenews_44b33ddf",
@@ -16109,7 +16109,7 @@
       "googlenews_a2b20540"
     ]
   },
-  "breaking": "Beauty clinic owner ordered to pay \u20ac5,000 fine over unauthorised \u2018Botox-like\u2019 treatments",
+  "breaking": "Trump ally Jim Jordan elected House Republican leader after midterm defeat",
   "events": [
     {
       "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "What China stands to gain from Nvidia's CEO's alleged affair with spy",
     "Russell Brand sentenced to 10 years, 6 months for rape and sexual assault",
-    "Winter depression is real. Here\u2019s what can help - podcast",
-    "Beauty clinic owner ordered to pay \u20ac5,000 fine over unauthorised \u2018Botox-like\u2019 tr"
+    "Tell us: did you move to the countryside for retirement and come to regret it?",
+    "Trump ally Jim Jordan elected House Republican leader after midterm defeat",
+    "What China stands to gain from Nvidia's CEO's alleged affair with spy"
   ]
 }
