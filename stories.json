@@ -1,105 +1,5 @@
 {
   "stories": {
-    "reuters_ff6d46fd": {
-      "id": "reuters_ff6d46fd",
-      "title": "First US trial against TikTok to test claims platform fueled teen mental health crisis - Reuters",
-      "category": "World",
-      "source": "reuters",
-      "time": "2026-09-25T16:58:23",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/TikTok.com_Screenshot.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "content": "A U.S. court has opened its first trial against TikTok, aiming to determine whether the platform contributed to a mental\u2011health crisis among teenagers.\u202f[1]\n\nThe case could shape how social\u2011media companies are held accountable for user well\u2011being and influence future regulation. It also reflects growing concern among parents, educators, and lawmakers about the impact of short\u2011form video on adolescent mental health.\n\nThe lawsuit was filed in a federal court (the specific court has not been disclosed) and alleges that TikTok\u2019s algorithmic design and content\u2011moderation practices have exacerbated mental\u2011health issues among teens. The plaintiffs claim that the platform\u2019s rapid\u2011fire content feeds and targeted advertising create a harmful environment.\u202f[1]\n\nThe trial marks the first time a U.S. court has formally examined TikTok\u2019s role in a mental\u2011health crisis, following earlier investigations by the Federal Trade Commission and state regulators. The case is part of a broader trend of litigation targeting social\u2011media platforms over user safety.\u202f[1]\n\nTikTok, launched in 2016 by Chinese company ByteDance, has become the most downloaded app worldwide, especially popular with users aged 16 to 24. Its algorithm curates content based on user interactions, which can lead to extended periods of scrolling and exposure to potentially harmful material.\n\nConcerns about the platform\u2019s influence on mental health have prompted studies linking excessive use to anxiety, depression, and sleep disturbances among adolescents. Researchers note that the rapid pace of content and the pressure to produce viral videos can contribute to stress and self\u2011esteem issues.\n\nIn 2022, the U.S. Federal Trade Commission opened an investigation into TikTok\u2019s data\u2011collection practices, and several states have pursued separate legal actions over privacy and content concerns. The current lawsuit adds a new dimension by focusing specifically on mental\u2011health outcomes.\n\nThe parties involved include the plaintiffs, who are likely a group of parents or advocacy organizations, and TikTok, which has defended its platform as safe and compliant with existing regulations. The outcome could affect TikTok\u2019s business model, especially its advertising revenue and content\u2011moderation policies.\n\nParents and educators are watching closely, as the case could lead to stricter age restrictions or new content\u2011filtering requirements. Mental\u2011health professionals may also use the trial\u2019s findings to inform counseling practices and public\u2011health messaging.\n\nThe trial could have broader implications for the tech industry, signaling that courts may be willing to scrutinize algorithmic design and user\u2011experience choices as part of liability assessments. Other platforms such as Instagram and YouTube could face similar legal challenges in the future.\n\nIf the court finds TikTok liable, it could prompt a reevaluation of how social\u2011media companies balance engagement metrics with user well\u2011being. The case may also influence legislative efforts to impose stricter oversight on algorithmic content delivery.\n\nThe trial is expected to proceed over several months, with preliminary hearings scheduled for the coming weeks. Key questions include whether TikTok can demonstrate that it has taken adequate steps to mitigate harm, and whether the court will accept the plaintiffs\u2019 definition of a \u201cmental\u2011health crisis.\u201d The outcome will be closely monitored by regulators, industry groups, and advocacy organizations.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXl6NzNIZ05FSHAtcElIaF9SUWpTRUpjU1ZkelZSRXc0NDUxVHNYb3hhME5PVk9DdzVJZmhLTGhlazhYc3FackY0WUplX3g2cmE0VnV0VWtscG5NNVUxM2pOOXRvb0kxMnVsbG1LTm1idkx4UTl0cno4c2g3U1ptSDRvZHJQbURxYTlHZW1iTW02VW5VcmZiVnZySDdlTWlEc3I4SjVWNkZZMExvY2xOQXIxRDQxNEVVQUV1SzlB?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXl6NzNIZ05FSHAtcElIaF9SUWpTRUpjU1ZkelZSRXc0NDUxVHNYb3hhME5PVk9DdzVJZmhLTGhlazhYc3FackY0WUplX3g2cmE0VnV0VWtscG5NNVUxM2pOOXRvb0kxMnVsbG1LTm1idkx4UTl0cno4c2g3U1ptSDRvZHJQbURxYTlHZW1iTW02VW5VcmZiVnZySDdlTWlEc3I4SjVWNkZZMExvY2xOQXIxRDQxNEVVQUV1SzlB?oc=5",
-      "guid": "CBMivgFBVV95cUxQTXl6NzNIZ05FSHAtcElIaF9SUWpTRUpjU1ZkelZSRXc0NDUxVHNYb3hhME5PVk9DdzVJZmhLTGhlazhYc3FackY0WUplX3g2cmE0VnV0VWtscG5NNVUxM2pOOXRvb0kxMnVsbG1LTm1idkx4UTl0cno4c2g3U1ptSDRvZHJQbURxYTlHZW1iTW02VW5VcmZiVnZySDdlTWlEc3I4SjVWNkZZMExvY2xOQXIxRDQxNEVVQUV1SzlB"
-    },
-    "npr_6bfcd5a3": {
-      "id": "npr_6bfcd5a3",
-      "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
-      "category": "News",
-      "source": "npr",
-      "time": "2026-09-25T16:58:51",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+469/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2Fc1%2F28098e704f97bdaa12c607baf7b0%2Fcovid-dna-1203072511.jpg",
-      "content": "The global pandemic treaty, signed by a broad coalition of nations, has yet to enter into force, leaving its intended safeguards for future outbreaks unrealized.\u202f[1]\n\nThe treaty was drafted to strengthen worldwide preparedness and response to pandemics, promising coordinated data sharing, equitable vaccine access, and rapid deployment of public health measures.\u202f[1] Its delay raises concerns about the pace of international cooperation and the mechanisms that could bring the agreement into effect.\n\nIn the months following its signing, the treaty has not yet met the threshold of ratifications required for entry into force. The precise number of ratifications needed and the timeline for achieving them remain unclear, as the available reporting does not specify the current status of each signatory\u2019s domestic approval process.\n\nA pandemic treaty is a legally binding international agreement that establishes norms and obligations for member states to prevent, detect, and respond to infectious disease threats. It builds on the framework of the World Health Organization\u2019s International Health Regulations, aiming to fill gaps in global health security.\u202f[1]\n\nUnder international law, a treaty typically requires a specified number of ratifications\u2014often a majority of signatories or a set number of countries\u2014to become operative. Until that threshold is reached, the treaty\u2019s provisions remain aspirational rather than enforceable.\n\nGovernments, international health agencies, and civil society groups are the primary stakeholders. The treaty\u2019s success depends on national governments adopting its commitments, while agencies like the WHO would play a coordinating role in implementing its mechanisms.\n\nIf the treaty were to take effect, it could provide a structured framework for sharing pathogen data, allocating vaccines and therapeutics, and coordinating border controls during outbreaks. Countries with limited resources might benefit from the pooled expertise and financial mechanisms envisioned in the agreement.\n\nThe current limbo status could undermine global confidence in collective pandemic preparedness, potentially delaying the establishment of standardized protocols and resource-sharing agreements. Analysts suggest that the delay may reflect differing national priorities, concerns over sovereignty, or logistical challenges in aligning domestic legislation with treaty obligations.\n\nObservers will watch for the next round of ratifications and any scheduled UN meetings where member states may pledge to meet the required threshold. The treaty\u2019s future hinges on whether signatory governments can navigate their internal approval processes and commit to the binding obligations outlined in the agreement.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "NPR",
-          "url": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization"
-        }
-      ],
-      "original_url": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
-      "guid": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization"
-    },
-    "conversation_b8363627": {
-      "id": "conversation_b8363627",
-      "title": "What civil rights enforcement cuts mean for students with disabilities \u2013 fewer staff, closed offices, longer waits",
-      "category": "Science",
-      "source": "conversation",
-      "time": "2026-09-25T16:58:55",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://images.theconversation.com/files/754969/original/file-20260819-50-n81njt.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1394%2C6849%2C3424&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "content": "The Office of Civil Rights has cut staff, closed offices[1], and extended wait times[1], leaving parents of students with disabilities with fewer avenues to file civil rights complaints[1].\n\nThese changes mean that the federal agency that once served as a final recourse for families alleging discrimination is now less accessible, potentially delaying justice for students who rely on federal oversight.\n\nThe Office of Civil Rights, part of the Department of Education, has announced a restructuring that reduces its workforce and closed offices[1]. Parents who previously could file a complaint and expect a timely investigation now face longer waits[1].\n\nThe Office of Civil Rights enforces federal civil rights laws in education, including the Individuals with Disabilities Education Act, Section\u202f504 of the Rehabilitation Act, and the Americans with Disabilities Act. Its role is to investigate complaints of discrimination and ensure schools comply with these statutes.\n\nHistorically, the Office maintained a network of offices that provided local access for families. The recent cuts have eliminated several of these offices, consolidating operations into a smaller number of centers.\n\nParents of students with disabilities, disability advocacy groups, and school districts are directly affected. With fewer staff, the Office may be slower to respond to complaints, potentially leaving students without timely remedies.\n\nLonger wait times could mean that students who experience discrimination may not receive prompt corrective action, which can affect their educational experience and legal recourse.\n\nThe reduced capacity of the Office may weaken enforcement of civil rights protections in schools, raising concerns about compliance with federal law.\n\nThe Office has not announced plans to restore staff or reopen offices, and no specific timeline is available. Families and advocates should monitor the Office\u2019s website and federal announcements for updates.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Conversation",
-          "url": "https://theconversation.com/what-civil-rights-enforcement-cuts-mean-for-students-with-disabilities-fewer-staff-closed-offices-longer-waits-285208"
-        }
-      ],
-      "original_url": "https://theconversation.com/what-civil-rights-enforcement-cuts-mean-for-students-with-disabilities-fewer-staff-closed-offices-longer-waits-285208",
-      "guid": "tag:theconversation.com,2011:article/285208"
-    },
-    "cna_f61506aa": {
-      "id": "cna_f61506aa",
-      "title": "Exclusive-SK Hynix's Solidigm weighs IPO that could value the unit at up to $150 billion, sources say - CNA",
-      "category": "World",
-      "source": "cna",
-      "time": "2026-09-25T21:22:59",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%2856%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27456%27%20cy%3D%27242%27%20r%3D%27140%27%20fill%3D%27hsl%2896%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "SK\u202fHynix\u2019s Solidigm unit is reportedly weighing an IPO that could value it at up to $150\u202fbillion.\u202f[1]\n\nThe prospect of a high\u2011profile semiconductor IPO carries weight for investors, competitors, and the broader supply chain, as it would represent one of the largest listings in the memory\u2011chip sector in recent years.\n\nSources say Solidigm is exploring an IPO, with a valuation up to $150\u202fbillion.\u202f[1] The article is from CNA.\u202f[2]\n\nSK\u202fHynix is a South Korean memory\u2011chip manufacturer that ranks among the world\u2019s largest producers, competing closely with Samsung Electronics and Micron Technology.\n\nThe available reporting does not specify the exact structure of Solidigm within SK\u202fHynix, nor whether it is a wholly owned subsidiary, a joint venture, or a planned spin\u2011off.\n\nThe memory\u2011chip industry is known for its cyclical nature, with periods of high demand from data centers, smartphones, and automotive electronics alternating with times of overcapacity and price pressure.\n\nInvestors in SK\u202fHynix and potential shareholders of a Solidigm IPO would be directly affected, while rivals such as Samsung and Micron may adjust their own capital allocation and product strategies in response.\n\nEmployees and suppliers linked to Solidigm could experience changes in corporate governance, reporting requirements, and capital allocation once the unit becomes a publicly traded entity.\n\nA successful IPO could provide SK\u202fHynix with significant capital that might be deployed for research and development, capacity expansion, or debt reduction, thereby influencing the company\u2019s long\u2011term financial position.\n\nThe listing could also serve as a market signal of confidence in the memory\u2011chip segment, potentially affecting investor sentiment and the valuation of other semiconductor firms.\n\nIf the valuation reaches the projected $150\u202fbillion, Solidigm would rank among the largest semiconductor IPOs ever, potentially reshaping the industry\u2019s capital structure and competitive dynamics.\n\nThe decision to spin off or retain Solidigm reflects SK\u202fHynix\u2019s broader strategic considerations amid a volatile market, balancing the benefits of independent growth against the advantages of consolidated operations.\n\nThe next steps for Solidigm will likely involve formal filings with regulatory authorities, market testing of investor interest, and pricing negotiations, but the available reporting does not specify a timeline for these actions.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "CNA (Singapore)",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMURiVnM2LVZmM09kWmtHdk04Y01rdzdFdnAzbnUtZU83emR4THhfbGE4RHFGTXZsZ0F1X0JoUEdidU5XMEdRb0JacVNHNFp3LTdJSmI1SFA2dlFNZ1BoT01JRENoV1N4S1kxOGxNdmlWWWJxZGQ2WXNCUVo4cUtyZm5OSGI2U09lbDRHZHRHLU1jeVNtOVpxR2lfaGd5NC1hSDl4d1hERXFqdTl2WXhrb2VxRl9jZjZ5dXkyYld1UDc0VVAyQTdFNFpac0U?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMURiVnM2LVZmM09kWmtHdk04Y01rdzdFdnAzbnUtZU83emR4THhfbGE4RHFGTXZsZ0F1X0JoUEdidU5XMEdRb0JacVNHNFp3LTdJSmI1SFA2dlFNZ1BoT01JRENoV1N4S1kxOGxNdmlWWWJxZGQ2WXNCUVo4cUtyZm5OSGI2U09lbDRHZHRHLU1jeVNtOVpxR2lfaGd5NC1hSDl4d1hERXFqdTl2WXhrb2VxRl9jZjZ5dXkyYld1UDc0VVAyQTdFNFpac0U?oc=5",
-      "guid": "CBMizAFBVV95cUxQMURiVnM2LVZmM09kWmtHdk04Y01rdzdFdnAzbnUtZU83emR4THhfbGE4RHFGTXZsZ0F1X0JoUEdidU5XMEdRb0JacVNHNFp3LTdJSmI1SFA2dlFNZ1BoT01JRENoV1N4S1kxOGxNdmlWWWJxZGQ2WXNCUVo4cUtyZm5OSGI2U09lbDRHZHRHLU1jeVNtOVpxR2lfaGd5NC1hSDl4d1hERXFqdTl2WXhrb2VxRl9jZjZ5dXkyYld1UDc0VVAyQTdFNFpac0U"
-    },
-    "bangkokpost_54757a11": {
-      "id": "bangkokpost_54757a11",
-      "title": "Hua Hin ready to clear beach after decades-long dispute",
-      "category": "World",
-      "source": "bangkokpost",
-      "time": "2026-09-25T21:23:13",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://static.bangkokpost.com/media/content/20260925/c1_3326040_700.jpg",
-      "content": "Authorities in Hua\u202fHin are stepping up their efforts to clear all houses and buildings encroaching on a public beach after a decades\u2011long dispute.\u202f[1]\n\nThe move is significant for the region\u2019s tourism industry and for the legal principle that public beaches must remain accessible.\u202f[1]\n\nThe local government announced a plan to remove every structure that has been built on the beachfront, citing the need to restore the beach to public use.\u202f[1]\n\nThe dispute has spanned several decades, with some property owners refusing to vacate the encroaching structures.\u202f[1]\n\nHua\u202fHin is a resort town on Thailand\u2019s Gulf of Thailand, known for its long stretches of sandy shoreline that attract both domestic and international visitors.\n\nIn Thailand, public beaches are protected by law, and any construction that encroaches on the shoreline is considered illegal.\n\nPrevious attempts to resolve the encroachment issue have involved mediation by local authorities, but the lack of cooperation from some owners has stalled progress.\n\nStakeholders include the local tourism board, which relies on clean beach access, the residents who use the beach, and the owners of the encroaching properties who argue that their buildings are legitimate.\n\nFor the tourism sector, a clear beach could boost visitor numbers and improve the town\u2019s reputation as a family\u2011friendly destination.\n\nFor the property owners, the enforcement could mean the loss of their homes or commercial premises, potentially leading to legal disputes over compensation.\n\nThe conflict pits the public interest in maintaining free beach access against private property rights, a tension that has been seen in other coastal communities worldwide.\n\nIf the authorities succeed, it could set a precedent for other municipalities facing similar encroachment problems, encouraging stricter enforcement of shoreline regulations.\n\nThe next steps will involve the actual removal of the structures, which the authorities have said will begin shortly, and the potential for legal challenges from the owners.\u202f[1]\n\nObservers will watch for the timeline of the removal, any court rulings that may arise, and how the local economy adjusts to the changes in beach accessibility.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Bangkok Post",
-          "url": "https://www.bangkokpost.com/thailand/general/3326040/hua-hin-ready-to-clear-beach-after-decadeslong-dispute"
-        }
-      ],
-      "original_url": "https://www.bangkokpost.com/thailand/general/3326040/hua-hin-ready-to-clear-beach-after-decadeslong-dispute",
-      "guid": ""
-    },
     "berkeleyuniv_c3de4af5": {
       "id": "berkeleyuniv_c3de4af5",
       "title": "The eruption that destroyed Pompeii is helping scientists date Earth\u2019s history",
@@ -15999,28 +15899,128 @@
       ],
       "original_url": "https://theconversation.com/paraguays-bank-collapse-brought-down-a-president-and-exposed-as-myth-the-nations-status-as-a-dubai-of-south-america-296112",
       "guid": "tag:theconversation.com,2011:article/296112"
+    },
+    "france24_601cca86": {
+      "id": "france24_601cca86",
+      "title": "US Defense Secretary Hegseth faces expected impeachment vote this week",
+      "category": "World",
+      "source": "france24",
+      "time": "2026-11-10T01:23:13",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://s.france24.com/media/display/20a94370-dc8f-11f1-a9ca-1beafce15fea/w:1024/p:16x9/EN-20261109-233324-233828-CS.jpg",
+      "content": "Republican congressman Thomas\u202fMassie has moved to impeach Defense Secretary Pete\u202fHegseth over the war in Iran, setting up a vote in Congress this week.\u202f[1]\n\nThe motion comes after a crushing midterm defeat for President Donald\u202fTrump\u2019s party, raising questions about the administration\u2019s foreign policy and the use of military force.\u202f[1]\n\nOn Monday, Massie filed eight articles of impeachment in the House of Representatives.\u202f[1]\n\nThe articles accuse Hegseth of illegally waging war without congressional authorization and abusing his powers as Pentagon chief.\u202f[1]\n\nThe House is expected to vote on the articles later this week.\u202f[1]\n\nThe motion was reported by FRANCE\u202f24\u2019s Fraser Jackson from Washington.\u202f[1]\n\nImpeachment is a constitutional process that allows Congress to remove federal officials for high crimes and misdemeanors.\n\nThe House must first approve articles of impeachment by a simple majority; if approved, the case moves to the Senate, which must convict by a two\u2011thirds vote to remove the official.\n\nThe war in Iran has escalated in recent months, drawing international attention.\n\nDefense Secretary Hegseth has overseen U.S. military operations in the region, including the response to Iranian actions.\n\nMassie is a Republican from Kentucky known for his libertarian stance and frequent criticism of executive power.\n\nThe impeachment motion targets Hegseth, who has been in office since 2021, and could signal a broader critique of the administration\u2019s use of force.\n\nIf the House passes the articles, the case would move to the Senate, where a two\u2011thirds majority would be required to convict and remove Hegseth from office.\n\nThe motion could set a precedent for holding defense officials accountable for military actions and may influence future policy decisions.\n\nObservers will watch for the House\u2019s vote later this week and the Senate\u2019s response if the motion passes, as the outcome will determine whether Hegseth faces removal and how the administration proceeds with foreign policy.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "France 24",
+          "url": "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week"
+        }
+      ],
+      "original_url": "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
+      "guid": "259522b4-dc8f-11f1-b840-153c8e20bd71"
+    },
+    "pbs_5b3bd858": {
+      "id": "pbs_5b3bd858",
+      "title": "What China stands to gain from Nvidia's CEO's alleged affair with spy",
+      "category": "News",
+      "source": "pbs",
+      "time": "2026-11-10T01:24:12",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/nvideajohnson-1024x682.jpg",
+      "content": "Amna Nawaz interviewed former U.S. intelligence officer Christopher Johnson about the national security implications of an alleged affair between Nvidia\u2019s CEO and a possible foreign intelligence agent.\u202f[1]\n\nThe conversation highlights concerns that personal relationships could provide a conduit for sensitive information to reach foreign adversaries, a risk that has drawn the attention of security analysts.\u202f[1]\n\nJohnson, who spent two decades in the U.S. intelligence community with a focus on China, explained how the alleged affair could create a vulnerability for Nvidia, a company that supplies critical components for technology used by governments and defense contractors.\u202f[1]\n\nHe noted that the alleged affair involves a possible foreign intelligence agent, raising questions about corporate governance and espionage.\u202f[1]\n\nNvidia has become a key player in the semiconductor industry, producing GPUs that power artificial intelligence, gaming, and high\u2011performance computing. The company\u2019s leadership has faced scrutiny over its ties to China and other strategic partners.\u202f[No footnote]\n\nIn the U.S., intelligence agencies monitor relationships that could compromise national security, especially when they involve executives of firms that handle sensitive technology.\u202f[No footnote]\n\nIf the alleged affair were proven, it could affect Nvidia\u2019s stock, its relationships with government clients, and the broader supply chain for defense and commercial technology.\u202f[1]\n\nThe incident also raises concerns for other technology firms, as it underscores the need for robust internal controls and background checks for executives who interact with foreign entities.\u202f[1]\n\nJohnson\u2019s remarks suggest that even a single personal relationship can become a vector for intelligence gathering, potentially compromising proprietary data and influencing corporate strategy.\u202f[1]\n\nIt remains to be seen how Nvidia and regulatory bodies will respond, and whether further investigations will be launched.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/show/what-china-stands-to-gain-from-nvidias-ceos-alleged-affair-with-spy"
+        }
+      ],
+      "original_url": "https://www.pbs.org/newshour/show/what-china-stands-to-gain-from-nvidias-ceos-alleged-affair-with-spy",
+      "guid": "https://www.pbs.org/newshour/show/what-china-stands-to-gain-from-nvidias-ceos-alleged-affair-with-spy"
+    },
+    "aljazeera_241566f7": {
+      "id": "aljazeera_241566f7",
+      "title": "France blames Iran for October supermarket cyberattack",
+      "category": "World",
+      "source": "aljazeera",
+      "time": "2026-11-10T01:24:59",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794272346.jpg?resize=1617%2C1080&amp;quality=80",
+      "content": "In October, a cyberattack disrupted supermarket operations in France, and French Foreign Minister Jean\u2011No\u00ebl Barrot has blamed Iran's Islamic Revolutionary Guard Corps for the incident.\u202f[1]\n\nThe incident underscores the vulnerability of retail supply chains to state\u2011sponsored cyber threats and signals France's willingness to hold foreign actors accountable.\n\nThe attack targeted supermarket chains across France, causing operational disruptions. French Foreign Minister Jean\u2011No\u00ebl Barrot publicly blamed the Iranian Islamic Revolutionary Guard Corps for the attack.\u202f[1]\n\nThe Islamic Revolutionary Guard Corps (IRGC) is a branch of Iran's armed forces that has been linked to cyber operations against foreign targets.\n\nThe IRGC operates a cyber warfare unit that has been identified in prior investigations as responsible for several cyber incidents.\n\nFrench supermarkets, consumers, supply chain partners, and the French government are directly affected by the disruption.\n\nThe attack could affect food availability and economic stability, prompting the retail sector to review its cybersecurity posture.\n\nFrance's accusation may influence EU cybersecurity policy and international norms around state\u2011sponsored cyberattacks.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss"
+        }
+      ],
+      "original_url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+      "guid": "https://www.aljazeera.com/?t=1794272315"
+    },
+    "guardian_b70a4e55": {
+      "id": "guardian_b70a4e55",
+      "title": "Mahmood\u2019s ICE-style immigration raid agency accused of \u2018fishing expeditions\u2019",
+      "category": "Politics",
+      "source": "guardian",
+      "time": "2026-11-10T01:25:31",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/a4cc19f819881cdaa9d4f7f63e29002a511149c2/0_0_5000_4000/master/5000.png?width=140&quality=85&auto=format&fit=max&s=f1b18664a6137f17dc79a64792baeb75",
+      "content": "Shabana Mahmood\u2019s immigration\u2011enforcement unit has been accused of conducting \u201cfishing expeditions\u201d after a review of 2025 data revealed that almost two\u2011thirds of its visits produced no arrests and that only a quarter of the operations used a warrant. The Home Office has defended the expanded use of the teams, arguing that they help secure the UK\u2019s borders by removing a key incentive for irregular migration.\n\nThe findings raise questions about the balance between immigration control and civil liberties. If the majority of raids are based on weak or unverified intelligence, the public may lose confidence in the fairness of the system, while those targeted could face undue scrutiny and disruption.\n\nIn 2025, the agency carried out 23,538 enforcement engagements, including workplace raids, home raids and spot checks, averaging about 60 visits a day. Of those, 15,578\u201466.1%\u2014resulted in no arrests. Only 25.81% of visits that involved accessing a premises used a warrant. The data also show that 89% of the leads alleging \u201cimmigration crime\u201d came from the public or from Crimestoppers, a charity that collects anonymous tip\u2011offs, while only about 2% came from the police.\n\nThe agency\u2019s approach has been described as \u201cICE\u2011style\u201d because it mirrors the tactics used by the U.S. Immigration and Customs Enforcement, which has faced criticism for aggressive raids and a high rate of false positives. The Home Office\u2019s policy brief on the unit\u2019s operations emphasizes that the teams are intended to deter irregular migration by removing the perceived safety net that allows some migrants to remain in the country without documentation.\n\nThe Home Secretary praised the expanded use of immigration\u2011enforcement teams, stating that they would help secure the UK\u2019s borders by removing a key incentive for irregular migration. The statement came amid a broader government push to tighten immigration controls, including the introduction of new visa categories and stricter enforcement measures.\n\nCritics argue that the high proportion of non\u2011arrest visits and the low use of warrants suggest that the Home Office is launching \u201cfishing expeditions\u201d based on weak intelligence. They point to the fact that the majority of leads come from the public and anonymous tip\u2011off services rather than from police investigations, which could indicate a reliance on unverified information.\n\nThe agency\u2019s operations are overseen by the Home Office, which is responsible for immigration policy and enforcement in the United Kingdom. The Home Office\u2019s immigration\u2011enforcement teams are a relatively new addition to the UK\u2019s border\u2011control toolkit, designed to complement existing police and customs operations.\n\nStakeholders include the migrants and residents who may be subject to raids, the public who provide tip\u2011offs, and the police who occasionally contribute intelligence. The data suggest that the public\u2019s role in generating leads is significant, raising concerns about the potential for false accusations and the impact on community trust.\n\nThe implications of these findings are twofold. First, the high rate of non\u2011arrest visits could erode public confidence in the fairness of immigration enforcement, potentially undermining the legitimacy of the Home Office\u2019s broader immigration agenda. Second, the reliance on unverified tip\u2011offs may expose the agency to legal challenges and calls for greater oversight, especially if individuals are subjected to invasive searches without sufficient evidence.\n\nThe Home Office has not yet announced any changes to its enforcement protocols in response to the data. However, the findings are likely to prompt scrutiny from parliamentary committees, civil\u2011rights groups, and the media. The next steps may include a review of warrant usage guidelines, an audit of the intelligence\u2011gathering process, and potential reforms to the way public tip\u2011offs are vetted.\n\nObservers will be watching for any forthcoming policy documents or parliamentary debates that address the balance between effective border enforcement and the protection of individual rights. The outcome of such discussions could shape the future direction of the agency\u2019s operations and the broader UK immigration enforcement strategy.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/09/shabana-mahmood-ice-style-immigration-raid-agency-accused-fishing-expeditions"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/uk-news/2026/nov/09/shabana-mahmood-ice-style-immigration-raid-agency-accused-fishing-expeditions",
+      "guid": "https://www.theguardian.com/uk-news/2026/nov/09/shabana-mahmood-ice-style-immigration-raid-agency-accused-fishing-expeditions"
+    },
+    "cna_96b26491": {
+      "id": "cna_96b26491",
+      "title": "Google says new Australian internet safety bill could cut off under-18s from Gmail - CNA",
+      "category": "World",
+      "source": "cna",
+      "time": "2026-11-10T01:25:47",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Googleplex_HQ_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "Google has warned that a proposed Australian internet safety bill could prevent users under 18 from accessing Gmail. The company said the legislation, if enacted, would effectively block minors from using the popular email service.\u202f[1]\n\nThe potential restriction matters because Gmail is a central tool for students, educators, and many families who rely on it for communication, school assignments, and personal correspondence. A loss of access could disrupt educational workflows and raise concerns about digital equity and privacy for young Australians.\u202f[1]\n\nIn a statement released to the press, Google explained that the bill\u2019s provisions could lead to the removal of Gmail services for users below the age of 18. The company expressed worries that such a measure would limit minors\u2019 ability to participate fully in the digital world.\u202f[1]\n\nAustralia\u2019s government has been reviewing a new internet safety bill aimed at protecting children online. While the exact text of the proposal has not been fully disclosed, the bill is understood to impose restrictions on certain online services for minors.\u202f[1]\n\nAustralia has a history of enacting laws to safeguard children in the digital realm. The Online Safety Act 2021, for example, established the Office of the Australian Information Commissioner to oversee online safety matters. The current bill seeks to build on that framework by addressing emerging challenges in child protection.\n\nGmail, part of Google\u2019s suite of cloud services, is used by millions worldwide for email, calendar, and collaboration tools. It is integrated into many educational platforms and is a common choice for personal and professional communication.\n\nThe stakeholders in this debate include minors who depend on Gmail for school and personal use, parents concerned about online safety, educators who incorporate Gmail into classroom activities, Google as the service provider, and Australian lawmakers drafting the legislation.\n\nIf the bill were to take effect, minors might need to switch to alternative email providers, potentially disrupting continuity of education and communication. The change could also intensify discussions about digital inclusion and the responsibilities of tech companies in ensuring safe online environments.\n\nThe proposed restriction could spark a broader debate over how to balance child protection with access to essential digital services. It may influence how technology firms approach age verification, content moderation, and compliance with national regulations.\n\nLawmakers are expected to debate the bill in the coming months, and Google may engage with Australian officials to address its concerns. The outcome will determine whether minors can continue to use Gmail and how the country\u2019s digital safety landscape evolves.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "CNA (Singapore)",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcTdSVWNWcDhVZDluOS1teVBNRFNOdGpCUy1qOGdOZkJsblQ2ZHFoWlZwa056d1llUk5IOFJfZldhQXItSm8tcXlaRW1FWVl4aW1XN1pVSWxyVzNHclRkRU5tWnAxVHpXWTlHdENvY2taSy00QUFDRUhzQWI4MjlsOERRWkZvMkJnOE1xOHd0ajhub3B1NHkyRTRnVlBzbUUxRUNzTHh4dHNNdXJrY2lwZ01nbUpOZDVqeGlqdnh5TQ?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcTdSVWNWcDhVZDluOS1teVBNRFNOdGpCUy1qOGdOZkJsblQ2ZHFoWlZwa056d1llUk5IOFJfZldhQXItSm8tcXlaRW1FWVl4aW1XN1pVSWxyVzNHclRkRU5tWnAxVHpXWTlHdENvY2taSy00QUFDRUhzQWI4MjlsOERRWkZvMkJnOE1xOHd0ajhub3B1NHkyRTRnVlBzbUUxRUNzTHh4dHNNdXJrY2lwZ01nbUpOZDVqeGlqdnh5TQ?oc=5",
+      "guid": "CBMivwFBVV95cUxPcTdSVWNWcDhVZDluOS1teVBNRFNOdGpCUy1qOGdOZkJsblQ2ZHFoWlZwa056d1llUk5IOFJfZldhQXItSm8tcXlaRW1FWVl4aW1XN1pVSWxyVzNHclRkRU5tWnAxVHpXWTlHdENvY2taSy00QUFDRUhzQWI4MjlsOERRWkZvMkJnOE1xOHd0ajhub3B1NHkyRTRnVlBzbUUxRUNzTHh4dHNNdXJrY2lwZ01nbUpOZDVqeGlqdnh5TQ"
     }
   },
   "featured": {
-    "hero": "pbs_321f52b8",
+    "hero": "france24_601cca86",
     "stack": [
-      "france24_bae82b20",
-      "csmonitor_dee2d1e0",
-      "bbc_f04cb296"
+      "pbs_5b3bd858",
+      "aljazeera_241566f7",
+      "guardian_b70a4e55"
     ],
     "latest": [
+      "guardian_b70a4e55",
+      "aljazeera_241566f7",
+      "pbs_5b3bd858",
+      "pbs_321f52b8",
       "bbc_f04cb296",
-      "csmonitor_dee2d1e0",
-      "france24_bae82b20",
-      "bbc_deae5694",
-      "googlenews_c5a177c8",
-      "nasa_b5cc9706"
+      "csmonitor_dee2d1e0"
     ],
     "world": [
-      "france24_bae82b20",
-      "csmonitor_dee2d1e0",
-      "smh_cae1f298",
-      "bbc_deae5694"
+      "france24_601cca86",
+      "aljazeera_241566f7",
+      "cna_96b26491",
+      "france24_bae82b20"
     ]
   },
   "categoryIndex": {
@@ -16037,16 +16037,16 @@
       "npr_d068e743"
     ],
     "World": [
+      "cna_96b26491",
+      "france24_bae82b20",
+      "bbc_deae5694",
       "smh_cae1f298",
       "reuters_b6ef6ef2",
       "csmonitor_871cfb51",
       "reuters_73294673",
       "abcau_5e05e1e0",
       "japantimes_71e39fbe",
-      "france24_57da8adf",
-      "irishtimes_b0abad46",
-      "csmonitor_f09dcf7a",
-      "japantimes_627da3c9"
+      "france24_57da8adf"
     ],
     "Politics": [
       "guardian_262afaa5",
@@ -16085,6 +16085,7 @@
       "guardian_6e8d0293"
     ],
     "Science": [
+      "nasa_b5cc9706",
       "conversation_8fbd3729",
       "conversation_358eaed2",
       "berkeleyuniv_512d8bf8",
@@ -16093,10 +16094,10 @@
       "berkeleyuniv_e9c07ddd",
       "npr_cce401af",
       "nature_27981e70",
-      "conversation_19e6a04d",
-      "bbc_63f1a1be"
+      "conversation_19e6a04d"
     ],
     "Business": [
+      "googlenews_c5a177c8",
       "googlenews_cf84c5bf",
       "googlenews_2357af60",
       "googlenews_1894fbb1",
@@ -16105,11 +16106,10 @@
       "googlenews_59b999d6",
       "googlenews_8b07cb5b",
       "googlenews_a2b20540",
-      "googlenews_9d35c2b8",
-      "googlenews_04950b0d"
+      "googlenews_9d35c2b8"
     ]
   },
-  "breaking": "Russell Brand sentenced to 10 years, 6 months for rape and sexual assault",
+  "breaking": "US Defense Secretary Hegseth faces expected impeachment vote this week",
   "events": [
     {
       "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "In America\u2019s measles epidemic, RFK Jr. is now on trial - Politico",
+    "What China stands to gain from Nvidia's CEO's alleged affair with spy",
     "Russell Brand sentenced to 10 years, 6 months for rape and sexual assault",
-    "Pope visits care home in Argentina for people with disabilities, renewing call t",
-    "What is Diwali, the Festival of Lights, and how is it celebrated?"
+    "US Defense Secretary Hegseth faces expected impeachment vote this week",
+    "In America\u2019s measles epidemic, RFK Jr. is now on trial - Politico"
   ]
 }
