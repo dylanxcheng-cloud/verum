@@ -1,125 +1,5 @@
 {
   "stories": {
-    "googlenews_95dcc45c": {
-      "id": "googlenews_95dcc45c",
-      "title": "WHO says Congo Ebola outbreak spreads to two new health zones - Reuters",
-      "category": "Health",
-      "source": "googlenews",
-      "time": "2026-09-27T21:11:51",
-      "read": "3 min read",
-      "mode": "long",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28241%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27441%27%20cy%3D%27220%27%20r%3D%27140%27%20fill%3D%27hsl%28281%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "The World Health Organization (WHO) announced that the Ebola outbreak in the Democratic Republic of Congo (DRC) has expanded to two additional health zones, bringing the total number of affected zones to 12, and that the death toll has surpassed 3,700 cases. The agency\u2019s statement underscores the continued spread of the virus in the eastern part of the country, where the outbreak has been ongoing for several months.\u202f[1]\n\nThe expansion of the outbreak threatens to overwhelm an already strained health system. Health workers are running short of personnel and supplies, and mistrust of health authorities among local communities hampers contact tracing and treatment efforts. The situation raises concerns about the potential for further spread beyond the current zones and the impact on regional stability.\u202f[1]\n\nWHO\u2019s bulletin, released in the early hours of the day, identified the two new health zones as having reported confirmed Ebola cases for the first time. The agency also updated the cumulative case count, noting that the total number of confirmed cases now exceeds 10,000, with more than 3,700 deaths. The report highlighted that the outbreak remains uncontrolled, with new cases continuing to appear in previously unaffected areas.\u202f[1]\n\nThe bulletin also cited reports from the United Nations and other international partners that the shortage of trained health workers is a critical bottleneck in the response. In addition, community members in several villages have expressed reluctance to seek care at health facilities, citing fears of stigma and mistrust of the medical staff. These factors are believed to contribute to the persistence of the outbreak.\u202f[1]\n\nEbola is a severe hemorrhagic fever caused by the Ebola virus, which is transmitted through direct contact with bodily fluids of infected individuals or contaminated surfaces. The WHO monitors outbreaks through a network of national and international partners, issuing alerts when new cases are confirmed. Health zones\u2014administrative units used by the DRC Ministry of Health\u2014serve as the primary geographic framework for organizing surveillance and response activities.\u202f[1]\n\nThe DRC has experienced several Ebola outbreaks since the virus was first identified in the country in 1976. The most recent large-scale epidemic, which began in 2018, was declared over in 2020 after more than 3,400 cases and 2,300 deaths. The current outbreak, which started in 2023, has been particularly challenging due to the country\u2019s ongoing conflict and limited infrastructure.\u202f[1]\n\nKey stakeholders in the response include local health authorities, WHO, the United Nations Office for the Coordination of Humanitarian Affairs, non\u2011governmental organizations, and the Congolese government. Health workers on the ground are tasked with case identification, contact tracing, and providing care, while international partners supply medical supplies, training, and logistical support.\u202f[1]\n\nThe impact of the outbreak extends beyond health outcomes. The shortage of health workers has forced many facilities to operate at reduced capacity, affecting routine services such as maternal and child health. Community mistrust has led to delays in seeking care, which can increase transmission rates. The economic toll is also significant, as affected regions experience disruptions to trade and agriculture.\u202f[1]\n\nIf containment efforts fail to curb the spread, the virus could reach additional health zones, potentially leading to a larger epidemic. The WHO has emphasized the need for increased resources, including more personal protective equipment, rapid diagnostic tests, and expanded vaccination campaigns. The international community\u2019s ability to mobilize these resources will be critical in preventing a further escalation.\u202f[1]\n\nIn the coming weeks, WHO will likely issue updated guidance on case management and community engagement strategies. The United Nations has pledged additional support for training health workers and strengthening surveillance systems. A coordinated effort to deploy the rVSV-ZEBOV vaccine to high\u2011risk populations is expected to be a priority, as is the reinforcement of border controls to prevent cross\u2011border transmission.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWRrVWMzX3I0aFlwNVc2Zy1fY2N0VXk0akJHMXRDQjJfOGptb29EcVJJT1l3b1NOM0ZiZUVSZGdUMG56LXJzdmNuc2FNS05VdzZZRjVHaGZwNlViaVY4RmJpeEl2NmUtVFVYV09ZN0U1V3VaQm5WVDhpWGF3Mm5xVXkweFF5QUduZHQtOU9IMzRSRktDVXVqQkxMM2ZqVks0MnhweHNlQXhrV24wMzJadXBuRzd4c1oyZmd1M0lZbnBXVlJaVFJNZ2JB?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWRrVWMzX3I0aFlwNVc2Zy1fY2N0VXk0akJHMXRDQjJfOGptb29EcVJJT1l3b1NOM0ZiZUVSZGdUMG56LXJzdmNuc2FNS05VdzZZRjVHaGZwNlViaVY4RmJpeEl2NmUtVFVYV09ZN0U1V3VaQm5WVDhpWGF3Mm5xVXkweFF5QUduZHQtOU9IMzRSRktDVXVqQkxMM2ZqVks0MnhweHNlQXhrV24wMzJadXBuRzd4c1oyZmd1M0lZbnBXVlJaVFJNZ2JB?oc=5",
-      "guid": "CBMiygFBVV95cUxOeWRrVWMzX3I0aFlwNVc2Zy1fY2N0VXk0akJHMXRDQjJfOGptb29EcVJJT1l3b1NOM0ZiZUVSZGdUMG56LXJzdmNuc2FNS05VdzZZRjVHaGZwNlViaVY4RmJpeEl2NmUtVFVYV09ZN0U1V3VaQm5WVDhpWGF3Mm5xVXkweFF5QUduZHQtOU9IMzRSRktDVXVqQkxMM2ZqVks0MnhweHNlQXhrV24wMzJadXBuRzd4c1oyZmd1M0lZbnBXVlJaVFJNZ2JB"
-    },
-    "bbc_47804f20": {
-      "id": "bbc_47804f20",
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "category": "World",
-      "source": "bbc",
-      "time": "2026-09-27T21:12:48",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg",
-      "content": "Two mass shootings in South Africa left 27 people dead, occurring hours apart, underscoring the country\u2019s struggle to curb gang\u2011related armed violence.[1]\n\nThe incidents highlight the severity of South Africa\u2019s ongoing gang\u2011related violence crisis, which has led to a surge in armed attacks and a growing sense of insecurity among communities.[1]\n\nThe first shooting was reported early in the day, and a second attack occurred hours later.[1] Together, the incidents claimed 27 lives.[1] Authorities have not released details about the victims or the perpetrators.[1]\n\nSouth Africa has long faced high crime rates, with gang violence being a major contributor. Over the past decade, the number of armed attacks has risen sharply, prompting widespread concern.\n\nGang conflicts often involve rival groups competing for control over drug trafficking routes and territorial dominance. Police responses are frequently hampered by limited resources, corruption, and a lack of public trust.\n\nVictims\u2019 families and local communities are directly affected, while law\u2011enforcement agencies and the national government face pressure to improve security measures. The public\u2019s confidence in policing is eroded by repeated incidents.\n\nThe 27 deaths add to the country\u2019s mounting tally of casualties from gang\u2011related violence.[1]\n\nThe attacks may prompt a review of policing strategies, resource allocation, and anti\u2011crime legislation. Analysts suggest that without systemic reforms, similar incidents could continue.\n\nAuthorities are expected to investigate the shootings, identify perpetrators, and issue statements. The next steps may include new security measures, community outreach, and legislative proposals to address gang violence.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o#0"
-    },
-    "bbc_68b25e7b": {
-      "id": "bbc_68b25e7b",
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "category": "World",
-      "source": "bbc",
-      "time": "2026-09-27T21:13:15",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2f6/live/86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg",
-      "content": "The Iranian foreign minister has said Tehran is waiting for an official rejection of a proposed deal, after President Donald\u202fTrump publicly declared that he rejects the Hormuz agreement. The minister also stated that only negotiation can end the conflict. Trump\u2019s comments on the deal were made in a public address, according to the available reporting. [1] [1] [1]\n\nThe statement underscores Iran\u2019s insistence that diplomatic engagement, rather than unilateral action, is the only path to resolving tensions in the region. It also signals that Tehran is prepared to negotiate but expects a formal, official rejection from the United States before any further talks can take place.\n\nIn the remarks, the foreign minister said Tehran is waiting for an official rejection of the deal and that only negotiation can end the conflict. Trump has said he rejects the Hormuz deal. The source does not provide a date or location for either statement. [1] [1] [1]\n\nThe Hormuz Strait, through which a significant portion of the world\u2019s oil supply passes, has long been a flashpoint in U.S.\u2013Iran relations. The U.S. has considered a deal to limit Iranian oil exports in exchange for easing sanctions, but the proposal has been met with skepticism by Iran. The U.S. President\u2019s rejection of the deal reflects a broader policy stance that favors a tougher approach toward Tehran.\n\nIran, the United States, Gulf states, shipping companies, and global oil markets are the primary stakeholders in this dispute. Iran\u2019s demand for an official rejection could affect the pace of diplomatic negotiations and influence the security environment for maritime traffic through the Strait. The U.S. stance may also impact its relationships with allies in the region and its broader strategy for countering Iranian influence.\n\nThe lack of an official U.S. rejection could delay the initiation of negotiations, potentially prolonging the current state of tension. The Iranian statement may prompt the U.S. administration to clarify its position formally, which could either open a window for dialogue or further entrench existing positions.\n\nObservers will be watching for an official statement from the U.S. government or Congress regarding the Hormuz deal, any subsequent diplomatic outreach between Tehran and Washington, and the impact of these developments on shipping routes and oil market dynamics.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego#0"
-    },
-    "guardian_f0bcc6ea": {
-      "id": "guardian_f0bcc6ea",
-      "title": "Three in four UK GPs \u2018too busy to talk to their patients in depth\u2019",
-      "category": "Health",
-      "source": "guardian",
-      "time": "2026-09-28T04:51:55",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/1cba6dca96336694725679402cbf1349f38140f9/355_0_3561_2848/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=4d06380ed56be00249616b226c051ec7",
-      "content": "A recent report from the UK\u2019s family doctors\u2019 professional body has found that three in four general practitioners are too busy to have in\u2011depth conversations with patients.\u202f[1]\n\nThe finding highlights a shift in primary care that could affect preventive health services and patient satisfaction across the country.\u202f[1]\n\nThe body\u2019s survey, conducted across the UK, revealed that the majority of GPs have no time to discuss preventative measures.\u202f[1] The report notes that a friendly chat about life, health and happiness was once a key part of the UK\u2019s family doctor service.\u202f[1] However, most GPs now lack the time for pastoral conversations because they are overwhelmed by the country\u2019s rising tide of illness.\u202f[1]\n\nGeneral practitioners serve as the first point of contact for most patients in the NHS, offering acute care, chronic disease management, and preventive advice.\n\nIn recent years, the NHS has faced increasing demand, driven by an ageing population, higher prevalence of long\u2011term conditions, and a growing number of patients seeking care.\n\nPatients may experience shorter consultations and fewer opportunities to discuss lifestyle changes, which can impact long\u2011term health outcomes.\n\nGPs themselves report feeling pressured to meet appointment targets and manage complex cases within limited time.\n\nThe report suggests that the current workload may compromise the delivery of preventive care, potentially leading to higher rates of preventable illness.\n\nThe report may prompt policy discussions on how to support GPs in providing comprehensive care.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/society/2026/sep/27/three-in-four-uk-gps-too-busy-to-talk-to-their-patients-in-depth"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/society/2026/sep/27/three-in-four-uk-gps-too-busy-to-talk-to-their-patients-in-depth",
-      "guid": "https://www.theguardian.com/society/2026/sep/27/three-in-four-uk-gps-too-busy-to-talk-to-their-patients-in-depth"
-    },
-    "snopes_4be04e9e": {
-      "id": "snopes_4be04e9e",
-      "title": "10 rumors involving the Secret Service we've unraveled",
-      "category": "News",
-      "source": "snopes",
-      "time": "2026-09-28T04:54:10",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/09/secret_service_collection.png",
-      "content": "The fact\u2011checking team has examined ten rumors involving the Secret Service. [1]\n\nMisinformation about the agency can undermine public confidence in presidential security. [2]\n\nThe team identified ten rumors, but the source does not disclose their specific content. The fact\u2011checking team has not yet released a full report.\n\nThe Secret Service is tasked with protecting the President, Vice President, and other key officials, as well as safeguarding the nation\u2019s financial infrastructure.\n\nThe agency has a long history of responding to public concerns and rumors, often through official statements and briefings.\n\nThe public, who rely on accurate information about national security, are directly affected by rumors.\n\nThe Secret Service, as the subject of the rumors, must manage its public image and maintain operational integrity.\n\nUnchecked rumors can lead to confusion, misallocation of resources, and potential security risks.\n\nRigorous fact\u2011checking helps preserve transparency and accountability in the agency\u2019s operations.\n\nThe fact\u2011checking team may release a comprehensive report in the coming weeks, though no date has been announced.\n\nReaders are encouraged to consult reputable sources and official statements for updates.\n\nThe effort underscores the importance of verifying claims about national security agencies.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Snopes",
-          "url": "https://www.snopes.com/collections/secret-service-rumors/"
-        }
-      ],
-      "original_url": "https://www.snopes.com/collections/secret-service-rumors/",
-      "guid": "https://www.snopes.com/collections/secret-service-rumors/"
-    },
-    "bangkokpost_386bb6d1": {
-      "id": "bangkokpost_386bb6d1",
-      "title": "Costly efforts cushion against energy prices",
-      "category": "World",
-      "source": "bangkokpost",
-      "time": "2026-09-28T04:54:41",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://static.bangkokpost.com/media/content/dcx/2026/09/28/6244565_700.jpg",
-      "content": "State agencies are moving to shield consumers and businesses from the swings in global oil prices, a move that could ease the cost burden on households and firms alike. The announcement comes as part of a broader effort to mitigate the impact of volatile energy markets on the national economy.\n\nThe initiative is significant because oil price fluctuations have long been a source of uncertainty for both consumers and businesses. By introducing financial and fiscal measures, the government aims to reduce the volatility that can translate into higher fuel costs, increased production expenses, and broader inflationary pressures.\n\nAccording to energy permanent secretary Prasert Sinsukprasert, state agencies are either implementing or considering a range of financial and fiscal measures to cushion consumers and businesses from global oil price volatility.[1] The statement was made during a briefing that highlighted the government's intent to address the economic fallout of rising energy costs.\n\nThe measures under consideration include subsidies, tax relief, and other fiscal tools that could directly lower the cost of energy for end users. While the specific instruments have not yet been detailed, the approach signals a willingness to use public policy levers to dampen the effects of external price shocks.\n\nOil price volatility has been a persistent challenge for the country, driven by geopolitical tensions, supply disruptions, and shifts in global demand. The resulting price swings can ripple through the economy, affecting everything from transportation costs to the price of consumer goods.\n\nState agencies, such as the Ministry of Energy and the Department of Finance, typically coordinate on policy responses to energy market changes. Their collaboration is essential for designing measures that are both effective and fiscally sustainable.\n\nConsumers stand to benefit from lower fuel and electricity bills, while businesses could see reduced operating costs, especially those heavily reliant on energy inputs. The measures could also help stabilize the broader economy by curbing inflationary pressures linked to energy prices.\n\nThe impact of these measures will depend on how quickly they are implemented and the scale of the support provided. If the policies are rolled out swiftly, they could mitigate the immediate cost burden; however, longer\u2011term effects will hinge on global market dynamics and domestic policy choices.\n\nThe government\u2019s approach reflects a broader trend of using fiscal tools to manage commodity price volatility. Analysts note that while such measures can provide short\u2011term relief, they must be balanced against budgetary constraints and potential market distortions.\n\nIn the coming weeks, officials are expected to outline the specific financial and fiscal instruments that will be deployed. Key questions include the duration of any subsidies, the eligibility criteria for businesses, and how the measures will be financed within the national budget.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Bangkok Post",
-          "url": "https://www.bangkokpost.com/business/general/3327360/costly-efforts-cushion-against-energy-prices"
-        }
-      ],
-      "original_url": "https://www.bangkokpost.com/business/general/3327360/costly-efforts-cushion-against-energy-prices",
-      "guid": ""
-    },
     "guardian_5d90d037": {
       "id": "guardian_5d90d037",
       "title": "Andy Burnham shows his emotional side \u2013 podcast",
@@ -15999,28 +15879,148 @@
       ],
       "original_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
       "guid": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o#0"
+    },
+    "reuters_1b5b4447": {
+      "id": "reuters_1b5b4447",
+      "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO - Reuters",
+      "category": "World",
+      "source": "reuters",
+      "time": "2026-11-13T19:27:32",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Colette_Kress_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "Colette\u202fKress, Nvidia\u2019s chief financial officer, has been named the company\u2019s interim chief executive officer after publicly questioning CEO Jensen\u202fHuang\u2019s high\u2011profile bets.\u202f[1]\n\nThe appointment signals a shift in leadership at the semiconductor giant and may influence investor confidence and the firm\u2019s strategic direction.\u202f[1]\n\nReuters reported that Kress will serve as interim CEO while the board conducts a search for a permanent replacement.\u202f[1]\n\nThe move follows a period of tension between Kress and Huang, with Kress having publicly challenged several of Huang\u2019s ambitious bets on the company\u2019s future.\u202f[1]\n\nKress has overseen Nvidia\u2019s financial strategy and has been a key figure in the company\u2019s rapid growth over the past decade.\u202f[1]\n\nNvidia, a leading designer of graphics processing units, has expanded beyond gaming into data\u2011center and artificial\u2011intelligence markets under Huang\u2019s leadership.\n\nThe chief financial officer traditionally focuses on financial reporting, budgeting, and capital allocation, while the chief executive officer sets overall strategy and leads the organization.\n\nInvestors, employees, and suppliers are watching closely as the interim CEO may influence short\u2011term decisions and long\u2011term strategy.\n\nThe appointment may also reflect the board\u2019s desire to maintain stability while searching for a new CEO.\n\nIf Kress continues to challenge Huang\u2019s bets, it could signal a broader shift in corporate governance or a realignment of strategic priorities.\n\nAnalysts note that the interim period may be an opportunity for the board to assess the company\u2019s direction and evaluate potential candidates.\n\nThe board is expected to announce a formal search process and a timeline for selecting a permanent CEO in the coming weeks.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5",
+      "guid": "CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3"
+    },
+    "googlenews_9a8b47b3": {
+      "id": "googlenews_9a8b47b3",
+      "title": "Jayden Daniels and Commanders rally to stun the Giants 24-21 and keep their hopes alive - AP News",
+      "category": "Sports",
+      "source": "googlenews",
+      "time": "2026-11-13T19:28:15",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Jayden_Daniels_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "The Washington Commanders defeated the New York Giants 24\u201121 on Thursday night, a comeback that kept their playoff hopes alive.[1]\n\nThe win was crucial for Washington, which has been fighting for a playoff spot in a tight NFC East. The victory also gave quarterback Jayden Daniels a chance to prove himself after a shaky start to the season.[1]\n\nThe game began with the Giants taking an early lead, but the Commanders rallied in the second half. Daniels led a late drive that culminated in a touchdown, sealing the 24\u201121 victory.[1]\n\nDaniels, who has struggled with consistency, found redemption on the field, guiding the team through a game\u2011winning drive.[1]\n\nThe Giants were stunned by the Commanders' resilience, as Washington's defense forced turnovers and the offense capitalized on key opportunities.[1]\n\nWashington's ability to stay aggressive and avoid being burned on the field may have been the difference that kept their season alive.[1]\n\nThe Commanders entered the game with a record that left them on the cusp of the playoffs, making every win critical.[1]\n\nIn the NFL, teams compete for playoff spots based on win\u2013loss records, with tiebreakers and division titles influencing qualification.\n\nCoaches, players, and fans all feel the pressure of a tight playoff race. For Washington, the victory was a morale boost, while for the Giants it was a setback.\n\nHead coach Dan\u202fQuinn said, \u201cWe needed that, we needed every bit of it.\u201d[1]\n\nThe win keeps Washington's playoff hopes alive and may force the Giants to reevaluate their strategy.[1]\n\nIf Washington can maintain this level of aggression, they may secure a playoff berth; otherwise, the season could be over.[1]\n\nThe Commanders will face a division rival in their next game, with the playoff clock ticking down. The Giants will look to bounce back in their upcoming matchup.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdmlHa0xSTlh4bXFRZTgwVFl4NW5KYi1nRU9KTGJpRnJIcGVtLVlrb19GY1R1aVhjeEFuS2ZTMmxZR2lPRldTbWRUNllyY0pmaG9xdUhkZkFfMUl3SEZIcHM3eGFQcmdiZTNkRDkyUC1iYUJ6Z1FNclMyWjNSYVpnMW9oamQwcmdWdmhB?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdmlHa0xSTlh4bXFRZTgwVFl4NW5KYi1nRU9KTGJpRnJIcGVtLVlrb19GY1R1aVhjeEFuS2ZTMmxZR2lPRldTbWRUNllyY0pmaG9xdUhkZkFfMUl3SEZIcHM3eGFQcmdiZTNkRDkyUC1iYUJ6Z1FNclMyWjNSYVpnMW9oamQwcmdWdmhB?oc=5",
+      "guid": "CBMiiwFBVV95cUxPdmlHa0xSTlh4bXFRZTgwVFl4NW5KYi1nRU9KTGJpRnJIcGVtLVlrb19GY1R1aVhjeEFuS2ZTMmxZR2lPRldTbWRUNllyY0pmaG9xdUhkZkFfMUl3SEZIcHM3eGFQcmdiZTNkRDkyUC1iYUJ6Z1FNclMyWjNSYVpnMW9oamQwcmdWdmhB"
+    },
+    "npr_9b75222c": {
+      "id": "npr_9b75222c",
+      "title": "The Trump administration's voter roll crusade could continue",
+      "category": "News",
+      "source": "npr",
+      "time": "2026-11-13T19:28:36",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6903x3883+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fdd%2F1b4c60f94f53a919c64962a66656%2Fgettyimages-2303720039.jpg",
+      "content": "The Trump administration is continuing pressure tactics over potential noncitizens on state voter rolls, prompting election officials to prepare for new challenges, though recent court rulings present obstacles.\u202f[1]\n\nThe issue matters because it sits at the intersection of election integrity, voter suppression concerns, and the legal battles over who is eligible to vote. The administration\u2019s actions could affect millions of voters and the functioning of state election systems.\n\nElection officials across the country are bracing for the administration\u2019s ongoing pressure. The administration has signaled that it will keep pushing for scrutiny of voter rolls. Recent court rulings have created new legal hurdles for the administration\u2019s efforts.\u202f[1]\n\nVoter rolls are maintained by state election boards, which must keep records accurate and up\u2011to\u2011date. Ineligible voters, such as noncitizens, can appear on these rolls and raise concerns about the integrity of elections. The Trump administration has previously sought to address this issue by encouraging states to review and purge potentially ineligible names.\n\nThe legal framework governing voter registration and eligibility has been shaped by numerous court decisions. The recent rulings mentioned in the source have introduced obstacles for the administration\u2019s pressure tactics, limiting the scope of federal influence over state processes.\n\nStakeholders include election officials, voters, advocacy groups, and the administration. Officials must balance compliance with federal pressure and state laws while ensuring that legitimate voters are not disenfranchised. Voters may be affected by changes to rolls, especially if eligible names are mistakenly removed.\n\nThe administration\u2019s pressure could lead to more scrutiny of state rolls, potentially causing delays or confusion in the registration process. The court rulings may limit the administration\u2019s ability to enforce changes, forcing officials to seek alternative approaches to address concerns about ineligible voters.\n\nThe continuing pressure suggests a broader strategy to influence election outcomes, while the obstacles from courts could slow the administration\u2019s efforts. Election officials may still pursue other avenues to address the issue, such as working with state legislatures or pursuing federal legislation.\n\nUpcoming court decisions, state responses, and any new federal directives will be key to watch. Election officials will monitor developments closely and adjust procedures accordingly.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NPR",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california"
+        }
+      ],
+      "original_url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
+      "guid": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california"
+    },
+    "pbs_63f8e2b9": {
+      "id": "pbs_63f8e2b9",
+      "title": "Supreme Court will consider Trump's executive order suspending asylum access at the southern border",
+      "category": "News",
+      "source": "pbs",
+      "time": "2026-11-13T19:28:53",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-04T152931Z_132207333_RC22HOAGNLS8_RTRMADP_3_USA-COURT-1024x683.jpg",
+      "content": "The Supreme Court is set to review a Trump\u2011era executive order that would halt asylum applications at the southern U.S. border. [1] The order, issued in 2018, suspended the ability of people arriving at the border to file for asylum, a right protected under federal law. [1]\n\nThe review comes after the Trump administration filed a petition to overturn lower\u2011court rulings that declared the order illegal. [2] Those decisions held that the executive order violated the U.S. Constitution and statutory protections for asylum seekers. The administration argues that the order is lawful and necessary for border security.\n\nFederal law grants anyone who fears persecution in their home country the right to seek asylum in the United States, regardless of how they entered the country. [3] This principle is embedded in the Immigration and Nationality Act and reinforced by international treaties the United States has signed.\n\nThe Supreme Court\u2019s docket for this case reflects its broader role in adjudicating disputes over executive authority and individual rights. The Court typically hears a limited number of cases each term, and a decision can set binding precedent for lower courts and federal agencies.\n\nMigrants and asylum seekers stand to be directly affected by the Court\u2019s ruling. If the order is upheld, thousands who have already arrived at the border may be denied the chance to present their claims. Legal scholars and civil\u2011rights groups have expressed concern that such a decision would undermine the U.S. commitment to protecting vulnerable populations.\n\nThe case also pits national\u2011security arguments against humanitarian obligations. The Trump administration has framed the order as a necessary measure to prevent illegal entry and reduce the burden on the immigration system. Opponents argue that the order contravenes both domestic law and international obligations.\n\nA Supreme Court decision could clarify the limits of executive power in immigration policy. If the Court finds the order unconstitutional, it would reinforce the judiciary\u2019s role in checking executive actions that affect fundamental rights. Conversely, a ruling in favor of the administration could embolden future attempts to restrict asylum access.\n\nThe next steps involve the Court setting a hearing date, which is likely to occur in the upcoming term. Parties will file briefs and may present oral arguments. The outcome will be closely watched by policymakers, legal advocates, and the millions of people who rely on the U.S. asylum system.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border"
+        }
+      ],
+      "original_url": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border",
+      "guid": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border"
+    },
+    "nature_445513b0": {
+      "id": "nature_445513b0",
+      "title": "Accept all changes",
+      "category": "Science",
+      "source": "nature",
+      "time": "2026-11-13T19:28:57",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03516-y/d41586-026-03516-y_53908114.jpg",
+      "content": "Nature published an article titled \u201cAccept all changes\u201d online on 13\u202fNovember\u202f2026, a piece that hints at a decision that could signal an end or a new beginning in a scientific context.\u202f[1]\n\nThe brief description accompanying the article suggests a pivotal moment in scientific publishing or research, but the specifics remain unclear.\u202f[1]\n\nThe article appears to discuss a decision to accept all changes, perhaps in a manuscript or a broader context, yet the source does not provide details about the subject, the parties involved, or the timeline.\u202f[1]\n\nNature is a leading scientific journal that publishes peer\u2011reviewed research. The process typically involves authors submitting manuscripts, reviewers evaluating them, and editors making decisions.\n\nIn peer review, authors often revise manuscripts in response to reviewer comments. An editor may decide to accept all changes if the revisions satisfy the reviewers\u2019 concerns.\n\nThe phrase \u201cAccept all changes\u201d could also refer to a broader policy shift, such as adopting open data or open peer review, but the article does not specify.\n\nAuthors, reviewers, editors, and the scientific community are the primary stakeholders in such decisions. The outcome can influence publication timelines and the dissemination of research.\n\nIf the decision represents a policy change, institutions, funding agencies, and readers may also be affected.\n\nA decision to accept all changes could streamline the publication process, reduce delays, and encourage transparency. However, without details, the broader impact remains speculative.\n\nThe article\u2019s subtitle, \u201cIt\u2019s the end \u2014 or is it?\u201d suggests uncertainty about the long\u2011term consequences of the decision.\n\nReaders should look for the full article to understand the context, the decision\u2019s scope, and any subsequent developments. The DOI\u202f10.1038/d41586\u2011026\u201103516\u2011y will provide access once the article is available.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Nature",
+          "url": "https://www.nature.com/articles/d41586-026-03516-y"
+        }
+      ],
+      "original_url": "https://www.nature.com/articles/d41586-026-03516-y",
+      "guid": "https://www.nature.com/articles/d41586-026-03516-y"
+    },
+    "abcau_0172d85c": {
+      "id": "abcau_0172d85c",
+      "title": "The US has been holding secretive talks with a regime it accused of genocide - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "category": "World",
+      "source": "abcau",
+      "time": "2026-11-13T19:29:00",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28128%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27368%27%20cy%3D%2781%27%20r%3D%27140%27%20fill%3D%27hsl%28168%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "The United States has reportedly been holding secretive diplomatic talks with a regime it has accused of genocide. ABC News reports that U.S. officials have engaged in confidential meetings with representatives of the regime in question, though the outlet does not identify the country or the specific genocide alleged. [1]\n\nThe development is significant because it suggests the U.S. is pursuing a back\u2011channel approach to a situation that it has publicly condemned as a grave human\u2011rights violation. Secret diplomacy could shape future policy decisions, influence humanitarian access, and affect the U.S.\u2019s standing in the international community.\n\nAccording to the ABC report, the meetings were conducted in a discreet setting and were not disclosed to the public or to congressional oversight bodies. The source does not provide dates, locations, or the identities of the participants, nor does it name the regime or the genocide in question. [1]\n\nThe U.S. has a long history of using both public and covert diplomatic channels to address human\u2011rights abuses. In the past, the U.S. has publicly accused regimes such as Myanmar, Sudan, and Syria of committing genocide or crimes against humanity, while simultaneously engaging in back\u2011channel negotiations to secure ceasefires or humanitarian corridors. This dual strategy has been employed to balance moral condemnation with pragmatic engagement.\n\nBack\u2011channel diplomacy typically involves informal, confidential meetings between officials who are not bound by the formalities of public diplomacy. Such talks can allow negotiators to explore options without the pressure of media scrutiny or political opposition, and they are often used to test the willingness of a regime to alter its behavior or to discuss sensitive issues such as sanctions relief or the release of political prisoners.\n\nThe stakeholders in this scenario include the U.S. government, the regime accused of genocide, the victims and communities affected by the alleged atrocities, and the broader international community, including the United Nations and human\u2011rights NGOs. Each group has distinct interests: the U.S. seeks to protect human rights while maintaining strategic interests; the regime may seek legitimacy or relief from sanctions; victims hope for accountability and aid; and international actors monitor compliance with international law.\n\nThe implications of secret talks are complex. On one hand, they could lead to tangible improvements in the humanitarian situation if the regime agrees to grant access or reduce violence. On the other hand, the lack of transparency may undermine public trust in the U.S. government\u2019s commitment to human\u2011rights advocacy and could be perceived as tacit approval of the regime\u2019s conduct. The balance between diplomatic pragmatism and moral accountability remains a contentious issue.\n\nObservers will likely focus on whether the U.S. will issue a public statement clarifying its position, whether any policy changes\u2014such as sanctions adjustments or aid packages\u2014will follow the talks, and whether congressional committees will investigate the nature and outcomes of the secret meetings. The next few weeks may see increased scrutiny from lawmakers and human\u2011rights groups as they seek to understand the impact of these undisclosed negotiations.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "ABC News (Australia)",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSEVSQXpyZGs1Z1hfZVRxYVo1Wkk0dUFhVHh1dHJMWTQwUzJRLWhLZ2lRUFRRMlZtYU9oUjZFRHROSXpYbEVoVFFKSVpvSl9VWTlubElBem1WUTBhcVNTZk5PV1lNeU5PRlRZS3RHeEUzRGVUS1VyWlAtS3hqOTBsSF80R0QyR3BXb3ZaVGlWWE9sRnBOUFVEbmxoMnpEMjBoRk5PUWh6NFNGcU1uUGVaag?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSEVSQXpyZGs1Z1hfZVRxYVo1Wkk0dUFhVHh1dHJMWTQwUzJRLWhLZ2lRUFRRMlZtYU9oUjZFRHROSXpYbEVoVFFKSVpvSl9VWTlubElBem1WUTBhcVNTZk5PV1lNeU5PRlRZS3RHeEUzRGVUS1VyWlAtS3hqOTBsSF80R0QyR3BXb3ZaVGlWWE9sRnBOUFVEbmxoMnpEMjBoRk5PUWh6NFNGcU1uUGVaag?oc=5",
+      "guid": "CBMisAFBVV95cUxQSEVSQXpyZGs1Z1hfZVRxYVo1Wkk0dUFhVHh1dHJMWTQwUzJRLWhLZ2lRUFRRMlZtYU9oUjZFRHROSXpYbEVoVFFKSVpvSl9VWTlubElBem1WUTBhcVNTZk5PV1lNeU5PRlRZS3RHeEUzRGVUS1VyWlAtS3hqOTBsSF80R0QyR3BXb3ZaVGlWWE9sRnBOUFVEbmxoMnpEMjBoRk5PUWh6NFNGcU1uUGVaag"
     }
   },
   "featured": {
-    "hero": "csmonitor_2e3902cb",
+    "hero": "reuters_1b5b4447",
     "stack": [
-      "googlenews_87ad4518",
-      "straitstimes_40f093b8",
-      "bbc_d7829436"
+      "googlenews_9a8b47b3",
+      "npr_9b75222c",
+      "pbs_63f8e2b9"
     ],
     "latest": [
+      "pbs_63f8e2b9",
+      "npr_9b75222c",
+      "googlenews_9a8b47b3",
+      "csmonitor_2e3902cb",
       "bbc_d7829436",
-      "straitstimes_40f093b8",
-      "googlenews_87ad4518",
-      "googlenews_dc02878a",
-      "googlenews_07d08b8d",
-      "bbc_b529f445"
+      "straitstimes_40f093b8"
     ],
     "world": [
+      "reuters_1b5b4447",
+      "abcau_0172d85c",
       "csmonitor_2e3902cb",
-      "straitstimes_40f093b8",
-      "bbc_c3c1b0f1",
-      "afp_f07f64e8"
+      "straitstimes_40f093b8"
     ]
   },
   "categoryIndex": {
@@ -16037,6 +16037,7 @@
       "npr_f581b004"
     ],
     "World": [
+      "abcau_0172d85c",
       "bbc_c3c1b0f1",
       "afp_f07f64e8",
       "aljazeera_4b5873c7",
@@ -16045,8 +16046,7 @@
       "aljazeera_3eb36c89",
       "bangkokpost_8064f90e",
       "bbc_9ca89cd1",
-      "dw_4506ca13",
-      "irishtimes_9df05a55"
+      "dw_4506ca13"
     ],
     "Politics": [
       "bbc_44c570c2",
@@ -16061,6 +16061,7 @@
       "bbc_2e4f2c6a"
     ],
     "Sports": [
+      "googlenews_07d08b8d",
       "googlenews_4e2af42c",
       "googlenews_0cc2e750",
       "googlenews_e296fde7",
@@ -16069,10 +16070,11 @@
       "googlenews_cf928711",
       "googlenews_625a75cb",
       "googlenews_575566fb",
-      "googlenews_fcf21cb0",
-      "googlenews_e65821ce"
+      "googlenews_fcf21cb0"
     ],
     "Health": [
+      "googlenews_dc02878a",
+      "bbc_b529f445",
       "googlenews_914d6b21",
       "guardian_d8db396c",
       "googlenews_556006ff",
@@ -16080,11 +16082,10 @@
       "googlenews_205cc765",
       "googlenews_6f15c010",
       "googlenews_a633d182",
-      "guardian_31187d92",
-      "googlenews_abab1335",
-      "googlenews_ddd9693a"
+      "guardian_31187d92"
     ],
     "Science": [
+      "nature_445513b0",
       "berkeleyuniv_58bd8489",
       "npr_c04154ae",
       "conversation_656218a7",
@@ -16093,10 +16094,10 @@
       "bbc_287541f9",
       "guardian_61f72f2e",
       "bbc_f04cb296",
-      "nasa_b5cc9706",
-      "conversation_8fbd3729"
+      "nasa_b5cc9706"
     ],
     "Business": [
+      "googlenews_87ad4518",
       "googlenews_42cd38b0",
       "googlenews_44b33ddf",
       "googlenews_c5a177c8",
@@ -16105,11 +16106,10 @@
       "googlenews_1894fbb1",
       "googlenews_07c7c88b",
       "googlenews_91273319",
-      "googlenews_59b999d6",
-      "googlenews_8b07cb5b"
+      "googlenews_59b999d6"
     ]
   },
-  "breaking": "Jensen Huang is out at Nvidia. China\u2019s quest for American AI isn\u2019t over.",
+  "breaking": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO - Reuters",
   "events": [
     {
       "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
@@ -16125,7 +16125,7 @@
   "mostRead": [
     "Jensen Huang is out at Nvidia. China\u2019s quest for American AI isn\u2019t over.",
     "You likely have genes that affect how well your medications work \u2013 testing for t",
-    "Trump Had Urged Nvidia\u2019s Jensen Huang to Fight for His Job - The New York Times",
-    "Armed robbers flee Paris jewellery shop with goods worth over US$1 million - Sou"
+    "Jayden Daniels and Commanders rally to stun the Giants 24-21 and keep their hope",
+    "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO - Re"
   ]
 }
