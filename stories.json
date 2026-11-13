@@ -1,125 +1,5 @@
 {
   "stories": {
-    "economist_d8243af0": {
-      "id": "economist_d8243af0",
-      "title": "America and China\u2019s leaders indulge in pageantry as crises mount",
-      "category": "World",
-      "source": "economist",
-      "time": "2026-09-27T16:46:54",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "content": "Donald Trump and Xi Jinping indulged in pageantry as crises mount, squandering a chance to tackle the world\u2019s gravest threats.[1]\n\nThe leaders of the United States and China, the two largest economies, missed a pivotal opportunity to address pressing global challenges that threaten international stability and human well\u2011being.[1]\n\nDuring a high\u2011profile summit, the presidents focused on ceremonial displays and symbolic gestures rather than substantive policy discussions. The event, which drew worldwide attention, was dominated by speeches, parades, and staged interactions that emphasized optics over outcomes.\n\nInternational summits routinely feature elaborate pageantry\u2014flag\u2011raising ceremonies, cultural performances, and formal receptions\u2014that aim to showcase national pride and diplomatic goodwill. Such displays, while tradition\u2011laden, can divert attention from urgent policy debates.\n\nThe world currently confronts a range of crises, from climate change and environmental degradation to infectious disease outbreaks and geopolitical tensions. These challenges require coordinated leadership and decisive action from the globe\u2019s most influential states.\n\nThe leaders had an opening to confront these threats head\u2011on, yet the summit\u2019s agenda remained largely ceremonial. Their decision to prioritize spectacle over substantive dialogue left many pressing issues unaddressed.\n\nPageantry at diplomatic events has long been a feature of international relations, serving as a tool for soft power and image management. In recent years, critics argue that an overemphasis on form can undermine the substantive work of diplomacy.\n\nThe focus on image reflects a broader trend in global politics where leaders sometimes prioritize public perception over concrete policy outcomes. This approach can erode trust among international partners and the public.\n\nGovernments, international organizations, and ordinary citizens are the primary stakeholders affected by the lack of substantive engagement. Without clear leadership, the implementation of global agreements and the mobilization of resources to address crises may be delayed.\n\nThe missed opportunity could slow coordinated efforts to mitigate climate change, strengthen pandemic preparedness, and reduce geopolitical friction. The absence of decisive dialogue at such a critical juncture may also embolden actors who seek to exploit global vulnerabilities.\n\nWithout a concerted effort from the world\u2019s most powerful nations, the interconnected crises facing humanity may intensify, making future solutions more costly and complex. The lack of leadership at this summit underscores the need for a renewed focus on policy over pageantry.\n\nObservers will watch for subsequent meetings and diplomatic initiatives to see whether the leaders will shift their priorities toward substantive policy discussions and collaborative action on the world\u2019s most urgent threats.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Economist",
-          "url": "https://www.economist.com/international/2026/09/25/america-and-chinas-leaders-indulge-in-pageantry-as-crises-mount"
-        }
-      ],
-      "original_url": "https://www.economist.com/international/2026/09/25/america-and-chinas-leaders-indulge-in-pageantry-as-crises-mount",
-      "guid": "69912538-fdb3-40c7-9cd9-14a7ec2140cc"
-    },
-    "guardian_431a7acd": {
-      "id": "guardian_431a7acd",
-      "title": "\u2018Gamechanging\u2019 brain tumour test reduces diagnosis from eight weeks to two hours",
-      "category": "Science",
-      "source": "guardian",
-      "time": "2026-09-27T16:47:14",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/6f4c55cd7ddcba9b79e619500207bbcc8fea7f5c/684_0_4509_3607/master/4509.jpg?width=140&quality=85&auto=format&fit=max&s=8bef3bf1d73532ae4c5e67b17615dbe4",
-      "content": "Rapid brain\u2011tumour testing that can be performed while a patient remains on the operating table has been described by NHS England as a potential \u201cgame\u2011changing\u201d advance that could cut diagnostic time from eight weeks to just two hours.\u202f[1]\n\nThe new test, which is currently being piloted in five NHS centres across England, would allow surgeons and pathologists to identify malignant tissue in real time during surgery, potentially enabling immediate treatment decisions.\u202f[1]\n\nNHS England announced that the test can be carried out intraoperatively, meaning the patient does not need to wait for a separate pathology appointment after the operation.\u202f[1]\n\nScientists involved in the development have referred to the test as \u201cgame\u2011changing\u201d, noting that it could secure early treatment for patients who \u201cdo not have time on their side\u201d.\u202f[1]\n\nThe current standard for diagnosing brain tumours involves imaging, surgical biopsy, and laboratory analysis, a process that can take several weeks before a definitive diagnosis is available.\u202f[1]\n\nBy providing results within a two\u2011hour window, the new test could dramatically shorten the interval between surgery and the initiation of adjuvant therapies such as chemotherapy or radiotherapy.\u202f[1]\n\nThe pilot programme will assess the test\u2019s accuracy, feasibility, and impact on surgical workflow across the five participating hospitals.\u202f[1]\n\nIf the pilot demonstrates reliable performance, NHS England could consider scaling the test nationwide, potentially reshaping the diagnostic pathway for brain\u2011tumour patients.\u202f[1]\n\nKey next steps include monitoring the pilot\u2019s outcomes, gathering data on patient survival and quality of life, and determining the cost\u2011effectiveness of widespread implementation.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours",
-      "guid": "https://www.theguardian.com/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours"
-    },
-    "guardian_06587257": {
-      "id": "guardian_06587257",
-      "title": "Only 3% of US sickle cell patients receive red blood cell exchange for disease, researchers find",
-      "category": "Health",
-      "source": "guardian",
-      "time": "2026-09-27T16:47:41",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/a2d28e522f98cdc82eff12d7e1cc49e369c0e4f4/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d41b5ee934e291a69244fe3fecdc8af1",
-      "content": "Only three percent of Americans with sickle cell disease receive red blood cell exchange, a procedure that can reduce pain crises and organ damage, according to a new study.\u202f[1]\n\nThe finding underscores a mismatch between the availability of a proven therapy and its use among the patients who could benefit most, raising questions about access, awareness, and systemic barriers.\u202f[1]\n\nThe study, which surveyed hospitals across the United States, found that just 3\u202f% of patients with sickle cell disease undergo red blood cell exchange. The procedure involves removing damaged red blood cells and replacing them with donor cells while preserving the patient\u2019s plasma, platelets, and white blood cells.\u202f[1]\n\nResearchers noted that despite the widespread presence of the technology in U.S. hospitals, many patients do not receive the treatment. The study identified various factors that impede access, though specific barriers were not detailed in the summary.\u202f[1]\n\nSickle cell disease is a hereditary blood disorder that causes red blood cells to assume a crescent shape, leading to blockages, pain crises, and organ damage.\n\nRed blood cell exchange, also called apheresis, is a procedure that reduces the proportion of sickled cells in circulation, thereby lowering the risk of vaso\u2011occlusive events. The technique is performed in many tertiary care centers and is considered a standard of care for severe sickle cell complications.\n\nThe technology for red blood cell exchange has been available in the United States for decades, with most large hospitals equipped with apheresis machines and trained staff.\n\nPatients with sickle cell disease stand to benefit from more frequent use of the procedure, as it can shorten hospital stays and reduce long\u2011term organ damage. The low utilization rate suggests that many patients may experience avoidable morbidity.\u202f[1]\n\nHealthcare providers, including hematologists and transfusion specialists, may need to increase awareness of the procedure\u2019s benefits and eligibility criteria. Hospital administrators and policymakers could also play a role in ensuring that resources and protocols support broader use.\u202f[1]\n\nThe discrepancy between availability and use points to potential gaps in referral patterns, insurance coverage, or patient education. Addressing these issues could improve outcomes for a population that already faces significant health disparities.\u202f[1]\n\nFuture research should identify the specific barriers that prevent patients from receiving red blood cell exchange and evaluate interventions to increase uptake. Policymakers and professional societies may also consider guidelines or quality metrics to monitor and promote the use of this therapy.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/society/2026/sep/27/sickle-cell-patients-red-blood-cell-exchange"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/society/2026/sep/27/sickle-cell-patients-red-blood-cell-exchange",
-      "guid": "https://www.theguardian.com/society/2026/sep/27/sickle-cell-patients-red-blood-cell-exchange"
-    },
-    "ap_fe262689": {
-      "id": "ap_fe262689",
-      "title": "Palestinian death toll in Gaza war passes 74,000, and other Mideast news - AP News",
-      "category": "News",
-      "source": "ap",
-      "time": "2026-09-27T21:11:08",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Associated_Press_logo_2012.svg/120px-Associated_Press_logo_2012.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "content": "The Palestinian death toll in the Gaza war has now exceeded 74,000, according to a report by the Associated Press. The figure marks a new high in the ongoing conflict that has already claimed tens of thousands of lives on both sides. [1]\n\nThe rise in casualties underscores the severity of the humanitarian crisis in Gaza and has drawn renewed attention from international bodies and governments. The high death toll also fuels calls for a ceasefire and for increased humanitarian assistance to the densely populated enclave.\n\nThe AP article reports the figure but does not provide details on the source of the count, the exact date of the latest update, or the methodology used to arrive at the number. It also does not specify which agencies or organizations contributed to the tally.\n\nThe Gaza war, which began in late 2023, has involved intense fighting between Israeli forces and Palestinian armed groups. The conflict has led to widespread destruction of infrastructure, displacement of residents, and significant civilian casualties. The war\u2019s escalation has been driven by a complex mix of political, security, and humanitarian factors that have long characterized the Israeli\u2011Palestinian dispute. (General context, not sourced.)\n\nThe primary stakeholders in this situation are the Palestinian civilians who have suffered the most casualties, the Israeli military and civilian population, and the international community, including the United Nations, the United States, and regional actors. Each group has different perspectives on the conflict\u2019s causes, the legitimacy of the violence, and the appropriate path toward resolution.\n\nThe implications of the rising death toll are far\u2011reaching. A continued high casualty rate may lead to increased pressure on the international community to intervene, either through diplomatic channels or humanitarian aid. It also risks further destabilizing an already volatile region, potentially affecting neighboring countries and global security dynamics.\n\nThe article does not specify upcoming steps or deadlines for ceasefire negotiations, humanitarian aid deliveries, or other actions that may follow the reported death toll. It also does not detail any specific policy responses from governments or international organizations. The next developments will likely depend on diplomatic efforts and the evolving situation on the ground.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2lsZXMteVl2UXhnTWE4UWl6eG9FUE50RFkzN3V0cFlQZldUeDF2YTlGVlpmMmxMX0cwQUdrQ0ctVWZMaTcyeU15bnN1dXM4YmNsd2tUMnRjR0JXUWtYRGw3S1I0azUtSjQ5RnZOOTdJa3pYVzRaSmptb25xVmNlRUZOTV8tVmxJZW14S2c2c3kxVklLTUwxeFlqNFp5Q2U4ODNTLXhoRWJiQTA?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2lsZXMteVl2UXhnTWE4UWl6eG9FUE50RFkzN3V0cFlQZldUeDF2YTlGVlpmMmxMX0cwQUdrQ0ctVWZMaTcyeU15bnN1dXM4YmNsd2tUMnRjR0JXUWtYRGw3S1I0azUtSjQ5RnZOOTdJa3pYVzRaSmptb25xVmNlRUZOTV8tVmxJZW14S2c2c3kxVklLTUwxeFlqNFp5Q2U4ODNTLXhoRWJiQTA?oc=5",
-      "guid": "CBMiqwFBVV95cUxNN2lsZXMteVl2UXhnTWE4UWl6eG9FUE50RFkzN3V0cFlQZldUeDF2YTlGVlpmMmxMX0cwQUdrQ0ctVWZMaTcyeU15bnN1dXM4YmNsd2tUMnRjR0JXUWtYRGw3S1I0azUtSjQ5RnZOOTdJa3pYVzRaSmptb25xVmNlRUZOTV8tVmxJZW14S2c2c3kxVklLTUwxeFlqNFp5Q2U4ODNTLXhoRWJiQTA"
-    },
-    "guardian_ef16f6d6": {
-      "id": "guardian_ef16f6d6",
-      "title": "UK to open new refugee resettlement routes for Afghan women and Palestinians",
-      "category": "Politics",
-      "source": "guardian",
-      "time": "2026-09-27T21:11:11",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/b7021b246b6be128ec65b4ebe944007c61c2eef6/982_549_3496_2796/master/3496.jpg?width=140&quality=85&auto=format&fit=max&s=83458f62d5b34344601118df1372bd0d",
-      "content": "The UK government has announced plans to open new refugee resettlement routes that will give priority to Afghan women and girls and to Palestinians, a move that follows the abrupt closure of the Afghan resettlement scheme last year. Shabana Mahmood, the Home Secretary, said the new legal route will unfreeze a scheme that will put the most vulnerable refugees on a faster path to permanent status.\u202f[1]\n\nThe policy shift is significant because it marks a change in the government\u2019s approach to asylum seekers, offering a more targeted pathway for those most at risk. It also comes amid concerns that the limited numbers of refugees admitted under the new scheme will not be enough to deter the ongoing problem of people attempting to cross the English Channel by boat.\u202f[1]\n\nIn a statement released this week, Mahmood outlined the key features of the new route. The scheme will prioritize Afghan women and girls and Palestinians, and it will provide a streamlined process that could lead to permanent status more quickly than the current system.\u202f[1]\n\nThe Home Office will also keep refugee status under constant review for a period of two decades, ensuring that the government can reassess the circumstances of each individual over a long horizon.\u202f[1]\n\nExperts have cautioned that the numbers of refugees who will be able to enter the UK under the new scheme are too small to have a meaningful impact on the Channel crossing crisis.\u202f[1]\n\nThe Afghan resettlement scheme, which had been in place to provide protection for refugees fleeing the Taliban\u2019s return to power, was abruptly closed last year.\u202f[1]\n\nHistorically, the UK has used resettlement schemes to offer protection to refugees from conflict zones, allowing them to settle in the country under a structured process.\n\nThe Channel crossing issue refers to refugees and migrants attempting to reach the UK by boat across the English Channel, a dangerous journey that has seen a rise in recent years.\n\nAfghan women and girls, Palestinians, and other asylum seekers are the primary beneficiaries of the new route, as they are identified as some of the most vulnerable groups in conflict zones.\n\nThe UK immigration system, overseen by the Home Office, will be responsible for implementing the new route and ensuring that the process is carried out efficiently.\n\nAdvocacy groups and experts are closely monitoring the policy\u2019s impact on the Channel crossing crisis, as well as its broader implications for the UK\u2019s asylum system.\n\nThe policy shift may signal a more targeted approach to asylum, but the limited numbers raise questions about its effectiveness in deterring dangerous crossings.\n\nThe constant review of refugee status for twenty years could affect long\u2011term settlement prospects for those who enter the UK under the new scheme, potentially influencing their rights and integration over time.\n\nIn the coming weeks, the Home Office is expected to publish detailed guidelines and timelines for the new route, and experts will assess its effectiveness as the first cohort of refugees begins the resettlement process.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/sep/27/shabana-mahmood-uk-refugee-resettlement-scheme-afghan-women-girls-palestinians"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/politics/2026/sep/27/shabana-mahmood-uk-refugee-resettlement-scheme-afghan-women-girls-palestinians",
-      "guid": "https://www.theguardian.com/politics/2026/sep/27/shabana-mahmood-uk-refugee-resettlement-scheme-afghan-women-girls-palestinians"
-    },
-    "france24_4197015b": {
-      "id": "france24_4197015b",
-      "title": "France's far right gains ground in indirect Senate elections",
-      "category": "World",
-      "source": "france24",
-      "time": "2026-09-27T21:11:15",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://s.france24.com/media/display/459856d8-ba45-11f1-8647-555a0aff87a4/w:1024/p:16x9/89f26f0ba40bd2695376d951d4b7dad7d724f76a.jpg",
-      "content": "Marine Le\u202fPen\u2019s National Rally and its allies secured 14 seats in France\u2019s Senate, a number sufficient for the party to form a parliamentary group in the upper house for the first time in its history.\u202f[1]\n\nThe move gives the far\u2011right a formal foothold in a chamber that has long been dominated by right\u2011wing parties, potentially altering the balance of power in the Senate\u2019s deliberations and committee assignments.\u202f[1]\n\nOn Sunday, the indirect election produced the 14 seats out of the Senate\u2019s 348 total, the threshold required to register a parliamentary group.\u202f[1] The election, held by an electoral college of local officials, is part of a triennial cycle that renews half of the chamber each time.\u202f[1]\n\nSenators in France serve six\u2011year terms, and the Senate\u2019s composition is refreshed every three years through these indirect elections.\u202f[1] The chamber\u2019s right\u2011wing dominance has historically limited the influence of left\u2011leaning parties, making the National Rally\u2019s entry significant.\u202f[1]\n\nThe French Senate is the upper house of Parliament, comprising 348 members who are elected by an electoral college rather than by direct popular vote.\u202f[1] It serves as a revising body for legislation passed by the National Assembly and holds the power to delay or amend bills, though it cannot ultimately veto them.\u202f[1]\n\nThe National Rally, led by Marine Le\u202fPen, has long positioned itself as a nationalist, anti\u2011immigration party.\u202f[1] Until now, it had never achieved the seat count needed to establish a parliamentary group in the Senate, a status that grants formal recognition, speaking time, and committee representation.\u202f[1]\n\nForming a parliamentary group requires a minimum of 15 senators, but the National Rally\u2019s 14 seats, combined with allied parties, met the threshold when the group\u2019s composition was considered.\u202f[1] This arrangement allows the party to influence the Senate\u2019s agenda and to secure a share of committee positions, enhancing its legislative reach.\u202f[1]\n\nThe party\u2019s new presence will affect a range of stakeholders.\u202f[1] For the National Rally, it provides a platform to promote its policy priorities, such as stricter immigration controls and a reassessment of France\u2019s role in the European Union.\u202f[1] Other parties, particularly those on the left, may find their influence in the Senate further diluted, prompting potential strategic alliances or shifts in policy emphasis.\u202f[1]\n\nIn practical terms, the National Rally\u2019s group will be able to propose amendments, ask questions, and participate in debates with a formal voice.\u202f[1] This could shape the Senate\u2019s scrutiny of legislation on economic policy, social welfare, and national security, areas where the party has been vocal.\u202f[1]\n\nThe broader implication is a potential shift in the Senate\u2019s ideological balance.\u202f[1] With the National Rally\u2019s participation, the chamber may lean more decisively toward conservative stances, affecting the passage of bills that require Senate approval.\u202f[1] The party\u2019s influence could also embolden right\u2011wing elements in the National Assembly, fostering a more unified conservative front.\u202f[1]\n\nLooking ahead, observers will watch how the National Rally\u2019s group negotiates committee assignments and whether it collaborates with other right\u2011wing parties to advance a shared agenda.\u202f[1] The next Senate session will determine the group\u2019s effectiveness and its role in shaping upcoming legislation, particularly as France navigates economic challenges and debates over national identity.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "France 24",
-          "url": "https://www.france24.com/en/france/20260927-france-s-far-right-gains-ground-in-indirect-senate-elections"
-        }
-      ],
-      "original_url": "https://www.france24.com/en/france/20260927-france-s-far-right-gains-ground-in-indirect-senate-elections",
-      "guid": "18ed0abc-baa8-11f1-8646-b35775986d5a"
-    },
     "googlenews_95dcc45c": {
       "id": "googlenews_95dcc45c",
       "title": "WHO says Congo Ebola outbreak spreads to two new health zones - Reuters",
@@ -15999,32 +15879,153 @@
       ],
       "original_url": "https://www.npr.org/2026/11/12/nx-s1-6031982/this-week-in-science-ptsd-prediction-phishing-while-tired-an-exoplanet",
       "guid": "https://www.npr.org/2026/11/12/nx-s1-6031982/this-week-in-science-ptsd-prediction-phishing-while-tired-an-exoplanet"
+    },
+    "csmonitor_2e3902cb": {
+      "id": "csmonitor_2e3902cb",
+      "title": "Jensen Huang is out at Nvidia. China\u2019s quest for American AI isn\u2019t over.",
+      "category": "World",
+      "source": "csmonitor",
+      "time": "2026-11-13T06:03:08",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://images.csmonitor.com/csm/2026/11/1112_NHUANG_LEDE.jpg?alias=standard_900x600",
+      "content": "Jensen Huang, the chief executive of Nvidia, has reportedly left the company amid allegations that a Chinese spy had an affair with him, a claim that is part of a larger narrative about Beijing\u2019s pursuit of American artificial\u2011intelligence secrets.\u202f[1]\n\nThe incident highlights the continuing threat to U.S. technology security posed by foreign intelligence operations, and it underscores the high stakes of the global AI race.\u202f[1]\n\nAccording to the reporting, the alleged affair involved a Chinese intelligence officer who is said to have used the relationship to gain access to Nvidia\u2019s proprietary AI research. The claim is framed as one element of a broader effort by China to acquire U.S. AI knowledge.\u202f[1] The available reporting does not specify the identity of the alleged spy or the details of the affair.\n\nNvidia is a leading manufacturer of graphics processing units (GPUs) that power many of today\u2019s AI systems. Its chips are integral to training large language models, autonomous vehicles, and other advanced technologies.\u202f[general context] The company\u2019s intellectual property and research outputs are therefore of significant interest to governments and corporations worldwide.\n\nChinese intelligence agencies have long employed personal relationships as a means of espionage.\u202f[general context] By cultivating close ties with key figures in technology firms, they aim to obtain confidential information that can be used to advance domestic capabilities or undermine competitors.\n\nThe fallout from the alleged affair touches several stakeholders. U.S. national\u2011security agencies are likely to intensify investigations into potential breaches of technology. Nvidia\u2019s employees and investors face uncertainty about the company\u2019s future leadership and the integrity of its research.\u202f[general context] The incident may also influence how other U.S. firms manage executive relationships and safeguard sensitive data.\n\nIf the allegations prove credible, the leakage of proprietary AI designs could shift the competitive balance in the technology sector, potentially accelerating China\u2019s AI development and eroding U.S. dominance.\u202f[analysis] The situation also raises questions about the adequacy of current export\u2011control regimes and corporate security protocols.\n\nObservers will be watching for the outcome of any investigations, the potential imposition of sanctions against individuals or entities involved, and any policy responses that might tighten controls on technology transfer.\u202f[analysis] The next few months could see a tightening of U.S. export controls and a reassessment of how technology companies manage executive relationships to mitigate espionage risks.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Christian Science Monitor",
+          "url": "https://www.csmonitor.com/Business/2026/1112/huang-nvidia-chips-china-ai?icid=rss"
+        }
+      ],
+      "original_url": "https://www.csmonitor.com/Business/2026/1112/huang-nvidia-chips-china-ai?icid=rss",
+      "guid": "8a74c914483930eb584035ef282d75d8"
+    },
+    "googlenews_87ad4518": {
+      "id": "googlenews_87ad4518",
+      "title": "Trump Had Urged Nvidia\u2019s Jensen Huang to Fight for His Job - The New York Times",
+      "category": "Business",
+      "source": "googlenews",
+      "time": "2026-11-13T06:03:20",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%2865%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27505%27%20cy%3D%27358%27%20r%3D%27140%27%20fill%3D%27hsl%28105%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "Trump urged Nvidia CEO Jensen Huang to fight for his job, prompting a leadership transition that the company announced shortly thereafter.\u202f[1]\n\nThe change matters because Nvidia is a leading supplier of graphics processors that power artificial\u2011intelligence workloads, gaming, and data\u2011center operations. Leadership shifts at a firm of this scale can influence investor sentiment, product strategy, and the broader AI chip market.\n\nTrump publicly urged Huang to fight for his position, according to reports. The company later announced that Huang would step down, and a new CEO would take over.\u202f[1]\n\nNvidia\u2019s newsroom released a statement confirming the CEO transition, detailing the timeline and the appointment of the successor.\u202f[1]\n\nThe New\u202fYork\u202fTimes article highlighted Trump\u2019s call to Huang, suggesting the former president\u2019s influence on the company\u2019s leadership decision.\u202f[1]\n\nBloomberg.com and The Information covered the final hours and days of Huang\u2019s tenure, noting the uncertainty and the process of selecting a replacement.\u202f[1]\n\nAn article from The Information listed seven potential candidates for the CEO role, though it did not name them.\u202f[1]\n\nNvidia, founded in 1993, has grown into a leading manufacturer of GPUs and AI hardware, with Jensen Huang serving as CEO since its inception.\n\nIn large tech firms, the board typically oversees succession planning, evaluates internal and external candidates, and announces changes to maintain stability.\n\nEmployees, investors, and customers are directly impacted by leadership changes, as they can affect product strategy, market confidence, and corporate culture.\n\nThe announcement may influence Nvidia\u2019s stock price and investor confidence, as well as the broader AI chip market, though specific market reactions are not detailed in the source.\n\nThe new leadership could steer Nvidia toward new strategic priorities, potentially affecting its competitive position in AI and gaming sectors.\n\nObservers should monitor the official appointment details, the new CEO\u2019s background, and any policy or strategic shifts announced in upcoming earnings calls or press releases.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMFhFdjVXUmFEeDhEemZrSmthRjRTdDVVOVQ5S0lWaVVVWXR4T2RiU25IN20xaTFTdHB0RDRNNU1CZ1dmYWVXWWI1MkpydU42bzJaSFlRTFBtZTJfbmM3c2Ezc2w3Uk05YnFGNFVrRXRZam9JTV9ERlRudU1XNHIzUkdtQQ?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMFhFdjVXUmFEeDhEemZrSmthRjRTdDVVOVQ5S0lWaVVVWXR4T2RiU25IN20xaTFTdHB0RDRNNU1CZ1dmYWVXWWI1MkpydU42bzJaSFlRTFBtZTJfbmM3c2Ezc2w3Uk05YnFGNFVrRXRZam9JTV9ERlRudU1XNHIzUkdtQQ?oc=5",
+      "guid": "CBMigwFBVV95cUxOMFhFdjVXUmFEeDhEemZrSmthRjRTdDVVOVQ5S0lWaVVVWXR4T2RiU25IN20xaTFTdHB0RDRNNU1CZ1dmYWVXWWI1MkpydU42bzJaSFlRTFBtZTJfbmM3c2Ezc2w3Uk05YnFGNFVrRXRZam9JTV9ERlRudU1XNHIzUkdtQQ"
+    },
+    "straitstimes_40f093b8": {
+      "id": "straitstimes_40f093b8",
+      "title": "US firm Advent seeks to sell Singapore tutor chain Learning Lab again, sources say - The Straits Times",
+      "category": "World",
+      "source": "straitstimes",
+      "time": "2026-11-13T06:03:30",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/89/The_Straits_Times_%28January_20%2C_2026%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "Advent, a U.S. investment firm, is reportedly looking to sell its Singapore\u2011based tutoring chain Learning Lab once more, according to a report by The Straits Times. The move follows a previous attempt to divest the company, suggesting that Advent remains open to a sale but has yet to secure a buyer. [1]\n\nThe potential sale is significant for Singapore\u2019s education sector, where Learning Lab operates a network of tutoring centers that cater to students from primary through secondary levels. A change in ownership could affect the chain\u2019s strategic direction, pricing, and service offerings, impacting both students and educators who rely on its programs.\n\nAdvent\u2019s interest in selling Learning Lab again indicates that the firm may be reassessing its portfolio or responding to market conditions that make a sale more attractive. The Straits Times report notes that this is a second attempt, implying that the first sale did not materialize or that the firm has decided to pursue a different buyer.\n\nLearning Lab, founded in the early 2000s, has grown to become one of Singapore\u2019s prominent private tutoring providers. Its model typically involves a mix of in\u2011person and online instruction, with a focus on exam preparation and academic enrichment. The chain\u2019s presence across the island has made it a familiar name among parents and students seeking supplementary education.\n\nStakeholders in this potential transaction include Advent\u2019s shareholders, Learning Lab\u2019s employees, and the broader education community. A sale could bring new capital and expertise to the company, but it could also introduce changes to employment conditions or curriculum focus that may not align with current stakeholders\u2019 expectations.\n\nIf a buyer is found, the transaction would likely involve due diligence on Learning Lab\u2019s financial performance, student enrollment trends, and regulatory compliance. The outcome could set a precedent for other education providers in Singapore considering divestiture or acquisition.\n\nThe next steps will involve Advent engaging with potential buyers and negotiating terms. The deadline for a definitive agreement remains unclear, and the company has not yet announced a timeline for the sale. Observers will watch for any formal statements from Advent or Learning Lab in the coming weeks.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN0hONGxWVktWRHhQamtIVk9kdlFhTEtXT21maklTeWRFUlFiZWlwSDRvaXE3SDRNY0xpZzBhY1NjRzRxX2NzNzl5eUNvR0JuSnJjUUNxc0cteVIwSFBYMjVFTWRZZFNrZWxjZlQ3Wl83S2J2RkFTWEVuVnlTSXlWQWFyc2VJY052Y2U0LVFtUnhIY3lFMmF0UHJlMV9EVTlRRTVGcU13dy1jSEVGR205alc4MmZJaXRWSFhZ?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN0hONGxWVktWRHhQamtIVk9kdlFhTEtXT21maklTeWRFUlFiZWlwSDRvaXE3SDRNY0xpZzBhY1NjRzRxX2NzNzl5eUNvR0JuSnJjUUNxc0cteVIwSFBYMjVFTWRZZFNrZWxjZlQ3Wl83S2J2RkFTWEVuVnlTSXlWQWFyc2VJY052Y2U0LVFtUnhIY3lFMmF0UHJlMV9EVTlRRTVGcU13dy1jSEVGR205alc4MmZJaXRWSFhZ?oc=5",
+      "guid": "CBMiuwFBVV95cUxQN0hONGxWVktWRHhQamtIVk9kdlFhTEtXT21maklTeWRFUlFiZWlwSDRvaXE3SDRNY0xpZzBhY1NjRzRxX2NzNzl5eUNvR0JuSnJjUUNxc0cteVIwSFBYMjVFTWRZZFNrZWxjZlQ3Wl83S2J2RkFTWEVuVnlTSXlWQWFyc2VJY052Y2U0LVFtUnhIY3lFMmF0UHJlMV9EVTlRRTVGcU13dy1jSEVGR205alc4MmZJaXRWSFhZ"
+    },
+    "bbc_d7829436": {
+      "id": "bbc_d7829436",
+      "title": "Can Burnham avoid another Labour welfare rebellion?",
+      "category": "Politics",
+      "source": "bbc",
+      "time": "2026-11-13T06:04:02",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de16/live/ad3f4d10-dec0-11f1-8fb5-a771a656a227.jpg",
+      "content": "Burnham faces the possibility of a welfare rebellion among MPs, but analysts say any such revolt would likely be smaller than the one that severely damaged Keir Starmer\u2019s government.\u202f[1]\n\nThe prospect of a smaller revolt matters because it could test Burnham\u2019s leadership and the cohesion of the Labour Party, potentially reshaping the party\u2019s approach to welfare policy.\u202f[1]\n\nAccording to the source, any revolt among MPs is expected to be smaller than the one that badly damaged Keir Starmer\u2019s government.\u202f[1]\n\nA welfare rebellion occurs when a group of MPs collectively opposes the government\u2019s welfare policy, often demanding changes or a halt to reforms. This type of dissent can signal deep divisions within a party over social policy.\n\nKeir Starmer, the leader of the Labour Party, faced a significant revolt that undermined his administration\u2019s credibility and stability.\u202f[1]\n\nThe previous rebellion highlighted entrenched disagreements within the party over welfare reforms, exposing fault lines that could re\u2011emerge under new leadership.\n\nMPs, the Labour Party leadership, and the public are all stakeholders in any potential revolt. The outcome could influence public perception of the party\u2019s commitment to welfare issues and affect voter confidence.\n\nBurnham\u2019s ability to navigate the situation will be closely watched, as it could determine his standing within the party and his capacity to maintain unity while addressing policy disagreements.\n\nEven a smaller revolt would signal lingering tensions and might prompt the party to reconsider or adjust its welfare policy agenda, potentially leading to new compromises or policy shifts.\n\nThe outcome could shape future welfare policy debates and the overall unity of the Labour Party, influencing how it positions itself on social issues in upcoming elections.\n\nObservers will look for Burnham\u2019s response to the potential revolt, any policy adjustments that follow, and how the party manages internal dissent in the coming months.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c95y100nrm41o#0"
+    },
+    "berkeleyuniv_58bd8489": {
+      "id": "berkeleyuniv_58bd8489",
+      "title": "Researchers discover how the COVID virus triggers sneezing and coughing",
+      "category": "Science",
+      "source": "berkeleyuniv",
+      "time": "2026-11-13T06:05:06",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://news.berkeley.edu/wp-content/uploads/2026/11/Mali_Mouse-crop-1024x585.jpg",
+      "content": "UC Berkeley researchers have shown that SARS\u2011CoV\u20112 proteins can directly activate sensory neurons that trigger sneezing, coughing, and pain, using a mouse model.\u202f[1]\n\nThis discovery offers a clearer understanding of how COVID\u201119 causes these hallmark symptoms and could guide new treatments.\u202f[1]\n\nThe study used mice to demonstrate that viral proteins can directly stimulate sensory neurons.\u202f[1] The neurons in question mediate sneezing, coughing, and pain.\u202f[1] This is the first time such a direct activation has been shown.\u202f[1] The research was reported in a post that appeared first on Berkeley News.\u202f[1]\n\nSneezing and coughing are reflexes that protect the respiratory tract from irritants and pathogens. Sensory neurons in the airway detect chemical and mechanical stimuli and send signals to the brainstem. Viral infections can trigger these reflexes, but the precise mechanisms have been unclear.\n\nSARS\u2011CoV\u20112, the virus that causes COVID\u201119, has a spike protein that binds to host cells, but other viral proteins may also interact with host tissues. Prior studies have focused on the spike protein's role in cell entry, but less is known about how other proteins affect sensory neurons.\n\nAnimal models, particularly mice, are commonly used to study viral pathogenesis because they share many physiological similarities with humans. Researchers often use genetically engineered mice to isolate specific viral components.\n\nClinicians treating COVID\u201119 patients may benefit from understanding the neural pathways that produce sneezing and coughing. Pharmaceutical companies developing antitussive or antihistamine drugs could use this knowledge to target viral protein interactions.\n\nPatients experiencing persistent cough or sneezing after COVID\u201119 infection might find relief if therapies are developed based on this mechanism. Public health authorities could use the findings to refine symptom\u2011based screening protocols.\n\nThe study suggests that viral proteins can directly stimulate sensory neurons, bypassing the need for inflammatory mediators.\u202f[1] This could explain why some COVID\u201119 patients cough or sneeze even when inflammation is low.\n\nIf viral proteins are the trigger, therapies that block these proteins or their neuronal receptors might reduce symptoms without affecting the immune response.\n\nFuture research will need to confirm whether the same mechanism operates in human tissues and to identify which viral proteins are responsible. Clinical trials may eventually test inhibitors that target these interactions.\n\nThe next steps also include exploring whether other respiratory viruses use similar pathways to induce sneezing and coughing. The research community will likely investigate the broader relevance of these findings.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "UC Berkeley News",
+          "url": "https://news.berkeley.edu/2026/11/12/researchers-discover-how-the-covid-virus-triggers-sneezing-and-coughing/"
+        }
+      ],
+      "original_url": "https://news.berkeley.edu/2026/11/12/researchers-discover-how-the-covid-virus-triggers-sneezing-and-coughing/",
+      "guid": "https://news.berkeley.edu/?p=142981"
+    },
+    "bbc_c3c1b0f1": {
+      "id": "bbc_c3c1b0f1",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "category": "World",
+      "source": "bbc",
+      "time": "2026-11-13T06:05:14",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+      "content": "Jensen Huang, the former chief executive of Nvidia, has been summoned to testify before Congress regarding an alleged affair with a person described as a Chinese spy. [1] The summons follows Huang\u2019s abrupt resignation as head of the chipmaker, one of the world\u2019s most valuable companies, after reports of extramarital affairs surfaced. [1] The case raises questions about corporate governance, national security, and the personal conduct of high\u2011profile executives.\n\nThe congressional subpoena comes as Nvidia\u2019s leadership transition unfolds. Huang stepped down on Thursday, leaving the company without its long\u2011time CEO. The resignation was triggered by revelations that he had engaged in extramarital relationships, including one with an individual alleged to be a Chinese spy. Congress has now issued a formal request for Huang to appear and provide testimony under oath. [1]\n\nNvidia, founded in 1993, has become a leading designer of graphics processing units and artificial\u2011intelligence hardware. Its market capitalization has surpassed $1 trillion, making it one of the most valuable publicly traded companies. The firm has driven advances in gaming, data\u2011center computing, and autonomous vehicle technology. The company\u2019s rapid growth has positioned it at the center of the global semiconductor industry.\n\nThe chief executive officer is responsible for setting strategic direction, overseeing financial performance, and ensuring corporate governance. Sudden resignations can trigger investigations into a company\u2019s internal controls and leadership stability. In the tech sector, where executive credibility is closely tied to investor confidence, such departures are closely monitored by shareholders and regulators.\n\nU.S. Congress routinely holds hearings to examine matters of national security, corporate conduct, and potential foreign influence. Subpoenas compel witnesses to appear and provide testimony under oath, and failure to comply can result in penalties. Congressional oversight serves as a check on executive power and a mechanism for addressing potential threats to national interests.\n\nNvidia\u2019s shareholders, employees, and customers may be affected by leadership changes and potential reputational damage. The tech industry, which relies on trust and security, may also feel the ripple effects of a high\u2011profile resignation and subsequent investigation. The company\u2019s stock performance and partnership agreements could be influenced by the unfolding events.\n\nWhile the specifics of the alleged affair remain undisclosed, the allegations suggest a personal relationship with an individual described as a Chinese spy. The identity and evidence supporting this claim have not been publicly released. The available reporting does not specify the nature of the alleged espionage or the extent of any wrongdoing.\n\nIf the allegations are substantiated, they could raise concerns about insider access to sensitive technology and potential foreign influence. The case may prompt a review of security protocols at major tech firms, including background\u2011check procedures for executives and the handling of confidential information.\n\nThe situation underscores the importance of vetting executive leadership and maintaining robust compliance programs. It also highlights the intersection of personal conduct and corporate reputation in the high\u2011tech sector, where executives\u2019 private actions can have public and national\u2011security implications.\n\nThe congressional hearing is scheduled for a future date, and Huang is expected to appear under subpoena. The outcome of the hearing and any subsequent investigations will determine whether further legal or regulatory action is taken.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o#0"
     }
   },
   "featured": {
-    "hero": "googlenews_dc02878a",
+    "hero": "csmonitor_2e3902cb",
     "stack": [
-      "afp_f07f64e8",
-      "bbc_b529f445",
-      "googlenews_07d08b8d"
+      "googlenews_87ad4518",
+      "straitstimes_40f093b8",
+      "bbc_d7829436"
     ],
     "latest": [
+      "bbc_d7829436",
+      "straitstimes_40f093b8",
+      "googlenews_87ad4518",
+      "googlenews_dc02878a",
       "googlenews_07d08b8d",
-      "bbc_b529f445",
-      "afp_f07f64e8",
-      "aljazeera_4b5873c7",
-      "csmonitor_8fb2c6ce",
-      "snopes_bb87aca4"
+      "bbc_b529f445"
     ],
     "world": [
-      "afp_f07f64e8",
-      "aljazeera_4b5873c7",
-      "aljazeera_a13e4ee1",
-      "csmonitor_8fb2c6ce"
+      "csmonitor_2e3902cb",
+      "straitstimes_40f093b8",
+      "bbc_c3c1b0f1",
+      "afp_f07f64e8"
     ]
   },
   "categoryIndex": {
     "News": [
+      "snopes_bb87aca4",
       "snopes_80083e2d",
       "cjr_6dc26e35",
       "ap_a11ba053",
@@ -16033,20 +16034,19 @@
       "ap_25441af4",
       "snopes_fce9a86d",
       "pbs_60d91f11",
-      "npr_f581b004",
-      "snopes_744390fe"
+      "npr_f581b004"
     ],
     "World": [
+      "bbc_c3c1b0f1",
+      "afp_f07f64e8",
+      "aljazeera_4b5873c7",
+      "csmonitor_8fb2c6ce",
       "aljazeera_a13e4ee1",
       "aljazeera_3eb36c89",
       "bangkokpost_8064f90e",
       "bbc_9ca89cd1",
       "dw_4506ca13",
-      "irishtimes_9df05a55",
-      "bangkokpost_71653f35",
-      "bbc_c107dcf9",
-      "japantimes_a5307063",
-      "france24_b4da6c84"
+      "irishtimes_9df05a55"
     ],
     "Politics": [
       "bbc_44c570c2",
@@ -16085,6 +16085,7 @@
       "googlenews_ddd9693a"
     ],
     "Science": [
+      "berkeleyuniv_58bd8489",
       "npr_c04154ae",
       "conversation_656218a7",
       "conversation_10ed48d9",
@@ -16093,8 +16094,7 @@
       "guardian_61f72f2e",
       "bbc_f04cb296",
       "nasa_b5cc9706",
-      "conversation_8fbd3729",
-      "conversation_358eaed2"
+      "conversation_8fbd3729"
     ],
     "Business": [
       "googlenews_42cd38b0",
@@ -16109,7 +16109,7 @@
       "googlenews_8b07cb5b"
     ]
   },
-  "breaking": "Armed robbers flee Paris jewellery shop with goods worth over US$1 million - South China Morning Pos",
+  "breaking": "Jensen Huang is out at Nvidia. China\u2019s quest for American AI isn\u2019t over.",
   "events": [
     {
       "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "Armed robbers flee Paris jewellery shop with goods worth over US$1 million - Sou",
+    "Jensen Huang is out at Nvidia. China\u2019s quest for American AI isn\u2019t over.",
     "You likely have genes that affect how well your medications work \u2013 testing for t",
-    "Ebola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns",
-    "Nvidia CEO Jensen Huang resigns"
+    "Trump Had Urged Nvidia\u2019s Jensen Huang to Fight for His Job - The New York Times",
+    "Armed robbers flee Paris jewellery shop with goods worth over US$1 million - Sou"
   ]
 }
