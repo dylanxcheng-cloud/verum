@@ -1,105 +1,5 @@
 {
   "stories": {
-    "conversation_c3b48c7c": {
-      "id": "conversation_c3b48c7c",
-      "title": "Why fuel prices may go higher still",
-      "category": "Science",
-      "source": "conversation",
-      "time": "2026-09-29T05:16:25",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "https://images.theconversation.com/files/762315/original/file-20260925-50-ci5zbw.jpg?ixlib=rb-4.1.1&amp;rect=0%2C417%2C5000%2C2500&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "content": "Fuel prices in the United States and around the world may rise further, analysts warn, as the global oil market appears to have run out of the tools it normally uses to keep prices from spiking. The warning comes amid a prolonged conflict between the United States and Iran that has now entered its seventh month, with no clear resolution on the horizon, and a market that has largely exhausted the safety measures that have historically capped petroleum prices. [1]\n\nThe potential for higher gasoline and diesel costs is a concern for consumers, businesses, and governments alike. Rising fuel prices can erode household purchasing power, increase the cost of goods and services, and add pressure to inflationary trends that many economies are already struggling to tame. For policymakers, the situation underscores the fragility of the global energy system and the need to consider new mechanisms for price stabilization. [1]\n\nThe United States has been engaged in a series of confrontations with Iran for the past seven months, a period that has seen escalating tensions and sporadic military incidents. The conflict has not yet reached a resolution, leaving the international community uncertain about future developments. [1] In response to the heightened risk of supply disruptions, oil producers and governments have traditionally relied on a range of safety measures\u2014such as coordinated production cuts, strategic reserve releases, and market interventions\u2014to prevent sharp price swings. [1]\n\nHistorically, the Organization of the Petroleum Exporting Countries and its allies (OPEC+) have played a central role in managing supply levels. By agreeing to cut output, they can reduce the volume of oil entering the market, which tends to support higher prices. When supply concerns intensify, governments may also tap strategic petroleum reserves to inject additional supply and ease price pressure. These tools have been used repeatedly during periods of geopolitical uncertainty. The current situation, however, suggests that these mechanisms are no longer sufficient to contain price volatility. [1]\n\nThe exhaustion of safety measures is not only a technical issue but also a political one. Coordinating production cuts requires consensus among major oil producers, many of whom have competing economic interests. Likewise, the release of strategic reserves is limited by the size of those stocks and the logistical challenges of distributing them quickly. As a result, the market has become more exposed to the direct impact of geopolitical events, such as the ongoing US\u2011Iran conflict. [1]\n\nConsumers are the most immediate stakeholders in this scenario. Higher fuel prices translate directly into higher costs at the pump, which can ripple through the economy by raising transportation and shipping expenses. Small businesses that rely on freight services may face increased operating costs, while households may cut discretionary spending to accommodate higher energy bills. [1] Oil producers, particularly those in the United States and other non\u2011OPEC countries, stand to benefit from higher prices, but they also face the risk of reduced demand if prices become prohibitively expensive for consumers. [1]\n\nGovernments are caught between the need to support domestic consumers and the desire to maintain stable energy markets. Some may consider implementing temporary subsidies or tax relief to cushion the impact of rising fuel costs. Others may look to accelerate the development of alternative energy sources to reduce dependence on imported oil. The effectiveness of such measures will depend on the duration and severity of the price increase. [1]\n\nThe broader implications of a sustained rise in fuel prices could include a slowdown in economic growth, especially in sectors heavily reliant on transportation and logistics. Inflationary pressures may intensify, prompting central banks to adjust monetary policy. In addition, higher energy costs could influence geopolitical dynamics, as countries may seek to secure alternative supply routes or negotiate new trade agreements to mitigate vulnerability. [1]\n\nLooking ahead, several developments will shape the trajectory of fuel prices. The next OPEC+ meeting, scheduled for late October, will determine whether additional production cuts are warranted. Meanwhile, the United States may announce new sanctions or diplomatic initiatives aimed at de-escalating tensions with Iran. The availability of strategic petroleum reserves and the willingness of governments to deploy them will also be critical factors. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Conversation",
-          "url": "https://theconversation.com/why-fuel-prices-may-go-higher-still-292853"
-        }
-      ],
-      "original_url": "https://theconversation.com/why-fuel-prices-may-go-higher-still-292853",
-      "guid": "tag:theconversation.com,2011:article/292853"
-    },
-    "japantimes_29a56201": {
-      "id": "japantimes_29a56201",
-      "title": "Japan veers from rice shortage to glut, dealing blow to farmers",
-      "category": "World",
-      "source": "japantimes",
-      "time": "2026-09-29T05:16:29",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/29/565651.jpg",
-      "content": "Japan\u2019s rice market has swung from a shortage to a surplus, a reversal that threatens the livelihoods of farmers across the country. [1] The sudden oversupply is expected to depress prices for the next year, adding to the already insurmountable problems faced by many in an already\u2011shrinking sector. [1]\n\nThe shift came after a period of tight supply that had pushed prices higher and created a sense of urgency among growers. In recent months, however, production levels have outpaced domestic demand, creating a glut that is now weighing on the market. [1] This unprecedented reversal from scarcity to excess marks a significant turning point for Japan\u2019s rice industry. [1]\n\nJapan\u2019s rice sector has long been in decline, driven by an aging farming population, urban migration, and competition from cheaper imports. The government has historically supported farmers through price controls, subsidies, and marketing boards designed to stabilize incomes. These measures have helped keep rice a staple of the Japanese diet, but they have also created a complex web of incentives that can be difficult to adjust quickly.\n\nFarmers, cooperatives, and the Ministry of Agriculture are the primary stakeholders in this crisis. The lower prices resulting from the oversupply mean reduced revenue for producers, potentially leading to farm closures and a further erosion of rural communities that rely on agriculture for their livelihoods. The sector\u2019s shrinking size amplifies the impact of price swings, as fewer farms mean less resilience to market shocks.\n\nThe oversupply\u2019s effect on prices is expected to persist until next year, when the market may begin to find a new equilibrium. This prolonged period of low prices could accelerate the decline of small\u2011scale farming, as many growers struggle to cover operating costs and invest in modern equipment. The economic pressure may also discourage younger generations from entering the profession, further hastening the sector\u2019s contraction.\n\nIn response, policymakers may consider adjusting subsidies, revising import quotas, or implementing targeted support programs to cushion the most vulnerable farmers. Such measures would aim to stabilize incomes while maintaining the competitiveness of Japanese rice in a global market. The effectiveness of any policy will depend on its ability to balance domestic interests with international trade obligations.\n\nObservers will be watching how the Ministry of Agriculture, Forestry and Fisheries responds over the coming months. Key indicators will include price trends, production forecasts, and any announced policy adjustments. The next year will be critical in determining whether the sector can recover from the current glut or whether the downward spiral will continue.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Japan Times",
-          "url": "https://www.japantimes.co.jp/news/2026/09/29/japan/rice-glut-japan/"
-        }
-      ],
-      "original_url": "https://www.japantimes.co.jp/news/2026/09/29/japan/rice-glut-japan/",
-      "guid": "https://www.japantimes.co.jp/article/647149/"
-    },
-    "guardian_dac99750": {
-      "id": "guardian_dac99750",
-      "title": "Councils to get new homelessness powers in Rayner drive on social housing",
-      "category": "Health",
-      "source": "guardian",
-      "time": "2026-09-29T05:16:32",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/131fe23c8b337b87c2b30229341073382015b9cd/178_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=18d2aa2d797e6a916332ce7fd08ce1da",
-      "content": "Housing associations in England will be told they cannot decline to house homeless families without good reason, a move that could reshape how councils manage temporary accommodation. [1]\n\nThe new powers, announced as part of a broader push for greater public control of housing, come ahead of a speech by Housing Secretary Angela\u202fRayner at the Labour conference. [1]\n\nHomelessness charities have called the powers a \u201cgamechanger\u201d, arguing that they could curb the rise in rough sleeping and the number of families in temporary housing. [1]\n\nThe announcement follows a sharp increase in the number of families living in temporary accommodation, a trend that has drawn concern from both policymakers and service providers. [1]\n\nAlmost 180,000 children are currently living in temporary accommodation, a figure that underscores the urgency of the issue. [1]\n\nHousing associations, which manage a significant portion of the social housing stock, will now face a statutory obligation to provide homes for homeless families unless they can demonstrate a valid reason for refusal. [1]\n\nIn the UK, housing associations operate as non\u2011profit organisations that deliver affordable homes to those in need, often working in partnership with local councils.\n\nRough sleeping refers to individuals sleeping on the streets or in unsuitable places, while temporary accommodation includes hostels, hotels, and other short\u2011term housing solutions.\n\nFamilies and children who rely on temporary accommodation often experience instability and health risks, making the new powers a potential safeguard for vulnerable households.\n\nCharities and advocacy groups argue that the powers will compel councils to act more decisively, reducing the administrative barriers that have historically limited access to housing.\n\nIf implemented effectively, the policy could reduce the number of families on the streets and improve outcomes for children exposed to the stresses of temporary living.\n\nThe next key development will be Angela\u202fRayner\u2019s address at the Labour conference, where she is expected to outline the full scope of the policy and its implementation timeline.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/society/2026/sep/28/angela-rayner-labour-conference-greater-public-control-housing-england"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/society/2026/sep/28/angela-rayner-labour-conference-greater-public-control-housing-england",
-      "guid": "https://www.theguardian.com/society/2026/sep/28/angela-rayner-labour-conference-greater-public-control-housing-england"
-    },
-    "reuters_c4ca958d": {
-      "id": "reuters_c4ca958d",
-      "title": "EXCLUSIVE: US to grant sanctions waiver for flights between Iran and Iraq's Najaf, source says - Reuters",
-      "category": "World",
-      "source": "reuters",
-      "time": "2026-09-29T05:16:47",
-      "read": "3 min read",
-      "mode": "compact",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Iran_%28official%29.svg/1280px-Flag_of_Iran_%28official%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "content": "The United States is reportedly preparing to grant a sanctions waiver that would allow commercial flights between Iran and Najaf, a holy city in Iraq. The move would lift a restriction that has kept airlines from operating direct services between the two locations. [1]\n\nThe waiver could have a significant impact on Shia pilgrims who travel from Iran to Najaf, one of the most important religious sites for the sect. It may also affect the broader diplomatic relationship between the United States and Iran, as well as the economic activity in the Iraqi city that depends on pilgrimage tourism.\n\nAccording to a source cited by Reuters, the U.S. government is considering the waiver but has not yet issued an official statement. The decision is based on an internal assessment that the flights would not violate existing sanctions, and the waiver would be issued through the Treasury Department\u2019s Office of Foreign Assets Control (OFAC). [1] The source does not provide details on the exact scope of the waiver or the conditions that would apply.\n\nU.S. sanctions on Iran have long included restrictions on air transport, limiting the ability of airlines to fly between Iran and other countries. Waivers have occasionally been granted for humanitarian purposes, such as medical evacuations or the transport of essential goods. The Najaf waiver would be the first to address commercial passenger flights between Iran and Iraq.\n\nNajaf is a major pilgrimage destination for Shia Muslims, drawing millions of visitors each year. Many of those pilgrims come from Iran, where the city is accessible by road but also by air. Restrictions on flights have forced many travelers to use alternative routes, often involving longer journeys or additional security checks.\n\nThe U.S. Treasury\u2019s OFAC issues sanctions and waivers under the authority of the U.S. Department of the Treasury. Waivers require approval from senior officials and are typically subject to conditions that ensure compliance with U.S. foreign policy objectives. The exact terms of the Najaf waiver remain undisclosed.\n\nStakeholders in the potential waiver include Iranian airlines, Iraqi aviation authorities, Shia pilgrims, U.S. Treasury officials, and members of Congress who oversee sanctions policy. The decision may also be monitored by international bodies that track compliance with U.S. sanctions.\n\nFor pilgrims, the waiver could mean a more direct and potentially cheaper route to Najaf, reducing travel time and costs. Local businesses in Najaf that rely on pilgrimage tourism could see increased revenue if the flights resume.\n\nFrom a diplomatic perspective, the waiver could be interpreted as a gesture of goodwill by the United States toward Iran, potentially easing tensions over other aspects of the sanctions regime. It may also influence how other countries approach U.S. sanctions on Iran, especially if they seek similar concessions.\n\nIraq stands to benefit from increased tourism and improved connectivity with Iran, but it will need to coordinate with U.S. authorities to ensure that the flights comply with both U.S. sanctions and Iraqi aviation regulations. Security considerations will also be a factor, given the complex security environment in the region.\n\nThe waiver could signal a shift in U.S. policy toward Iran, indicating a willingness to grant targeted exceptions to its sanctions program. If successful, it may encourage other nations to pursue waivers for specific sectors, potentially reshaping the landscape of U.S. sanctions enforcement.\n\nObservers will be watching for the official announcement of the waiver, the conditions that will be attached to it, and the timeline for its implementation. Reactions from U.S. Congress, Iranian officials, and international monitoring agencies will also be key indicators of how the decision is received and what it may mean for future U.S. sanctions policy.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOHIxYnY3TE1lQ1JIaWFqTGo2bE5IZ20wamRnZUhEMVdaZWdfWVRQVUpUQjFTSUg1elR2a1dMb1RwNTNnMmg1QXExOGthdmlQbkIweWwyS3JNaXVocWlPRU9kLWRQWmRQSlY1dHVWQ014b1cxT2dPY3pvUmNpMENwN29NV0E3VWpmaEU5N0h6WDFzcjBmNTBQSjlKRlRRQ2dpZEdHX3JUSGh5aTZiTjc0S0FTMmpfeUFld1VXZjd0LXloZw?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOHIxYnY3TE1lQ1JIaWFqTGo2bE5IZ20wamRnZUhEMVdaZWdfWVRQVUpUQjFTSUg1elR2a1dMb1RwNTNnMmg1QXExOGthdmlQbkIweWwyS3JNaXVocWlPRU9kLWRQWmRQSlY1dHVWQ014b1cxT2dPY3pvUmNpMENwN29NV0E3VWpmaEU5N0h6WDFzcjBmNTBQSjlKRlRRQ2dpZEdHX3JUSGh5aTZiTjc0S0FTMmpfeUFld1VXZjd0LXloZw?oc=5",
-      "guid": "CBMiwgFBVV95cUxQOHIxYnY3TE1lQ1JIaWFqTGo2bE5IZ20wamRnZUhEMVdaZWdfWVRQVUpUQjFTSUg1elR2a1dMb1RwNTNnMmg1QXExOGthdmlQbkIweWwyS3JNaXVocWlPRU9kLWRQWmRQSlY1dHVWQ014b1cxT2dPY3pvUmNpMENwN29NV0E3VWpmaEU5N0h6WDFzcjBmNTBQSjlKRlRRQ2dpZEdHX3JUSGh5aTZiTjc0S0FTMmpfeUFld1VXZjd0LXloZw"
-    },
-    "googlenews_8e05048d": {
-      "id": "googlenews_8e05048d",
-      "title": "J.J. McCarthy trade grades as Giants, Vikings swing QB deal - USA Today",
-      "category": "Sports",
-      "source": "googlenews",
-      "time": "2026-09-29T05:17:18",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/USA-Today-2-February-2017.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "content": "The New York Giants have added Vikings quarterback J.J. McCarthy to their roster in a swing\u2011QB deal, but the team has made it clear that their current starter, Daniel Winston, remains the first\u2011string quarterback. [1][2]\n\nThe move underscores the Giants\u2019 strategy of bolstering depth at the most critical position while preserving the status quo at the top of the depth chart. It also gives the Minnesota Vikings a future asset in exchange for a player who has shown promise in the league\u2019s most demanding role.\n\nIn the transaction, the Giants traded for McCarthy in a swing\u2011QB deal that analysts graded favorably for both sides. The trade was evaluated by several outlets, all of which gave the deal a positive assessment. The Giants, however, have reiterated that Winston is still their starting quarterback. [1][3][2]\n\nThe acquisition followed an injury to Jaxson Dart, the Giants\u2019 backup quarterback, which left the team looking for a reliable option to step in if needed. [8]\n\nThe Giants\u2019 quarterback situation has been volatile in recent seasons, prompting the organization to seek additional options at the position. McCarthy, who had served as the Vikings\u2019 backup, offered the Giants a young player with experience in a high\u2011pressure environment. The trade fits a broader pattern in the NFL, where teams often exchange quarterbacks for draft picks or other assets to balance immediate needs with long\u2011term planning.\n\nESPN reported that the Giants\u2019 gamble on McCarthy demonstrates the franchise\u2019s unwillingness to abandon hope for a future starter, even after the setback of Dart\u2019s injury. [4]\n\nSports analysts Kevin O\u2019Connell and Nolan Teasley discussed the trade on a recent broadcast, highlighting the strategic considerations for both franchises. [5]\n\nVikings head coach John Harbaugh expressed enthusiasm about adding a strong, young quarterback to the roster, noting the potential benefits for the team\u2019s future. [6]\n\nThe trade received coverage from NBC Sports, which provided a detailed breakdown of the transaction and its implications for both teams. [7]\n\nFor Giants fans, the deal adds a layer of security at the quarterback position, while Vikings supporters view the trade as a step toward building a more competitive roster in the coming years. The move also affects the teams\u2019 coaching staffs and front\u2011office personnel, who must now integrate a new player into established systems.\n\nThe immediate impact for the Giants will be the addition of McCarthy as a backup and potential future starter, giving the coaching staff more options during training camp and the regular season. The Vikings, in turn, receive a future asset that could be leveraged for draft capital or other roster moves.\n\nThe trade may influence how other NFL teams approach quarterback transactions, illustrating that a franchise can pursue a young talent while maintaining confidence in its current starter. It also highlights the ongoing debate over the value of draft picks versus proven players at the quarterback position.\n\nIn the coming weeks, observers will watch how the Giants evaluate McCarthy during training camp and preseason games, and how the Vikings decide to deploy the assets acquired in the trade. The outcomes of these evaluations will shape the teams\u2019 strategies for the remainder of the season and beyond.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUlvVFJUTHVWVEZ0NldjQ0loMWFmVXdNTzJ0SHV6RGUxQk5RcTlFeW1pc1VPWW0tS3V1czdCVVczenY0bDBBRmYyckszUDVDa1JNd0kwVWxrdnhUXzJpSUJpUzFPcjYtVGRsWlZrMzUzZ3A2R0Z4aFptSTBQMUVwZldHdFZpaHQxV0owb3VnRFQ3U20wVHFlekJXUTkycDZxZndDUGlfU0d3VGU4SFlmTVBR?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUlvVFJUTHVWVEZ0NldjQ0loMWFmVXdNTzJ0SHV6RGUxQk5RcTlFeW1pc1VPWW0tS3V1czdCVVczenY0bDBBRmYyckszUDVDa1JNd0kwVWxrdnhUXzJpSUJpUzFPcjYtVGRsWlZrMzUzZ3A2R0Z4aFptSTBQMUVwZldHdFZpaHQxV0owb3VnRFQ3U20wVHFlekJXUTkycDZxZndDUGlfU0d3VGU4SFlmTVBR?oc=5",
-      "guid": "CBMisgFBVV95cUxOQUlvVFJUTHVWVEZ0NldjQ0loMWFmVXdNTzJ0SHV6RGUxQk5RcTlFeW1pc1VPWW0tS3V1czdCVVczenY0bDBBRmYyckszUDVDa1JNd0kwVWxrdnhUXzJpSUJpUzFPcjYtVGRsWlZrMzUzZ3A2R0Z4aFptSTBQMUVwZldHdFZpaHQxV0owb3VnRFQ3U20wVHFlekJXUTkycDZxZndDUGlfU0d3VGU4SFlmTVBR"
-    },
     "googlenews_5eca4f0b": {
       "id": "googlenews_5eca4f0b",
       "title": "Congo\u2019s Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - AP News",
@@ -15999,28 +15899,128 @@
       ],
       "original_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONV9KTEtTalpUbDZVME91ak1OQzR5SDZaTS1CLTA1Uk1iZ1VTRU9DMDM1RjdnUkZ0YkQxQ2V3QlVsSzY3SkRzRWVTa3JKUlgxMEI5M3N0Y1BPLXVMTjVjNFhBakJXZk9ibEV6Y3p2U3JHb3dpSzFsM1V3eXc0RFhsRnZaNk16YjVCa3lyeDh5MVlBZVU0Yks1VHpfMW4wUl9DdEI5THA5UndPczZtSUhoV1pYUW5nZ3ZLS2xDcVhBREFPTHhkRVE?oc=5",
       "guid": "CBMixgFBVV95cUxONV9KTEtTalpUbDZVME91ak1OQzR5SDZaTS1CLTA1Uk1iZ1VTRU9DMDM1RjdnUkZ0YkQxQ2V3QlVsSzY3SkRzRWVTa3JKUlgxMEI5M3N0Y1BPLXVMTjVjNFhBakJXZk9ibEV6Y3p2U3JHb3dpSzFsM1V3eXc0RFhsRnZaNk16YjVCa3lyeDh5MVlBZVU0Yks1VHpfMW4wUl9DdEI5THA5UndPczZtSUhoV1pYUW5nZ3ZLS2xDcVhBREFPTHhkRVE"
+    },
+    "reuters_e56db900": {
+      "id": "reuters_e56db900",
+      "title": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say - Reuters",
+      "category": "World",
+      "source": "reuters",
+      "time": "2026-11-14T22:11:49",
+      "read": "3 min read",
+      "mode": "compact",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "Donald Trump has reportedly told advisers that he would postpone any U.S. military strikes against Iran unless the country initiates further provocations.\u202f[1] The comment came amid growing concerns about a potential escalation in the Middle East and the possibility of a new U.S. campaign against Iranian forces or infrastructure.\n\nThe statement matters because it signals a shift in the former president\u2019s approach to Iran, a country that has long been a focal point of U.S. foreign policy. A decision to hold off on attacks could open a window for diplomatic engagement, while a move to strike would heighten tensions and risk a broader conflict that could involve regional allies and affect global oil markets.\n\nAccording to the reporting, Trump briefed a group of advisers\u2014though the identities of those advisers and the exact setting of the conversation were not disclosed. No date or location was provided, and the source did not reveal whether the discussion took place during a campaign event or a private meeting. The available reporting does not specify the advisers\u2019 roles or the context in which Trump made the remark.\n\nU.S. policy toward Iran has evolved over the past decade. In 2015, the Joint Comprehensive Plan of Action (JCPOA) was signed, limiting Iran\u2019s nuclear program in exchange for sanctions relief. The U.S. withdrew from the agreement in 2018, reimposing sanctions and increasing pressure on Tehran. In 2020, the U.S. launched a missile strike on an Iranian embassy compound in Damascus, citing a threat to American personnel. These actions set the stage for a complex and often confrontational relationship between the two nations.\n\nDuring his presidency, Trump adopted a hard\u2011line stance on Iran, emphasizing the need to confront Tehran\u2019s regional influence and nuclear ambitions. He repeatedly criticized the JCPOA and called for a more aggressive posture. In the 2020 campaign, he pledged to \u201ctake a hard line\u201d against Iran, a promise that resonated with voters concerned about national security. In 2024, he has continued to emphasize his anti\u2011Iran rhetoric, positioning it as a key issue in his campaign platform.\n\nThe decision to launch a military strike involves multiple layers of U.S. government. The National Security Council, the Department of Defense, and the President\u2019s advisers all weigh intelligence assessments, strategic objectives, and potential consequences. Advisers typically present scenarios and recommend courses of action, but the final decision rests with the President. Trump\u2019s comment suggests he is willing to defer to a more cautious approach unless Iran escalates further.\n\nFor the U.S. military, the possibility of a strike against Iran carries significant operational implications. Forces in the region would need to prepare for heightened readiness, and the U.S. would have to coordinate with allies such as Israel and Saudi Arabia. The advisers who briefed Trump likely considered the risks of retaliation, the potential for a broader war, and the impact on U.S. troops stationed in the Middle East.\n\nIran\u2019s government and its civilian population are also key stakeholders. A U.S. attack could provoke a retaliatory strike against U.S. interests abroad, including embassies and military bases. It could also destabilize the region, affecting supply chains and leading to civilian casualties. Tehran\u2019s leadership would likely respond strongly to any perceived aggression, potentially escalating the conflict.\n\nU.S. Congress, particularly the Foreign Relations and Armed Services committees, would closely monitor any move toward military action. Congressional oversight could influence the President\u2019s decision, especially if there is significant opposition to a strike. Public opinion in the United States also plays a role; polls have shown mixed views on military engagement in the Middle East, and a sudden escalation could impact the political landscape.\n\nIf Trump holds off on attacks, it may signal a willingness to explore diplomatic avenues, perhaps reopening talks on nuclear disarmament or regional security. Conversely, a decision to strike could trigger a chain reaction, drawing in regional powers and potentially leading to a broader war that would strain U.S. resources and affect global stability.\n\nThe potential for a military response also intersects with Trump\u2019s domestic political ambitions. A hard\u2011line stance on Iran could bolster his support among voters who favor a strong national defense. However, any escalation could also backfire if it leads to casualties or a prolonged conflict, potentially undermining his campaign.\n\nWhat to watch next includes any public statements from Trump in upcoming campaign events, as well as official U.S. policy announcements regarding Iran. Analysts will also monitor Iran\u2019s actions for signs of provocation, such as missile tests or attacks on U.S. assets. The next few weeks will be critical in determining whether the former president\u2019s caution translates into a broader shift in U.S. strategy toward Iran.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF?oc=5",
+      "guid": "CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF"
+    },
+    "bbc_8371eccc": {
+      "id": "bbc_8371eccc",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "category": "World",
+      "source": "bbc",
+      "time": "2026-11-14T22:12:02",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
+      "content": "The U.S. Secretary of Transportation announced that a copper\u2011wire upgrade at airports caused a nationwide suspension of flights.\u202f[1]\n\nThe statement comes amid widespread travel disruptions, as airlines and passengers grapple with thousands of canceled or delayed flights.\u202f[1]\n\nAccording to the Secretary, the upgrade of copper wiring at key airports triggered a cascade of failures that forced the Department of Transportation to halt commercial air service across the country.\u202f[1]\n\nThe government is now investigating whether the chaos stemmed from incompetence or faulty equipment.\u202f[1]\n\nThe Department of Transportation is responsible for ensuring safe and efficient air travel, overseeing airport infrastructure and maintenance.\n\nCopper wires are a critical component of airport electrical systems, powering navigation aids, lighting, and communication equipment.\n\nUpgrades to these systems are undertaken to replace aging conductors and improve reliability, but they require careful coordination to avoid service disruptions.\n\nThe nationwide flight suspension has led to widespread cancellations and delays, affecting airlines' schedules and passengers' travel plans.\n\nAirlines are working with airport authorities to restore services, while passengers face refunds, rebooking, and financial losses.\n\nStakeholders include airlines, passengers, airport operators, and regulatory bodies, all of whom are awaiting the outcome of the investigation.\n\nThe investigation will examine whether human error, oversight failures, or defective equipment caused the outage, and may prompt changes to oversight procedures.\n\nWhat to watch next: The Department of Transportation will likely release a detailed report and may hold hearings to determine accountability and prevent future incidents.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno#0"
+    },
+    "nasa_06bbdcf6": {
+      "id": "nasa_06bbdcf6",
+      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "category": "Science",
+      "source": "nasa",
+      "time": "2026-11-14T22:12:44",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png",
+      "content": "Gemini\u202fXII, the final flight of NASA\u2019s Gemini program, orbited Earth from November\u202f11 to\u202f15,\u202f1966, and the photographs taken by its crew of James\u202fA.\u202fLovell\u202fJr. and Edwin\u202fE.\u202fBuzz\u202fAldrin\u202fJr. helped spark the early Earth\u2011observation program that would later evolve into satellite imaging missions.\u202f[1]\n\nThe mission\u2019s significance lies in its dual role: it completed the series of Gemini flights that tested the techniques required for the Apollo lunar missions, and it produced a set of images that became a foundational dataset for studying Earth\u2019s atmosphere and surface from space.\u202f[1]\n\nDuring the four\u2011day flight, Lovell and Aldrin performed a series of rendezvous maneuvers and two extravehicular activities (spacewalks) that demonstrated the feasibility of docking and working outside a spacecraft\u2014skills that were essential for the Moon landings.\u202f[1]\n\nThe crew\u2019s successful rendezvous and EVA operations were explicitly described as vital steps toward sending American astronauts to the Moon, underscoring the Gemini program\u2019s role as a bridge between the Mercury program and the Apollo missions.\u202f[1]\n\nIn addition to these technical milestones, the Gemini\u202fXII crew spurred the development of an unspecified program or technology; the available reporting does not specify what that was.\u202f[1]\n\nThe Gemini\u202fXII photographs were among the earliest systematic images of Earth taken from orbit, providing a new perspective on the planet\u2019s weather patterns, cloud cover, and surface features.\u202f[1]\n\nThese images supplied valuable data for atmospheric scientists and helped shape the design of subsequent Earth\u2011observation satellites by demonstrating the scientific potential of high\u2011resolution orbital photography.\u202f[1]\n\nThe early Earth\u2011observation program that grew out of these efforts eventually led to the Landsat series and other Earth science missions that have mapped the planet\u2019s surface and monitored environmental changes for decades.\u202f[1]\n\nNASA, the scientific community, and the general public benefited from the Gemini\u202fXII images, which offered unprecedented views of Earth and highlighted the broader scientific value of human spaceflight.\u202f[1]\n\nThe astronauts\u2019 EVA work also advanced techniques that would be refined for later missions, including the Apollo lunar landings and the Space Shuttle program.\u202f[1]\n\nThe Gemini\u202fXII photos thus represent a tangible link between human exploration of space and the study of Earth from orbit, illustrating how a single mission can contribute to multiple scientific domains.\u202f[1]\n\nBy demonstrating that a manned spacecraft could serve both as a platform for lunar preparation and as a source of Earth\u2011observation data, Gemini\u202fXII helped establish the dual utility of space missions for exploration and planetary science.\u202f[1]\n\nLooking ahead, the legacy of Gemini continues to influence contemporary missions, but the next phase of Earth observation is largely carried out by automated satellite constellations that build on the foundational data first captured by astronauts like Lovell and Aldrin.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NASA",
+          "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/"
+        }
+      ],
+      "original_url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+      "guid": "https://www.nasa.gov/?post_type=image-article&p=1064726"
+    },
+    "guardian_ce96d0d0": {
+      "id": "guardian_ce96d0d0",
+      "title": "Lewis Hamilton visits Egypt\u2019s Rafah crossing and Gaza aid facilities",
+      "category": "World",
+      "source": "guardian",
+      "time": "2026-11-14T22:13:35",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/27bf2d45265593f1960114929744b613770ef7b3/140_0_5118_4095/master/5118.jpg?width=140&quality=85&auto=format&fit=max&s=f83ced7697a40a5bc00073ea52aa6c8e",
+      "content": "Lewis Hamilton visited Egypt\u2019s Rafah border crossing and Gaza aid facilities, meeting humanitarian groups[1].\n\nHamilton, a seven\u2011time Formula One world champion, is a high\u2011profile athlete who has used his platform to highlight humanitarian crises[1].\n\nHe visited the Rafah border crossing, met with the Egyptian Red Crescent\u2019s logistics warehouses, and met with organizations sending aid to Gaza[1]. He spoke about the conflict and called for peace, and has posted on social media about children killed in Israeli airstrikes and called for a ceasefire[1].\n\nThe Rafah crossing is the main entry point for aid into the Gaza Strip, and the Egyptian Red Crescent operates warehouses that store supplies for distribution to residents[1].\n\nThe Gaza Strip has been subject to ongoing conflict, with Israeli airstrikes causing civilian casualties and creating a high humanitarian need.\n\nStakeholders in this situation include Hamilton, the Egyptian Red Crescent, the aid organizations he met, residents of Gaza, the Israeli and Egyptian governments, and the broader international community.\n\nHamilton\u2019s visit may raise awareness of the crisis, put pressure on governments to facilitate aid, and amplify the voices of those affected, especially through his social media outreach.\n\nHis advocacy could influence public opinion and diplomatic discussions, though the direct impact on policy remains uncertain.\n\nFuture developments to watch include potential additional visits by Hamilton, the progress of diplomatic efforts to ease the crossing\u2019s restrictions, the arrival of new aid shipments, and the status of any ceasefire negotiations.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+      "guid": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities"
+    },
+    "npr_282ff2e1": {
+      "id": "npr_282ff2e1",
+      "title": "SpaceX successfully catches Starship and makes history",
+      "category": "Science",
+      "source": "npr",
+      "time": "2026-11-14T22:14:14",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8068x4538+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1a%2F90%2Fff5836a94be4aff14474cce4144c%2Fstarship.jpg",
+      "content": "SpaceX\u2019s Starship returned to its Texas launchpad, securing itself with metal arms, marking a historic moment.\u202f[1]\n\nThe maneuver demonstrates SpaceX\u2019s progress toward reusable launch vehicles and could accelerate future missions.\u202f[1]\n\nOn an unspecified date, the Starship spacecraft lowered itself onto the launchpad, where two metal arms attached to the tower secured it.\u202f[1]\n\nSpaceX, founded in 2002 by Elon Musk, has been developing the Starship as a fully reusable spacecraft designed for missions to the Moon, Mars, and beyond.\n\nThe Starship is a two\u2011stage vehicle, with the first stage called Super Heavy, and the second stage carrying the payload.\n\nThe launchpad at SpaceX\u2019s Boca Chica site in Texas is equipped with a tower that supports the vehicle during launch and recovery.\n\nThe landing operation involves engineers, launchpad crew, and the broader space community, all of whom monitor the vehicle\u2019s performance.\n\nA successful landing could reduce launch costs by allowing rapid reuse of the spacecraft and its booster.\n\nThe use of metal arms to secure the vehicle may become a standard feature for future Starship landings, improving safety and reliability.\n\nSpaceX is scheduled to conduct additional test flights, and the company will likely refine the landing procedure based on this experience.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NPR",
+          "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history"
+        }
+      ],
+      "original_url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+      "guid": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history"
     }
   },
   "featured": {
-    "hero": "bbc_97b81d23",
+    "hero": "reuters_e56db900",
     "stack": [
-      "irishtimes_0a2d1a6b",
-      "straitstimes_1185cdbf",
-      "npr_dac462d3"
+      "bbc_8371eccc",
+      "nasa_06bbdcf6",
+      "guardian_ce96d0d0"
     ],
     "latest": [
+      "guardian_ce96d0d0",
+      "nasa_06bbdcf6",
+      "bbc_8371eccc",
+      "bbc_97b81d23",
       "npr_dac462d3",
-      "straitstimes_1185cdbf",
-      "irishtimes_0a2d1a6b",
-      "csmonitor_7af56242",
-      "dw_4abaaebb",
-      "conversation_3ea25cac"
+      "straitstimes_1185cdbf"
     ],
     "world": [
-      "bbc_97b81d23",
-      "irishtimes_0a2d1a6b",
-      "straitstimes_1185cdbf",
-      "irishtimes_f62fddaa"
+      "reuters_e56db900",
+      "bbc_8371eccc",
+      "guardian_ce96d0d0",
+      "bbc_97b81d23"
     ]
   },
   "categoryIndex": {
@@ -16037,16 +16037,16 @@
       "snopes_fce9a86d"
     ],
     "World": [
+      "irishtimes_0a2d1a6b",
+      "csmonitor_7af56242",
+      "dw_4abaaebb",
       "irishtimes_f62fddaa",
       "bangkokpost_6e91f266",
       "reuters_1b5b4447",
       "csmonitor_2e3902cb",
       "straitstimes_40f093b8",
       "abcau_0172d85c",
-      "bbc_c3c1b0f1",
-      "afp_f07f64e8",
-      "aljazeera_4b5873c7",
-      "csmonitor_8fb2c6ce"
+      "bbc_c3c1b0f1"
     ],
     "Politics": [
       "bbc_d7829436",
@@ -16085,6 +16085,8 @@
       "googlenews_a633d182"
     ],
     "Science": [
+      "npr_282ff2e1",
+      "conversation_3ea25cac",
       "nature_445513b0",
       "berkeleyuniv_58bd8489",
       "npr_c04154ae",
@@ -16092,9 +16094,7 @@
       "conversation_10ed48d9",
       "nature_4c70690d",
       "bbc_287541f9",
-      "guardian_61f72f2e",
-      "bbc_f04cb296",
-      "nasa_b5cc9706"
+      "guardian_61f72f2e"
     ],
     "Business": [
       "googlenews_61ffb263",
@@ -16109,7 +16109,7 @@
       "googlenews_91273319"
     ]
   },
-  "breaking": "What we know about the ground stop and what to do if you're affected",
+  "breaking": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say - Reuters",
   "events": [
     {
       "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "You likely have genes that affect how well your medications work \u2013 testing for t",
     "Quality over quantity matters in censure debate",
-    "Biden left Ireland feeling he could \u2018be elected president\u2019 here after 2023 visit",
-    "What we know about the ground stop and what to do if you're affected"
+    "You likely have genes that affect how well your medications work \u2013 testing for t",
+    "Trump tells advisers he may hold off on Iran attacks barring new provocations, s",
+    "Copper wire upgrade caused nationwide flight suspension, US transport secretary "
   ]
 }
