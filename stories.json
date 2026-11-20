@@ -1,125 +1,5 @@
 {
   "stories": {
-    "bbc_a151a675": {
-      "id": "bbc_a151a675",
-      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "category": "World",
-      "source": "bbc",
-      "time": "2026-10-03T04:49:45",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b22/live/55676b60-be9d-11f1-ad04-23a70b53c1a5.jpg",
-      "content": "Christa Pike, a convicted murderer[1], is unconscious and on a ventilator after a failed execution[1], lawyers say[1], and remains critically ill[1] in a Nashville hospital[1].\n\nThe incident raises questions about execution protocols and the treatment of inmates on death row, affecting legal, medical, and human rights communities.\n\nOn Thursday night[1], Pike's execution attempt failed[1], leaving her unconscious and requiring ventilator support[1]. Lawyers report she remains critically ill[1]. She is being treated at a hospital in Nashville[1].\n\nThe available reporting does not specify the method or cause of the failure.\n\nTennessee has carried out executions by lethal injection since 1999, and the state has faced legal challenges over drug protocols.\n\nA ventilator is a machine that supports breathing when a patient cannot breathe on their own.\n\nStakeholders include Pike's legal team, the state, prison medical staff, and advocacy groups.\n\nThe failure may prompt a review of execution protocols and could influence future legal proceedings.\n\nThe incident underscores ongoing debates about the death penalty and the adequacy of medical oversight during executions.\n\nThe case will likely be reviewed by the Tennessee Department of Corrections and the courts; upcoming hearings may address the execution method and Pike's medical condition.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o#0"
-    },
-    "abcau_35e7a116": {
-      "id": "abcau_35e7a116",
-      "title": "Street sports an 'entry point' to help combat youth crime and loneliness - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "category": "World",
-      "source": "abcau",
-      "time": "2026-10-03T04:49:58",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Typical_Street_In_The_Royal_Borough_Of_Kensington_And_Chelsea_In_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "content": "Street sports are being promoted as a way to curb youth crime and loneliness, ABC News & Headlines reported, suggesting that participation in informal, community\u2011based sporting activities can serve as an \u201centry point\u201d for at\u2011risk young people. [1]\n\nThe piece argues that the social and physical benefits of street sports\u2014such as basketball, football, and skateboarding\u2014could help divert young people from antisocial behaviour and provide a sense of belonging. While the article does not detail specific programs or data, it highlights the potential of these activities to address two pressing social issues: rising youth crime rates and growing reports of isolation among adolescents.\n\nABC\u2019s coverage does not identify particular cities, organisations, or funding sources involved in promoting street sports. Nor does it provide statistics on crime or loneliness, nor does it quote experts or participants. The article simply presents the idea that street sports can act as a gateway to more constructive community engagement.\n\nIn general, street sports are informal, often unregulated games played in public spaces. They are typically organised by local groups or volunteers and can be more accessible than formal club sports because they require minimal equipment and can be played in a variety of settings. Because of their low barrier to entry, they are sometimes used by community organisations as a tool to reach young people who might otherwise be disconnected from structured activities.\n\nThe potential beneficiaries of such initiatives would be young people who are at risk of criminal activity or who experience social isolation. Parents, schools, and local authorities might also see benefits if street sports help reduce crime rates and improve community cohesion. However, without details on implementation or evidence of effectiveness, it is unclear how these programs would be funded, monitored, or integrated into existing youth services.\n\nThe article\u2019s suggestion that street sports could mitigate crime and loneliness remains speculative until further information is released. Stakeholders will likely need to examine evidence from pilot projects, cost\u2011effectiveness studies, and long\u2011term outcomes before committing resources to such initiatives.\n\nReaders can expect follow\u2011up reporting from ABC or other outlets that might outline specific street\u2011sport programmes, provide data on their impact, and discuss how local governments could support or regulate these activities. Until then, the claim that street sports can serve as an entry point to combat youth crime and loneliness remains an intriguing but unsubstantiated proposition.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "ABC News (Australia)",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWkFCdndyTXUzbDFieXczdUNPSmVfbGxOTGJzT20zYWlEQVhDUG1hWUo4QUpOSTZaNmhIOE5IdDliWDBxdUdkeFVtX3JUam9UZlhlUTdmRmxnSGlDVlV0ZmdVcm9aRHIyZGlvTDY0T2diRjlEUi1sOWFQQnU1WXFNSUNsSWYteXJnX2Z1RlctVjg3VHRtaV9iam1aNDMtWVFKdkY3NmxqdHRSeUNMWUd5Qnh3?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWkFCdndyTXUzbDFieXczdUNPSmVfbGxOTGJzT20zYWlEQVhDUG1hWUo4QUpOSTZaNmhIOE5IdDliWDBxdUdkeFVtX3JUam9UZlhlUTdmRmxnSGlDVlV0ZmdVcm9aRHIyZGlvTDY0T2diRjlEUi1sOWFQQnU1WXFNSUNsSWYteXJnX2Z1RlctVjg3VHRtaV9iam1aNDMtWVFKdkY3NmxqdHRSeUNMWUd5Qnh3?oc=5",
-      "guid": "CBMisgFBVV95cUxNWkFCdndyTXUzbDFieXczdUNPSmVfbGxOTGJzT20zYWlEQVhDUG1hWUo4QUpOSTZaNmhIOE5IdDliWDBxdUdkeFVtX3JUam9UZlhlUTdmRmxnSGlDVlV0ZmdVcm9aRHIyZGlvTDY0T2diRjlEUi1sOWFQQnU1WXFNSUNsSWYteXJnX2Z1RlctVjg3VHRtaV9iam1aNDMtWVFKdkY3NmxqdHRSeUNMWUd5Qnh3"
-    },
-    "japantimes_f04bc114": {
-      "id": "japantimes_f04bc114",
-      "title": "Taiwanese foreign minister to visit Arizona to deepen economic ties",
-      "category": "World",
-      "source": "japantimes",
-      "time": "2026-10-03T04:50:36",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/03/566518.jpg",
-      "content": "Foreign Minister Lin\u202fChia\u2011lung of Taiwan is expected to arrive in Phoenix, Arizona, on Saturday evening, following visits to Belize and Guatemala, in a tour aimed at deepening economic ties.\u202f[1]\n\nThe trip signals Taiwan\u2019s continued effort to expand its economic footprint in the United States, particularly in key states such as Arizona, which hosts a growing technology and manufacturing sector. The visit comes at a time when Taiwan seeks to broaden trade relationships amid increasing global competition for semiconductor and high\u2011tech components.\u202f[1]\n\nLin\u202fChia\u2011lung, the head of Taiwan\u2019s Ministry of Foreign Affairs, is scheduled to meet with Arizona officials and business leaders upon his arrival. The itinerary, as reported, includes a series of meetings designed to explore opportunities for Taiwanese investment and collaboration with local enterprises.\u202f[1]\n\nPrior to Phoenix, Lin visited Belize and Guatemala, two Central American nations that maintain unofficial diplomatic relations with Taiwan. These visits were part of a broader diplomatic outreach to strengthen Taiwan\u2019s economic and political ties in the region.\u202f[1]\n\nTaiwan\u2019s foreign policy has long relied on a network of unofficial diplomatic missions, as the country is not formally recognized by many nations due to the One\u2011China policy. The Ministry of Foreign Affairs therefore conducts visits to countries that maintain informal relations, often focusing on trade, cultural exchange, and technology cooperation.\u202f[1]\n\nArizona\u2019s economy is heavily oriented toward technology, aerospace, and advanced manufacturing, sectors that align closely with Taiwan\u2019s strengths in semiconductor production and electronics. The state\u2019s leadership has expressed interest in attracting foreign investment to support its growing high\u2011tech industry.\u202f[1]\n\nStakeholders in this visit include Taiwanese businesses seeking new markets, Arizona companies looking for investment and partnership opportunities, and U.S. policymakers who monitor Taiwan\u2011U.S. economic interactions. The visit may also attract attention from other U.S. states and federal agencies interested in strengthening ties with Taiwan.\u202f[1]\n\nWhile the specific agenda of the meetings has not been disclosed, the overarching goal is to deepen economic ties, as stated in the source headline. The visit is part of Taiwan\u2019s broader strategy to secure trade relationships and technological collaboration in the face of geopolitical tensions.\u202f[1]\n\nThe implications of the visit could include increased Taiwanese investment in Arizona\u2019s technology sector, potential joint ventures, and a strengthening of supply chain links between the two economies. However, the extent of any agreements remains to be seen, as the available reporting does not specify the outcomes of the meetings.\u202f[1]\n\nObservers will likely watch for any formal agreements or memoranda of understanding signed during the visit, as well as subsequent announcements from Arizona officials regarding new investment initiatives. The next steps may involve detailed negotiations and the drafting of partnership documents, with deadlines potentially set for the following months.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Japan Times",
-          "url": "https://www.japantimes.co.jp/news/2026/10/03/asia-pacific/politics/taiwan-fm-visit-arizona/"
-        }
-      ],
-      "original_url": "https://www.japantimes.co.jp/news/2026/10/03/asia-pacific/politics/taiwan-fm-visit-arizona/",
-      "guid": "https://www.japantimes.co.jp/article/647333/"
-    },
-    "googlenews_42632b45": {
-      "id": "googlenews_42632b45",
-      "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000 - AP News",
-      "category": "Health",
-      "source": "googlenews",
-      "time": "2026-10-03T04:50:39",
-      "read": "4 min read",
-      "mode": "long",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Associated_Press_logo_2012.svg/120px-Associated_Press_logo_2012.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "content": "A fire that gutted an Ebola treatment center in the Democratic Republic of Congo has added a new layer of urgency to an outbreak that has already claimed more than 4,000 lives. The blaze, which destroyed the facility\u2019s critical infrastructure, came as the death toll surpassed 4,000 and the total number of confirmed cases climbed beyond 8,000, the highest ever recorded for the disease. The incident has intensified fears that the epidemic could spread further as patients and staff flee the damaged site. [1]\n\nThe collapse of the treatment center underscores the fragility of the country\u2019s response capacity. With health\u2011worker shortages already crippling care delivery, the loss of a key treatment hub threatens to derail efforts to isolate patients, provide supportive care, and conduct contact tracing. The outbreak\u2019s rapid growth\u2014now the fastest on record\u2014means that any disruption in treatment facilities could have outsized consequences for containment. [1]\n\nThe fire broke out at a facility that had been operating in the eastern province of North Kivu, a region that has been the epicenter of the current epidemic. While the exact cause of the blaze remains under investigation, the destruction of the center\u2019s wards, laboratories, and isolation rooms has left a vacuum in the local health system. The death toll in the country has already exceeded 4,000, and the number of confirmed cases has surpassed 8,000, reflecting the scale of the crisis. [1]\n\nIn the wake of the fire, thousands of residents have fled the nearby camp, seeking refuge in surrounding villages. The displacement has raised alarms among health officials, who warn that the movement of potentially infected individuals could facilitate new chains of transmission. The exodus also strains already limited resources in neighboring communities, which may lack adequate sanitation and medical supplies. [1]\n\nHealth\u2011worker shortages have worsened amid the outbreak. Many frontline staff have been infected or have had to quarantine, reducing the workforce available to manage the surge in patients. The loss of the treatment center further depletes the capacity to provide care, leaving patients with fewer options for treatment and increasing the likelihood of community spread. [1]\n\nThe outbreak\u2019s case count now tops 8,000, a figure that reflects both the high transmissibility of the virus in this setting and the challenges of surveillance and reporting. The rapid increase in confirmed cases, combined with the recent loss of a treatment facility, signals that the epidemic may continue to expand unless additional resources are deployed. [1]\n\nEbola virus disease is a severe hemorrhagic fever that spreads through direct contact with bodily fluids of infected individuals or contaminated surfaces. Historically, outbreaks have been contained through isolation of patients, safe burial practices, and contact tracing. The current epidemic, however, has been marked by a combination of dense population centers, limited health infrastructure, and logistical hurdles that have hampered containment efforts. [1]\n\nTreatment centers in the DRC are designed to provide intensive supportive care to patients, including fluid replacement, medication, and monitoring for complications. They also serve as hubs for diagnostic testing and for training local health workers. The destruction of such a center not only removes a critical care site but also erodes the training and operational capacity of the local health workforce. [1]\n\nThe outbreak\u2019s escalation can be traced to a combination of factors: the virus\u2019s high basic reproduction number in certain settings, gaps in community awareness, and the movement of people across porous borders. The rapid rise in cases has outpaced the country\u2019s ability to scale up treatment and prevention measures, leading to a situation where the epidemic is expanding faster than the response can keep up. [1]\n\nKey stakeholders include the patients who rely on treatment centers for life\u2011saving care, the health workers who are at risk of infection and burnout, local communities that face displacement and economic hardship, and international agencies such as the World Health Organization and M\u00e9decins Sans Fronti\u00e8res that provide technical and logistical support. Each group faces distinct challenges: patients risk losing access to care; workers confront shortages of personal protective equipment; communities grapple with the social and economic fallout of displacement; and agencies must navigate resource constraints and coordination across borders. [1]\n\nThe immediate impact of the burned treatment center is a loss of critical care capacity, which could lead to higher mortality rates and increased transmission. The displacement of thousands of residents heightens the risk of the virus spreading to new areas, potentially overwhelming neighboring health facilities. Moreover, the strain on the remaining health workforce may reduce the effectiveness of contact tracing and safe burial practices, further compromising containment. [1]\n\nLooking ahead, the situation calls for a rapid mobilization of resources to rebuild the destroyed facility or establish an alternative treatment site. International donors and agencies will need to coordinate to supply personal protective equipment, medical supplies, and trained personnel. Strengthening surveillance, expanding community outreach, and ensuring safe burial practices will also be essential to curb further spread. [1]\n\nIn the coming weeks, stakeholders will monitor the progress of reconstruction efforts, the deployment of additional health workers, and the implementation of enhanced infection prevention protocols. Key dates include the anticipated opening of a temporary treatment center and the scheduled review of the outbreak\u2019s trajectory by the World Health Organization. The international community will also be watching for any signs of new transmission clusters that could signal a shift in the epidemic\u2019s dynamics. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ?oc=5",
-      "guid": "CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ"
-    },
-    "guardian_323d4fa1": {
-      "id": "guardian_323d4fa1",
-      "title": "Cornell case raises questions about rise of ketamine in sexual assaults: \u2018You might not realize you\u2019re being touched\u2019",
-      "category": "Health",
-      "source": "guardian",
-      "time": "2026-10-03T04:50:47",
-      "read": "3 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/e0efc5180899ae2bc674c03b3db258a043942b6c/648_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=1547cf173461d8512ddc1c0aed8a8be8",
-      "content": "A former Cornell University student has filed a lawsuit alleging that she was encouraged to take ketamine and then gang\u2011raped by several fraternity members at a party on campus. The complaint claims the victim nasally ingested the drug before the assault began. [1]\n\nThe case has drawn attention from advocates who are calling for tighter regulation of ketamine, a dissociative anesthetic that is increasingly used both illegally as a party drug and legally as a treatment for certain mental\u2011health conditions. [1] Their argument is that the drug\u2019s dissociative properties can make victims less able to resist or report sexual assault, raising public\u2011health and legal concerns.\n\nIn the lawsuit, the plaintiff\u2014identified only as Jane\u202fDoe\u2014states that she was at a fraternity house party when several members persuaded her to use ketamine. She claims that after inhaling the drug she was subsequently gang\u2011raped by those same fraternity members. [1] The complaint does not provide a specific date for the alleged incident, and the available reporting does not specify the fraternity\u2019s name or the exact location of the party beyond the fact that it was held on Cornell\u2019s campus.\n\nKetamine is a dissociative anesthetic that was first developed in the 1960s for use in human and veterinary medicine. It works by blocking NMDA receptors in the brain, producing a trance\u2011like state that can reduce pain and induce dissociation. [1] Over the past decade, ketamine has become a popular party drug in the United States, often sold illegally in powder or liquid form. At the same time, it has gained approval for use in certain mental\u2011health settings, such as treatment\u2011resistant depression and chronic pain, when administered under medical supervision. [1]\n\nFraternities at U.S. universities have long been scrutinized for their role in campus sexual\u2011violence cases. While Cornell has implemented policies to address such incidents, the university\u2019s broader campus culture and the prevalence of parties at fraternity houses continue to be a focus for campus\u2011wide safety initiatives. (This context is widely known and not drawn from the current source.)\n\nThe primary stakeholders in this case include Jane\u202fDoe, the alleged perpetrators who are members of a Cornell fraternity, the university itself, and advocacy groups that are pushing for stricter ketamine controls. The lawsuit also implicates the broader regulatory framework governing the sale and distribution of ketamine, which is currently classified as a Schedule\u202fIII controlled substance in the United States. [1]\n\nIf the court finds the allegations credible, the fraternity members could face criminal charges, and the university might be required to review its policies on drug use and sexual\u2011violence prevention. The case could also prompt lawmakers to consider amendments to drug\u2011control statutes or to increase funding for educational programs about drug\u2011facilitated sexual assault. [1]\n\nThe broader implication of this lawsuit is that it highlights a potential link between dissociative drugs and sexual\u2011violence incidents. Advocates argue that the drug\u2019s ability to blunt perception and reduce resistance could create a dangerous environment for vulnerable individuals, especially in settings where alcohol and other substances are present. [1] This perspective is part of a growing national conversation about how best to protect victims and hold perpetrators accountable.\n\nCourt filings indicate that the lawsuit is currently pending, and no definitive timeline for a trial has been announced. Meanwhile, several state legislatures have introduced bills aimed at tightening ketamine regulation, and federal agencies are reviewing the drug\u2019s scheduling status. Observers will likely monitor both the legal proceedings and any legislative actions that arise from this case. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/society/2026/oct/02/cornell-rape-assault-ketamine-laws"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/society/2026/oct/02/cornell-rape-assault-ketamine-laws",
-      "guid": "https://www.theguardian.com/society/2026/oct/02/cornell-rape-assault-ketamine-laws"
-    },
-    "pbs_8213fd83": {
-      "id": "pbs_8213fd83",
-      "title": "Could the International Space Station win a Nobel Peace Prize? Here's what to know",
-      "category": "News",
-      "source": "pbs",
-      "time": "2026-10-03T11:26:28",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-09-17T144643Z_1704069089_RC22LNARMI37_RTRMADP_3_SPACE-HEALTH-MANUFACTURING-1024x683.jpg",
-      "content": "Some commentators have suggested that the International Space Station (ISS) could be a candidate for this year\u2019s Nobel Peace Prize.\u202f[1] The idea has sparked discussion about the role of space cooperation in global diplomacy and the symbolic value of the ISS as a platform for peaceful collaboration among nations.\n\nThe suggestion matters because the Nobel Peace Prize is one of the world\u2019s most prestigious awards for contributions to peace and international understanding. Recognizing a space station would signal that the international community views sustained joint space activities as a significant form of peaceful cooperation. It would also bring renewed attention to the ISS\u2019s unique status as a shared facility operated by multiple space agencies.\n\nThe notion of the ISS as a Nobel laureate emerged from a group of prognosticators who noted the station\u2019s long history of bringing together astronauts, scientists, and engineers from 19 countries. They argued that the ISS\u2019s continued operation and its role in fostering cross\u2011border collaboration make it a fitting symbol for the prize\u2019s ideals.\n\nThe ISS was launched in 1998 and has been continuously inhabited since 2000. It is a joint project of NASA (United States), Roscosmos (Russia), the European Space Agency (ESA), the Japan Aerospace Exploration Agency (JAXA), and the Canadian Space Agency (CSA). Over its more than two decades of operation, the station has hosted crews from a wide range of nations, conducting research in microgravity that benefits humanity as a whole.\n\nThe Nobel Peace Prize is awarded annually by the Norwegian Nobel Committee, which selects recipients based on the criteria set by Alfred Nobel\u2019s will. The prize has historically been awarded to individuals, organizations, and movements that have made significant contributions to peace, conflict resolution, and humanitarian efforts.\n\nIf the ISS were to receive the Nobel Peace Prize, the primary stakeholders would include the space agencies that operate the station, the international scientific community that relies on its research facilities, and the governments that fund its missions. A Nobel award could also influence public perception and funding priorities for future international space endeavors.\n\nThe potential impact of such an award would extend beyond symbolic recognition. It could strengthen the case for continued investment in the ISS and similar cooperative projects, highlighting the tangible benefits of peaceful collaboration in space. It might also inspire new initiatives aimed at using space as a platform for diplomacy and shared scientific progress.\n\nThe suggestion underscores a broader trend of recognizing space as a domain where nations can collaborate peacefully, even amid terrestrial tensions. It reflects growing awareness that shared scientific and technological pursuits can serve as a bridge between countries.\n\nThe Nobel Committee typically announces its winner in October. Until that announcement, the ISS\u2019s candidacy remains speculative, and no formal nomination has been made. Observers will watch for any official statements from the committee or from the space agencies that could confirm or refute the possibility of a Nobel Peace Prize for the International Space Station.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/science/could-the-international-space-station-win-a-nobel-peace-prize-heres-what-to-know"
-        }
-      ],
-      "original_url": "https://www.pbs.org/newshour/science/could-the-international-space-station-win-a-nobel-peace-prize-heres-what-to-know",
-      "guid": "https://www.pbs.org/newshour/science/could-the-international-space-station-win-a-nobel-peace-prize-heres-what-to-know"
-    },
     "googlenews_f38b38fb": {
       "id": "googlenews_f38b38fb",
       "title": "A toddler\u2019s wobbly walk, hand tremors send parents on a medical journey - The Washington Post",
@@ -15999,32 +15879,154 @@
       ],
       "original_url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
       "guid": "https://www.aljazeera.com/?t=1795128494"
+    },
+    "googlenews_010ac543": {
+      "id": "googlenews_010ac543",
+      "title": "If RJ Luis Jr.'s career at LSU is over, he will be remembered for one of biggest bag fumbles of the NIL era - CBS Sports",
+      "category": "Sports",
+      "source": "googlenews",
+      "time": "2026-11-20T15:12:01",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%2876%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27196%27%20cy%3D%27359%27%20r%3D%27140%27%20fill%3D%27hsl%28116%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "RJ Luis Jr. will no longer pursue playing for Louisiana State University, a decision that could end his collegiate career and mark him as one of the most high\u2011profile \u201cbag fumbles\u201d of the name\u2011, image\u2011and\u2011likeness (NIL) era. The former Texas\u2011based guard, who had been added to the Tigers roster, has been told by his attorney to stand down and will not appear in any future LSU games. The move follows a directive from LSU\u2019s president to head coach Will Wade, instructing him not to play Luis a day after the team\u2019s debut. The incident has drawn attention to the SEC\u2019s enforcement of its own rules and has left the conference grappling with a major compliance issue. [1]\n\nThe situation matters because it sits at the intersection of college\u2011sports recruiting, player compensation, and conference governance. LSU\u2019s handling of Luis\u2019s NIL arrangements has raised questions about how schools can navigate the rapidly evolving landscape of athlete endorsements while maintaining compliance with both NCAA and conference regulations. The fallout could influence future recruiting practices and the SEC\u2019s approach to monitoring NIL activity. [1]\n\nLuis was officially added to LSU\u2019s roster in early 2024, but the following day the university\u2019s president issued a memo to Coach Wade that Luis would not be eligible to play. The instruction came just days after the Tigers\u2019 season opener, a move that surprised many observers and prompted immediate media coverage. [1] The president\u2019s decision was reportedly based on concerns about the legality of Luis\u2019s NIL deals, which the school had previously approved. [1]\n\nAccording to the university\u2019s statement, the president\u2019s directive was a precautionary measure to avoid potential violations of SEC policy. The memo was delivered to Wade in a private meeting, and the coach was advised to refrain from fielding Luis in any upcoming games. The president\u2019s action was described as \u201cnecessary\u201d to protect the program\u2019s integrity. [1]\n\nLuis\u2019s attorney confirmed that the player will \u201cstand down\u201d and will no longer pursue a playing career at LSU. The attorney emphasized that Luis had no intention of violating any rules and that the decision was made to prevent further complications. The statement was released to the press via a local sports outlet. [1]\n\nThe incident has highlighted a broader tension between LSU and the SEC. LSU\u2019s president had previously challenged the conference to enforce its own rules, a stance that has now led to scrutiny of the SEC\u2019s enforcement mechanisms. The conference has been described as facing a \u201cmajor problem\u201d in light of the situation, prompting calls for clearer guidelines on NIL compliance. [1]\n\nThe NIL era, which began in 2021, allows college athletes to profit from their personal brand while maintaining amateur status. Schools and conferences have been working to establish policies that balance player opportunity with compliance. The SEC has issued its own set of guidelines, but the enforcement of these rules remains a developing area. [1]\n\nLSU has a history of navigating NIL deals, including high\u2011profile agreements for other athletes. The university\u2019s approach has generally been to vet deals before approval, but the Luis case suggests that even with due diligence, complications can arise. The incident may prompt LSU to reassess its NIL vetting process. [1]\n\nSEC rules require member institutions to report NIL activities and ensure they do not conflict with NCAA regulations. The conference has been criticized for inconsistent enforcement, and the Luis case has intensified scrutiny of its oversight. The SEC\u2019s response to the situation will likely shape future compliance expectations. [1]\n\nKey stakeholders include Luis himself, LSU\u2019s administration, Coach Wade, the SEC, and the NCAA. Luis\u2019s future career prospects are now uncertain, while LSU faces potential reputational damage and the need to review its NIL policies. The SEC must address the apparent enforcement gap that allowed the situation to unfold. [1]\n\nThe implications of the decision are far\u2011reaching. If Luis\u2019s case is viewed as a failure of LSU\u2019s NIL oversight, it could lead to stricter internal controls and more rigorous compliance training for staff. The SEC may also consider revising its enforcement protocols to prevent similar incidents. The situation underscores the fragility of the current NIL framework. [1]\n\nIn the coming weeks, LSU will likely issue a formal statement outlining its next steps, and the SEC may release guidance on NIL compliance. Luis\u2019s attorney has indicated that the player may seek opportunities elsewhere, and the NCAA could review the case for potential sanctions. The outcome will be closely watched by other programs navigating the evolving NIL landscape. [1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPanZ4QVJLOXhZWi1jUTlFamdMZzRtUHlta3V0Y0FTVFRLWHJGMUM0NTZ6UktEUHMyclUtRzFRMklJTGxKZXVfT25lWEROQ0NMSVNDc2xhVmwxQ1BnX1ZtazU0R0M4MDBZY28xMHM5LWV5WDBJTGxvY1UtLUpEZTE0SkF4eGRFTHNISUpONHZ5SEs4cDF6Z0d5Rzgyei1MeVFTX3hleExB?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPanZ4QVJLOXhZWi1jUTlFamdMZzRtUHlta3V0Y0FTVFRLWHJGMUM0NTZ6UktEUHMyclUtRzFRMklJTGxKZXVfT25lWEROQ0NMSVNDc2xhVmwxQ1BnX1ZtazU0R0M4MDBZY28xMHM5LWV5WDBJTGxvY1UtLUpEZTE0SkF4eGRFTHNISUpONHZ5SEs4cDF6Z0d5Rzgyei1MeVFTX3hleExB?oc=5",
+      "guid": "CBMipgFBVV95cUxPanZ4QVJLOXhZWi1jUTlFamdMZzRtUHlta3V0Y0FTVFRLWHJGMUM0NTZ6UktEUHMyclUtRzFRMklJTGxKZXVfT25lWEROQ0NMSVNDc2xhVmwxQ1BnX1ZtazU0R0M4MDBZY28xMHM5LWV5WDBJTGxvY1UtLUpEZTE0SkF4eGRFTHNISUpONHZ5SEs4cDF6Z0d5Rzgyei1MeVFTX3hleExB"
+    },
+    "france24_e1a6a842": {
+      "id": "france24_e1a6a842",
+      "title": "Jamaica's beaches are increasingly off limits to locals",
+      "category": "World",
+      "source": "france24",
+      "time": "2026-11-20T15:12:09",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://s.france24.com/media/display/1952df8c-e41e-11f1-b8ec-e56ab3dc0809/w:1024/p:16x9/Reporters-3.jpg",
+      "content": "Jamaica\u2019s beaches are increasingly off limits to locals, with less than 1\u202f% of the coastline freely accessible as most of the shore has been privatized for hotels and private homes.\u00b9\n\nThe shift has significant implications for local communities, tourism, and environmental stewardship, as the island\u2019s identity and economy are tied to its beaches.\n\nThe trend of privatization has been gradual; the majority of Jamaica\u2019s coastline is now privately owned, leaving locals with limited access.\u00b9\n\nJamaica is known for its white sandy beaches, Rastafari culture, and Bob Marley; these images contrast with the reality of restricted beach access.\u00b9\n\nThe tourism sector has historically been a major driver of Jamaica\u2019s economy, with beachfront properties being a key asset.\n\nThe process of privatization often involves large hotel developments and private residences, which have been the primary beneficiaries of beach land acquisition.\u00b9\n\nLocal residents, who rely on beaches for recreation and livelihood, are affected by the reduced access.\n\nThe hospitality industry benefits from exclusive beachfront properties, potentially increasing profitability.\n\nEnvironmental groups may be concerned about the impact of development on coastal ecosystems.\n\nThe limited public access could strain community relations and alter the cultural perception of Jamaica as a beach destination.\n\nIt may also influence future tourism patterns, as visitors may seek destinations with more open beach access.\n\nMonitoring future land transactions and policy changes will be key to understanding how the balance between private development and public access evolves.\n\nJamaica\u2019s land laws allow private ownership of coastal land, but there are debates about public access rights.\n\nSome local groups have protested or advocated for more public beach access.\n\nCoastal development can lead to erosion and habitat loss.\n\nThe island\u2019s tourism industry may need to adapt to changing public perception.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/reporters/20261120-jamaica-beaches-off-limits-to-locals-property-developers-hotels"
+        }
+      ],
+      "original_url": "https://www.france24.com/en/tv-shows/reporters/20261120-jamaica-beaches-off-limits-to-locals-property-developers-hotels",
+      "guid": "e9372ab0-e431-11f1-9387-ff4fa45f9015"
+    },
+    "bangkokpost_902ada37": {
+      "id": "bangkokpost_902ada37",
+      "title": "King Power scraps plan to sell Leicester FC",
+      "category": "World",
+      "source": "bangkokpost",
+      "time": "2026-11-20T15:12:37",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://static.bangkokpost.com/media/content/20261120/c1_3358380_700.jpg",
+      "content": "King Power Group has abandoned plans to sell Leicester City Football Club, with chairman Aiyawatt\u202fSrivaddhanaprabha confirming his commitment to help the side secure promotion back to the Premier League.\u202f[1]\n\nThe decision marks a significant shift for a club that has faced uncertainty since its relegation from the top flight at the end of the 2022\u201123 season. A change of ownership could have altered the club\u2019s strategic direction, financial footing and the confidence of its supporters, all of which are now expected to remain under the current Thai ownership.\u202f[1]\n\nAccording to English media reports, the Thai conglomerate had been exploring a sale of the club but has now decided to stay on. Chairman Aiyawatt Srivaddhanaprabha reiterated his pledge to invest in the team and to guide Leicester City toward promotion.\u202f[1]\n\nKing Power Group is a Thai conglomerate best known for operating Thai Airways and a range of retail and hospitality businesses. The company entered the football world when it acquired Leicester City in 2010, following the death of former owner Vichai Srivaddhanaprabha.\n\nLeicester City was relegated from the Premier League after the 2022\u201123 campaign and now competes in the English Championship. The club\u2019s recent history includes a dramatic title win in 2016, but the loss of top\u2011flight status has prompted scrutiny over its future stability.\n\nSince the 2010 takeover, King Power Group has overseen a period of growth for the club, including the construction of a new stadium and the appointment of high\u2011profile managers. The ownership has also been praised for its financial support during the club\u2019s most successful era.\n\nSupporters of Leicester City have long expressed concern about the club\u2019s trajectory following relegation. The chairman\u2019s decision to remain is likely to reassure fans that the club\u2019s ambitions remain intact and that there will be continuity in its leadership.\n\nPlayers and coaching staff may also benefit from the stability, as the club can concentrate on rebuilding its squad and infrastructure without the distraction of a potential ownership transition.\n\nWith the sale off the table, Leicester City will now focus on the upcoming Championship season, aiming to secure promotion and return to the Premier League. The club\u2019s management will need to navigate the transfer market and prepare for the rigors of a promotion\u2011contending campaign.\n\nObservers will keep an eye on the club\u2019s performance in the next season, as well as any potential interest from other parties should the team fail to achieve its promotion objectives. The outcome of the Championship campaign will determine whether the club can maintain its current ownership structure or whether future sale discussions may resume.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Bangkok Post",
+          "url": "https://www.bangkokpost.com/sports/3358380/king-power-scraps-plan-to-sell-leicester-fc"
+        }
+      ],
+      "original_url": "https://www.bangkokpost.com/sports/3358380/king-power-scraps-plan-to-sell-leicester-fc",
+      "guid": ""
+    },
+    "japantimes_e294317a": {
+      "id": "japantimes_e294317a",
+      "title": "Takaichi meets with leaders of Chile and Peru in bid to boost ties",
+      "category": "World",
+      "source": "japantimes",
+      "time": "2026-11-20T15:12:43",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575265.jpg",
+      "content": "Japanese official Takaichi met with the presidents of Chile and Peru on Friday in a bid to strengthen diplomatic and economic ties between Tokyo and the two Latin\u2011American nations.\u202f[1]\n\nThe meetings marked the first bilateral summits between Japan and each country, underscoring Tokyo\u2019s growing interest in deepening its engagement across the Western Hemisphere.\u202f[1]\n\nIn Tokyo, Takaichi held separate talks with Peruvian President Keiko Fujimori and Chilean President\u202fJose\u202fAntonio\u202fKast. The summits were scheduled for Friday, and both leaders expressed a desire to explore new avenues for cooperation.\u202f[1]\n\nJapan has historically maintained limited direct engagement with Latin America, but recent administrations have sought to broaden the country\u2019s global partnerships. The new summits reflect a strategic shift toward increased outreach in the region.\n\nChile and Peru, both governed by conservative administrations, have pursued policies aimed at attracting foreign investment and expanding trade. Japan\u2019s interest in the region aligns with its broader strategy to secure new markets and diversify its economic partnerships.\n\nStakeholders likely to be affected include Japanese exporters and investors looking to tap into South American markets, as well as businesses in Chile and Peru seeking access to advanced technology and capital from Japan.\n\nThe summits could pave the way for future trade agreements, joint investment projects, and cultural exchanges, potentially boosting bilateral trade volumes and fostering closer political ties.\n\nJapan\u2019s foreign ministry is expected to issue a joint statement outlining the outcomes of the meetings, and further diplomatic initiatives may be announced in the coming weeks as both sides work to formalize cooperation agreements.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/20/japan/takaichi-peru-chile-leaders-meet/"
+        }
+      ],
+      "original_url": "https://www.japantimes.co.jp/news/2026/11/20/japan/takaichi-peru-chile-leaders-meet/",
+      "guid": "https://www.japantimes.co.jp/article/649366/"
+    },
+    "bbc_629d3db7": {
+      "id": "bbc_629d3db7",
+      "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
+      "category": "Science",
+      "source": "bbc",
+      "time": "2026-11-20T15:13:12",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca5/live/034a6cb0-e4c7-11f1-a094-5fdc692f3e33.png",
+      "content": "After an eight\u2011year epic voyage, a spacecraft is about to visit Mercury, promising the best ever view of the planet.[1]\n\nThe arrival marks a milestone in planetary science, offering unprecedented data about Mercury\u2019s surface, magnetic field, and environment.\n\nThe spacecraft completed its journey and is now poised to enter Mercury\u2019s orbit, where it will begin a series of detailed observations.\n\nMercury is the smallest planet in the solar system and the closest to the Sun, with surface temperatures that can exceed 430\u202f\u00b0C on the sunlit side and drop below \u2013180\u202f\u00b0C in shadow.\n\nIts proximity to the Sun makes it a challenging target for spacecraft, requiring high\u2011temperature shielding and precise navigation to avoid the Sun\u2019s intense radiation.\n\nPrevious missions, such as NASA\u2019s MESSENGER, orbited Mercury for several years, but the new mission will surpass them in resolution and coverage.\n\nScientists around the world will use the data to study planetary formation, the Sun\u2019s influence on inner planets, and Mercury\u2019s unique geological history.\n\nThe mission also offers educational opportunities, allowing students and the public to engage with real data from the innermost planet.\n\nThe new observations will refine models of Mercury\u2019s magnetic field, surface composition, and thermal evolution, improving our understanding of planetary magnetic dynamos.\n\nThe data will also help assess the feasibility of future missions to the inner solar system, including potential human exploration of Mercury or Venus.\n\nSuccess of this mission could pave the way for more ambitious projects to other inner planets, demonstrating the viability of long\u2011duration, high\u2011temperature spaceflight.\n\nThe spacecraft will begin its scientific operations shortly after arrival, with a planned series of observations over the next months; scientists are preparing to analyze the first data sets.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro#0"
+    },
+    "npr_2a0f3b64": {
+      "id": "npr_2a0f3b64",
+      "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
+      "category": "News",
+      "source": "npr",
+      "time": "2026-11-20T15:13:44",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc3%2Ffa%2Fb1821d204e04bb7c7e70fa0c18bd%2Fap26322756273601.jpg",
+      "content": "The Texas execution of Reinaldo Dennes took more than an hour, as staff struggled to locate a suitable vein for the lethal injection, and Dennes reportedly moaned about pain during the process. On the same day, Florida carried out its 20th execution of the year, a new record for the state.\u202f[1]\n\nThe incident underscores the practical difficulties that can arise during lethal\u2011injection procedures and highlights the continued use of capital punishment in the United States, with Florida\u2019s record\u2011breaking execution count drawing attention to the state\u2019s high execution rate.\u202f[1]\n\nIn Texas, the execution team encountered repeated failures to find a vein, which delayed the administration of the lethal\u2011injection drugs. The delay extended the overall process to over an hour, during which Dennes was observed to moan, indicating discomfort or pain.\u202f[1]\n\nFlorida\u2019s death\u2011row administration proceeded with its 20th execution of the year on the same day, setting a new state record for the number of executions carried out in a single calendar year.\u202f[1]\n\nThe Texas death\u2011penalty system relies on a three\u2011drug lethal\u2011injection protocol that requires a reliable intravenous access point. When a vein cannot be located quickly, the process is delayed, and the inmate may experience prolonged exposure to the drugs before the final dose is delivered. The procedure is overseen by a team of prison staff and medical personnel who follow state guidelines to ensure the execution proceeds as intended.\n\nFlorida\u2019s death\u2011penalty program has historically executed a higher number of inmates than many other states. The state\u2019s legal framework permits the use of lethal injection as the sole method of execution, and the record number of executions this year reflects a sustained application of that method across its death\u2011row population.\n\nStakeholders in these events include the inmates themselves, their families, the prison staff who carry out the executions, and the broader legal and advocacy communities. For Dennes, the experience of a prolonged and painful execution may affect his family\u2019s perception of the death\u2011penalty system. In Florida, the record\u2011breaking execution count may influence public opinion and the positions of death\u2011penalty supporters and opponents.\n\nThe incidents raise questions about the humane implementation of capital punishment and the adequacy of protocols designed to minimize suffering. They also prompt scrutiny of the training and resources available to execution teams, as well as the legal frameworks that govern the use of lethal injection.\n\nLooking ahead, observers will monitor any forthcoming legal challenges that may arise from the Texas execution\u2019s procedural issues, as well as potential reforms to Florida\u2019s execution protocols. The next scheduled execution in Florida, as well as any changes to the state\u2019s death\u2011penalty procedures, will be key developments to watch.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NPR",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain"
+        }
+      ],
+      "original_url": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
+      "guid": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain"
     }
   },
   "featured": {
-    "hero": "npr_46fa8c7e",
+    "hero": "googlenews_010ac543",
     "stack": [
-      "bangkokpost_24ddab3b",
-      "guardian_1d82f581",
-      "aljazeera_eabb5c90"
+      "france24_e1a6a842",
+      "bangkokpost_902ada37",
+      "japantimes_e294317a"
     ],
     "latest": [
+      "japantimes_e294317a",
+      "bangkokpost_902ada37",
+      "france24_e1a6a842",
+      "npr_46fa8c7e",
       "aljazeera_eabb5c90",
-      "guardian_1d82f581",
-      "bangkokpost_24ddab3b",
-      "economist_120a342a",
-      "csmonitor_ce9d1863",
-      "npr_5dc1fb39"
+      "guardian_1d82f581"
     ],
     "world": [
-      "bangkokpost_24ddab3b",
-      "guardian_1d82f581",
-      "aljazeera_eabb5c90",
-      "economist_120a342a"
+      "france24_e1a6a842",
+      "bangkokpost_902ada37",
+      "japantimes_e294317a",
+      "bangkokpost_24ddab3b"
     ]
   },
   "categoryIndex": {
     "News": [
+      "npr_2a0f3b64",
+      "npr_5dc1fb39",
       "snopes_f85cee4a",
       "pbs_99dc9633",
       "npr_7856cfd3",
@@ -16032,21 +16034,19 @@
       "fullfact_4d0c164e",
       "pbs_177e7f83",
       "snopes_b8097854",
-      "cjr_9d597949",
-      "snopes_ed6cff06",
-      "npr_8d090ae8"
+      "cjr_9d597949"
     ],
     "World": [
+      "bangkokpost_24ddab3b",
+      "economist_120a342a",
+      "csmonitor_ce9d1863",
       "france24_1a3efdb5",
       "afp_1e581f34",
       "dw_05860830",
       "straitstimes_5ee52b54",
       "aljazeera_48559ba8",
       "bbc_3dcdf2d5",
-      "aljazeera_5b35958f",
-      "bbc_d0207ecc",
-      "csmonitor_c22654ab",
-      "csmonitor_95944208"
+      "aljazeera_5b35958f"
     ],
     "Politics": [
       "bbc_be0f3b9c",
@@ -16085,6 +16085,7 @@
       "googlenews_556006ff"
     ],
     "Science": [
+      "bbc_629d3db7",
       "guardian_05eb8f26",
       "guardian_5bd871f7",
       "nature_95c3cd1c",
@@ -16093,8 +16094,7 @@
       "nasa_1f086199",
       "berkeleyuniv_b8bca195",
       "npr_678f965d",
-      "nature_b1bec557",
-      "guardian_d9b8ac23"
+      "nature_b1bec557"
     ],
     "Business": [
       "googlenews_b85f2741",
@@ -16109,7 +16109,7 @@
       "googlenews_1894fbb1"
     ]
   },
-  "breaking": "Neighbours up arsenic fight",
+  "breaking": "Jamaica's beaches are increasingly off limits to locals",
   "events": [
     {
       "title": "Scientist.com Launches Pharma Observatory, an Agent-First Market Intelligence Pl",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "Neighbours up arsenic fight",
+    "Jamaica's beaches are increasingly off limits to locals",
+    "If RJ Luis Jr.'s career at LSU is over, he will be remembered for one of biggest",
     "Saudi Arabia preparing for war against Yemen\u2019s Houthis to last well into 2027 - ",
-    "Brain cell mapping lays groundwork for better treatments for conditions like dem",
-    "Scientist.com Launches Pharma Observatory, an Agent-First Market Intelligence Pl"
+    "Neighbours up arsenic fight"
   ]
 }
