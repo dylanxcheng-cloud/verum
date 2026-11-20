@@ -1,105 +1,5 @@
 {
   "stories": {
-    "googlenews_f38b38fb": {
-      "id": "googlenews_f38b38fb",
-      "title": "A toddler\u2019s wobbly walk, hand tremors send parents on a medical journey - The Washington Post",
-      "category": "Health",
-      "source": "googlenews",
-      "time": "2026-10-03T11:27:10",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://upload.wikimedia.org/wikipedia/en/5/57/The-Washington-Post-10-June-2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "content": "A toddler\u2019s wobbly walk and hand tremors prompted parents to embark on a medical journey, according to a report by The Washington Post. [1] The story highlights how early signs of motor difficulties can lead families to seek specialized care and underscores the importance of prompt evaluation for young children.\n\nThe case illustrates why pediatricians and parents pay close attention to developmental milestones. When a child\u2019s gait or hand movements deviate from expected patterns, it can signal underlying neurological or muscular conditions that benefit from early intervention. Families who notice such changes often face a complex path through the healthcare system, from primary care visits to specialist referrals.\n\nIn the reported instance, the parents first observed their child\u2019s unsteady walking and tremulous hands. Concerned, they consulted a pediatrician who referred them to a neurologist for further assessment. The Washington Post\u2019s coverage notes that the family\u2019s journey involved multiple appointments and diagnostic tests, though specific details of those evaluations were not disclosed. [1]\n\nMotor development in toddlers typically follows a predictable sequence: standing, walking, and fine\u2011motor skills such as grasping. Deviations from this sequence can arise from a range of conditions, including developmental coordination disorder, cerebral palsy, or early-onset tremor syndromes. Pediatric neurologists often use a combination of physical examination, imaging studies, and developmental testing to determine the cause.\n\nCommon conditions that manifest as a wobbly gait or hand tremors include spastic cerebral palsy, ataxia, and essential tremor. Each has distinct clinical features and treatment approaches. For example, spasticity may be managed with physical therapy and medication, while ataxia often requires a multidisciplinary team to address balance and coordination issues.\n\nThe primary stakeholders in such cases are the child, the parents, and the medical team. Parents must navigate insurance, scheduling, and the emotional toll of uncertainty. Pediatricians coordinate initial screening, while neurologists and therapists provide specialized care. The child\u2019s long\u2011term development hinges on the accuracy of the diagnosis and the timeliness of intervention.\n\nPotential diagnoses carry different prognoses and treatment plans. Early identification of a treatable condition can improve motor outcomes and reduce the need for more invasive procedures later. Conversely, a diagnosis of a progressive neurological disorder may shift the focus to supportive care and quality\u2011of\u2011life measures. Families often face difficult decisions about therapy intensity, medication, and future schooling.\n\nThe broader implication is that healthcare systems must support families through complex diagnostic pathways. This includes ensuring timely referrals, clear communication among providers, and access to multidisciplinary resources. Early intervention programs can mitigate delays and improve functional outcomes for children with motor disorders.\n\nLooking ahead, the family will likely undergo a series of diagnostic tests\u2014such as MRI scans, electromyography, or genetic panels\u2014to pinpoint the underlying cause. Depending on the results, they may begin targeted therapies, including physical or occupational therapy, medication, or, in some cases, surgical options. The next few months will be critical for establishing a definitive diagnosis and initiating a tailored treatment plan.\n\nIn sum, the Washington Post\u2019s brief report underscores the challenges parents face when a toddler\u2019s motor symptoms raise red flags. While the specifics of this case remain limited, the narrative serves as a reminder of the importance of early detection, coordinated care, and the ongoing need for supportive services for families navigating pediatric neurological concerns.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc05uV00tMU1aZ1kwUE1OODY5SXFJbW96WVl3QVA4YlowLWx3Y2pVZWctTVB2MFcwM3l4eDh4TG93MGI0dzBXQUw5VW1lZ1hmampvMjRRNFk0SmtNMTBzajYzSVlScTQ4S3BsT09CVlhBVzh1eW1CMHUtTEdqOFh2REhWOFVzUDZiSGoxSnZaa2k2a1VZV0FwNlhhbmtTTUdrWFlSMGN5b0hHSGdmcTFHYWxR?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc05uV00tMU1aZ1kwUE1OODY5SXFJbW96WVl3QVA4YlowLWx3Y2pVZWctTVB2MFcwM3l4eDh4TG93MGI0dzBXQUw5VW1lZ1hmampvMjRRNFk0SmtNMTBzajYzSVlScTQ4S3BsT09CVlhBVzh1eW1CMHUtTEdqOFh2REhWOFVzUDZiSGoxSnZaa2k2a1VZV0FwNlhhbmtTTUdrWFlSMGN5b0hHSGdmcTFHYWxR?oc=5",
-      "guid": "CBMisgFBVV95cUxQc05uV00tMU1aZ1kwUE1OODY5SXFJbW96WVl3QVA4YlowLWx3Y2pVZWctTVB2MFcwM3l4eDh4TG93MGI0dzBXQUw5VW1lZ1hmampvMjRRNFk0SmtNMTBzajYzSVlScTQ4S3BsT09CVlhBVzh1eW1CMHUtTEdqOFh2REhWOFVzUDZiSGoxSnZaa2k2a1VZV0FwNlhhbmtTTUdrWFlSMGN5b0hHSGdmcTFHYWxR"
-    },
-    "straitstimes_62fb2147": {
-      "id": "straitstimes_62fb2147",
-      "title": "Flydubai co-pilot attacked pilot with axe, attempted \u2018terrorist\u2019 attack, UAE says - The Straits Times",
-      "category": "World",
-      "source": "straitstimes",
-      "time": "2026-10-03T11:27:34",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://upload.wikimedia.org/wikipedia/en/8/89/The_Straits_Times_%28January_20%2C_2026%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "content": "A co\u2011pilot of Flydubai allegedly attacked the pilot with an axe in an attempted terrorist attack, according to UAE authorities, as reported by The Straits Times. [1]\n\nThe incident raises concerns about crew safety and the integrity of airline security protocols, and may prompt regulatory review and changes in crew training and screening.\n\nAccording to the UAE, a co\u2011pilot used an axe to assault the pilot, an act described as a terrorist attempt. The details of the flight, such as date, route, or aircraft type, are not disclosed in the available reporting. [1]\n\nThe incident was reported by The Straits Times, a Singapore\u2011based newspaper, which cited UAE authorities. [1]\n\nFlydubai is a low\u2011cost carrier headquartered in Dubai, operating domestic and international flights. It is a subsidiary of the Dubai\u2011based Emirates Group.\n\nIn aviation, crew members are subject to rigorous background checks and psychological evaluations to mitigate risks of violent conduct.\n\nThe UAE Civil Aviation Authority oversees airline operations and security in the country, and is responsible for investigating incidents involving crew members.\n\nStakeholders such as passengers on the flight, airline staff, regulatory bodies, and the broader aviation community are affected by such incidents. The airline may face reputational damage and potential regulatory scrutiny.\n\nThe co\u2011pilot's alleged use of an axe suggests a serious breach of safety protocols, potentially leading to criminal charges and a review of the airline's internal disciplinary procedures.\n\nIf the incident is confirmed as a terrorist act, it could prompt stricter security screening for crew and passengers, and may influence international aviation security standards.\n\nThe incident may also lead to increased scrutiny of mental health support for flight crew, as well as the implementation of additional safety measures such as cockpit door reinforcement.\n\nThe UAE authorities are likely to release further details as the investigation proceeds, and Flydubai may issue statements or take disciplinary action against the involved crew member. The airline may also cooperate with international aviation bodies to ensure compliance with safety regulations.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWR4M1FvNWNtdURjdFprQ2swNjV0X2w4Y1JDblhBMjE2U1VyaWptM0Ywa3czQ2JEZEJMLTQzMTgzb1J5TnlDdVh3V1o0QmtxS1VkM3RLODZ1cGY1d0N6R2FYRDVGazl6WlAtVkhSdldJZDBmUjZETTIzcUNqa2t6ZDNCVEJrb3JqZDdVNHNIVUNDT0pFZE0tNnJzYkF2QVhHR3lrTlF1MmRsaHNhU1cxci00alVfbHVsWURETkJfV1Rzdw?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWR4M1FvNWNtdURjdFprQ2swNjV0X2w4Y1JDblhBMjE2U1VyaWptM0Ywa3czQ2JEZEJMLTQzMTgzb1J5TnlDdVh3V1o0QmtxS1VkM3RLODZ1cGY1d0N6R2FYRDVGazl6WlAtVkhSdldJZDBmUjZETTIzcUNqa2t6ZDNCVEJrb3JqZDdVNHNIVUNDT0pFZE0tNnJzYkF2QVhHR3lrTlF1MmRsaHNhU1cxci00alVfbHVsWURETkJfV1Rzdw?oc=5",
-      "guid": "CBMiwgFBVV95cUxOTWR4M1FvNWNtdURjdFprQ2swNjV0X2w4Y1JDblhBMjE2U1VyaWptM0Ywa3czQ2JEZEJMLTQzMTgzb1J5TnlDdVh3V1o0QmtxS1VkM3RLODZ1cGY1d0N6R2FYRDVGazl6WlAtVkhSdldJZDBmUjZETTIzcUNqa2t6ZDNCVEJrb3JqZDdVNHNIVUNDT0pFZE0tNnJzYkF2QVhHR3lrTlF1MmRsaHNhU1cxci00alVfbHVsWURETkJfV1Rzdw"
-    },
-    "afp_792794b0": {
-      "id": "afp_792794b0",
-      "title": "Ethiopia's Tigray rebels abandon regional capital as govt advances: journalist - afp.com",
-      "category": "World",
-      "source": "afp",
-      "time": "2026-10-03T11:27:38",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28120%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27200%27%20cy%3D%27160%27%20r%3D%27140%27%20fill%3D%27hsl%28160%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Tigray rebels abandoned the regional capital as Ethiopian government forces advanced, according to a journalist for AFP. [1]\n\nThe retreat signals a potential shift in a conflict that has raged in Ethiopia\u2019s northern Tigray region for several years, affecting thousands of civilians and raising concerns about the area\u2019s stability.\n\nThe journalist reported that the rebels withdrew from the capital as government troops pushed into the area. The report did not specify the exact date or the name of the capital.\n\nThe Tigray conflict began in 2020 when the Ethiopian federal government launched an operation against the Tigray People\u2019s Liberation Front, the region\u2019s ruling party. The fighting has drawn in regional militias and neighboring countries, leading to widespread displacement and humanitarian needs.\n\nThe Tigray region is Ethiopia\u2019s most populous region and a key economic hub. The conflict has disrupted agriculture, trade, and supply chains, and has drawn international attention to human rights abuses.\n\nThe rebels\u2019 retreat may affect the balance of power in the region, potentially altering the dynamics between the federal government and local forces. Civilians in the capital and surrounding areas face uncertainty as the front lines shift.\n\nHumanitarian organizations have warned that the movement of troops and the displacement of civilians could exacerbate food insecurity and limit access to medical care.\n\nAnalysts suggest that the government\u2019s advance could lead to a consolidation of control over the capital, but the long\u2011term outcome remains unclear. The situation could also influence negotiations between the parties.\n\nObservers will be looking for official statements from the Ethiopian government and the Tigray rebels, as well as reports on the security situation in the capital and the status of displaced populations. The next days may see further troop movements or attempts at ceasefire talks.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "AFP",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDBwd0ZrakVsUE1TQjRDOFVOd0o5N2pXY3N2SkZSTGItdFJMaU5oNFNOczV4Q0FFM3VtN0lzZ09sZ0daZ0RIOUNMSFBod090VE84RWpldUFvc3hVVFJ2YVRIWXgwZ0RvZ0xOTGRGVENBQS1NLUtBaVlFSURSZGZWTFBHWGdYaEM3aThRdE84WUl1SzVPLXIwd2hSbEk?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDBwd0ZrakVsUE1TQjRDOFVOd0o5N2pXY3N2SkZSTGItdFJMaU5oNFNOczV4Q0FFM3VtN0lzZ09sZ0daZ0RIOUNMSFBod090VE84RWpldUFvc3hVVFJ2YVRIWXgwZ0RvZ0xOTGRGVENBQS1NLUtBaVlFSURSZGZWTFBHWGdYaEM3aThRdE84WUl1SzVPLXIwd2hSbEk?oc=5",
-      "guid": "CBMinAFBVV95cUxQTDBwd0ZrakVsUE1TQjRDOFVOd0o5N2pXY3N2SkZSTGItdFJMaU5oNFNOczV4Q0FFM3VtN0lzZ09sZ0daZ0RIOUNMSFBod090VE84RWpldUFvc3hVVFJ2YVRIWXgwZ0RvZ0xOTGRGVENBQS1NLUtBaVlFSURSZGZWTFBHWGdYaEM3aThRdE84WUl1SzVPLXIwd2hSbEk"
-    },
-    "npr_c9721ab8": {
-      "id": "npr_c9721ab8",
-      "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-      "category": "News",
-      "source": "npr",
-      "time": "2026-10-03T11:28:12",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4080x2295+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F63%2Fd4ea684b40f88cfb28c1fe8b05f7%2Fstaff-talking-dino-in-back.jpg",
-      "content": "The Academy of Natural Sciences in Philadelphia shut down this week, just shy of its 200th birthday. [1]\n\nThe closure of a beloved dinosaur museum has sparked a fierce debate among residents, politicians, and scientists, raising questions about the future of public science institutions. [1]\n\nThe Academy, a landmark natural history museum known for its dinosaur exhibits, announced its shutdown earlier this week. [1] The announcement came amid an intense campaign by local stakeholders to keep the museum open. [1] The exact date of closure was not disclosed in the available reporting. The museum had been a fixture in Philadelphia for nearly two centuries. [1]\n\nNatural history museums serve as repositories of scientific knowledge and public education. They often rely on a mix of public funding, private donations, and revenue from visitors.\n\nThe Academy of Natural Sciences, founded in the early 19th century, has long been a center for research and public outreach. It has housed extensive collections of fossils, including dinosaur skeletons that attract visitors worldwide.\n\nOver the past decades, many museums have faced financial pressures due to rising operational costs and changing patterns of museum attendance.\n\nLocal residents who have visited the museum for decades feel a loss of a cultural and educational resource. [1] Politicians have expressed concern about preserving the city's scientific heritage. [1] Scientists, many of whom have conducted research at the Academy, worry about the loss of access to its collections. [1]\n\nThe closure may affect the local economy, as the museum attracted tourists and supported nearby businesses.\n\nThe shutdown highlights the vulnerability of public science institutions to funding challenges. It also underscores the need for sustainable models that balance public access with financial viability.\n\nThe debate surrounding the Academy's fate may influence policy discussions on how cities support cultural and scientific institutions.\n\nThe future of the museum remains uncertain, and stakeholders are likely to explore options such as relocation, partnership, or alternative funding strategies.\n\nThe closure of the Academy of Natural Sciences marks a significant moment for Philadelphia and the broader scientific community, prompting reflection on how society values and sustains institutions that preserve natural history.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "NPR",
-          "url": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure"
-        }
-      ],
-      "original_url": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
-      "guid": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure"
-    },
-    "bbc_999078b7": {
-      "id": "bbc_999078b7",
-      "title": "Could El Ni\u00f1o mean there are no Atlantic hurricanes this year?",
-      "category": "Science",
-      "source": "bbc",
-      "time": "2026-10-03T16:03:12",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5343/live/bc021660-be5f-11f1-b36c-81ad410b221e.jpg",
-      "content": "For the first time in three decades, September has seen no Atlantic hurricanes, breaking the pattern of the most active month of the season.\n\nThe absence of storms in September raises questions about the influence of El\u202fNi\u00f1o and other climate patterns on hurricane activity, with implications for coastal communities, insurers, and the broader economy.\n\nThe Atlantic hurricane season runs from June\u202f1 to November\u202f30, and September is normally the month with the highest number of tropical cyclones. This year, however, no storms reached hurricane strength during that month.\u202f[1]\n\nThe lack of September hurricanes is unprecedented in the past 30\u202fyears. The last time a September without a hurricane occurred was roughly 30\u202fyears ago.\u202f[2]\n\nMeteorologists note that September is usually the month with the highest number of tropical cyclones, due to warm sea surface temperatures and favorable atmospheric conditions.\n\nHurricanes form when warm ocean water fuels a low\u2011pressure system, and the Atlantic basin has a well\u2011documented seasonal cycle.\n\nEl\u202fNi\u00f1o, a warming of the central and eastern Pacific Ocean, can influence atmospheric circulation and reduce wind shear over the Atlantic, potentially suppressing hurricane formation.\n\nThe National Hurricane Center monitors these patterns and issues seasonal outlooks that incorporate El\u202fNi\u00f1o forecasts.\n\nResidents of the Gulf Coast and Caribbean rely on accurate forecasts to prepare for potential storms, while the insurance sector tracks hurricane activity to assess risk exposure.\n\nThe absence of September hurricanes may reduce the immediate threat to these communities, but it also raises concerns about the overall season\u2019s intensity and the possibility of a late\u2011season surge.\n\nAnalysts suggest that if El\u202fNi\u00f1o persists, the Atlantic season could remain subdued, but a transition to La\u202fNi\u00f1a could trigger a more active period later in the year.\n\nA quieter September could mean lower insurance payouts and less economic disruption, but it also underscores the need for vigilance as conditions can change.\n\nThe National Hurricane Center will release its updated seasonal outlook in the coming weeks, and scientists will continue to monitor El\u202fNi\u00f1o indicators to gauge their impact on Atlantic hurricane activity.\n\nCoastal planners and insurers will reassess risk models and prepare for any late\u2011season storms that could still develop.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "BBC News",
-          "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "original_url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o#0"
-    },
     "conversation_7b8520c6": {
       "id": "conversation_7b8520c6",
       "title": "Hunter-gatherer societies are often put on a pedestal as paragons of equality \u2013 but the reality is more complicated",
@@ -15999,28 +15899,128 @@
       ],
       "original_url": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
       "guid": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain"
+    },
+    "aljazeera_8ec0df76": {
+      "id": "aljazeera_8ec0df76",
+      "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+      "category": "World",
+      "source": "aljazeera",
+      "time": "2026-11-20T23:52:37",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00c08d262a-1795211405.jpg?resize=1920%2C1440",
+      "content": "The 31st Conference of the Parties (COP31) to the United Nations Framework Convention on Climate Change has slipped into a prolonged deadlock, with the European Union warning that the summit risks becoming a \u201cfossil summit\u201d because critical climate commitments were left out of the draft agreement. The talks, which have stalled over fossil\u2011fuel policy, are now extending beyond the originally scheduled timeframe. [1]\n\nThe delay matters because COP31 is the next major global forum where countries are expected to strengthen their climate pledges and outline concrete steps to limit warming to 1.5\u202f\u00b0C. A failure to reach a robust deal could undermine the Paris Agreement\u2019s long\u2011term goals and erode trust among nations that have already pledged ambitious targets. [1]\n\nNegotiations at COP31 have stalled after parties could not agree on the role of fossil fuels in the global energy mix. The draft deal, produced by the UNFCCC Secretariat, omitted several key commitments that the EU and other climate\u2011progressive states had insisted on, prompting the EU to issue a warning that the summit could devolve into a platform for fossil\u2011fuel interests. [1] The deadlock has pushed the conference into overtime, with delegates now working beyond the planned schedule to try to salvage a binding agreement. [1]\n\nCOP31 follows the 30th Conference (COP30) held in 2020, which produced a non\u2011binding climate action framework. The UNFCCC process normally culminates in a \u201cglobal deal\u201d that sets out collective targets, finance mechanisms, and implementation measures. The draft deal for COP31 was intended to build on the Paris Agreement\u2019s 1.5\u202f\u00b0C ambition, but the omission of critical climate commitments has left many parties dissatisfied. [1]\n\nThe EU, which is the world\u2019s largest emitter of greenhouse gases, has long championed strong climate action and has set its own 2030 emissions\u2011reduction target at 55\u202f% below 1990 levels. The EU\u2019s warning reflects its concern that the absence of robust fossil\u2011fuel restrictions could weaken the overall climate ambition of the global agreement. [1] Other stakeholders, including developing countries that rely on fossil\u2011fuel revenues, have also expressed unease about the draft deal\u2019s limited scope for climate finance and technology transfer. [1]\n\nIf the summit fails to produce a comprehensive deal, the implications could be significant. A weak agreement may delay the implementation of crucial climate policies, reduce the pace of emissions reductions, and diminish the credibility of the Paris Agreement. It could also embolden fossil\u2011fuel industries to lobby for more favorable terms in future negotiations. [1] Conversely, a renewed push for stronger commitments could reinforce global climate governance and signal a collective resolve to curb emissions. [1]\n\nThe next steps will involve further negotiations over the next few days, with the UNFCCC Secretariat calling for an emergency session to address the deadlock. Parties will need to decide whether to accept the current draft or to revise it to include the missing commitments. The outcome will be closely watched by governments, businesses, and climate advocacy groups, as it will set the tone for future climate negotiations. [1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss"
+        }
+      ],
+      "original_url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+      "guid": "https://www.aljazeera.com/?t=1795210338"
+    },
+    "snopes_83756eb2": {
+      "id": "snopes_83756eb2",
+      "title": "Do Senate Democrats want to take away Trump's power to pardon himself?",
+      "category": "News",
+      "source": "snopes",
+      "time": "2026-11-20T23:52:51",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/11/trump_self_pardon_democrats.png",
+      "content": "Senate Democrats introduced a bill in August that would limit the president\u2019s ability to issue pardons, including the possibility of a self\u2011pardon. The measure, titled the \u201cAbuse of the Pardon Prevention Act of 2026,\u201d seeks to curb the executive\u2019s broad clemency power.\u202f[1]\n\nThe proposal comes amid heightened scrutiny of presidential pardons, particularly the question of whether a sitting president can pardon himself. By targeting the pardon authority, the bill aims to prevent any future use of the power that could undermine accountability.\u202f[1]\n\nThe bill was filed in the Senate by a group of Democratic senators during the August legislative session. Its language explicitly states that it is intended to restrict the president\u2019s right to issue pardons.\u202f[1] The act would apply to all federal offenses, thereby affecting the scope of executive clemency.\n\nThe U.S. Constitution grants the president the power to grant pardons for federal crimes, a provision found in Article\u202fII, Section\u202f2. Historically, presidents have used this authority to grant clemency for a wide range of offenses, from minor infractions to high\u2011profile political cases. The pardon power has been a subject of debate since the early republic, with scholars noting its potential for both justice and abuse.\n\nThe bill\u2019s supporters argue that it would serve as a check on executive overreach, ensuring that the pardon power is exercised within reasonable limits. Critics contend that it could unduly constrain the president\u2019s ability to correct judicial errors or address humanitarian concerns. The debate reflects broader tensions between the executive and legislative branches over the scope of presidential authority.\n\nIf enacted, the legislation would alter the legal framework governing presidential pardons, potentially requiring congressional approval for certain clemency actions. This could shift the balance of power, affecting how future presidents approach the use of pardons in both routine and extraordinary circumstances.\n\nThe bill\u2019s passage would signal a significant shift in the constitutional balance of power, prompting legal scholars to reassess the limits of executive clemency. It also raises questions about the precedent it would set for future presidents and the extent to which Congress can regulate presidential prerogatives.\n\nThe next steps for the bill involve committee review, possible amendments, and a floor vote in the Senate. Its ultimate fate will depend on the composition of the Senate, the priorities of its leadership, and the broader political climate surrounding executive authority.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Snopes",
+          "url": "https://www.snopes.com/fact-check/senate-democrats-president-pardon/"
+        }
+      ],
+      "original_url": "https://www.snopes.com/fact-check/senate-democrats-president-pardon/",
+      "guid": "https://www.snopes.com/fact-check/senate-democrats-president-pardon/"
+    },
+    "bbc_e0e501d5": {
+      "id": "bbc_e0e501d5",
+      "title": "What are heat pumps and how much do they cost?",
+      "category": "Science",
+      "source": "bbc",
+      "time": "2026-11-20T23:53:01",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/eba8d700-de8a-11f1-b88b-3f1671ea859d.jpg",
+      "content": "The government has announced a push to install more heat pumps in homes, aiming to cut fossil\u2011fuel use and lower energy bills.\u202f[1]\n\nThe move is part of a broader effort to meet climate targets and reduce household energy costs. By replacing or supplementing conventional heating systems, heat pumps could help the country move away from coal, oil and gas.\u202f[1]\n\nIn a recent statement, officials said they want to see a greater share of residential heating powered by heat pumps. The goal is to reduce the amount of fossil fuel burned for heating and to bring down the cost of energy for consumers.\u202f[1]\n\nHeat pumps are devices that transfer heat from one place to another using electricity. They can extract heat from the air, ground or water and deliver it to a building, or reverse the process to provide cooling. Because they move heat rather than generate it, they can be more efficient than traditional furnaces or boilers.\u202f[1]\n\nThe technology has been available for decades, but its adoption in the residential sector has been uneven. In many regions, heat pumps are still less common than gas boilers, partly because of upfront costs and the need for suitable building designs.\u202f[1]\n\nThe government\u2019s push is intended to address those barriers. By encouraging more installations, it hopes to create a larger market for heat\u2011pump manufacturers and installers, potentially driving down prices through economies of scale.\u202f[1]\n\nHomeowners stand to benefit from lower monthly energy bills if heat pumps prove more efficient than their current heating systems. Energy companies may also see a shift in demand, as fewer customers rely on fossil\u2011fuel\u2011based heating.\u202f[1]\n\nClimate groups have welcomed the announcement, noting that widespread heat\u2011pump adoption would reduce greenhouse\u2011gas emissions from the residential sector.\u202f[1]\n\nThe policy could also stimulate job growth in the renewable\u2011energy sector, as more technicians and engineers are needed to install and maintain heat\u2011pump systems.\u202f[1]\n\nHowever, the transition will require careful planning. Existing homes may need upgrades to insulation or ductwork to accommodate heat pumps, and the electricity grid will need to support increased demand.\u202f[1]\n\nThe government is expected to outline specific incentives, such as subsidies or tax credits, in the coming months.\u202f[1]\n\nKey questions remain about the timeline for rollout, the scale of financial support, and how the policy will be monitored for effectiveness.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o#0"
+    },
+    "googlenews_06098712": {
+      "id": "googlenews_06098712",
+      "title": "Officials approved the sale of 580,000 Nvidia chips to Chinese companies - The Washington Post",
+      "category": "Business",
+      "source": "googlenews",
+      "time": "2026-11-20T23:53:40",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/57/The-Washington-Post-10-June-2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "Officials approved the sale of 580,000 Nvidia chips to Chinese companies, a decision that has drawn attention from both U.S. policymakers and industry observers. The approval came after a review of a request from Nvidia to supply advanced graphics processing units to firms linked to the Chinese military and the startup Megaspeed. The transaction was cleared by U.S. officials, marking a notable moment in the ongoing debate over semiconductor exports to China. [1]\n\nThe move matters because Chinese artificial\u2011intelligence firms have long depended on Nvidia\u2019s hardware to train large language models and other AI applications. The approval could temporarily ease supply constraints for those companies, but it also raises questions about the balance between commercial interests and national security concerns. [1]\n\nAccording to the Washington Post, the U.S. government granted the export license after evaluating Nvidia\u2019s request to ship the chips to the specified Chinese entities. The request was made by Nvidia, which sought to expand its customer base in China, including firms that have ties to the Chinese military. The approval was granted after a standard review process that considers the end\u2011use and end\u2011user of the technology. [1]\n\nThe Treasury Secretary publicly stated that no additional restrictions are needed for Nvidia chip exports to China, indicating that the current policy framework is sufficient to manage the risks associated with such sales. The Secretary\u2019s remarks were reported by the New York Times, which noted that the policy remains unchanged. [1]\n\nIn a separate development, former President Donald Trump said he had discussed Nvidia CEO Jensen Huang with Chinese President Xi Jinping. Bessent, a former U.S. official, told CNBC that Trump\u2019s conversation was part of a broader dialogue about technology trade. The comments were reported by the Wall Street Journal. [1]\n\nAP News highlighted that Chinese AI firms have become heavily reliant on Nvidia chips, describing them as \u201caddicted\u201d to the technology. However, the article also noted that these firms are now facing withdrawal of supplies, suggesting a tightening of restrictions or a shift in U.S. enforcement priorities. [1]\n\nThe U.S. export control system for semiconductor technology is administered by the Bureau of Industry and Security, which issues licenses for the transfer of dual\u2011use items. The process requires companies to submit detailed end\u2011user and end\u2011use information, after which officials assess compliance with national security and foreign policy objectives. This framework has been in place for several decades and is designed to prevent sensitive technology from reaching adversarial actors. [General context]\n\nHistorically, Nvidia has faced export restrictions, particularly after the U.S. government imposed a ban on certain high\u2011performance chips to China in 2023. Earlier policy changes in 2022 broadened the scope of controlled items, reflecting growing concerns over China\u2019s technological ambitions. These measures have shaped the landscape in which current licensing decisions are made. [General context]\n\nStakeholders in this scenario include Nvidia, which stands to benefit from expanded sales; Chinese AI companies that rely on the chips for research and development; the U.S. government, which must balance economic interests with security concerns; and the Chinese military, which may benefit from the technology. The approval also has implications for U.S. consumers who rely on Nvidia\u2019s products for gaming and professional applications. [General context]\n\nThe impact of the approval could be twofold. On one hand, Chinese AI firms may receive a short\u2011term boost in hardware availability, potentially accelerating their development of AI models. On the other hand, the decision may prompt scrutiny from U.S. lawmakers and could lead to future tightening of export controls if the perceived risks increase. [General context]\n\nLooking ahead, analysts suggest that the approval may signal a temporary concession rather than a permanent policy shift. The U.S. government may monitor the end\u2011use of the chips closely, and any misuse could trigger additional restrictions. The situation also underscores the broader U.S.\u2013China tech rivalry, where each side seeks to secure strategic advantages in emerging technologies. [Analysis]\n\nObservers will be watching for upcoming policy reviews, potential new restrictions on semiconductor exports, and the response of Chinese firms to the withdrawal of supplies. Nvidia\u2019s future sales strategy and the U.S. government\u2019s enforcement of export controls will likely remain key points of focus in the coming months. [Conclusion]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTNWdm5ZVVFLUDV0SDQtRy1KMzV3dlVUVDg5aTJaMXNZTXpxRmY4Z3VKUFA2dVhKclpKbml2MjQxZmdLdEgyMGE2dkRzdnJnSzRkU0ItdVNuSnpVMHhSeHdzZXM3Y2ZJaGZsVzJ2cVRWTFNZWGlmckVxcUk1eTNSdzVZZ0hnNDE0cHlsblcxVGJuNnYtTUMwNFpISUktUGNyMWZlTGRwWlV0QW5kN3ZWV0wxNnRYQQ?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTNWdm5ZVVFLUDV0SDQtRy1KMzV3dlVUVDg5aTJaMXNZTXpxRmY4Z3VKUFA2dVhKclpKbml2MjQxZmdLdEgyMGE2dkRzdnJnSzRkU0ItdVNuSnpVMHhSeHdzZXM3Y2ZJaGZsVzJ2cVRWTFNZWGlmckVxcUk1eTNSdzVZZ0hnNDE0cHlsblcxVGJuNnYtTUMwNFpISUktUGNyMWZlTGRwWlV0QW5kN3ZWV0wxNnRYQQ?oc=5",
+      "guid": "CBMitgFBVV95cUxPYTNWdm5ZVVFLUDV0SDQtRy1KMzV3dlVUVDg5aTJaMXNZTXpxRmY4Z3VKUFA2dVhKclpKbml2MjQxZmdLdEgyMGE2dkRzdnJnSzRkU0ItdVNuSnpVMHhSeHdzZXM3Y2ZJaGZsVzJ2cVRWTFNZWGlmckVxcUk1eTNSdzVZZ0hnNDE0cHlsblcxVGJuNnYtTUMwNFpISUktUGNyMWZlTGRwWlV0QW5kN3ZWV0wxNnRYQQ"
+    },
+    "guardian_f17df947": {
+      "id": "guardian_f17df947",
+      "title": "Pill to treat pancreatic cancer hailed as \u2018biggest breakthrough in decades\u2019",
+      "category": "Science",
+      "source": "guardian",
+      "time": "2026-11-20T23:53:59",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://i.guim.co.uk/img/media/d7bac7cca6890657580a396f9255cf7d7b3d2874/1250_0_6250_5000/master/6250.jpg?width=140&quality=85&auto=format&fit=max&s=a39b86006934a5fbc1b4dadf13458620",
+      "content": "A new oral drug, daraxonrasib, has shown unprecedented activity in a clinical trial of patients with advanced pancreatic cancer, with roughly one in twelve participants achieving undetectable disease and most others experiencing tumor stabilization. The study enrolled 61 patients who had been diagnosed with metastatic pancreatic cancer within the preceding months, and imaging after treatment revealed that in about 8\u202f% of the cohort the cancer was no longer detectable, while the majority of participants had tumors that stopped growing. The drug is a pill that can shrink and potentially eliminate pancreas tumors. [1]\n\nThe results have been described by experts as the biggest breakthrough in decades for a disease that has long been associated with poor prognosis and limited treatment options. [1]\n\nIn the trial, patients received daraxonrasib orally, and after a period of treatment, imaging showed that in roughly one in twelve patients the cancer was no longer detectable, while the majority of participants had tumors that stopped growing. The drug is a pill that can shrink and potentially eliminate pancreas tumors. [1]\n\nPancreatic cancer is the fourth leading cause of cancer death in the United States, with a five\u2011year survival rate of about 10\u202f% for metastatic disease. Historically, treatment options for metastatic pancreatic cancer have been limited to chemotherapy regimens such as FOLFIRINOX or gemcitabine plus nab\u2011paclitaxel, which provide modest survival benefits. The mechanism of daraxonrasib is not detailed in the source, but the drug\u2019s oral formulation offers a potential advantage over intravenous therapies.\n\nPatients and families face a disease that is often diagnosed late and has few effective treatments. The trial\u2019s promising results may offer hope for those who have limited options. Clinicians may need to consider how to integrate a new oral agent into existing treatment algorithms.\n\nIf the drug\u2019s efficacy is confirmed in larger studies, it could become a new standard of care and reduce reliance on aggressive chemotherapy. Regulatory authorities will review the data, and the company may seek accelerated approval. The next phase of clinical trials will likely assess long\u2011term outcomes and safety.\n\nWhat to watch next: The study\u2019s findings will be presented to regulatory agencies, and the company may pursue accelerated approval pathways. Subsequent trials will need to confirm the durability of responses and evaluate the drug\u2019s performance in combination with existing therapies. The outcome of these efforts will determine whether daraxonrasib can be incorporated into routine clinical practice for advanced pancreatic cancer.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+        }
+      ],
+      "original_url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "guid": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
     }
   },
   "featured": {
-    "hero": "googlenews_010ac543",
+    "hero": "aljazeera_8ec0df76",
     "stack": [
+      "snopes_83756eb2",
+      "bbc_e0e501d5",
+      "googlenews_06098712"
+    ],
+    "latest": [
+      "googlenews_06098712",
+      "bbc_e0e501d5",
+      "snopes_83756eb2",
+      "googlenews_010ac543",
+      "japantimes_e294317a",
+      "bangkokpost_902ada37"
+    ],
+    "world": [
+      "aljazeera_8ec0df76",
       "france24_e1a6a842",
       "bangkokpost_902ada37",
       "japantimes_e294317a"
-    ],
-    "latest": [
-      "japantimes_e294317a",
-      "bangkokpost_902ada37",
-      "france24_e1a6a842",
-      "npr_46fa8c7e",
-      "aljazeera_eabb5c90",
-      "guardian_1d82f581"
-    ],
-    "world": [
-      "france24_e1a6a842",
-      "bangkokpost_902ada37",
-      "japantimes_e294317a",
-      "bangkokpost_24ddab3b"
     ]
   },
   "categoryIndex": {
@@ -16037,16 +16037,16 @@
       "cjr_9d597949"
     ],
     "World": [
+      "france24_e1a6a842",
+      "aljazeera_eabb5c90",
+      "guardian_1d82f581",
       "bangkokpost_24ddab3b",
       "economist_120a342a",
       "csmonitor_ce9d1863",
       "france24_1a3efdb5",
       "afp_1e581f34",
       "dw_05860830",
-      "straitstimes_5ee52b54",
-      "aljazeera_48559ba8",
-      "bbc_3dcdf2d5",
-      "aljazeera_5b35958f"
+      "straitstimes_5ee52b54"
     ],
     "Politics": [
       "bbc_be0f3b9c",
@@ -16085,6 +16085,8 @@
       "googlenews_556006ff"
     ],
     "Science": [
+      "guardian_f17df947",
+      "npr_46fa8c7e",
       "bbc_629d3db7",
       "guardian_05eb8f26",
       "guardian_5bd871f7",
@@ -16092,9 +16094,7 @@
       "bbc_36bbd554",
       "conversation_9294a8f2",
       "nasa_1f086199",
-      "berkeleyuniv_b8bca195",
-      "npr_678f965d",
-      "nature_b1bec557"
+      "berkeleyuniv_b8bca195"
     ],
     "Business": [
       "googlenews_b85f2741",
@@ -16109,8 +16109,13 @@
       "googlenews_1894fbb1"
     ]
   },
-  "breaking": "Jamaica's beaches are increasingly off limits to locals",
+  "breaking": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
   "events": [
+    {
+      "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+      "date": "2026-11-20",
+      "source": "Verum News"
+    },
     {
       "title": "Scientist.com Launches Pharma Observatory, an Agent-First Market Intelligence Pl",
       "date": "2026-11-18",
@@ -16124,8 +16129,8 @@
   ],
   "mostRead": [
     "Jamaica's beaches are increasingly off limits to locals",
-    "If RJ Luis Jr.'s career at LSU is over, he will be remembered for one of biggest",
-    "Saudi Arabia preparing for war against Yemen\u2019s Houthis to last well into 2027 - ",
-    "Neighbours up arsenic fight"
+    "Do Senate Democrats want to take away Trump's power to pardon himself?",
+    "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+    "If RJ Luis Jr.'s career at LSU is over, he will be remembered for one of biggest"
   ]
 }
