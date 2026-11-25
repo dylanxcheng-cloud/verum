@@ -1,105 +1,5 @@
 {
   "stories": {
-    "conversation_bfbbac0b": {
-      "id": "conversation_bfbbac0b",
-      "title": "Optogenetics wins the Nobel \u2013 one neuroscience breakthrough in a line of technological innovations helping scientists map and control the brain",
-      "category": "Science",
-      "source": "conversation",
-      "time": "2026-10-06T05:57:25",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://images.theconversation.com/files/763993/original/file-20261005-60-gxnx1q.jpg?ixlib=rb-4.1.1&amp;rect=0%2C252%2C2121%2C1060&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
-      "content": "Optogenetics, a technique that uses light to control neurons, has been awarded the Nobel Prize, marking a milestone in neuroscience.\u202f[1]\n\nThe award signals the growing importance of tools that let researchers see, quantify, and manipulate brain activity, and hints at future therapies for neurological disorders.\u202f[1]\n\nThe Nobel Committee announced the prize, citing optogenetics as a breakthrough that has transformed the study of neural circuits.\u202f[1]\n\nThe pattern of visualizing, measuring, and controlling brain activity has guided the field.\u202f[1]\n\nThe Nobel recognition underscores how optogenetics has enabled precise manipulation of specific neurons with light, allowing causal tests of neural circuits.\u202f[1]\n\nOptogenetics was developed in the early 2000s by combining genetic engineering with photophysics to make neurons responsive to light.\n\nThe technique relies on channelrhodopsins, proteins that open ion channels when illuminated, thereby depolarizing or hyperpolarizing neurons.\n\nSince its introduction, optogenetics has been applied in animal models to dissect the neural basis of behavior, pain, and memory.\n\nResearchers in neuroscience, psychiatry, and neurology stand to benefit from the ability to target specific circuits.\n\nClinicians and patients with conditions such as Parkinson\u2019s disease, epilepsy, and depression may eventually receive therapies that use light to modulate brain activity.\n\nThe Nobel award may accelerate funding and collaboration across basic and translational research, potentially speeding the development of optogenetic therapies.\n\nKey questions remain about the safety, delivery methods, and long\u2011term effects of optogenetic interventions in humans, and regulatory pathways will need to be clarified before clinical use.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Conversation",
-          "url": "https://theconversation.com/optogenetics-wins-the-nobel-one-neuroscience-breakthrough-in-a-line-of-technological-innovations-helping-scientists-map-and-control-the-brain-293619"
-        }
-      ],
-      "original_url": "https://theconversation.com/optogenetics-wins-the-nobel-one-neuroscience-breakthrough-in-a-line-of-technological-innovations-helping-scientists-map-and-control-the-brain-293619",
-      "guid": "tag:theconversation.com,2011:article/293619"
-    },
-    "fullfact_8366bd88": {
-      "id": "fullfact_8366bd88",
-      "title": "Reform did not have only one health policy in the 2024 election",
-      "category": "News",
-      "source": "fullfact",
-      "time": "2026-10-06T05:57:36",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://fullfact.org/media/images/5_Oct_2026_AFP__20260930__C9RH483.e86532a2.fill-1200x630.jpg",
-      "content": "The health secretary\u2019s remarks at the Labour Party\u2019s annual conference suggested that Reform\u2019s 2024 election platform contained only a single health policy\u2014a tax break for private healthcare\u2014yet the party\u2019s manifesto lists several additional health proposals.1\n\nThe claim matters because it shapes public perception of Reform\u2019s commitment to health policy and could influence voters who weigh the party\u2019s stance on the NHS and private sector regulation. A mischaracterisation of a party\u2019s platform can affect the credibility of the speaker and the political narrative surrounding the upcoming election.\n\nDuring the conference, the health secretary reportedly told the assembled delegates that Reform\u2019s sole health policy was the tax break for private healthcare. The statement was followed by a brief acknowledgement that the party\u2019s manifesto actually included several other health policies, though the details were not elaborated.1\n\nReform, a centre\u2011right political party that has contested several national elections, released a comprehensive manifesto in 2024 outlining its policy priorities across health, education, and the economy. The document, like most party manifestos, is intended to provide voters with a clear picture of the party\u2019s agenda should it win government.\n\nThe Labour conference is an annual gathering where party members, activists, and supporters convene to discuss strategy, celebrate achievements, and launch new initiatives. Speeches delivered at the event are often broadcast to a national audience and can set the tone for the party\u2019s public messaging.\n\nA tax break for private healthcare typically means a reduction in the tax burden on private health providers, potentially encouraging investment and expansion in the sector. Such a policy is often debated in the context of its impact on public services and the overall health system.\n\nKey stakeholders include the health secretary, who represents the current government\u2019s policy positions; Reform, whose platform is under scrutiny; and the Labour Party, which is responding to the claim. The statement also touches on the broader debate between public and private provision of health services.\n\nVoters, private healthcare providers, and NHS staff are directly affected by any shift in tax policy or regulatory approach. A misunderstanding of Reform\u2019s health agenda could influence how these groups assess the party\u2019s suitability to govern.\n\nThe discrepancy between the health secretary\u2019s assertion and the content of Reform\u2019s manifesto raises questions about the accuracy of political messaging. It highlights the importance of fact\u2011checking during campaign events and the potential for miscommunication to shape electoral narratives.\n\nReform has not yet issued a formal response to the claim, and the party\u2019s spokesperson has declined to comment. The next steps will likely involve a review of the party\u2019s health policies by media outlets and possibly a clarification from the health secretary\u2019s office. The outcome of this exchange will be closely watched as the election campaign intensifies.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Full Fact",
-          "url": "https://fullfact.org/health/yvette-cooper-reform-health-policy-2024/"
-        }
-      ],
-      "original_url": "https://fullfact.org/health/yvette-cooper-reform-health-policy-2024/",
-      "guid": "https://fullfact.org/health/yvette-cooper-reform-health-policy-2024/"
-    },
-    "bangkokpost_d570d0be": {
-      "id": "bangkokpost_d570d0be",
-      "title": "Thailand targets stability with new economic plan",
-      "category": "World",
-      "source": "bangkokpost",
-      "time": "2026-10-06T05:59:12",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://static.bangkokpost.com/media/content/dcx/2026/10/06/6255049_700.jpg",
-      "content": "Thailand\u2019s government has announced a new economic strategy, dubbed STI, that seeks to stabilise the economy today, transition to new growth models now, and invest for tomorrow. The plan was outlined by Finance Minister Ekniti Nitithanprapas, who said the government intends to drive the country\u2019s economy forward with the STI strategy. [1]\n\nThe STI strategy represents a shift in policy focus that could shape Thailand\u2019s economic trajectory over the coming decade. By prioritising stability, transition, and long\u2011term investment, the government signals a renewed commitment to managing macroeconomic risks while positioning the country for future growth. [1]\n\nThe announcement came from the finance ministry, which unveiled the STI strategy as a comprehensive framework for economic policy. The strategy is structured around three pillars: Stabilise Today, Transition Now, and Investment for Tomorrow. Finance Minister Ekniti Nitithanprapas explained that the government\u2019s objective is to drive the economy forward through this coordinated approach. [1]\n\nThailand\u2019s finance ministry traditionally oversees the national budget, fiscal policy, and economic planning. The STI strategy is a new initiative that builds on the ministry\u2019s mandate to promote sustainable growth and fiscal responsibility. While the ministry has previously implemented measures to support businesses and attract investment, the STI framework introduces a clearer, phased agenda for addressing current challenges and laying the groundwork for future development.\n\nThe STI plan will affect a broad range of stakeholders, including businesses, investors, and households. By focusing on stabilisation, the strategy may influence fiscal policy, tax incentives, and regulatory reforms that directly impact the operating environment for companies. The transition pillar suggests a shift toward emerging sectors, potentially reshaping industry dynamics. Meanwhile, the investment for tomorrow component signals an emphasis on long\u2011term capital formation and infrastructure development.\n\nIf the STI strategy includes measures to improve the investment climate, it could enhance Thailand\u2019s attractiveness to foreign direct investment. The emphasis on long\u2011term investment also indicates a focus on building resilient economic foundations that can support sustained growth. These elements may alter the country\u2019s competitive positioning in regional and global markets.\n\nIn the coming weeks, the government is expected to release detailed policy documents and implementation timelines that elaborate on the STI framework. Stakeholders will likely monitor the forthcoming budget, regulatory changes, and any new incentives that accompany the strategy. The next steps may involve consultations with industry groups and the presentation of a comprehensive action plan that outlines specific measures and milestones.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Bangkok Post",
-          "url": "https://www.bangkokpost.com/business/general/3331969/thailand-targets-stability-with-new-economic-plan"
-        }
-      ],
-      "original_url": "https://www.bangkokpost.com/business/general/3331969/thailand-targets-stability-with-new-economic-plan",
-      "guid": ""
-    },
-    "cjr_79cbcd27": {
-      "id": "cjr_79cbcd27",
-      "title": "\u2018I\u2019m a Twenty-Five-Year-Old Who Just Bought My Local Newspaper\u2019",
-      "category": "News",
-      "source": "cjr",
-      "time": "2026-10-06T13:12:31",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://www.cjr.org/wp-content/uploads/2026/10/monticello-news-purchase3.jpg",
-      "content": "A 25\u2011year\u2011old former intern has taken ownership of the Monticello News, a weekly newspaper in Georgia, and has reportedly increased its subscription base by 30 percent within a few weeks of the purchase.\n\nThe rapid rise in paid readers could signal a turning point for a local paper that has struggled to keep circulation numbers steady in an era dominated by digital media, and it may offer a blueprint for other small\u2011town publications facing similar challenges.\n\nThe new owner, who had previously interned at the paper, purchased the Monticello News in early 2024[1]. Within weeks, the paper reported a 30 percent rise in subscriptions[1]. The available reporting does not specify the strategies employed to achieve the growth.\n\nLocal newspapers traditionally depend on a mix of advertising revenue and paid subscriptions. In recent years, many have seen circulation decline as readers shift to online sources. The Monticello News, founded in 1889, has served the community of Monticello, Georgia, for more than a century, providing local news, sports, and community announcements.\n\nThe paper\u2019s readership includes long\u2011time residents, local businesses, and regional advertisers. A subscription surge can improve the paper\u2019s financial stability and increase its influence in local civic matters. The new owner\u2019s youth and prior experience may bring fresh perspectives to editorial and business strategies.\n\nIf the subscription growth proves sustainable, the Monticello News could become a case study for revitalizing small\u2011town newspapers, potentially encouraging other former interns or young professionals to invest in local journalism.\n\nThe next quarterly report, scheduled for June, will reveal whether the 30 percent increase holds and how it translates into revenue.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Columbia Journalism Review",
-          "url": "https://www.cjr.org/business_of_news/im-a-twenty-five-year-old-who-just-bought-my-local-newspaper-former-intern-evan-newton-monticello-news-georgia.php"
-        }
-      ],
-      "original_url": "https://www.cjr.org/business_of_news/im-a-twenty-five-year-old-who-just-bought-my-local-newspaper-former-intern-evan-newton-monticello-news-georgia.php",
-      "guid": "https://www.cjr.org/?p=122542"
-    },
-    "cna_0d836213": {
-      "id": "cna_0d836213",
-      "title": "Why China is holding back fuel exports - and what it means for Asia\u2019s diesel supplies - channelnewsasia.com",
-      "category": "World",
-      "source": "cna",
-      "time": "2026-10-06T13:12:36",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/960px-Flag_of_the_People%27s_Republic_of_China.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "content": "China is holding back fuel exports, a move that has raised concerns about diesel supply across Asia. [1]\n\nThe decision could influence fuel prices and availability for countries that import diesel from China, a major regional supplier. [1]\n\nChannel NewsAsia reports that China has reduced or paused its fuel export shipments, a move that has attracted attention from traders and governments. [1]\n\nThe article explains that China is holding back fuel exports, but does not specify the exact reasons behind the decision. [1]\n\nThe holdback has immediate implications for diesel imports into neighboring countries, many of which rely on Chinese shipments for their supply. [1]\n\nChina is one of the world\u2019s largest consumers of diesel, and its export policies can affect regional markets.\n\nDiesel from China typically travels by sea to Southeast Asia, Japan, and South Korea.\n\nImporting nations, shipping companies, fuel traders, and transportation fleets are all monitoring the situation closely.\n\nThe holdback may lead to higher freight costs and tighter supply for countries with limited alternative sources.\n\nIf China continues to restrict exports, regional diesel prices could rise, and some countries may need to seek alternative suppliers or increase domestic production.\n\nThe situation remains fluid, and the next few weeks will be critical for determining whether the holdback is temporary or part of a longer\u2011term strategy.\n\nFurther reporting will be needed to clarify the motivations behind China\u2019s export decisions and their potential impact on the broader fuel market.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "CNA (Singapore)",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWZpNkJJVUg4U1hGdjRFOVgwbl9Ka2pUUXYxVFdXU0k5WW9PRHQzU1Roc3BJYzBmSWN1NTB5UUp3YlI2R2VwQUNNMVNGQlZTSGo2SGFpOWVQSW9PamFXZEI4dDJCM0dJcDRRbEsxYU9rMi1OWHdPWk5wY08xeDROZDF3UnZmbWp5cnF1eFJxSk5yUU9CWUU0YVVn?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWZpNkJJVUg4U1hGdjRFOVgwbl9Ka2pUUXYxVFdXU0k5WW9PRHQzU1Roc3BJYzBmSWN1NTB5UUp3YlI2R2VwQUNNMVNGQlZTSGo2SGFpOWVQSW9PamFXZEI4dDJCM0dJcDRRbEsxYU9rMi1OWHdPWk5wY08xeDROZDF3UnZmbWp5cnF1eFJxSk5yUU9CWUU0YVVn?oc=5",
-      "guid": "CBMimgFBVV95cUxNLWZpNkJJVUg4U1hGdjRFOVgwbl9Ka2pUUXYxVFdXU0k5WW9PRHQzU1Roc3BJYzBmSWN1NTB5UUp3YlI2R2VwQUNNMVNGQlZTSGo2SGFpOWVQSW9PamFXZEI4dDJCM0dJcDRRbEsxYU9rMi1OWHdPWk5wY08xeDROZDF3UnZmbWp5cnF1eFJxSk5yUU9CWUU0YVVn"
-    },
     "aljazeera_c0e1c366": {
       "id": "aljazeera_c0e1c366",
       "title": "Ukraine launches major drone attack on Russia\u2019s Moscow region, killing two",
@@ -15999,28 +15899,128 @@
       ],
       "original_url": "https://www.snopes.com/fact-check/wasps-remember-faces/",
       "guid": "https://www.snopes.com/fact-check/wasps-remember-faces/"
+    },
+    "aljazeera_96ae0a72": {
+      "id": "aljazeera_96ae0a72",
+      "title": "Pakistan rejoices as country\u2019s first astronaut enters orbit",
+      "category": "World",
+      "source": "aljazeera",
+      "time": "2026-11-25T07:56:55",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b067e9c711c-1795587740.jpg?resize=1920%2C1440",
+      "content": "Zeeshan Ali, a Pakistani national, became the first foreign astronaut to board China\u2019s space station, a milestone that has sparked widespread celebration across Pakistan. The historic flight marks a new chapter in international space cooperation and underscores China\u2019s expanding role as a launch partner for non\u2011Chinese astronauts.\u202f[1]\n\nThe event is significant for several reasons. It signals a breakthrough for Pakistan\u2019s nascent space ambitions, provides a tangible example of cross\u2011border collaboration in space, and demonstrates China\u2019s willingness to open its orbital platform to partners beyond its own national crew.\u202f[1]\n\nAccording to reports, Ali boarded the Chinese space station during a recent launch, becoming the first non\u2011Chinese person to do so. The mission was carried out by China\u2019s space agency, and the launch vehicle carried Ali aboard a spacecraft that docked with the station\u2019s modular habitat.\u202f[1]\n\nChina\u2019s space station, known as Tiangong, has been assembled in orbit since 2021. The station consists of a core module, a laboratory module, and a cargo module, all of which are designed to support long\u2011duration human presence and scientific research. The docking of Ali\u2019s spacecraft added a new international element to the station\u2019s crew composition.\n\nThe Chinese space program has evolved rapidly over the past two decades. It achieved its first crewed flight in 2003 with the Shenzhou 5 mission, and since then has launched a series of crewed missions that have progressively extended the duration of stays aboard its orbital platforms. The Tiangong station represents the culmination of these efforts, providing a permanent human presence in low Earth orbit.\n\nPakistan\u2019s space program, while still developing, has pursued a range of initiatives, including satellite launches and the establishment of a national space agency. The country has expressed interest in participating more fully in international space activities, and Ali\u2019s mission represents a tangible step toward that goal.\n\nKey stakeholders in this development include the Chinese National Space Administration, which facilitated the launch and docking; Pakistan\u2019s space authorities, which coordinated the mission\u2019s scientific objectives; and the broader international community of space\u2011faring nations that monitor such collaborations. The mission also highlights the growing trend of space diplomacy, where access to orbital platforms becomes a tool for fostering bilateral ties.\n\nFor Pakistan, the immediate impact is a surge of national pride and a boost to its reputation as a participant in high\u2011tech endeavors. The mission also opens the door to future joint research projects, potential satellite launches, and training opportunities for Pakistani scientists and engineers.\n\nFrom a broader perspective, the flight illustrates China\u2019s strategy of extending its influence in space by offering access to its orbital infrastructure. This approach may encourage other developing nations to seek similar partnerships, potentially reshaping the landscape of international space collaboration.\n\nLooking ahead, observers will watch for announcements regarding further international crewed missions to Tiangong. China has indicated plans to invite additional foreign astronauts in the coming years, and Pakistan may seek to leverage this opportunity to deepen its engagement with the Chinese space program.\n\nThe successful docking of Zeeshan Ali marks a historic moment for both Pakistan and China, and it sets a precedent for future international cooperation in space exploration. The event underscores the potential for space to serve as a platform for collaboration that transcends national boundaries.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss"
+        }
+      ],
+      "original_url": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss",
+      "guid": "https://www.aljazeera.com/?t=1795587604"
+    },
+    "aljazeera_821c8fbb": {
+      "id": "aljazeera_821c8fbb",
+      "title": "Sentences served, but Gaza prisoners remain behind Israeli bars",
+      "category": "World",
+      "source": "aljazeera",
+      "time": "2026-11-25T07:56:59",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A2836-copy-1795550539.jpg?resize=1920%2C1440",
+      "content": "Despite completing their sentences, several Palestinian prisoners from Gaza remain in Israeli prisons, leaving families in Gaza in a state of uncertainty. [1]\n\nThe continued detention of these individuals has left families in Gaza waiting for the return of loved ones, raising questions about the application of Israeli law to Palestinian detainees. [1]\n\nAccording to reports, the prisoners had served the full terms assigned to them but have not yet been released. [1] The families in Gaza are awaiting their release. [1] The available reporting does not specify the number of prisoners or the length of their sentences.\n\nThe Gaza Strip has been under Israeli control since 1967, and its residents are subject to Israeli military law.\n\nPalestinian detainees are often held in Israeli prisons located in the West Bank, Jerusalem, or the mainland.\n\nThe Israeli legal system allows for parole and early release, but the process can be lengthy and opaque.\n\nThe families in Gaza are directly affected, as they await the return of relatives who have completed their sentences.\n\nIsraeli authorities are responsible for the detention and release of prisoners.\n\nThe situation underscores the broader issue of Palestinian prisoners in Israeli custody and the difficulties of navigating the legal and political landscape.\n\nIt remains unclear when the prisoners will be released, and whether any appeals or legal actions are underway.\n\nFamilies in Gaza often rely on community networks and NGOs for support while awaiting the release of relatives.\n\nThe case highlights the need for transparent communication from authorities regarding the status of detainees.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars?traffic_source=rss"
+        }
+      ],
+      "original_url": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars?traffic_source=rss",
+      "guid": "https://www.aljazeera.com/?t=1795537318"
+    },
+    "googlenews_a0abbf47": {
+      "id": "googlenews_a0abbf47",
+      "title": "Jensen Huang says he\u2019s thankful for second chance at Nvidia employee meeting - NBC News",
+      "category": "Business",
+      "source": "googlenews",
+      "time": "2026-11-25T07:57:46",
+      "read": "3 min read",
+      "mode": "long",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "content": "Jensen Huang, the chief executive of Nvidia, publicly apologized to his employees, admitted he is receiving therapy, and expressed gratitude for a second chance to address staff at a recent company meeting.\u202f[1] The remarks came after a period of heightened scrutiny over the company\u2019s leadership and its role in the rapidly expanding artificial\u2011intelligence market.\n\nThe CEO\u2019s statements are significant because Nvidia is one of the most influential firms in the semiconductor industry, and Huang has been a central figure in driving the company\u2019s growth and its pivot to AI\u2011centric products.\u202f[1] His admission of personal therapy and the apology signal a shift in the company\u2019s internal culture and may affect how investors, regulators, and employees view the firm\u2019s stability and governance.\n\nDuring the employee meeting, Huang said he was \u201cthankful for a second chance\u201d to speak with staff and to address concerns that had surfaced in the weeks prior.\u202f[1] He also apologized for any distress his leadership style may have caused, noting that he has been in therapy to better manage the pressures of running a high\u2011profile technology company.\u202f[1] The meeting was reportedly the first in-person gathering of Nvidia\u2019s workforce since the pandemic\u2011era shift to remote work.\n\nThe White House has reportedly been \u201cfrantic\u201d in its push to get Huang back into a more active role at the company, according to a Wall Street Journal report.\u202f[1] The administration\u2019s interest reflects the broader national conversation about the strategic importance of AI and the semiconductor supply chain, and the potential impact of leadership stability on U.S. technological competitiveness.\n\nA CNBC piece highlighted that concerns about AI\u2011related debt are growing, even as Nvidia\u2019s recent financial rebound masks a broader squeeze in Big Tech spending.\u202f[1] The article suggests that while Nvidia\u2019s earnings have improved, the company\u2019s debt profile remains a point of concern for analysts and investors alike.\n\nThe New Yorker published an article titled \u201cLong Live the Chip King,\u201d which profiles Huang\u2019s rise and influence in the semiconductor industry.\u202f[1] The piece contextualizes his leadership style and the expectations placed on him by both the market and the broader tech ecosystem.\n\nNvidia\u2019s core business revolves around designing graphics processing units (GPUs) that power gaming, professional visualization, data centers, and automotive applications.\u202fThe company\u2019s GPUs have become the backbone of many AI workloads, making Nvidia a key player in the AI revolution.\u202fHuang\u2019s strategic decisions over the past decade have positioned Nvidia at the forefront of this shift.\n\nHuang has led Nvidia through a series of transformative product launches and strategic acquisitions, expanding the company\u2019s reach beyond gaming into cloud computing and autonomous vehicles.\u202fHis vision has guided Nvidia\u2019s transition from a niche graphics company to a global AI powerhouse.\n\nEmployees are directly impacted by the CEO\u2019s leadership style and public statements.\u202fAn apology and admission of therapy may influence workplace morale and trust in management.\u202fInvestors, meanwhile, monitor executive conduct as a proxy for corporate governance and long\u2011term value creation.\u202fRegulators are also watching leadership dynamics, given the strategic importance of Nvidia\u2019s technology to national security and economic policy.\n\nThe CEO\u2019s candidness could improve employee morale by acknowledging past shortcomings and demonstrating a willingness to change.\u202fIt may also reassure investors that the company is addressing internal challenges, potentially stabilizing stock performance.\u202fHowever, the admission of personal therapy could raise questions about the CEO\u2019s capacity to handle the demands of a rapidly evolving industry.\n\nLooking ahead, Nvidia\u2019s next quarterly earnings report will be closely watched to assess whether the company\u2019s financial health aligns with the narrative of a \u201crebound\u201d that masks underlying debt concerns.\u202fPolicy makers may also consider the implications of the White House\u2019s interest in the company\u2019s leadership for future regulatory or strategic initiatives.\u202fThe outcome of these developments will shape the trajectory of Nvidia\u2019s role in the AI ecosystem and its broader impact on the technology sector.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmhlWk90SmZVWUllcWFBTGNHbWs3SUhBUXNEWUh1ei1tQUd0eFQxSHN5RnJHcFZyRENZS3VCaVdLalFqZzZpd29NcjRJU3BuSGlEVGZULXJJRVN3VlVJeXE4RGM2VVBIcFNPaC1ielpmaWd2YjZzZkxWU195YWNyQmlvTXVmQ1hFelNzcGtabU0xUGtUUlItTXhhYnBjX3NsQm1BajRtRWhwblFubjhqLVg5eV8tbW9wU2JWWWMybVpPQQ?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmhlWk90SmZVWUllcWFBTGNHbWs3SUhBUXNEWUh1ei1tQUd0eFQxSHN5RnJHcFZyRENZS3VCaVdLalFqZzZpd29NcjRJU3BuSGlEVGZULXJJRVN3VlVJeXE4RGM2VVBIcFNPaC1ielpmaWd2YjZzZkxWU195YWNyQmlvTXVmQ1hFelNzcGtabU0xUGtUUlItTXhhYnBjX3NsQm1BajRtRWhwblFubjhqLVg5eV8tbW9wU2JWWWMybVpPQQ?oc=5",
+      "guid": "CBMiwgFBVV95cUxOQmhlWk90SmZVWUllcWFBTGNHbWs3SUhBUXNEWUh1ei1tQUd0eFQxSHN5RnJHcFZyRENZS3VCaVdLalFqZzZpd29NcjRJU3BuSGlEVGZULXJJRVN3VlVJeXE4RGM2VVBIcFNPaC1ielpmaWd2YjZzZkxWU195YWNyQmlvTXVmQ1hFelNzcGtabU0xUGtUUlItTXhhYnBjX3NsQm1BajRtRWhwblFubjhqLVg5eV8tbW9wU2JWWWMybVpPQQ"
+    },
+    "bbc_e0496543": {
+      "id": "bbc_e0496543",
+      "title": "Disability benefit review calls for closer link with claimant costs",
+      "category": "Politics",
+      "source": "bbc",
+      "time": "2026-11-25T07:57:56",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8836/live/971a11c0-e828-11f1-8d9d-c156c75bcdb5.jpg",
+      "content": "A government\u2011commissioned report has called for a rebalancing of disability benefit payments to better reflect the costs incurred by claimants.\u202f[1]\n\nThe recommendation could reshape the financial support available to people with disabilities, potentially altering the amount they receive and how it aligns with their living expenses.\u202f[1]\n\nThe report, released by the government, urged a closer link between the benefits paid and the actual costs faced by claimants, suggesting adjustments across different claimant categories.\u202f[1]\n\nDisability benefits are designed to provide financial assistance to individuals who cannot work full\u2011time because of a physical or mental impairment. The system typically includes a range of payments, such as a basic allowance, additional support for care needs, and allowances for extra costs. These payments are intended to help claimants cover everyday expenses and to compensate for the loss of income.\n\nGovernment reviews of benefit schemes are usually commissioned to assess the effectiveness, fairness, and sustainability of existing policies. The review process often involves gathering evidence from claimants, experts, and stakeholders, analysing data on benefit levels and claimant costs, and producing recommendations for reform. Previous reviews have led to adjustments in payment rates, eligibility criteria, and administrative procedures.\n\nThe primary stakeholders in this proposed change are the claimants themselves, disability advocacy organisations, and the government departments responsible for social security. Claimants stand to experience either increases or decreases in their benefit entitlements, depending on how the rebalancing is implemented. Advocacy groups may support measures that reduce gaps between benefits and costs, while some government officials may emphasise fiscal sustainability.\n\nIf the recommendations are adopted, claimants could see a more accurate reflection of their out\u2011of\u2011pocket expenses in the benefit amounts they receive. This could improve financial stability for many, but it may also require adjustments to the administrative framework that calculates and disburses payments. The change could prompt a review of how cost data is collected and used in benefit determinations.\n\nThe next steps will involve a period of consultation with claimants and experts, followed by the drafting of policy proposals that incorporate the report\u2019s recommendations. The government will need to set a timetable for implementation and determine the resources required to adjust the benefit calculation system. Open questions remain about the precise nature of the adjustments, the timeline for rollout, and how the changes will be monitored for effectiveness.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o#0"
+    },
+    "bbc_b999f97f": {
+      "id": "bbc_b999f97f",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "category": "World",
+      "source": "bbc",
+      "time": "2026-11-25T07:58:21",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "content": "The U.S. attorney general has reportedly avoided answering questions about a federal investigation into Nvidia, a move that has sparked fresh demands from lawmakers for clarity on the role of former President Donald Trump in the reinstatement of a key Nvidia executive, Huang. Nvidia\u2019s shares fell 7% in early trading following the exchange of statements, underscoring the market\u2019s sensitivity to regulatory scrutiny. [1]\n\nThe episode highlights the growing intersection of corporate governance, federal oversight, and political influence. Investors, regulators, and lawmakers are watching closely to see whether the investigation will uncover any wrongdoing that could affect Nvidia\u2019s business operations or its standing in the global semiconductor market. [1]\n\nAccording to reports, the attorney general\u2019s office declined to provide details about the scope or status of the probe, prompting a bipartisan group of senators to issue a formal request for information. The request specifically asks for evidence of any direct involvement by President Trump in the decision to reinstate Huang, a move that some view as politically motivated. [1]\n\nNvidia, a leading designer of graphics processing units and artificial\u2011intelligence hardware, has faced increasing regulatory attention in recent years. The company\u2019s rapid growth and strategic acquisitions have drawn scrutiny from antitrust regulators and lawmakers concerned about market concentration. [1]\n\nThe investigation\u2019s focus, while not fully disclosed, appears to revolve around corporate governance practices and potential conflicts of interest. The attorney general\u2019s office has stated that it is conducting a thorough review, but the lack of transparency has fueled speculation about the depth of the inquiry. [1]\n\nLawmakers argue that the investigation is essential to ensure that executive appointments at major technology firms are made on merit rather than political patronage. They contend that any evidence of improper influence could undermine confidence in the integrity of the tech sector\u2019s leadership. [1]\n\nThe market reaction\u2014 a 7% drop in Nvidia\u2019s share price\u2014 reflects investors\u2019 concerns about possible regulatory penalties or reputational damage. While the company\u2019s long\u2011term prospects remain strong, the immediate impact illustrates how quickly corporate valuations can shift in response to perceived governance risks. [1]\n\nStakeholders most directly affected include Nvidia\u2019s shareholders, employees, and customers who rely on its products for gaming, data centers, and artificial\u2011intelligence applications. The investigation could also influence the broader semiconductor supply chain, as partners and suppliers monitor the outcome for potential ripple effects. [1]\n\nThe implications of the investigation are still unfolding. If the probe uncovers evidence of improper conduct, it could lead to fines, mandatory reforms, or changes in executive leadership. Even without formal findings, the mere existence of a federal inquiry can erode stakeholder confidence and prompt calls for stricter oversight of tech firms. [1]\n\nLawmakers have set a deadline for the attorney general\u2019s office to provide a detailed briefing, and the next congressional hearing is scheduled for the end of next month. The outcome of that hearing will likely determine whether the investigation proceeds to a formal charge or is closed. [1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo#0"
     }
   },
   "featured": {
-    "hero": "googlenews_40962eda",
+    "hero": "aljazeera_96ae0a72",
     "stack": [
-      "csmonitor_96ec5f4d",
-      "googlenews_12f532bf",
-      "fullfact_08be8f33"
+      "aljazeera_821c8fbb",
+      "googlenews_a0abbf47",
+      "bbc_e0496543"
     ],
     "latest": [
+      "bbc_e0496543",
+      "googlenews_a0abbf47",
+      "aljazeera_821c8fbb",
+      "googlenews_40962eda",
       "fullfact_08be8f33",
-      "googlenews_12f532bf",
-      "csmonitor_96ec5f4d",
-      "abcau_5679bed0",
-      "bbc_525213dd",
-      "smh_a8563c11"
+      "googlenews_12f532bf"
     ],
     "world": [
-      "csmonitor_96ec5f4d",
-      "japantimes_64590611",
-      "abcau_5679bed0",
-      "reuters_08b972aa"
+      "aljazeera_96ae0a72",
+      "aljazeera_821c8fbb",
+      "bbc_b999f97f",
+      "csmonitor_96ec5f4d"
     ]
   },
   "categoryIndex": {
@@ -16037,16 +16037,16 @@
       "snopes_83756eb2"
     ],
     "World": [
+      "bbc_b999f97f",
+      "csmonitor_96ec5f4d",
+      "abcau_5679bed0",
+      "smh_a8563c11",
       "japantimes_64590611",
       "reuters_08b972aa",
       "bangkokpost_1b30449b",
       "straitstimes_c5e08f3f",
       "straitstimes_c4d29491",
-      "csmonitor_9648662e",
-      "bbc_704dc41b",
-      "aljazeera_7d320455",
-      "reuters_cbc519ec",
-      "abcau_c77147a9"
+      "csmonitor_9648662e"
     ],
     "Politics": [
       "bbc_6e19252f",
@@ -16085,6 +16085,7 @@
       "googlenews_914d6b21"
     ],
     "Science": [
+      "bbc_525213dd",
       "npr_49d32df7",
       "nasa_bb1ee0f2",
       "nature_6e3367f1",
@@ -16093,8 +16094,7 @@
       "conversation_ac96abaf",
       "npr_2feaa0ef",
       "berkeleyuniv_84265d01",
-      "bbc_e0e501d5",
-      "guardian_f17df947"
+      "bbc_e0e501d5"
     ],
     "Business": [
       "googlenews_095eaa07",
@@ -16109,8 +16109,13 @@
       "googlenews_c5a177c8"
     ]
   },
-  "breaking": "At Thanksgiving, extra servings of gratitude and grace",
+  "breaking": "Pakistan rejoices as country\u2019s first astronaut enters orbit",
   "events": [
+    {
+      "title": "Jensen Huang says he\u2019s thankful for second chance at Nvidia employee meeting - N",
+      "date": "2026-11-25",
+      "source": "Verum News"
+    },
     {
       "title": "The latest from Trump's press conference",
       "date": "2026-11-21",
@@ -16125,7 +16130,7 @@
   "mostRead": [
     "At Thanksgiving, extra servings of gratitude and grace",
     "Tech giants must consider addictive \u2018doomscrolling\u2019 under new online laws - ABC ",
-    "The Mortality Gap Between Black and White Americans Is Shrinking - The New York ",
-    "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'"
+    "Pakistan rejoices as country\u2019s first astronaut enters orbit",
+    "Sentences served, but Gaza prisoners remain behind Israeli bars"
   ]
 }
