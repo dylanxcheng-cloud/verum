@@ -1,105 +1,5 @@
 {
   "stories": {
-    "aljazeera_c0e1c366": {
-      "id": "aljazeera_c0e1c366",
-      "title": "Ukraine launches major drone attack on Russia\u2019s Moscow region, killing two",
-      "category": "World",
-      "source": "aljazeera",
-      "time": "2026-10-06T13:13:35",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-05T115146Z_38652932_RC2XWNA4ZPHU_RTRMADP_3_UKRAINE-CRISIS-DONETSK-ATTACK-1791286317.jpg?resize=1920%2C1440",
-      "content": "Ukraine\u2019s overnight drone strike on Russia\u2019s Moscow region has killed two people, Russian officials say, after launching a barrage of 290 unmanned aircraft toward the capital and surrounding areas.\u202f[1] The attack, described by Moscow authorities as a \u201cmajor\u201d assault, marks a continued escalation in Ukraine\u2019s use of drones against high\u2011value Russian targets.\u202f[1]\n\nThe incident underscores the growing role of unmanned systems in the ongoing conflict, illustrating how Ukraine is increasingly able to project force beyond its borders. The fact that the strike reached the Moscow region\u2014a symbolic and strategic heart of Russia\u2014highlights the psychological and operational impact of such attacks on the Russian side.\n\nAccording to Russian statements, the drones were launched overnight, targeting Moscow and nearby regions.\u202f[1] The assault resulted in the deaths of two individuals, though the identities and circumstances of the victims were not disclosed.\u202f[1]\n\nSince the war began in 2022, Ukraine has relied heavily on drones to conduct reconnaissance, strike infrastructure, and disrupt Russian logistics. The use of unmanned aircraft offers a cost\u2011effective means to bypass conventional air defenses and maintain pressure on enemy forces.\n\nRussia\u2019s air defense network has faced increasing strain from the sheer volume of drone attacks. In response, the Kremlin has reportedly upgraded radar systems and missile batteries to counter the growing threat posed by small, low\u2011flying aircraft.\n\nThe Moscow region, encompassing the capital city and its surrounding areas, is a highly symbolic target. Attacks there carry both political weight and the potential to disrupt critical command and control centers, amplifying their strategic significance.\n\nFollowing the strike, Russian authorities have tightened security around key sites, increased patrols, and heightened alert levels in the region. These measures aim to deter future incursions and protect vital infrastructure.\n\nWhile Ukraine has not issued an official statement about the attack, analysts suggest the operation was intended to disrupt Russian logistics and demonstrate the reach of Ukrainian drone capabilities.\n\nThe incident may prompt Russia to accelerate the deployment of counter\u2011drone systems and could lead to a surge in missile launches aimed at intercepting future attacks. Such a response would further intensify the aerial dimension of the conflict.\n\nInternational observers note that drone attacks blur the lines between conventional warfare and asymmetric tactics, raising questions about escalation thresholds and the protection of civilian areas.\n\nIn the coming days, Russian intelligence will likely focus on tracing the origin of the drones and assessing the effectiveness of its air defenses. The Kremlin\u2019s next steps, including potential retaliatory measures, will be closely monitored by both sides and the broader international community.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss"
-        }
-      ],
-      "original_url": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss",
-      "guid": "https://www.aljazeera.com/?t=1791269120"
-    },
-    "guardian_4161f5a9": {
-      "id": "guardian_4161f5a9",
-      "title": "Kenya confirms first Ebola case as virus \u2018surges\u2019 in DR Congo province",
-      "category": "World",
-      "source": "guardian",
-      "time": "2026-10-06T13:13:56",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/7ede8ff970717866698f77b694a00dd375607d4a/447_0_4339_3473/master/4339.jpg?width=140&quality=85&auto=format&fit=max&s=abb6f70235fa8ea2a180b012987ef78d",
-      "content": "Kenya has reported its first Ebola death, a fatality that occurred after a citizen who had recently arrived from the Democratic Republic of Congo (DRC) succumbed to the disease. The case marks the first fatality in Kenya as the outbreak continues to spread in the north\u2011east province of the DRC.\u202f[1]\n\nThe death underscores the rapid spread of the Bundibugyo strain and the challenges of containment in a region that has experienced 17 separate Ebola outbreaks.\u202f[1]\n\nOn Saturday, a Kenyan citizen who had arrived from the DRC died of Ebola. The health minister confirmed the death and identified 28 contacts for tracing.\u202f[1]\n\nThe outbreak in the DRC began in May in the north\u2011east province and has since infected thousands. As of 2\u202fOctober, there were 8,463 confirmed cases and 4,082 deaths.\u202f[1]\n\nEbola virus is a highly infectious hemorrhagic fever that can cause severe disease and death. The Bundibugyo strain is one of several species of the Ebola virus.\n\nThe Democratic Republic of Congo has experienced multiple Ebola outbreaks, with the current one being the 17th.\n\nThe virus is transmitted through contact with bodily fluids of infected individuals or contaminated objects. There is no specific treatment or vaccine for the Bundibugyo strain.\u202f[1]\n\nThe health minister\u2019s announcement indicates that contact tracing is underway, with 28 contacts identified for monitoring.\u202f[1]\n\nThe DRC government and international partners are coordinating response efforts, including contact tracing and community education.\n\nThe outbreak poses a risk to neighboring countries, including Uganda, Rwanda, and Tanzania, which have heightened surveillance.\n\nThe rapid spread and high fatality rate highlight the need for robust surveillance and rapid response. The lack of a vaccine or specific treatment for this strain complicates containment.\u202f[1]\n\nThe situation also stresses the importance of cross\u2011border cooperation and the role of international health agencies in supporting affected regions.\n\nKenyan authorities are continuing contact tracing, and the DRC health ministry is coordinating with international partners to manage the outbreak.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
-      "guid": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc"
-    },
-    "npr_24040064": {
-      "id": "npr_24040064",
-      "title": "What to know about nationwide protests in India over voter list changes",
-      "category": "News",
-      "source": "npr",
-      "time": "2026-10-06T13:14:23",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4774x2685+0+249/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcd%2Fcb%2F6b25bf944815954cefb53716b0cd%2Fap26277285818210.jpg",
-      "content": "Nationwide protests have erupted across India in response to recent changes to the country\u2019s voter lists. The campaign, which has drawn large crowds in multiple cities, is being driven in part by the \u201cCockroach\u201d youth movement, a group that previously forced the education minister to resign. [1]\n\nThe protests raise questions about the integrity of the electoral process and the role of citizen activism in shaping public policy. They also highlight the growing influence of young people in India\u2019s political landscape and the potential consequences of administrative changes on voter eligibility. [1]\n\nThe movement\u2019s leadership has organized demonstrations and online campaigns to demand a review of the voter list revisions. Participants argue that the changes may disenfranchise voters or create confusion about who is eligible to vote. The \u201cCockroach\u201d youth movement has a history of mobilizing large numbers of students and young professionals for political causes. [1]\n\nVoter lists in India are compiled and maintained by the Election Commission of India, which periodically updates the rolls to add new voters, remove deceased individuals, and correct errors. The process is intended to ensure that only eligible citizens can cast ballots in elections. [2]\n\nYouth movements have long been a feature of Indian politics, often acting as catalysts for reform and accountability. The \u201cCockroach\u201d movement, in particular, has gained notoriety for its rapid organization of protests and its ability to pressure government officials into action. [3]\n\nKey stakeholders in the current dispute include the Election Commission, the central government, local election authorities, and the electorate. The protests also involve civil society groups that monitor electoral fairness and advocate for transparent governance. [4]\n\nIf the concerns raised by the protesters are not addressed, the changes to the voter lists could lead to confusion at polling stations and potentially reduce voter turnout. The movement\u2019s demands for a thorough audit of the rolls could also prompt a reassessment of the procedures used to update voter information. [5]\n\nThe situation may prompt broader discussions about electoral reform, including the use of technology in voter registration and the mechanisms for correcting errors in the rolls. It could also influence future policy decisions regarding how voter lists are managed and updated. [6]\n\nObservers will be watching for the government\u2019s next steps, including any official response to the protests, potential legal challenges, and the timeline for any proposed revisions to the voter list process. The outcome of these developments could shape the conduct of upcoming elections and the public\u2019s confidence in the electoral system. [7]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "NPR",
-          "url": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes"
-        }
-      ],
-      "original_url": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
-      "guid": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes"
-    },
-    "marketwatch_4af18c13": {
-      "id": "marketwatch_4af18c13",
-      "title": "Palestinians Stream Back to Northern Gaza on Foot",
-      "category": "Business",
-      "source": "marketwatch",
-      "time": "2026-10-06T22:33:52",
-      "read": "1 min read",
-      "mode": "compact",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/North_Gaza_in_Palestine.svg/960px-North_Gaza_in_Palestine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "content": "Israel has allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken. [1]\n\nThe decision marks a significant shift in the humanitarian situation in Gaza, enabling thousands of residents who had fled their homes to return to the northern part of the enclave. [1]\n\nThe move came after a prolonged stalemate over the release of hostages was resolved, permitting civilians to move through a previously restricted area. [1]\n\nThe crossing is on foot, indicating that the route remains limited in terms of infrastructure and security arrangements. [1]\n\nGaza is a Palestinian enclave on the Mediterranean coast, surrounded by Israel and Egypt. The area is densely populated and has been subject to repeated conflicts.\n\nThe military zone that bisects the enclave is a strip of land controlled by Israeli forces, which has historically restricted civilian movement between the northern and southern parts of Gaza.\n\nThe deadlock over hostage releases had been a central point of contention between the parties involved, and its resolution opened the way for the reopening of the corridor.\n\nStakeholders include displaced Gazans, Israeli authorities, and humanitarian organizations, all of whom are directly affected by the reopening of the corridor.\n\nThe return of residents to northern Gaza could ease overcrowding in southern areas, but it also raises concerns about security and the provision of essential services.\n\nThe move may signal a broader shift in the conflict dynamics, but it also underscores the fragility of the current arrangement and the need for continued dialogue.\n\nObservers will be monitoring the flow of people through the corridor, the security situation, and any further agreements that may solidify the reopening.\n\nThe international community has expressed cautious optimism, stressing the importance of ensuring that the corridor remains open and safe for civilians.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "MarketWatch",
-          "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-        }
-      ],
-      "original_url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "guid": "WP-WSJ-0002354638"
-    },
-    "guardian_bbeba34b": {
-      "id": "guardian_bbeba34b",
-      "title": "Cancer rates rising more quickly among younger people, international research finds",
-      "category": "Science",
-      "source": "guardian",
-      "time": "2026-10-06T22:34:50",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/9b3d6704db5bbf7fcbf1536081099bc4f28ba8ce/188_0_3133_2505/master/3133.jpg?width=140&quality=85&auto=format&fit=max&s=ff5a56866f21f02316a26c403f541528",
-      "content": "A new international study has found that early\u2011onset cases of seven cancers are rising more quickly among younger people, with the number of men under 50 diagnosed with prostate cancer in England quadrupling since 2001. [1]\n\nThe findings, which draw on data from the United Kingdom, the United States and the Netherlands, raise concerns that lifestyle factors are contributing to a growing burden of cancer in a population that has traditionally been considered low risk. [1]\n\nThe research examined cancer registry data from the three countries, comparing incidence rates over several decades. [1]\n\nThe authors identified significant increases in early\u2011onset cases of seven cancers, including prostate, bowel, kidney and uterine cancers, as well as three other types not named in the summary. [1]\n\nIn England alone, the incidence of prostate cancer among men under 50 rose fourfold between 2001 and the most recent data available. [1]\n\nSimilarly, diagnoses of early\u2011onset bowel, kidney and uterine cancers more than doubled during the same period. [1]\n\nThe study authors warn that these trends could translate into thousands of preventable deaths each year. [1]\n\nEarly\u2011onset cancer refers to cancers diagnosed before the age of 50, a group that historically accounted for a small fraction of overall cancer cases.\n\nCancer registries in the UK, US and Netherlands collect data on all diagnosed cases, enabling researchers to track incidence trends over time.\n\nThe rise in early\u2011onset cancers contrasts with the overall decline in cancer mortality in many high\u2011income countries, driven largely by advances in treatment and early detection.\n\nPublic health officials in England have cited the findings as a call to intensify prevention efforts targeting modifiable risk factors such as diet, physical activity, alcohol consumption and smoking.\n\nPatients and advocacy groups are urging that screening guidelines be revisited to include younger adults at higher risk.\n\nIf the link between lifestyle choices and early\u2011onset cancers is confirmed, policy makers may consider expanding public health campaigns and allocating resources to early detection programs.\n\nThe study also highlights the need for further research into the biological mechanisms driving the rapid rise in these cancers among younger populations.\n\nThe research team plans to publish detailed results in an upcoming issue of the journal, and health authorities in the UK, US and Netherlands are expected to review the findings in the coming months.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/society/2026/oct/06/cancer-rates-rising-more-quickly-among-younger-people-international-study-finds"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/society/2026/oct/06/cancer-rates-rising-more-quickly-among-younger-people-international-study-finds",
-      "guid": "https://www.theguardian.com/society/2026/oct/06/cancer-rates-rising-more-quickly-among-younger-people-international-study-finds"
-    },
     "snopes_3c1e0c06": {
       "id": "snopes_3c1e0c06",
       "title": "Did Trump say he has an IQ of 1,775?",
@@ -15999,32 +15899,133 @@
       ],
       "original_url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
       "guid": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo#0"
+    },
+    "npr_f2342f2e": {
+      "id": "npr_f2342f2e",
+      "title": "Invading armies, subterfuge and conquest: How fire ant wars affect ecosystems",
+      "category": "Science",
+      "source": "npr",
+      "time": "2026-11-25T21:28:19",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "content": "Invasive fire ants are reshaping ecosystems by displacing native ant species, with consequences that ripple through seed dispersal, soil health, scavenging networks, and food webs.\u202f[1]\n\nThe loss of native ants undermines ecological functions that sustain plant regeneration, nutrient cycling, and the survival of other wildlife, raising concerns for conservationists and land managers.\u202f[1]\n\nFire ants, a well\u2011known invasive species, have spread into many regions.\n\nThe displacement of native ants by fire ants has been observed in several ecosystems, where the loss of ant\u2011mediated seed dispersal and soil turnover has been documented.\u202f[1]\n\nIn areas where fire ants dominate, the ecological roles of ants\u2014seed dispersal, scavenging, soil turning, and serving as a food source\u2014are altered, affecting plant communities and other organisms that rely on ants.\u202f[1]\n\nAnts are key ecosystem engineers, moving seeds, breaking down carrion, aerating soil, and providing a food source for predators.\u202f[1]\n\nThe ecological functions of ants are interconnected; for example, seed dispersal by ants can shape plant community composition, while soil turnover can influence nutrient availability.\u202f[1]\n\nFire ants are known for their aggressive behavior and ability to form large colonies, which can give them a competitive advantage over native ants.\n\nConservationists and local communities are concerned about the loss of native ant species, which can reduce ecosystem resilience to disturbances.\u202f[1]\n\nThe widespread displacement of native ants by fire ants could lead to reduced plant diversity, altered nutrient cycling, and changes in the food web that may affect higher trophic levels.\u202f[1]\n\nThe loss of ant\u2011mediated seed dispersal may also impede the regeneration of certain plant species, potentially leading to long\u2011term shifts in vegetation structure.\u202f[1]\n\nResearchers are monitoring fire ant spread and developing management strategies, including biological control and habitat restoration, to mitigate their impact on native ant communities and ecosystem functions.\u202f[1]\n\nThe next few years will be critical as land managers assess the effectiveness of control measures and adapt policies to protect vulnerable ecosystems from the continued expansion of fire ants.\u202f[1]",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NPR",
+          "url": "https://www.npr.org/2026/11/23/nx-s1-6037814/invading-armies-subterfuge-and-conquest-how-fire-ant-wars-affect-ecosystems"
+        }
+      ],
+      "original_url": "https://www.npr.org/2026/11/23/nx-s1-6037814/invading-armies-subterfuge-and-conquest-how-fire-ant-wars-affect-ecosystems",
+      "guid": "https://www.npr.org/2026/11/23/nx-s1-6037814/invading-armies-subterfuge-and-conquest-how-fire-ant-wars-affect-ecosystems"
+    },
+    "conversation_39239277": {
+      "id": "conversation_39239277",
+      "title": "Ancient Cahokia was transformed amid droughts and flooding \u2013 climate change is reshaping modern communities in similar ways",
+      "category": "Science",
+      "source": "conversation",
+      "time": "2026-11-25T21:29:37",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://images.theconversation.com/files/773171/original/file-20261119-62-t0qpui.jpg?ixlib=rb-4.1.1&amp;rect=1570%2C0%2C3851%2C1925&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+      "content": "Ancient Cahokia was transformed amid droughts and flooding, a pattern that mirrors how climate change is reshaping modern communities. [1]\n\nThe story of Cahokia illustrates that environmental shifts can be gradual yet relentless, a reality that modern societies must confront. [1]\n\nArchaeological evidence shows that the once\u2011thriving city experienced periods of water scarcity and inundation, which altered its layout and settlement patterns. [1]\n\nCahokia, located near present\u2011day St. Louis, was the largest pre\u2011Columbian settlement in North America. Its rise and decline are studied by scholars to understand how societies respond to environmental stress.\n\nThe transformation of Cahokia had implications for the people who lived there, for the descendants of those communities, and for researchers who seek to reconstruct past lifeways.\n\nModern communities facing similar slow changes\u2014such as prolonged droughts or increased flooding\u2014must learn from the past to develop resilient strategies.\n\nThe comparison between ancient and contemporary climate impacts underscores the need for long\u2011term monitoring and adaptive planning.\n\nFuture research will continue to examine Cahokia\u2019s environmental history, while policymakers consider how to apply those lessons to current climate challenges.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Conversation",
+          "url": "https://theconversation.com/ancient-cahokia-was-transformed-amid-droughts-and-flooding-climate-change-is-reshaping-modern-communities-in-similar-ways-294435"
+        }
+      ],
+      "original_url": "https://theconversation.com/ancient-cahokia-was-transformed-amid-droughts-and-flooding-climate-change-is-reshaping-modern-communities-in-similar-ways-294435",
+      "guid": "tag:theconversation.com,2011:article/294435"
+    },
+    "smh_52efb558": {
+      "id": "smh_52efb558",
+      "title": "\u2018Multiple queens\u2019: More fire ants detected as Sydney nest part of rare colony - SMH.com.au",
+      "category": "World",
+      "source": "smh",
+      "time": "2026-11-25T21:29:54",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/3840px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "content": "More fire ants have been detected in a Sydney nest that is part of a rare colony, according to a recent report. [1]\n\nThe finding is significant because fire ants are an invasive species that can damage ecosystems, harm human health, and threaten native wildlife. A colony that contains multiple queens is especially concerning, as it can grow more rapidly and spread more widely than the typical single\u2011queen colonies that are usually encountered in Australia.\n\nThe detection came from a nest located somewhere in Sydney. The available reporting does not specify the exact location, the date of discovery, or the number of queens present, but it identifies the colony as a rare type that contains more than one queen. [1]\n\nFire ants, particularly the red imported fire ant (Solenopsis invicta), originated in South America and have spread to many parts of the world, including Australia. In most Australian colonies, a single queen is responsible for reproduction, but occasionally a colony can acquire additional queens through processes such as budding or the capture of unrelated queens. Such multi\u2011queen colonies are uncommon in the region.\n\nThe presence of multiple queens in a colony is unusual in Australia, where most detected colonies have a single queen. When a colony does contain several queens, it can produce a larger workforce and a higher reproductive output, which can accelerate the spread of the species.\n\nResidents living near the nest may be concerned about the potential for fire ant bites, which can cause allergic reactions and skin irritation. Pest\u2011control professionals may need to assess the colony\u2019s size and determine the best method of control. Environmental groups and local authorities may also monitor the situation to protect native species that could be displaced by the ants.\n\nFire ants can outcompete native ant species, damage crops, and pose health risks to humans and pets. A rare, multi\u2011queen colony could increase the likelihood of these negative effects, making the situation more urgent for local stakeholders.\n\nThe detection may prompt authorities to intensify surveillance and control efforts in the area. It also underscores the importance of public awareness and reporting of fire ant sightings, as early detection can improve the chances of successful management.\n\nLooking ahead, authorities may conduct a detailed survey of the nest, map its extent, and deploy targeted control methods such as baiting or chemical treatments. Residents should stay informed about any advisories or recommended precautions issued by local pest\u2011control agencies.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Sydney Morning Herald",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOW45VXZRWWxrTzJQcWpvVFNfT1VqUXByWFZKNG9Fc20zQW8xZ21jWGFZR3hVZVFJYUtxWk9yUEg3N014dHJlMVRrZTdQbTRCdHBXdjVURzJndUdjZ0lvTHFkWWRiSXdRMXhhdmVFbDljcmR6U282LWNhM201VkZOMzhjeWxNMWo0d3Z4VnNPUEVTdVlzVGc0UGo5UF9KbnQyb0NTMTEyU3BmbmhDTUZqek0yTWUybDlkRGRxblViX1M0X1h3SHd1T1NySQ?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOW45VXZRWWxrTzJQcWpvVFNfT1VqUXByWFZKNG9Fc20zQW8xZ21jWGFZR3hVZVFJYUtxWk9yUEg3N014dHJlMVRrZTdQbTRCdHBXdjVURzJndUdjZ0lvTHFkWWRiSXdRMXhhdmVFbDljcmR6U282LWNhM201VkZOMzhjeWxNMWo0d3Z4VnNPUEVTdVlzVGc0UGo5UF9KbnQyb0NTMTEyU3BmbmhDTUZqek0yTWUybDlkRGRxblViX1M0X1h3SHd1T1NySQ?oc=5",
+      "guid": "CBMiywFBVV95cUxNOW45VXZRWWxrTzJQcWpvVFNfT1VqUXByWFZKNG9Fc20zQW8xZ21jWGFZR3hVZVFJYUtxWk9yUEg3N014dHJlMVRrZTdQbTRCdHBXdjVURzJndUdjZ0lvTHFkWWRiSXdRMXhhdmVFbDljcmR6U282LWNhM201VkZOMzhjeWxNMWo0d3Z4VnNPUEVTdVlzVGc0UGo5UF9KbnQyb0NTMTEyU3BmbmhDTUZqek0yTWUybDlkRGRxblViX1M0X1h3SHd1T1NySQ"
+    },
+    "snopes_204f7374": {
+      "id": "snopes_204f7374",
+      "title": "Did Army detonate lead azide stockpile in crucial area for US food supply? Here's context",
+      "category": "News",
+      "source": "snopes",
+      "time": "2026-11-25T21:30:14",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/11/explosion.png",
+      "content": "People shared a map claiming that the Army detonated a lead azide stockpile in an area with a high concentration of agriculture production[1].\n\nThe allegation has raised concerns about potential contamination of soil and water in a region that supplies a significant portion of the United States\u2019 food. If the detonation occurred in a heavily farmed area, the release of lead and other toxic residues could affect crop safety, livestock health, and the broader food supply chain. The claim also brings into focus the Army\u2019s procedures for disposing of obsolete munitions and the oversight mechanisms that are supposed to protect public health and the environment.\n\nThe map circulated on social media shows a marked point that the uploader identifies as the detonation site. The point lies within a zone that, according to agricultural statistics, hosts a dense concentration of crop and livestock operations. The map\u2019s caption indicates that the Army carried out a controlled explosion of a lead azide stockpile at that location. No official confirmation from the Army or the Department of Defense has been released, and the source of the map remains unidentified.\n\nLead azide is a high\u2011explosive compound commonly used in detonators and initiators for military ordnance. The U.S. Army maintains large stockpiles of munitions, including obsolete or surplus items, which are periodically disposed of through controlled detonations or other decommissioning methods. Such operations are typically conducted at designated ranges or facilities that are isolated from populated or environmentally sensitive areas. The Army\u2019s disposal program is governed by federal regulations, including the Resource Conservation and Recovery Act and the Clean Water Act, which require environmental impact assessments and monitoring.\n\nFarmers and local residents in the affected region are the most directly impacted stakeholders. A detonation that releases lead and other hazardous substances could contaminate farmland, irrigation systems, and livestock feed, potentially leading to health risks and economic losses. Environmental advocacy groups are also concerned about the long\u2011term ecological effects, while the Army and the Department of Defense must address questions of compliance with environmental and safety standards.\n\nIf the claim proves accurate, the incident would prompt an investigation into whether the Army followed proper protocols for site selection, environmental assessment, and community notification. It could also lead to scrutiny of the Army\u2019s broader munitions disposal practices and the adequacy of oversight by agencies such as the Defense Logistics Agency and the Army Corps of Engineers.\n\nThe next steps will likely involve the Army issuing an official statement or denial, followed by a review of the detonation site by environmental regulators. The Department of Defense may also commission an independent assessment to determine whether any contamination occurred and to outline remediation measures if necessary. The outcome of these inquiries will be closely watched by agricultural communities, environmental regulators, and policymakers concerned with both national security and public health.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Snopes",
+          "url": "https://www.snopes.com/fact-check/army-lead-azide-food-supply/"
+        }
+      ],
+      "original_url": "https://www.snopes.com/fact-check/army-lead-azide-food-supply/",
+      "guid": "https://www.snopes.com/fact-check/army-lead-azide-food-supply/"
+    },
+    "nasa_6c473dc4": {
+      "id": "nasa_6c473dc4",
+      "title": "NASA Eyes Crop Candidates for Future Menus",
+      "category": "Science",
+      "source": "nasa",
+      "time": "2026-11-25T21:30:17",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "https://assets.science.nasa.gov/content/dam/science/bps/space-crops/SpaceCrops_thanksgiving.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "content": "NASA is testing crops that could feed astronauts on future Moon and Mars missions, with strawberries emerging as a promising candidate. Recent testing points to strawberries as a potential staple for deep\u2011space menus. [1]\n\nFresh food variety is crucial for long\u2011duration missions; NASA\u2019s research aims to provide astronauts with nutrition and psychological benefits. The timing of the research coincides with the nation\u2019s Thanksgiving celebrations, underscoring the public interest in fresh food. [1]\n\nNASA researchers have begun testing crops that could be grown on the Moon or Mars; recent tests highlight strawberries. The tests are part of NASA\u2019s broader effort to develop sustainable life\u2011support systems for deep space travel. The research focuses on providing fresh food, nutrition, and variety far from Earth. [1]\n\nNASA has a long history of experimenting with plant growth in space, beginning with early experiments on the Gemini and Apollo missions and continuing with the Veggie system on the International Space Station.\n\nThe Artemis program aims to return humans to the Moon, and future Mars missions will require robust life\u2011support systems that can produce food locally.\n\nCrop variety matters because it helps maintain crew morale and provides essential nutrients that are difficult to supply in bulk.\n\nStrawberries are attractive because they are high in vitamin C, antioxidants, and can be grown relatively quickly in controlled environments.\n\nStakeholders include NASA scientists, astronauts, mission planners, and private space companies that may use similar technologies for commercial ventures.\n\nThe impact of successful crop cultivation could reduce launch mass and resupply costs, improving mission sustainability.\n\nCompeting interests involve balancing yield, nutrient density, and growth time across different crops, as well as the cost of the cultivation systems.\n\nIf NASA can reliably grow strawberries and other crops in space, it could pave the way for closed\u2011loop life\u2011support systems and inform Earth\u2011based agriculture.\n\nNASA will likely continue trials, assess yield and nutrient content, and integrate findings into habitat design ahead of Artemis\u202f2 and planned Mars missions.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NASA",
+          "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/"
+        }
+      ],
+      "original_url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
+      "guid": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/"
     }
   },
   "featured": {
-    "hero": "aljazeera_96ae0a72",
+    "hero": "npr_f2342f2e",
     "stack": [
-      "aljazeera_821c8fbb",
-      "googlenews_a0abbf47",
-      "bbc_e0496543"
+      "conversation_39239277",
+      "smh_52efb558",
+      "snopes_204f7374"
     ],
     "latest": [
+      "snopes_204f7374",
+      "smh_52efb558",
+      "conversation_39239277",
+      "aljazeera_96ae0a72",
       "bbc_e0496543",
-      "googlenews_a0abbf47",
-      "aljazeera_821c8fbb",
-      "googlenews_40962eda",
-      "fullfact_08be8f33",
-      "googlenews_12f532bf"
+      "googlenews_a0abbf47"
     ],
     "world": [
+      "smh_52efb558",
       "aljazeera_96ae0a72",
       "aljazeera_821c8fbb",
-      "bbc_b999f97f",
-      "csmonitor_96ec5f4d"
+      "bbc_b999f97f"
     ]
   },
   "categoryIndex": {
     "News": [
+      "fullfact_08be8f33",
       "snopes_c10ce015",
       "pbs_a93fe455",
       "npr_6d1b1d88",
@@ -16033,10 +16034,10 @@
       "snopes_1e8b7dd9",
       "fullfact_11f90b0a",
       "npr_8e64dd61",
-      "pbs_29b203cd",
-      "snopes_83756eb2"
+      "pbs_29b203cd"
     ],
     "World": [
+      "aljazeera_821c8fbb",
       "bbc_b999f97f",
       "csmonitor_96ec5f4d",
       "abcau_5679bed0",
@@ -16045,8 +16046,7 @@
       "reuters_08b972aa",
       "bangkokpost_1b30449b",
       "straitstimes_c5e08f3f",
-      "straitstimes_c4d29491",
-      "csmonitor_9648662e"
+      "straitstimes_c4d29491"
     ],
     "Politics": [
       "bbc_6e19252f",
@@ -16073,6 +16073,7 @@
       "googlenews_5b76d29f"
     ],
     "Health": [
+      "googlenews_40962eda",
       "googlenews_24b6ab22",
       "guardian_c269d935",
       "bbc_0cb1cbb4",
@@ -16081,10 +16082,10 @@
       "guardian_41fec48b",
       "googlenews_8688dd1c",
       "googlenews_dc02878a",
-      "bbc_b529f445",
-      "googlenews_914d6b21"
+      "bbc_b529f445"
     ],
     "Science": [
+      "nasa_6c473dc4",
       "bbc_525213dd",
       "npr_49d32df7",
       "nasa_bb1ee0f2",
@@ -16093,10 +16094,10 @@
       "guardian_1a8dff2e",
       "conversation_ac96abaf",
       "npr_2feaa0ef",
-      "berkeleyuniv_84265d01",
-      "bbc_e0e501d5"
+      "berkeleyuniv_84265d01"
     ],
     "Business": [
+      "googlenews_12f532bf",
       "googlenews_095eaa07",
       "googlenews_addec799",
       "googlenews_06098712",
@@ -16105,11 +16106,10 @@
       "googlenews_61ffb263",
       "googlenews_87ad4518",
       "googlenews_42cd38b0",
-      "googlenews_44b33ddf",
-      "googlenews_c5a177c8"
+      "googlenews_44b33ddf"
     ]
   },
-  "breaking": "Pakistan rejoices as country\u2019s first astronaut enters orbit",
+  "breaking": "\u2018Multiple queens\u2019: More fire ants detected as Sydney nest part of rare colony - SMH.com.au",
   "events": [
     {
       "title": "Jensen Huang says he\u2019s thankful for second chance at Nvidia employee meeting - N",
@@ -16120,17 +16120,12 @@
       "title": "The latest from Trump's press conference",
       "date": "2026-11-21",
       "source": "Verum News"
-    },
-    {
-      "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
-      "date": "2026-11-20",
-      "source": "Verum News"
     }
   ],
   "mostRead": [
-    "At Thanksgiving, extra servings of gratitude and grace",
     "Tech giants must consider addictive \u2018doomscrolling\u2019 under new online laws - ABC ",
-    "Pakistan rejoices as country\u2019s first astronaut enters orbit",
-    "Sentences served, but Gaza prisoners remain behind Israeli bars"
+    "Invading armies, subterfuge and conquest: How fire ant wars affect ecosystems",
+    "Ancient Cahokia was transformed amid droughts and flooding \u2013 climate change is r",
+    "At Thanksgiving, extra servings of gratitude and grace"
   ]
 }
