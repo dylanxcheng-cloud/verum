@@ -1,125 +1,5 @@
 {
   "stories": {
-    "snopes_3c1e0c06": {
-      "id": "snopes_3c1e0c06",
-      "title": "Did Trump say he has an IQ of 1,775?",
-      "category": "News",
-      "source": "snopes",
-      "time": "2026-10-07T05:24:52",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/10/trump_iq_1775.png",
-      "content": "A claim has circulated that former President Donald\u202fJ.\u202fTrump said he has an IQ of 1,775, a figure that would dwarf any known intelligence\u2011quotient record. The president\u2019s actual IQ score has never been publicly disclosed, and no credible source has confirmed the claim. A score of 1,775 would far exceed the highest IQs that have been documented in modern history. [1]\n\nThe allegation matters because it touches on the public\u2019s perception of a former president\u2019s intellectual capacity and the broader issue of misinformation in the political sphere. If unverified claims about extraordinary intelligence circulate, they can influence how voters evaluate a candidate\u2019s competence and how the media frames political discourse. [1]\n\nThe claim first appeared on social\u2011media platforms and was subsequently picked up by a handful of news outlets. No official statement from Trump or his spokespersons has addressed the assertion, and no reputable IQ testing organization has reported a score for the former president. The lack of corroboration means the claim remains unverified. [1]\n\nIQ tests are standardized assessments designed to measure a range of cognitive abilities, including reasoning, problem solving, and memory. Scores are typically scaled so that the average adult score is 100, with a standard deviation of 15. Scores above 130 are considered above average, while scores above 160 are rare and often associated with exceptional intellectual ability. [2]\n\nThe world record for the highest documented IQ is generally considered to be in the low 200s, held by individuals such as Marilyn vos Savant and Christopher Michael Langan. Scores in the 1,700 range are not only beyond the upper limits of current testing instruments but also exceed the theoretical maximum that most psychometricians accept for human intelligence. [3]\n\nThe primary stakeholders in this situation are the American public, who rely on accurate information to make informed political choices, and the media, which has a responsibility to verify claims before publishing. Political opponents may also use the claim to question Trump\u2019s credibility, while supporters might dismiss it as a partisan attack. [1]\n\nThe spread of an unverified IQ claim can have broader implications for public trust in journalism and in the political process. If readers accept such extraordinary assertions without scrutiny, it may erode confidence in reputable sources and contribute to a climate of skepticism toward verified facts. [1]\n\nLooking ahead, fact\u2011checking organizations and intelligence\u2011testing experts will likely continue to monitor the claim for any new evidence. The next concrete step will be whether a credible source\u2014such as a former test administrator or a reputable psychological association\u2014provides documentation of Trump\u2019s IQ score. Until such evidence emerges, the claim remains unsubstantiated. [1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "Snopes",
-          "url": "https://www.snopes.com/fact-check/trump-iq-1775/"
-        }
-      ],
-      "original_url": "https://www.snopes.com/fact-check/trump-iq-1775/",
-      "guid": "https://www.snopes.com/fact-check/trump-iq-1775/"
-    },
-    "guardian_72b95ed2": {
-      "id": "guardian_72b95ed2",
-      "title": "Proportion of people in Great Britain vaping who never smoked doubles in four years",
-      "category": "Health",
-      "source": "guardian",
-      "time": "2026-10-07T05:25:02",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/247c0a9044ac9cd48766465bdd26e8f8372c0e18/361_0_4470_3578/master/4470.jpg?width=140&quality=85&auto=format&fit=max&s=71649f2b548bb2510b69330ee5c305d6",
-      "content": "In 2025, more than 1\u202fmillion adults in Great Britain vape despite never having been regular smokers, a figure that has nearly doubled in four years, according to Office for National Statistics data. [1]\n\nThe rise in vaping among non\u2011smokers raises concerns about nicotine addiction and the potential for a new generation of users to develop smoking habits, prompting public\u2011health experts to call for closer scrutiny of the industry and its marketing practices. [1]\n\nThe Office for National Statistics (ONS) reported that 5.4\u202fmillion people aged 16 and older in England, Scotland and Wales used e\u2011cigarettes either daily or occasionally in 2025, representing 9.9\u202f% of that age group. [1]\n\nVaping was most common among the 25\u2011to\u201134\u2011year\u2011old cohort, with 16.4\u202f% of that group reporting e\u2011cigarette use. [1]\n\nThe proportion of people who vape but have never been regular smokers has nearly doubled over the past four years, rising from around 500,000 in 2021 to more than 1\u202fmillion in 2025. [1]\n\nE\u2011cigarettes deliver nicotine through a vaporised liquid, and were introduced in the UK in 2010 as a potential harm\u2011reduction tool for smokers.\n\nThe ONS collects data on vaping habits through annual health surveys that ask respondents about their use of e\u2011cigarettes and other nicotine products.\n\nPrevious ONS releases have shown a steady increase in overall vaping prevalence since 2014, but the recent jump among never\u2011smokers marks a shift in the demographic profile of users.\n\nPublic\u2011health experts have described the rise in non\u2011smoker vaping as concerning, citing the risk of nicotine dependence and the possibility that vaping could serve as a gateway to conventional cigarette use. [1]\n\nNicotine exposure from e\u2011cigarettes can affect brain development in young adults and may increase the likelihood of future tobacco use, according to research cited by health authorities.\n\nThe data suggest that regulators may need to reassess the current framework governing e\u2011cigarette marketing, flavour availability, and age\u2011restriction enforcement to curb uptake among non\u2011smokers. [1]\n\nPolicymakers are expected to review the forthcoming ONS report later this year, and the Department of Health and Social Care may announce new restrictions on flavored e\u2011cigarettes or tighter age verification measures in the coming months.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/society/2026/oct/06/proportion-of-people-in-great-britain-vaping-who-never-smoked-doubles-in-four-years"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/society/2026/oct/06/proportion-of-people-in-great-britain-vaping-who-never-smoked-doubles-in-four-years",
-      "guid": "https://www.theguardian.com/society/2026/oct/06/proportion-of-people-in-great-britain-vaping-who-never-smoked-doubles-in-four-years"
-    },
-    "afp_baca0727": {
-      "id": "afp_baca0727",
-      "title": "Rochester Electronics Launches Localized E-Commerce Experiences Across Key Global Markets - AFP.com",
-      "category": "World",
-      "source": "afp",
-      "time": "2026-10-07T05:25:20",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28273%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27233%27%20cy%3D%27334%27%20r%3D%27140%27%20fill%3D%27hsl%28313%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
-      "content": "Rochester Electronics announced the launch of localized e\u2011commerce experiences across key global markets.\u202f[1]\n\nThe company\u2019s move is aimed at tailoring its online shopping platform to the specific needs of customers in different regions, potentially boosting sales and improving customer satisfaction. It is a development that matters to consumers, the retailer\u2019s own sales teams, and its network of local partners.\n\nIn a press release, Rochester Electronics said it will roll out new website features that automatically adjust language, currency, and payment options for each market. The announcement highlighted the company\u2019s intention to provide a more seamless shopping experience for shoppers in its major international markets.\n\nE\u2011commerce localization involves customizing a retailer\u2019s digital storefront to match local preferences and regulations. This can include translating product descriptions, displaying prices in local currency, offering region\u2011specific payment methods, and ensuring compliance with local consumer protection and data\u2011privacy laws.\n\nThe practice has become standard among global retailers seeking to compete in diverse markets. By providing a shopping experience that feels native to each customer, companies can reduce friction and increase conversion rates.\n\nCustomers in the targeted markets will see the site in their native language and be able to pay with locally popular methods such as Alipay in China or PayPal in the United States. These changes are expected to make the checkout process smoother and more familiar to shoppers.\n\nLocal distributors and logistics partners may also benefit from the rollout, as a more localized platform can streamline order processing and reduce shipping errors. The company will need to coordinate closely with these partners to ensure that inventory, shipping, and customer service are aligned with the new online experience.\n\nRegulatory compliance will be a key consideration. The company must navigate varying data\u2011protection rules, such as the EU\u2019s General Data Protection Regulation, and local consumer\u2011rights legislation in each market. Failure to meet these requirements could lead to fines or restrictions on sales.\n\nThe launch positions Rochester Electronics to compete more effectively against other global players that already offer fully localized e\u2011commerce sites. However, the increased operational complexity may strain the company\u2019s technical and support teams.\n\nSuccess will likely be measured by key performance indicators such as conversion rates, average order value, and customer satisfaction scores. The company will probably monitor these metrics closely in the weeks following the rollout.\n\nIn the coming weeks, Rochester Electronics is expected to release more detailed information about the specific markets and features included in the localized experience. Analysts will also be watching for early performance data to gauge the impact of the rollout.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "AFP",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95aU5HNGxRdVFLZE5PcEE0LTBfZVFhTld6dlgyeTVwM0xmblV4SUlSajN5NTljcTV0MjdmMEkyb0gzdjJFSVJGeTlMUQ?oc=5"
-        }
-      ],
-      "original_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95aU5HNGxRdVFLZE5PcEE0LTBfZVFhTld6dlgyeTVwM0xmblV4SUlSajN5NTljcTV0MjdmMEkyb0gzdjJFSVJGeTlMUQ?oc=5",
-      "guid": "CBMiS0FVX3lxTE95aU5HNGxRdVFLZE5PcEE0LTBfZVFhTld6dlgyeTVwM0xmblV4SUlSajN5NTljcTV0MjdmMEkyb0gzdjJFSVJGeTlMUQ"
-    },
-    "guardian_f58402c9": {
-      "id": "guardian_f58402c9",
-      "title": "Badenoch denies plan for \u2018British Iron Dome\u2019 \u2013 after Tories use phrase in press release",
-      "category": "Politics",
-      "source": "guardian",
-      "time": "2026-10-07T05:25:58",
-      "read": "2 min read",
-      "mode": "long",
-      "image": "https://i.guim.co.uk/img/media/e22a3307566c7be4de91bf4e4793404ab40e7f76/1374_188_5460_4368/master/5460.jpg?width=140&quality=85&auto=format&fit=max&s=d4084b045002b2e929e60a4871269877",
-      "content": "Kemi Badenoch, the leader of the Conservative Party, has denied that the party\u2019s new air\u2011defence proposal has been likened to Israel\u2019s Iron Dome, after the phrase appeared in a party press release and a newspaper article. She clarified that the system, called \u201cBritannia Shield,\u201d is not comparable to the missile\u2011defence network used in Israel, which is designed to counter short\u2011range attacks. The clarification follows criticism that the party\u2019s messaging may have misrepresented the nature of the proposed system.\u202f[1]\n\nThe statement comes as the Conservatives continue to promote their defence strategy amid questions about its feasibility and cost. Badenoch also reiterated that the party is \u201cnot out of the woods\u201d and would prefer another general election to forming a coalition with the Reform Party. The remarks were made in a public briefing that aimed to address concerns over the party\u2019s communication style.\u202f[1]\n\nIn the press release, the term \u201cBritish Iron Dome\u201d was used to describe the proposed \u201cBritannia Shield\u201d system. A subsequent newspaper article echoed the comparison, prompting Badenoch to issue a clarification. She stated that the system would not be comparable to Israel\u2019s Iron Dome, which is primarily designed to intercept short\u2011range rockets.\u202f[1]\n\nIron Dome is a missile\u2011defence system developed by Israel to intercept short\u2011range rockets and artillery shells. It has been deployed in several conflicts and is considered a key component of Israel\u2019s air\u2011defence strategy. The Conservative Party\u2019s \u201cBritannia Shield\u201d is a separate proposal aimed at enhancing the United Kingdom\u2019s national defence capabilities.\u202f[1]\n\nThe Conservative Party\u2019s defence proposals have attracted scrutiny from opposition parties and defence experts. Critics have questioned the technical feasibility, budgetary implications, and strategic necessity of the \u201cBritannia Shield\u201d system. The use of the term \u201cIron Dome\u201d in party materials raised concerns that the party might be overstating the system\u2019s capabilities.\u202f[1]\n\nKey stakeholders in this issue include the Conservative Party leadership, the UK Ministry of Defence, potential coalition partners such as the Reform Party, and the general public. The party\u2019s messaging strategy is closely watched by political analysts and voters who assess the credibility of its policy proposals.\u202f[1]\n\nBadenoch\u2019s clarification may influence public perception of the party\u2019s defence policy and its communication practices. By distancing the \u201cBritannia Shield\u201d from the Iron Dome, the party seeks to avoid allegations of exaggeration or misinformation. The remarks also reinforce the party\u2019s stance on coalition politics, signalling a preference for a single\u2011party government over a partnership with Reform.\u202f[1]\n\nThe incident underscores the importance of precise language in political communication. Misleading or ambiguous terminology can erode trust and fuel criticism from opponents and the media. It also highlights the broader challenge for parties to balance persuasive messaging with factual accuracy.\u202f[1]\n\nObservers will watch for the Conservative Party\u2019s next steps, including detailed specifications of the \u201cBritannia Shield\u201d system, parliamentary debates on defence spending, and any developments in coalition negotiations. The party\u2019s forthcoming statements will determine whether it can maintain credibility while advancing its defence agenda.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release"
-        }
-      ],
-      "original_url": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release",
-      "guid": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release"
-    },
-    "nasa_0209bba9": {
-      "id": "nasa_0209bba9",
-      "title": "APOD: 2026 October 7 \u2013 Supernova Remnant Pa 30",
-      "category": "Science",
-      "source": "nasa",
-      "time": "2026-10-07T05:26:44",
-      "read": "1 min read",
-      "mode": "long",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/noirlab2624a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "content": "On October\u202f7,\u202f2026, the Astronomy Picture of the Day (APOD) showcased an image of the supernova remnant Pa\u202f30.\u202f[1]\n\nThe selection draws attention to the remnants of stellar explosions and the ongoing study of such objects by astronomers worldwide.\u202f[1]\n\nThe APOD page for that date displays a photograph or composite image of Pa\u202f30, accompanied by a brief explanation written by a professional astronomer.\u202f[1] The image is part of APOD\u2019s archive, which offers a searchable index, calendar, RSS feed, and educational resources.\u202f[1]\n\nAPOD is a long\u2011running project that publishes a daily image of the universe, chosen by a curator and explained by an astronomer.\u202f[1] It serves both the public and the scientific community by providing accessible visual content.\n\nWhen a massive star ends its life in a supernova, it ejects material that expands into the surrounding interstellar medium, forming a remnant that can be observed across multiple wavelengths. The remnant Pa\u202f30 is one such object, though the APOD entry does not provide further details.\u202f[1]\n\nAmateur astronomers, educators, and students often consult APOD for inspiration and learning. Professional astronomers may also use APOD images as a quick reference or outreach tool.\n\nBy featuring Pa\u202f30, APOD highlights the diversity of supernova remnants and encourages interest in the lifecycle of stars.\u202f[1] The brief explanation helps readers understand the significance of the image without requiring specialized knowledge.\u202f[1]\n\nThe APOD selection underscores the importance of public engagement in astronomy and the role of visual media in conveying complex scientific concepts. It also reflects the ongoing cataloging of supernova remnants by observatories and surveys.\n\nThe APOD archive continues to update daily, and users can explore the Pa\u202f30 image through the search function or calendar. Future APOD entries may provide additional context or highlight other remnants.\u202f[1]",
-      "sources": [
-        {
-          "n": 1,
-          "label": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/"
-        }
-      ],
-      "original_url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
-      "guid": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/"
-    },
-    "npr_5620ffbf": {
-      "id": "npr_5620ffbf",
-      "title": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
-      "category": "Science",
-      "source": "npr",
-      "time": "2026-10-07T13:03:59",
-      "read": "2 min read",
-      "mode": "compact",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7680x4320+0+400/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F29%2Ffd%2F9336bb2d466fa157fb66cc2cdaf2%2Fap26280356127391.jpg",
-      "content": "Henri B. Kagan and Kenso Soai were announced as recipients of the Nobel Prize in Chemistry on Wednesday, recognized for their discovery of non\u2011linear effects and autocatalysis in asymmetric organic synthesis.[1]\n\nThe award, one of the most prestigious recognitions in the scientific community, highlights the significance of their work in developing new methods for producing chiral molecules, which are essential in pharmaceuticals and materials science.\n\nThe Royal Swedish Academy of Sciences, which administers the Nobel Prizes, announced the decision during its annual announcement ceremony held in Stockholm.\n\nKagan, a professor at the University of California, Berkeley, and Soai, a researcher at the University of Tokyo, had independently investigated how small changes in reaction conditions could lead to large differences in the enantiomeric excess of a product.\n\nTheir research demonstrated that certain autocatalytic reactions could amplify an initial chiral bias, producing a pronounced non\u2011linear relationship between catalyst concentration and product chirality.\n\nAsymmetric synthesis is a branch of organic chemistry that focuses on creating molecules with a specific spatial arrangement of atoms, known as chirality. Chiral molecules often exhibit distinct biological activities, making them valuable in drug development.\n\nAutocatalysis refers to a process in which a chemical reaction produces a product that, in turn, accelerates its own formation. When applied to asymmetric synthesis, autocatalysis can lead to self\u2011reinforcing chiral amplification.\n\nNon\u2011linear effects in this context describe how small variations in catalyst or substrate concentration can produce disproportionately large changes in the enantiomeric excess of the final product.\n\nThe discovery has implications for the pharmaceutical industry, where the synthesis of enantiomerically pure compounds is critical for drug efficacy and safety.\n\nAcademic researchers in organic chemistry and related fields will likely build upon Kagan and Soai's findings to design more efficient and selective synthetic routes.\n\nBy revealing a fundamental mechanism for chiral amplification, the work opens new avenues for creating complex molecules with high stereochemical fidelity, potentially reducing the need for costly chiral auxiliaries or catalysts.\n\nThe Nobel Committee will present the laureates with their medals and diplomas at the December ceremony in Stockholm, and the recipients will likely discuss their future research directions in the coming months.",
-      "sources": [
-        {
-          "n": 1,
-          "label": "NPR",
-          "url": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry"
-        }
-      ],
-      "original_url": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
-      "guid": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry"
-    },
     "reuters_16d9aa14": {
       "id": "reuters_16d9aa14",
       "title": "India steel ministry unlikely to seek new curbs on cheap imports, government source says - Reuters",
@@ -15999,32 +15879,153 @@
       ],
       "original_url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
       "guid": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/"
+    },
+    "bbc_995db4da": {
+      "id": "bbc_995db4da",
+      "title": "Government set to double spending on social media unit to \u00a325m",
+      "category": "Politics",
+      "source": "bbc",
+      "time": "2026-11-26T07:48:16",
+      "read": "1 min read",
+      "mode": "compact",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a2/live/9ad2b670-e8f8-11f1-b8b0-a95064d74c5f.jpg",
+      "content": "The government is doubling its spending on the New\u202fMedia Unit, raising the budget to \u00a325\u202fmillion.\u202f[1]\n\nThe move signals a shift toward using digital channels to communicate policy, aiming to reach younger audiences and improve public engagement.\n\nThe New\u202fMedia Unit, which uses ads and content creators to reach the public, has seen its budget increase.\u202f[1] The new allocation brings the unit\u2019s spending to \u00a325\u202fmillion, a doubling of its previous level.\u202f[1]\n\nThe unit was created to modernise government communications, leveraging paid advertising and collaborations with online creators to disseminate policy messages.\n\nWith the expanded budget, the unit will be able to produce more content, run larger ad campaigns, and potentially broaden its audience reach. This could influence how the public receives government information.\n\nDoubling the budget reflects a broader trend of governments investing in digital outreach, but it also raises questions about transparency and the influence of paid content.\n\nThe government will likely detail how the additional funds will be allocated and whether new partnerships with creators will be formed. The next budget review may clarify the unit\u2019s objectives and performance metrics.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c62l5j02lj0go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_url": "https://www.bbc.co.uk/news/articles/c62l5j02lj0go?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c62l5j02lj0go#0"
+    },
+    "googlenews_12f9ca23": {
+      "id": "googlenews_12f9ca23",
+      "title": "Markets News, Nov. 25, 2026: Nasdaq, S&P 500 Close Lower as AI Trade Remains Under Pressure; Nvidia Falls 4% - Investopedia",
+      "category": "Business",
+      "source": "googlenews",
+      "time": "2026-11-26T07:48:56",
+      "read": "1 min read",
+      "mode": "long",
+      "image": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27450%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%231a1a1a%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27hsl%28213%2C45%25%2C16%25%29%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%27800%27%20height%3D%27450%27%20fill%3D%27url%28%23g%29%27%2F%3E%3Ccircle%20cx%3D%27453%27%20cy%3D%27261%27%20r%3D%27140%27%20fill%3D%27hsl%28253%2C55%25%2C45%25%29%27%20opacity%3D%270.18%27%2F%3E%3C%2Fsvg%3E",
+      "content": "On November\u202f25,\u202f2026, the Nasdaq Composite and the S&P\u202f500 closed lower, reflecting a broader pullback in the market as the AI trade remained under pressure\u202f[1]. Nvidia\u2019s shares fell 4\u202f% that day\u202f[1].\n\nThe decline underscores growing concerns among investors about artificial intelligence, tariffs, and inflation, and signals a shift in sentiment that could affect tech valuations and market stability\u202f[1].\n\nTech stocks were volatile as AI fears shadowed the company's performance\u202f[1]. The AI trade\u2014an investment theme that had driven a $2\u202ftrillion rally in chip stocks\u2014remained under pressure\u202f[1].\n\nThe $2\u202ftrillion rally in chip stocks, fueled by demand for AI hardware, has begun to unravel\u202f[1]. Analysts note that the rally\u2019s momentum has weakened\u202f[1].\n\nThe Nasdaq Composite is a technology\u2011focused index that tracks 3,000 companies, while the S&P\u202f500 measures the performance of 500 large\u2011cap U.S. companies across all sectors.\n\nThe AI trade refers to the surge in valuations of firms tied to artificial intelligence, especially semiconductor makers such as Nvidia, whose GPUs are essential for training machine\u2011learning models.\n\nInvestors in tech funds, institutional investors, and retail traders are affected by the volatility\u202f[1]. Declines in Nvidia can influence the broader AI sector and the performance of related ETFs\u202f[1].\n\nA decline in Nvidia could ripple through the AI supply chain, affecting companies that rely on its GPUs for training models\u202f[1]. It could potentially lower earnings expectations for",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjhSdzBFWmRZeGtpYnpQT1cteVNuVG5BUzhGd282NWNydGgtZmIxZkhJbmhJVWZJVk5rd1JGTHBXN2xQY21RWkJobDVPeXdjQ20tQzRxaE5wUmQxOU9Cc0pUOUV0QzdTMFdTSmZ2SG5oaVJGZ3RFMWZSSE9ZSzdfUVNkdTZyZHg4S3JRNXRnZm1mVHM0dGVmN2NR?oc=5"
+        }
+      ],
+      "original_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjhSdzBFWmRZeGtpYnpQT1cteVNuVG5BUzhGd282NWNydGgtZmIxZkhJbmhJVWZJVk5rd1JGTHBXN2xQY21RWkJobDVPeXdjQ20tQzRxaE5wUmQxOU9Cc0pUOUV0QzdTMFdTSmZ2SG5oaVJGZ3RFMWZSSE9ZSzdfUVNkdTZyZHg4S3JRNXRnZm1mVHM0dGVmN2NR?oc=5",
+      "guid": "CBMimgFBVV95cUxPSjhSdzBFWmRZeGtpYnpQT1cteVNuVG5BUzhGd282NWNydGgtZmIxZkhJbmhJVWZJVk5rd1JGTHBXN2xQY21RWkJobDVPeXdjQ20tQzRxaE5wUmQxOU9Cc0pUOUV0QzdTMFdTSmZ2SG5oaVJGZ3RFMWZSSE9ZSzdfUVNkdTZyZHg4S3JRNXRnZm1mVHM0dGVmN2NR"
+    },
+    "npr_e026f122": {
+      "id": "npr_e026f122",
+      "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+      "category": "News",
+      "source": "npr",
+      "time": "2026-11-26T07:49:31",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1851x1041+0+96/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F40%2F0b%2Fd938374d4546b030f31d11e27027%2Fap26329783844907.jpg",
+      "content": "Andy Taylor, the guitarist who helped shape the sound of 1980s new\u2011wave icon Duran\u202fDuran, died at the age of 65. He had publicly disclosed that he was battling Stage\u202f4 metastatic prostate cancer in 2022, a condition that ultimately led to his death. [1]\n\nTaylor\u2019s passing is a significant loss for the music community that has followed Duran\u202fDuran\u2019s career for more than four decades. The band\u2019s soaring pop hits, such as \u201cHungry Like the Wolf\u201d and \u201cRio,\u201d defined an era of high\u2011energy, visually driven music and earned them a place among the most influential acts of the decade. [1] As a founding member and guitarist, Taylor\u2019s contributions were integral to the band\u2019s distinctive blend of melodic hooks and rhythmic precision.\n\nIn 2022, Taylor publicly revealed that he was living with Stage\u202f4 metastatic prostate cancer, a diagnosis that signals the cancer has spread beyond the prostate gland to other parts of the body. He continued to be involved in music and public life while undergoing treatment, but the disease ultimately proved fatal. He died at 65, a year after his diagnosis was made public. [1]\n\nDuran\u202fDuran formed in Birmingham, England, in 1978 and quickly became a key player in the new\u2011wave movement that blended punk energy with pop sensibilities. Their early work was characterized by a polished production style and an emphasis on visual presentation, which helped them stand out in the emerging MTV landscape. The band\u2019s breakthrough came in the early 1980s with a string of chart\u2011topping singles and albums that showcased their knack for catchy melodies and danceable rhythms.\n\nThe group\u2019s catalog includes a number of enduring hits that remain staples of 1980s pop playlists. \u201cHungry Like the Wolf\u201d and \u201cRio\u201d are among the most recognizable tracks, both of which achieved significant commercial success and helped cement the band\u2019s reputation as a pop powerhouse. [1] Their music videos, often featuring elaborate sets and striking imagery, contributed to the band\u2019s iconic status during the early years of music television.\n\nTaylor\u2019s role as guitarist was central to Duran\u202fDuran\u2019s sound. His playing provided the melodic backbone for many of the band\u2019s songs, and his creative input helped shape the group\u2019s musical direction. Over the years, he collaborated closely with the other members, contributing to songwriting and arrangement decisions that defined the band\u2019s sonic identity.\n\nThe loss of Taylor is felt by a wide range of stakeholders. Fans who grew up listening to Duran\u202fDuran\u2019s music for the first time in the 1980s now mourn the passing of a key figure who helped bring that music to life. The remaining band members, who have continued to perform and record together, are also impacted by the absence of a long\u2011time collaborator. The broader music community, which has often cited Duran\u202fDuran as an influence, recognizes the significance of Taylor\u2019s contributions to the genre.\n\nFrom an impact perspective, Taylor\u2019s death removes a creative force that had been part of the band\u2019s core for decades. His guitar work and songwriting have been integral to the group\u2019s identity, and his absence may influence the band\u2019s future projects and performances. The loss also highlights the vulnerability of artists to serious health challenges, underscoring the importance of early",
+      "sources": [
+        {
+          "n": 1,
+          "label": "NPR",
+          "url": "https://www.npr.org/2026/11/26/g-s1-155934/andy-taylor-duran-duran-obit"
+        }
+      ],
+      "original_url": "https://www.npr.org/2026/11/26/g-s1-155934/andy-taylor-duran-duran-obit",
+      "guid": "https://www.npr.org/2026/11/26/g-s1-155934/andy-taylor-duran-duran-obit"
+    },
+    "japantimes_5e5fb5a1": {
+      "id": "japantimes_5e5fb5a1",
+      "title": "Pep Guardiola says next coaching job will be with national team",
+      "category": "World",
+      "source": "japantimes",
+      "time": "2026-11-26T07:50:04",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576178.jpg",
+      "content": "Pep Guardiola has confirmed that his next coaching role will be with a national team, after a series of discussions with the Italian Football Federation. The former Barcelona, Bayern Munich and Manchester City manager said the offer arrived at a moment he felt was right for a break from club management. [1]\n\nThe announcement is significant because Guardiola is one of the most decorated managers in modern football, and his move to a national side would mark a first in his career. It also signals a shift in the Italian federation\u2019s approach to rebuilding the national team after recent disappointments on the international stage. [1]\n\nGuardiola\u2019s talks with the Italian Football Federation, known as FIGC, reportedly covered the scope of the role and the expectations for the national side. He stated that the timing of the offer coincided with his desire to step back from the day\u2011to\u2011day demands of club football. [1] The conversation did not result in an immediate contract, but the manager expressed enthusiasm about the prospect of leading Italy on the international stage.\n\nGuardiola\u2019s r\u00e9sum\u00e9 includes a record of domestic and European success, but he has never coached a national team. National team appointments differ from club roles in that they involve limited training periods, a focus on player selection across clubs, and a broader strategic vision for a country\u2019s footballing identity. The move would therefore represent a new challenge for the Spanish manager.\n\nThe Italian Football Federation has a long history of appointing high\u2011profile coaches to revive the national side. Past appointments have included managers who brought fresh tactics and renewed optimism, such as Roberto Mancini and Antonio Conte. The federation\u2019s decision to engage Guardiola reflects a willingness to experiment with a proven club tactician in the hopes of achieving success in major tournaments.\n\nStakeholders in this development include the Italian federation, which seeks to elevate the national team\u2019s performance; Guardiola, who may be looking to diversify his coaching portfolio; and the football community at large, which watches for shifts in coaching trends. Clubs that have previously worked with Guardiola may also be interested in his future plans, as his departure could influence player movements and managerial appointments.\n\nThe potential impact of Guardiola\u2019s appointment could be far\u2011reaching. A new tactical philosophy might reshape Italy\u2019s playing style, while his experience could help nurture young talent for upcoming competitions. Conversely, the transition from club to national team work could present challenges in adapting to a different operational environment and managing a broader squad.\n\nWhile the offer\u2019s timing aligns with Guardiola\u2019s stated desire for a break, the broader implications suggest a competitive market for national team coaching positions. Other national associations may view the move as a signal that top club managers are open to international roles, potentially reshaping how national teams recruit their leadership.\n\nWhat to watch next is whether Guardiola will formally accept the role and when the Italian federation will announce a final decision. The next few weeks will likely see further negotiations, a public statement from the federation, and an official appointment date, if the offer is accepted. The football world will be keen to see how this potential transition unfolds and what it means for both Guardiola\u2019s career and Italy\u2019s prospects on the world stage.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/sports/2026/11/26/soccer/pep-guardiola-italy-break/"
+        }
+      ],
+      "original_url": "https://www.japantimes.co.jp/sports/2026/11/26/soccer/pep-guardiola-italy-break/",
+      "guid": "https://www.japantimes.co.jp/article/649583/"
+    },
+    "pbs_07b7932a": {
+      "id": "pbs_07b7932a",
+      "title": "WATCH: Vance defends Iowa lead azide detonation as he visits Air Force troops in Ohio",
+      "category": "News",
+      "source": "pbs",
+      "time": "2026-11-26T07:50:21",
+      "read": "2 min read",
+      "mode": "long",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-25T195915Z_389914077_RC27VOAWAMY8_RTRMADP_3_USA-VANCE-THANKSGIVING-1024x683.jpg",
+      "content": "Vice President J.D.\u202fVance, his wife Usha, and their four children visited Wright\u2011Patterson Air Force Base in Ohio on Wednesday, where they served a Thanksgiving meal to stationed troops and joined them for lunch. [1]\n\nThe visit underscores the continued effort by the administration to show support for military personnel and their families, a tradition that has long been a staple of presidential families visiting service members.\n\nDuring the event, the Vance family helped distribute a Thanksgiving feast to the base\u2019s personnel, a gesture aimed at boosting morale during the holiday season. [1]\n\nThe family also sat down with the troops for a shared lunch, allowing for informal interaction between the Vice President\u2019s family and the servicemen and women stationed at the base. [1]\n\nWright\u2011Patterson Air Force Base is one of the largest and most strategically important installations in the United States, serving as a hub for research, development, and logistics for the Air Force.\n\nThe tradition of presidential families visiting troops dates back to the early 20th century, with leaders often traveling to bases to recognize the sacrifices of service members and to strengthen civilian-military ties.\n\nThanksgiving meals for troops have become a longstanding practice, intended to provide a sense of home and community for those far from family during the holiday season.\n\nThe Vance family\u2019s presence at the base also highlights the personal dimension of the Vice President\u2019s role, as he and his wife have been active in various community outreach efforts.\n\nFor the troops, the visit offered a brief respite from routine duties and an opportunity to engage with a member of the national leadership in a relaxed setting.\n\nThe event also served as a public relations moment for the administration, demonstrating a commitment to the armed forces amid ongoing discussions about defense policy and military readiness.\n\nWhile the visit was largely ceremonial, it reinforced the message that the administration remains attentive to the welfare of service members and their families.\n\nThe next steps for the Vance family and the administration will likely involve continued visits to other military installations, as well as participation in broader outreach initiatives aimed at supporting the armed forces.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/watch-vance-defends-iowa-lead-azide-detonation-as-he-visits-air-force-troops-in-ohio"
+        }
+      ],
+      "original_url": "https://www.pbs.org/newshour/politics/watch-vance-defends-iowa-lead-azide-detonation-as-he-visits-air-force-troops-in-ohio",
+      "guid": "https://www.pbs.org/newshour/politics/watch-vance-defends-iowa-lead-azide-detonation-as-he-visits-air-force-troops-in-ohio"
+    },
+    "dw_84f5f644": {
+      "id": "dw_84f5f644",
+      "title": "EU leaders seek agreement on long-term budget and Ukraine at summit",
+      "category": "World",
+      "source": "dw",
+      "time": "2026-11-26T07:50:42",
+      "read": "2 min read",
+      "mode": "compact",
+      "image": "https://static.dw.com/image/79457488_6.jpg",
+      "content": "EU leaders are set to decide on the EU's multiannual budget for 2028\u20112034, while also addressing Ukraine and European Central Bank leadership at a summit of the 27 member states.\u202f[1]\n\nThe outcome will shape EU spending priorities and influence the financial support for Ukraine and monetary policy in the eurozone.\u202f[1]\n\nThe summit, which brings together heads of state or government from all 27 member states, is expected to negotiate the budget that will guide EU spending for the next seven years.\u202f[1]\n\nIn addition to the budget, the leaders will discuss Ukraine's situation and the appointment of the European Central Bank's president and vice\u2011president.\u202f[1]\n\nThe EU budget is set through the multiannual financial framework, a seven\u2011year plan that determines the overall spending limits for the Union.\n\nThe next framework covers the period 2028 to 2034 and will be negotiated by the European Commission and the European Parliament before being approved by the European Council.\n\nThe budget covers a range of policy areas, including agriculture, cohesion, research, and defense, and determines the allocation of funds to member states and EU programmes.\n\nUkraine has been a central focus of EU policy due to the ongoing conflict and the need for humanitarian and security assistance, which the EU has pledged to support.\n\nThe European Central Bank's leadership, comprising the president and vice\u2011president, plays a key role in setting monetary policy for the eurozone and maintaining price stability.\n\nStakeholders in the budget negotiations include the EU member states, the European Commission, the European Parliament, and the European Council, while Ukraine and eurozone economies are affected by the outcomes.\n\nThe budget will determine the level of funding for EU programmes and the amount of aid that can be directed to Ukraine, while the ECB leadership will influence eurozone interest rates and inflation control.\n\nA new budget could shift priorities toward defense, climate action, or digital infrastructure, and changes in ECB leadership could affect euro stability and investor confidence.\n\nEU leaders will need to reach consensus before the next European Council meeting, and the timeline for budget approval and ECB appointments remains to be clarified.\n\nObservers will watch for the final agreement on the 2028\u20112034 framework, the allocation of funds to Ukraine, and the confirmation of the ECB's top officials, as these decisions will shape the Union's economic trajectory.",
+      "sources": [
+        {
+          "n": 1,
+          "label": "Deutsche Welle",
+          "url": "https://www.dw.com/en/eu-leaders-seek-agreement-on-long-term-budget-and-ukraine-at-summit/live-80056415?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "original_url": "https://www.dw.com/en/eu-leaders-seek-agreement-on-long-term-budget-and-ukraine-at-summit/live-80056415?maca=en-rss-en-all-1573-rdf",
+      "guid": "https://www.dw.com/en/eu-leaders-seek-agreement-on-long-term-budget-and-ukraine-at-summit/live-80056415?maca=en-rss-en-all-1573-rdf"
     }
   },
   "featured": {
-    "hero": "npr_f2342f2e",
+    "hero": "bbc_995db4da",
     "stack": [
-      "conversation_39239277",
-      "smh_52efb558",
-      "snopes_204f7374"
+      "googlenews_12f9ca23",
+      "npr_e026f122",
+      "japantimes_5e5fb5a1"
     ],
     "latest": [
+      "japantimes_5e5fb5a1",
+      "npr_e026f122",
+      "googlenews_12f9ca23",
+      "npr_f2342f2e",
       "snopes_204f7374",
-      "smh_52efb558",
-      "conversation_39239277",
-      "aljazeera_96ae0a72",
-      "bbc_e0496543",
-      "googlenews_a0abbf47"
+      "smh_52efb558"
     ],
     "world": [
+      "japantimes_5e5fb5a1",
+      "dw_84f5f644",
       "smh_52efb558",
-      "aljazeera_96ae0a72",
-      "aljazeera_821c8fbb",
-      "bbc_b999f97f"
+      "aljazeera_96ae0a72"
     ]
   },
   "categoryIndex": {
     "News": [
+      "pbs_07b7932a",
       "fullfact_08be8f33",
       "snopes_c10ce015",
       "pbs_a93fe455",
@@ -16033,10 +16034,11 @@
       "fullfact_d6618b18",
       "snopes_1e8b7dd9",
       "fullfact_11f90b0a",
-      "npr_8e64dd61",
-      "pbs_29b203cd"
+      "npr_8e64dd61"
     ],
     "World": [
+      "dw_84f5f644",
+      "aljazeera_96ae0a72",
       "aljazeera_821c8fbb",
       "bbc_b999f97f",
       "csmonitor_96ec5f4d",
@@ -16044,11 +16046,10 @@
       "smh_a8563c11",
       "japantimes_64590611",
       "reuters_08b972aa",
-      "bangkokpost_1b30449b",
-      "straitstimes_c5e08f3f",
-      "straitstimes_c4d29491"
+      "bangkokpost_1b30449b"
     ],
     "Politics": [
+      "bbc_e0496543",
       "bbc_6e19252f",
       "bbc_2bcc4d9e",
       "bbc_be0f3b9c",
@@ -16057,8 +16058,7 @@
       "guardian_b8630cf6",
       "bbc_9327dd41",
       "guardian_27b4810c",
-      "guardian_b70a4e55",
-      "guardian_262afaa5"
+      "guardian_b70a4e55"
     ],
     "Sports": [
       "googlenews_010ac543",
@@ -16085,6 +16085,7 @@
       "bbc_b529f445"
     ],
     "Science": [
+      "conversation_39239277",
       "nasa_6c473dc4",
       "bbc_525213dd",
       "npr_49d32df7",
@@ -16093,10 +16094,10 @@
       "npr_a8800fe2",
       "guardian_1a8dff2e",
       "conversation_ac96abaf",
-      "npr_2feaa0ef",
-      "berkeleyuniv_84265d01"
+      "npr_2feaa0ef"
     ],
     "Business": [
+      "googlenews_a0abbf47",
       "googlenews_12f532bf",
       "googlenews_095eaa07",
       "googlenews_addec799",
@@ -16105,11 +16106,10 @@
       "googlenews_e9a336bb",
       "googlenews_61ffb263",
       "googlenews_87ad4518",
-      "googlenews_42cd38b0",
-      "googlenews_44b33ddf"
+      "googlenews_42cd38b0"
     ]
   },
-  "breaking": "\u2018Multiple queens\u2019: More fire ants detected as Sydney nest part of rare colony - SMH.com.au",
+  "breaking": "Government set to double spending on social media unit to \u00a325m",
   "events": [
     {
       "title": "Jensen Huang says he\u2019s thankful for second chance at Nvidia employee meeting - N",
@@ -16123,9 +16123,9 @@
     }
   ],
   "mostRead": [
-    "Tech giants must consider addictive \u2018doomscrolling\u2019 under new online laws - ABC ",
+    "Government set to double spending on social media unit to \u00a325m",
     "Invading armies, subterfuge and conquest: How fire ant wars affect ecosystems",
-    "Ancient Cahokia was transformed amid droughts and flooding \u2013 climate change is r",
-    "At Thanksgiving, extra servings of gratitude and grace"
+    "Tech giants must consider addictive \u2018doomscrolling\u2019 under new online laws - ABC ",
+    "Markets News, Nov. 25, 2026: Nasdaq, S&P 500 Close Lower as AI Trade Remains Und"
   ]
 }
